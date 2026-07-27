@@ -4,24 +4,33 @@ from datetime import datetime, timezone
 
 import requests
 
-API_KEY = os.getenv("TMDB_API_KEY")
+TOKEN = os.getenv("TMDB_API_KEY")
 
-if not API_KEY:
+if not TOKEN:
     raise RuntimeError("TMDB_API_KEY secret is missing.")
 
 BASE_URL = "https://api.themoviedb.org/3"
-
 IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
+
+HEADERS = {
+    "Authorization": f"Bearer {TOKEN}",
+    "accept": "application/json"
+}
 
 
 def get(endpoint):
-    r = requests.get(
+    response = requests.get(
         f"{BASE_URL}/{endpoint}",
-        params={"api_key": API_KEY},
-        timeout=30,
+        headers=HEADERS,
+        params={
+            "language": "en-US"
+        },
+        timeout=30
     )
-    r.raise_for_status()
-    return r.json()["results"]
+
+    response.raise_for_status()
+
+    return response.json()["results"]
 
 
 def convert(items):
@@ -31,10 +40,11 @@ def convert(items):
         result.append({
             "id": item["id"],
             "title": item.get("name") or item.get("title"),
-            "rating": item["vote_average"],
-            "overview": item["overview"],
-            "poster": IMAGE_BASE + item["poster_path"] if item["poster_path"] else None,
-            "backdrop": IMAGE_BASE + item["backdrop_path"] if item["backdrop_path"] else None,
+            "rating": item.get("vote_average"),
+            "votes": item.get("vote_count"),
+            "overview": item.get("overview"),
+            "poster": IMAGE_BASE + item["poster_path"] if item.get("poster_path") else None,
+            "backdrop": IMAGE_BASE + item["backdrop_path"] if item.get("backdrop_path") else None,
             "release": item.get("first_air_date") or item.get("release_date")
         })
 
@@ -43,10 +53,14 @@ def convert(items):
 
 data = {
     "updated": datetime.now(timezone.utc).isoformat(),
-    "trending": convert(get("trending/tv/week")),
-    "popular": convert(get("tv/popular")),
-    "top_rated": convert(get("tv/top_rated")),
-    "airing_today": convert(get("tv/airing_today"))
+
+    "trending": convert(get("trending/tv/day")[:20]),
+
+    "popular": convert(get("tv/popular")[:20]),
+
+    "top_rated": convert(get("tv/top_rated")[:20]),
+
+    "airing_today": convert(get("tv/airing_today")[:20])
 }
 
 os.makedirs("data", exist_ok=True)
@@ -54,4 +68,4 @@ os.makedirs("data", exist_ok=True)
 with open("data/tmdb.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
-print("tmdb.json updated.")
+print("TMDB data updated successfully.")
