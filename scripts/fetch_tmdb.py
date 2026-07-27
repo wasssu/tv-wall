@@ -54,13 +54,13 @@ def convert(items):
 data = {
     "updated": datetime.now(timezone.utc).isoformat(),
 
-    "trending": convert(get("trending/tv/day")[:20]),
+    "trending": convert(get("trending/tv/day")[:12]),
 
-    "popular": convert(get("tv/popular")[:20]),
+    "popular": convert(get("tv/popular")[:12]),
 
-    "top_rated": convert(get("tv/top_rated")[:20]),
+    "top_rated": convert(get("tv/top_rated")[:12]),
 
-    "airing_today": convert(get("tv/airing_today")[:20])
+    "airing_today": convert(get("tv/airing_today")[:12])
 }
 
 os.makedirs("data", exist_ok=True)
