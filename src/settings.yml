@@ -1,0 +1,120 @@
+---
+strategy: polling
+no_screen_padding: 'yes'
+dark_mode: 'no'
+static_data: ''
+polling_verb: get
+framework_version: 3.1.8
+serverless_language: node
+polling_url: https://api.themoviedb.org/3/trending/tv/{{ time_window }}?language={{ language }}
+polling_headers: 'Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwNjBkODYwZDc1ZGQxYTk4YzdiZDZhYmZkOWY3NGMyYyIsIm5iZiI6MTYwMjMxNzEzMC4wNjQsInN1YiI6IjVmODE2YjRhYTM5ZDBiMDAzYTk3ZGMyZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.YjON8JIkxbiAeVGlG_FdCppARVS0fcSClAA3f0dnL9A'
+polling_body: ''
+id: 394897
+oauth_enabled: 'false'
+oauth_pkce_enabled: 'no'
+oauth_authorize_url: ''
+oauth_token_url: ''
+oauth_scopes: ''
+oauth_scope_separator: ''
+oauth_refresh_url: ''
+oauth_auth_params: ''
+oauth_token_headers: ''
+oauth_token_site: ''
+oauth_token_params: ''
+oauth_token_request_auth_method: ''
+oauth_body_format: ''
+oauth_token_response_metadata: ''
+oauth_authorization_method: ''
+oauth_refresh_params: ''
+oauth_token_field_name: ''
+oauth_expiry_field_name: ''
+oauth_expiry_strategy: ''
+oauth_fixed_expiry_ms: ''
+custom_fields:
+- keyname: time_window
+  field_type: select
+  name: Time Window
+  description: Trending over the past day, or the past week
+  options:
+  - Day: day
+  - Week: week
+  default: week
+- keyname: language
+  field_type: select
+  name: Language
+  description: Localizes titles and overviews (TMDB's officially supported locales)
+  options:
+  - Arabic (UAE): ar-AE
+  - Arabic (Saudi Arabia): ar-SA
+  - Belarusian: be-BY
+  - Bulgarian: bg-BG
+  - Bengali (Bangladesh): bn-BD
+  - Catalan: ca-ES
+  - Chamorro (Guam): ch-GU
+  - Czech: cs-CZ
+  - Danish: da-DK
+  - German (Austria): de-AT
+  - German (Switzerland): de-CH
+  - German: de-DE
+  - Greek: el-GR
+  - English (Australia): en-AU
+  - English (Canada): en-CA
+  - English (UK): en-GB
+  - English (Ireland): en-IE
+  - English (New Zealand): en-NZ
+  - English (US): en-US
+  - Esperanto: eo-EO
+  - Spanish (Spain): es-ES
+  - Spanish (Mexico): es-MX
+  - Basque: eu-ES
+  - Persian: fa-IR
+  - Finnish: fi-FI
+  - French (Canada): fr-CA
+  - French: fr-FR
+  - Galician: gl-ES
+  - Hebrew: he-IL
+  - Hindi: hi-IN
+  - Hungarian: hu-HU
+  - Indonesian: id-ID
+  - Italian: it-IT
+  - Japanese: ja-JP
+  - Georgian: ka-GE
+  - Kazakh: kk-KZ
+  - Kannada: kn-IN
+  - Korean: ko-KR
+  - Kyrgyz: ky-KG
+  - Lithuanian: lt-LT
+  - Latvian: lv-LV
+  - Malayalam: ml-IN
+  - Marathi: mr-IN
+  - Malay: ms-MY
+  - Norwegian Bokmål: nb-NO
+  - Dutch: nl-NL
+  - Norwegian: no-NO
+  - Punjabi: pa-IN
+  - Polish: pl-PL
+  - Portuguese (Brazil): pt-BR
+  - Portuguese (Portugal): pt-PT
+  - Romanian: ro-RO
+  - Russian: ru-RU
+  - Sinhala: si-LK
+  - Slovak: sk-SK
+  - Slovenian: sl-SI
+  - Albanian: sq-AL
+  - Serbian: sr-RS
+  - Swedish: sv-SE
+  - Tamil: ta-IN
+  - Telugu: te-IN
+  - Thai: th-TH
+  - Tagalog: tl-PH
+  - Turkish: tr-TR
+  - Ukrainian: uk-UA
+  - Vietnamese: vi-VN
+  - Chinese (China): zh-CN
+  - Chinese (Hong Kong): zh-HK
+  - Chinese (Singapore): zh-SG
+  - Chinese (Taiwan): zh-TW
+  - Zulu: zu-ZA
+  default: en-US
+name: TV Wall
+refresh_interval: 15

@@ -1,0 +1,16 @@
+<div class="view view--full">
+  <div class="layout layout--stretch">
+    <div class="grid grid--cols-5 gap--none" style="height: 100%; grid-template-rows: repeat(2, 1fr);">
+      {% for show in results limit: 10 %}
+        <div style="height: 100%; overflow: hidden; background-color: #000000;">
+          <img class="image image--contain image-dither" src="https://image.tmdb.org/t/p/w300{{ show.poster_path }}" alt="{{ show.name }}" style="width: 100%; height: 100%;">
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="title_bar">
+    <img class="image" src="data:image/svg+xml;base64,{{ tv_wall_logo | base64_encode }}">
+    <span class="title">TV Wall</span>
+    <span class="instance">Trending TV Shows (TMDB)</span>
+  </div>
+</div>
