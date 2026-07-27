@@ -116,5 +116,5 @@ custom_fields:
   - Chinese (Taiwan): zh-TW
   - Zulu: zu-ZA
   default: en-US
-name: TV Wall
+name: Old TV Wall
 refresh_interval: 15
