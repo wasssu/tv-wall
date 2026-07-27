@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T15:50:55.128522+00:00",
+  "updated": "2026-07-27T17:36:45.204345+00:00",
   "trending": [
     {
       "id": 94997,
@@ -12,16 +12,6 @@
       "release": "2022-08-21"
     },
     {
-      "id": 194583,
-      "title": "The Walking Dead: Dead City",
-      "rating": 7.9,
-      "votes": 751,
-      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
-      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/siYv4AKB7BBCWjFle5zqbARYFS2.jpg",
-      "release": "2023-06-18"
-    },
-    {
       "id": 60625,
       "title": "Rick and Morty",
       "rating": 8.679,
@@ -30,6 +20,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
       "release": "2013-12-02"
+    },
+    {
+      "id": 194583,
+      "title": "The Walking Dead: Dead City",
+      "rating": 7.9,
+      "votes": 751,
+      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/siYv4AKB7BBCWjFle5zqbARYFS2.jpg",
+      "release": "2023-06-18"
     },
     {
       "id": 30984,
@@ -44,8 +44,8 @@
     {
       "id": 296756,
       "title": "President Curtis",
-      "rating": 5.0,
-      "votes": 4,
+      "rating": 6.0,
+      "votes": 5,
       "overview": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
       "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
@@ -74,7 +74,7 @@
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.18,
+      "rating": 8.2,
       "votes": 2327,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
@@ -92,6 +92,16 @@
       "release": "2026-07-23"
     },
     {
+      "id": 281281,
+      "title": "Elite Force",
+      "rating": 7.0,
+      "votes": 27,
+      "overview": "After an unprecedented attack on his unit, a high-ranking officer set to leave the field leads a perilous mission that forces him to confront his past.",
+      "poster": "https://image.tmdb.org/t/p/w500/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
+      "release": "2026-07-22"
+    },
+    {
       "id": 94664,
       "title": "Mushoku Tensei: Jobless Reincarnation",
       "rating": 8.5,
@@ -102,14 +112,14 @@
       "release": "2021-01-11"
     },
     {
-      "id": 281281,
-      "title": "Elite Force",
-      "rating": 6.981,
+      "id": 218038,
+      "title": "Vivant",
+      "rating": 7.4,
       "votes": 27,
-      "overview": "After an unprecedented attack on his unit, a high-ranking officer set to leave the field leads a perilous mission that forces him to confront his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
-      "release": "2026-07-22"
+      "overview": "Yusuke Nogi of Ryosho's Energy Development Division said that 10 times the official down payment was mistakenly sent to GFL, a local infrastructure company involved in a solar energy plant to be built in the Balkan Republic in Central Asia. Suspected of involvement, he heads to the Balkan Republic to collect the difference of $90 million. With the cooperation of his CIA friend Sam, Nogi obtained information that the terrorist al-Zaer had laundered the full amount of the contract money into diamonds and brought it out.",
+      "poster": "https://image.tmdb.org/t/p/w500/aut8zs5YypvT5chQUuFhActLkHF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/yBNDjG4Q963MecEllraSdqs3QjX.jpg",
+      "release": "2023-07-16"
     },
     {
       "id": 108978,
@@ -120,16 +130,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/voKEhzb4ExOmR0WSvQgLTTqRUEu.jpg",
       "release": "2022-02-03"
-    },
-    {
-      "id": 218038,
-      "title": "Vivant",
-      "rating": 7.4,
-      "votes": 27,
-      "overview": "Yusuke Nogi of Ryosho's Energy Development Division said that 10 times the official down payment was mistakenly sent to GFL, a local infrastructure company involved in a solar energy plant to be built in the Balkan Republic in Central Asia. Suspected of involvement, he heads to the Balkan Republic to collect the difference of $90 million. With the cooperation of his CIA friend Sam, Nogi obtained information that the terrorist al-Zaer had laundered the full amount of the contract money into diamonds and brought it out.",
-      "poster": "https://image.tmdb.org/t/p/w500/aut8zs5YypvT5chQUuFhActLkHF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yBNDjG4Q963MecEllraSdqs3QjX.jpg",
-      "release": "2023-07-16"
     },
     {
       "id": 278624,
@@ -162,16 +162,6 @@
       "release": "2026-07-17"
     },
     {
-      "id": 286506,
-      "title": "Blossoms of Power",
-      "rating": 8.0,
-      "votes": 1,
-      "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
-      "poster": "https://image.tmdb.org/t/p/w500/dIHTHoiEJwjQRpYaaP2d50Nyggv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
-      "release": "2026-07-09"
-    },
-    {
       "id": 328303,
       "title": "The Rapture",
       "rating": 1.667,
@@ -182,6 +172,26 @@
       "release": "2026-07-26"
     },
     {
+      "id": 286506,
+      "title": "Blossoms of Power",
+      "rating": 8.0,
+      "votes": 1,
+      "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
+      "poster": "https://image.tmdb.org/t/p/w500/dIHTHoiEJwjQRpYaaP2d50Nyggv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
+      "release": "2026-07-09"
+    },
+    {
+      "id": 103516,
+      "title": "Star Trek: Strange New Worlds",
+      "rating": 7.922,
+      "votes": 785,
+      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "poster": "https://image.tmdb.org/t/p/w500/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+      "release": "2022-05-05"
+    },
+    {
       "id": 298610,
       "title": "Spooky in Love",
       "rating": 8.6,
@@ -190,16 +200,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
       "release": "2026-07-18"
-    },
-    {
-      "id": 215072,
-      "title": "A Shop for Killers",
-      "rating": 8.334,
-      "votes": 187,
-      "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
-      "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-      "release": "2024-01-17"
     }
   ],
   "popular": [
@@ -608,16 +608,6 @@
   ],
   "airing_today": [
     {
-      "id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "rating": 8.466,
-      "votes": 1618,
-      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-      "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-      "release": "2021-01-11"
-    },
-    {
       "id": 22980,
       "title": "Watch What Happens Live with Andy Cohen",
       "rating": 5.0,
@@ -638,6 +628,16 @@
       "release": "2005-10-13"
     },
     {
+      "id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "rating": 8.5,
+      "votes": 1618,
+      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "release": "2021-01-11"
+    },
+    {
       "id": 2224,
       "title": "The Daily Show",
       "rating": 6.4,
@@ -646,26 +646,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
       "release": "1996-07-22"
-    },
-    {
-      "id": 4656,
-      "title": "Raw",
-      "rating": 6.783,
-      "votes": 366,
-      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-      "poster": "https://image.tmdb.org/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/384Lam787FIDBnwjwQBvC8gjB2d.jpg",
-      "release": "1993-01-11"
-    },
-    {
-      "id": 289139,
-      "title": "Overdo",
-      "rating": 8.2,
-      "votes": 6,
-      "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
-      "poster": "https://image.tmdb.org/t/p/w500/hg9fl45RQVR2yZ63DUWqy0hCZ1G.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
-      "release": "2026-07-19"
     },
     {
       "id": 65701,
@@ -678,94 +658,14 @@
       "release": "2012-01-09"
     },
     {
-      "id": 46271,
-      "title": "Secret Story",
-      "rating": 3.955,
-      "votes": 11,
-      "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
-      "poster": "https://image.tmdb.org/t/p/w500/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
-      "release": "2007-06-23"
-    },
-    {
-      "id": 291,
-      "title": "Coronation Street",
-      "rating": 5.3,
-      "votes": 117,
-      "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-      "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-      "release": "1960-12-09"
-    },
-    {
-      "id": 6060,
-      "title": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
-      "rating": 3.417,
+      "id": 14750,
+      "title": "Na Wspólnej",
+      "rating": 4.7,
       "votes": 12,
-      "overview": "A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start to get involved with having girlfriends and the bahu's try and break their relationships up.",
-      "poster": "https://image.tmdb.org/t/p/w500/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gwXnESfjDqop3tDLoGxSwCUP8GD.jpg",
-      "release": "2000-07-03"
-    },
-    {
-      "id": 1871,
-      "title": "EastEnders",
-      "rating": 4.249,
-      "votes": 229,
-      "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
-      "poster": "https://image.tmdb.org/t/p/w500/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
-      "release": "1985-02-19"
-    },
-    {
-      "id": 44953,
-      "title": "El Señor de los Cielos",
-      "rating": 7.978,
-      "votes": 3541,
-      "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
-      "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
-      "release": "2013-04-15"
-    },
-    {
-      "id": 261471,
-      "title": "Stand-up Comedy",
-      "rating": 5.8,
-      "votes": 4,
-      "overview": "A professional comedy talk show competition program, the program invites outstanding stand-up artists at home and abroad to share happiness, convey a positive attitude to life and comedy spirit.",
-      "poster": "https://image.tmdb.org/t/p/w500/vFJYt5Pi5Pjc3CKU58oonfXRCio.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/sGK1f1Y2dnExqpjRnsHpI4ZWqJr.jpg",
-      "release": "2024-08-20"
-    },
-    {
-      "id": 2527,
-      "title": "Emmerdale",
-      "rating": 4.3,
-      "votes": 100,
-      "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
-      "poster": "https://image.tmdb.org/t/p/w500/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
-      "release": "1972-10-16"
-    },
-    {
-      "id": 2354,
-      "title": "Home and Away",
-      "rating": 6.359,
-      "votes": 78,
-      "overview": "Home and Away is set in the fictional town of Summer Bay, a coastal town in New South Wales, and follows the personal and professional lives of the people living in the area. The show initially focused on the Fletcher family, Pippa and Tom Fletcher and their five foster children Frank Morgan, Carly Morris, Steven Matheson, Lynn Davenport and Sally Keating, who would go on to become one of the show's longest-running characters. The show also originally and currently focuses on the Stewart family. Home and Away had proved popular when it premiered in 1988 and had risen to become a hit in Australia, and after only a few weeks, the show tackled its first major and disturbing storyline, the rape of Carly Morris; it was one of the first shows to feature such storylines during the early timeslot. H&A has tackled many adult-themed and controversial storylines; something rarely found in its restricted timeslot.",
-      "poster": "https://image.tmdb.org/t/p/w500/vn0eKMiG69bhQtxb7qLRo8SSqu5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pmAzkQJa993nIgPqFtVmOhStHXg.jpg",
-      "release": "1988-01-18"
-    },
-    {
-      "id": 101172,
-      "title": "Swallowed Star",
-      "rating": 8.432,
-      "votes": 37,
-      "overview": "On the Earth, a catastrophe triggered the variation of all kinds of species. The superior survived and the inferior were extinct. Under this circumstance, Luo Feng inherited from the owner of Yunmo Star and became one of the three strongest people on the Earth. He lost his flesh during the fight against giant swallowed monster but then he took the flesh of the monster. In the flesh, he developed a human body. Later, he stepped out of the Earth and headed to the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/dShQsQFLSivwCIRjC7crsnznPXY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lDVOl7wTFUIqwlSrWsGjBCHt3fQ.jpg",
-      "release": "2020-11-29"
+      "overview": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
+      "poster": "https://image.tmdb.org/t/p/w500/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
+      "release": "2003-01-27"
     },
     {
       "id": 79917,
@@ -778,6 +678,96 @@
       "release": "2013-08-04"
     },
     {
+      "id": 6060,
+      "title": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+      "rating": 3.417,
+      "votes": 12,
+      "overview": "A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start to get involved with having girlfriends and the bahu's try and break their relationships up.",
+      "poster": "https://image.tmdb.org/t/p/w500/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gwXnESfjDqop3tDLoGxSwCUP8GD.jpg",
+      "release": "2000-07-03"
+    },
+    {
+      "id": 16807,
+      "title": "Jornal Nacional",
+      "rating": 7.0,
+      "votes": 7,
+      "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "poster": "https://image.tmdb.org/t/p/w500/59iVuixNWRgtkT1aN8BR9RrJOBR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ngmekOxfGjiTtNbWM5T5U4WvzlS.jpg",
+      "release": "1969-09-01"
+    },
+    {
+      "id": 4656,
+      "title": "Raw",
+      "rating": 6.783,
+      "votes": 366,
+      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+      "poster": "https://image.tmdb.org/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/384Lam787FIDBnwjwQBvC8gjB2d.jpg",
+      "release": "1993-01-11"
+    },
+    {
+      "id": 40879,
+      "title": "Dahoam is Dahoam",
+      "rating": 4.75,
+      "votes": 6,
+      "overview": "The lives of the residents of the fictitious village of Lansing in Upper Bavaria.",
+      "poster": "https://image.tmdb.org/t/p/w500/tGXZEUgSbgufoOpXMImSKPDd5A3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/1iAc3ML51uNe16jlxTQV84mLHG2.jpg",
+      "release": "2007-10-08"
+    },
+    {
+      "id": 289139,
+      "title": "Overdo",
+      "rating": 8.2,
+      "votes": 6,
+      "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
+      "poster": "https://image.tmdb.org/t/p/w500/hg9fl45RQVR2yZ63DUWqy0hCZ1G.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
+      "release": "2026-07-19"
+    },
+    {
+      "id": 46271,
+      "title": "Secret Story",
+      "rating": 3.955,
+      "votes": 11,
+      "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
+      "poster": "https://image.tmdb.org/t/p/w500/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
+      "release": "2007-06-23"
+    },
+    {
+      "id": 44953,
+      "title": "El Señor de los Cielos",
+      "rating": 7.979,
+      "votes": 3543,
+      "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
+      "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
+      "release": "2013-04-15"
+    },
+    {
+      "id": 291,
+      "title": "Coronation Street",
+      "rating": 5.3,
+      "votes": 117,
+      "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+      "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+      "release": "1960-12-09"
+    },
+    {
+      "id": 1871,
+      "title": "EastEnders",
+      "rating": 4.249,
+      "votes": 229,
+      "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+      "poster": "https://image.tmdb.org/t/p/w500/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
+      "release": "1985-02-19"
+    },
+    {
       "id": 5266,
       "title": "University Challenge",
       "rating": 6.2,
@@ -788,24 +778,34 @@
       "release": "1962-09-21"
     },
     {
-      "id": 112470,
-      "title": "Ici tout commence",
-      "rating": 6.9,
-      "votes": 91,
-      "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
-      "poster": "https://image.tmdb.org/t/p/w500/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
-      "release": "2020-11-02"
+      "id": 2354,
+      "title": "Home and Away",
+      "rating": 6.359,
+      "votes": 78,
+      "overview": "Home and Away is set in the fictional town of Summer Bay, a coastal town in New South Wales, and follows the personal and professional lives of the people living in the area. The show initially focused on the Fletcher family, Pippa and Tom Fletcher and their five foster children Frank Morgan, Carly Morris, Steven Matheson, Lynn Davenport and Sally Keating, who would go on to become one of the show's longest-running characters. The show also originally and currently focuses on the Stewart family. Home and Away had proved popular when it premiered in 1988 and had risen to become a hit in Australia, and after only a few weeks, the show tackled its first major and disturbing storyline, the rape of Carly Morris; it was one of the first shows to feature such storylines during the early timeslot. H&A has tackled many adult-themed and controversial storylines; something rarely found in its restricted timeslot.",
+      "poster": "https://image.tmdb.org/t/p/w500/vn0eKMiG69bhQtxb7qLRo8SSqu5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pmAzkQJa993nIgPqFtVmOhStHXg.jpg",
+      "release": "1988-01-18"
     },
     {
-      "id": 14750,
-      "title": "Na Wspólnej",
-      "rating": 4.7,
-      "votes": 12,
-      "overview": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
-      "poster": "https://image.tmdb.org/t/p/w500/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
-      "release": "2003-01-27"
+      "id": 1265,
+      "title": "Bargain Hunt",
+      "rating": 7.4,
+      "votes": 8,
+      "overview": "Two teams of amateur collectors have an hour at an antiques fair in which to acquire the best bargains possible.",
+      "poster": "https://image.tmdb.org/t/p/w500/vhvVEe3JozMWaHjjcs7II3FK9Y3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qkSTUKxUnllR8M3H3aqDDQysiG0.jpg",
+      "release": "2000-03-20"
+    },
+    {
+      "id": 261471,
+      "title": "Stand-up Comedy",
+      "rating": 5.8,
+      "votes": 4,
+      "overview": "A professional comedy talk show competition program, the program invites outstanding stand-up artists at home and abroad to share happiness, convey a positive attitude to life and comedy spirit.",
+      "poster": "https://image.tmdb.org/t/p/w500/vFJYt5Pi5Pjc3CKU58oonfXRCio.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sGK1f1Y2dnExqpjRnsHpI4ZWqJr.jpg",
+      "release": "2024-08-20"
     }
   ]
 }
