@@ -1,15 +1,45 @@
 {
-  "updated": "2026-07-27T19:14:14.409627+00:00",
+  "updated": "2026-07-27T21:03:14.974868+00:00",
   "trending": [
     {
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.377,
-      "votes": 6750,
+      "votes": 6751,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "release": "2022-08-21"
+    },
+    {
+      "id": 60625,
+      "title": "Rick and Morty",
+      "rating": 8.679,
+      "votes": 11173,
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
+      "release": "2013-12-02"
+    },
+    {
+      "id": 296756,
+      "title": "President Curtis",
+      "rating": 7.1,
+      "votes": 7,
+      "overview": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
+      "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+      "release": "2026-07-26"
+    },
+    {
+      "id": 194583,
+      "title": "The Walking Dead: Dead City",
+      "rating": 7.888,
+      "votes": 752,
+      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/siYv4AKB7BBCWjFle5zqbARYFS2.jpg",
+      "release": "2023-06-18"
     },
     {
       "id": 30984,
@@ -22,40 +52,10 @@
       "release": "2004-10-05"
     },
     {
-      "id": 296206,
-      "title": "Agent Kim Reactivated",
-      "rating": 7.7,
-      "votes": 57,
-      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-      "release": "2026-06-26"
-    },
-    {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "rating": 8.679,
-      "votes": 11172,
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
-      "release": "2013-12-02"
-    },
-    {
-      "id": 194583,
-      "title": "The Walking Dead: Dead City",
-      "rating": 7.9,
-      "votes": 751,
-      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
-      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/siYv4AKB7BBCWjFle5zqbARYFS2.jpg",
-      "release": "2023-06-18"
-    },
-    {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.179,
-      "votes": 2327,
+      "rating": 8.178,
+      "votes": 2329,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -72,49 +72,39 @@
       "release": "1999-10-20"
     },
     {
-      "id": 296756,
-      "title": "President Curtis",
-      "rating": 7.1,
-      "votes": 7,
-      "overview": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
-      "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
-      "release": "2026-07-26"
+      "id": 296206,
+      "title": "Agent Kim Reactivated",
+      "rating": 7.7,
+      "votes": 57,
+      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+      "release": "2026-06-26"
+    },
+    {
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "rating": 9.172,
+      "votes": 29,
+      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "poster": "https://image.tmdb.org/t/p/w500/bvH9g6TXhQaTG1WhU7hbfXM8LNP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2ngdvUiEKW8Q37ta8BBdydE2cuq.jpg",
+      "release": "2026-07-23"
     },
     {
       "id": 281281,
       "title": "Elite Force",
-      "rating": 7.0,
-      "votes": 27,
+      "rating": 7.054,
+      "votes": 28,
       "overview": "After an unprecedented attack on his unit, a high-ranking officer set to leave the field leads a perilous mission that forces him to confront his past.",
       "poster": "https://image.tmdb.org/t/p/w500/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
       "release": "2026-07-22"
     },
     {
-      "id": 108978,
-      "title": "Reacher",
-      "rating": 8.081,
-      "votes": 2956,
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/voKEhzb4ExOmR0WSvQgLTTqRUEu.jpg",
-      "release": "2022-02-03"
-    },
-    {
-      "id": 218038,
-      "title": "Vivant",
-      "rating": 7.4,
-      "votes": 27,
-      "overview": "Yusuke Nogi of Ryosho's Energy Development Division said that 10 times the official down payment was mistakenly sent to GFL, a local infrastructure company involved in a solar energy plant to be built in the Balkan Republic in Central Asia. Suspected of involvement, he heads to the Balkan Republic to collect the difference of $90 million. With the cooperation of his CIA friend Sam, Nogi obtained information that the terrorist al-Zaer had laundered the full amount of the contract money into diamonds and brought it out.",
-      "poster": "https://image.tmdb.org/t/p/w500/aut8zs5YypvT5chQUuFhActLkHF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yBNDjG4Q963MecEllraSdqs3QjX.jpg",
-      "release": "2023-07-16"
-    },
-    {
       "id": 94664,
       "title": "Mushoku Tensei: Jobless Reincarnation",
-      "rating": 8.467,
+      "rating": 8.5,
       "votes": 1619,
       "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
       "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
@@ -122,84 +112,14 @@
       "release": "2021-01-11"
     },
     {
-      "id": 329809,
-      "title": "Bleach: Thousand-Year Blood War",
-      "rating": 9.0,
-      "votes": 2,
-      "overview": "The peace is suddenly broken when warning sirens blare through the Soul Society. Residents are disappearing without a trace, and nobody knows who's behind it. Meanwhile, a darkness is approaching Ichigo and his friends in Karakura Town.",
-      "poster": "https://image.tmdb.org/t/p/w500/drWJ7sQi7qVgLbZLQiCdBH1vswv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jWiN3i73wPzHjbEHxtHwIrBTMF5.jpg",
-      "release": "2022-10-10"
-    },
-    {
-      "id": 278624,
-      "title": "Lucky",
-      "rating": 7.193,
-      "votes": 88,
-      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "release": "2026-07-14"
-    },
-    {
-      "id": 279323,
-      "title": "The East Palace",
-      "rating": 8.0,
-      "votes": 44,
-      "overview": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
-      "poster": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
-      "release": "2026-07-17"
-    },
-    {
-      "id": 287620,
-      "title": "Stuart Fails to Save the Universe",
-      "rating": 9.2,
-      "votes": 28,
-      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/bvH9g6TXhQaTG1WhU7hbfXM8LNP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2ngdvUiEKW8Q37ta8BBdydE2cuq.jpg",
-      "release": "2026-07-23"
-    },
-    {
-      "id": 328303,
-      "title": "The Rapture",
-      "rating": 1.667,
-      "votes": 3,
-      "overview": "As temperatures rise, a convicted murderer foretells apocalyptic disaster - is she a manipulative psychopath or does she know the truth? High-stakes thriller crackling with danger.",
-      "poster": "https://image.tmdb.org/t/p/w500/zcrMytFDmRtyPQ71Ssfak0YmiCN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/y0wdbIExuI4kGAm80Uxg04dRyhK.jpg",
-      "release": "2026-07-26"
-    },
-    {
-      "id": 286506,
-      "title": "Blossoms of Power",
-      "rating": 8.0,
-      "votes": 1,
-      "overview": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
-      "poster": "https://image.tmdb.org/t/p/w500/dIHTHoiEJwjQRpYaaP2d50Nyggv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
-      "release": "2026-07-09"
-    },
-    {
-      "id": 298610,
-      "title": "Spooky in Love",
-      "rating": 8.6,
-      "votes": 14,
-      "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
-      "poster": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
-      "release": "2026-07-18"
-    },
-    {
-      "id": 286709,
-      "title": "The Westies",
-      "rating": 6.0,
-      "votes": 14,
-      "overview": "As the Javits Center construction project ignites a battle for profit in early 1980s Hell's Kitchen, a generational rift threatens the uneasy peace between violent Irish gang the Westies and the Mafia, and draws FBI heat.",
-      "poster": "https://image.tmdb.org/t/p/w500/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tT2MwxaST3Fx1Dg4u9v82sDrIu.jpg",
-      "release": "2026-07-12"
+      "id": 108978,
+      "title": "Reacher",
+      "rating": 8.08,
+      "votes": 2957,
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/voKEhzb4ExOmR0WSvQgLTTqRUEu.jpg",
+      "release": "2022-02-03"
     }
   ],
   "popular": [
@@ -322,86 +242,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/vQcC4Kcx0ZEXxmj0gUrfkFR14LU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ovnj5NSQRAn54e81ecIyAIfKRZK.jpg",
       "release": "2000-04-04"
-    },
-    {
-      "id": 206559,
-      "title": "Binnelanders",
-      "rating": 5.5,
-      "votes": 111,
-      "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-      "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-      "release": "2005-10-13"
-    },
-    {
-      "id": 233643,
-      "title": "Secret Mission - Undercover Agents Never Back Down!",
-      "rating": 6.154,
-      "votes": 26,
-      "overview": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as the hideout for a criminal organization. Despite Riko and Noma posing as a newlywed couple, the criminals begin to suspect them after not hearing any marital intimacy during the night. To convince them that they are a loving couple, Noma starts touching Riko's body...",
-      "poster": "https://image.tmdb.org/t/p/w500/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5IBSPGPAEFEkEJo4leqvpq0RcKf.jpg",
-      "release": "2023-10-02"
-    },
-    {
-      "id": 8590,
-      "title": "Plus belle la vie",
-      "rating": 4.4,
-      "votes": 38,
-      "overview": "The daily lives of the inhabitants of \"le Mistral\", an imaginary neighbourhood in the Mediterranean port city of Marseille, where wealthy families cross paths with the less than rich.",
-      "poster": "https://image.tmdb.org/t/p/w500/aXlOXlcVFsujKMckoDpD3asS2yn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hTrWBv1SIn9j4qb5JFtVnZCv5Za.jpg",
-      "release": "2004-08-30"
-    },
-    {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.2,
-      "votes": 2327,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
-    },
-    {
-      "id": 27181,
-      "title": "Rote Rosen",
-      "rating": 3.0,
-      "votes": 5,
-      "overview": "Rote Rosen is a German telenovela produced by Studio Hamburg Serienwerft Lüneburg and broadcast by Das Erste since November 6, 2006. The show is a complex telenovela, who tells one love story every season about women in their forties.",
-      "poster": "https://image.tmdb.org/t/p/w500/swL2qUjGrChFyj14ExwA0pwWtzv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qZ1odCAlNZhUIeLXZXU06JxRqjo.jpg",
-      "release": "2006-11-06"
-    },
-    {
-      "id": 121513,
-      "title": "Kang's Family",
-      "rating": 10.0,
-      "votes": 3,
-      "overview": "Kang's Family; Migrant Wives, Local Husbands (Chinese: 外来媳妇本地郎 is a Cantonese sitcom produced by Guangdong Radio and Television. Filming began on April 18, 2000, and has been broadcast on GRT Pearl River Channel since November 4, 2000, with two episodes on Saturdays and Sundays at 19:00. It is the longest-running and most frequently aired sitcom in Chinese television history. As of May 15, 2021, the show has aired more than 4,000 episodes.",
-      "poster": "https://image.tmdb.org/t/p/w500/yubXCrUPIc83Nk53gYARF49rOYV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3G6Vdl588eIKkVGJiMaeYag83Fc.jpg",
-      "release": "2000-11-04"
-    },
-    {
-      "id": 124364,
-      "title": "FROM",
-      "rating": 8.503,
-      "votes": 4061,
-      "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
-      "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
-      "release": "2022-02-20"
-    },
-    {
-      "id": 63770,
-      "title": "The Late Show with Stephen Colbert",
-      "rating": 6.098,
-      "votes": 358,
-      "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
-      "poster": "https://image.tmdb.org/t/p/w500/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
-      "release": "2015-09-08"
     }
   ],
   "top_rated": [
@@ -524,86 +364,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
       "release": "1999-10-20"
-    },
-    {
-      "id": 301507,
-      "title": "Heated Rivalry",
-      "rating": 8.745,
-      "votes": 560,
-      "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
-      "poster": "https://image.tmdb.org/t/p/w500/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iS76c29IrS3lKI2X5CFySguiAWU.jpg",
-      "release": "2025-11-28"
-    },
-    {
-      "id": 250307,
-      "title": "The Pitt",
-      "rating": 8.724,
-      "votes": 861,
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "release": "2025-01-09"
-    },
-    {
-      "id": 87108,
-      "title": "Chernobyl",
-      "rating": 8.72,
-      "votes": 8080,
-      "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
-      "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3URK0z9PzpVNJrGE7XOuyy6KFzk.jpg",
-      "release": "2019-05-06"
-    },
-    {
-      "id": 31911,
-      "title": "Fullmetal Alchemist: Brotherhood",
-      "rating": 8.7,
-      "votes": 2520,
-      "overview": "Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
-      "poster": "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
-      "release": "2009-04-05"
-    },
-    {
-      "id": 60059,
-      "title": "Better Call Saul",
-      "rating": 8.71,
-      "votes": 6675,
-      "overview": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\".",
-      "poster": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rfxryDIv8huejujg4JueDJx8zCz.jpg",
-      "release": "2015-02-08"
-    },
-    {
-      "id": 200709,
-      "title": "Weak Hero",
-      "rating": 8.699,
-      "votes": 491,
-      "overview": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Sd01WeraL2oA3Vv6O4rcRxockn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
-      "release": "2022-11-18"
-    },
-    {
-      "id": 1429,
-      "title": "Attack on Titan",
-      "rating": 8.682,
-      "votes": 7576,
-      "overview": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
-      "poster": "https://image.tmdb.org/t/p/w500/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "release": "2013-04-07"
-    },
-    {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "rating": 8.679,
-      "votes": 11170,
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
-      "release": "2013-12-02"
     }
   ],
   "airing_today": [
@@ -726,86 +486,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/hg9fl45RQVR2yZ63DUWqy0hCZ1G.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
       "release": "2026-07-19"
-    },
-    {
-      "id": 46271,
-      "title": "Secret Story",
-      "rating": 3.955,
-      "votes": 11,
-      "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
-      "poster": "https://image.tmdb.org/t/p/w500/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
-      "release": "2007-06-23"
-    },
-    {
-      "id": 44953,
-      "title": "El Señor de los Cielos",
-      "rating": 7.979,
-      "votes": 3543,
-      "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
-      "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
-      "release": "2013-04-15"
-    },
-    {
-      "id": 291,
-      "title": "Coronation Street",
-      "rating": 5.3,
-      "votes": 117,
-      "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-      "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-      "release": "1960-12-09"
-    },
-    {
-      "id": 1871,
-      "title": "EastEnders",
-      "rating": 4.249,
-      "votes": 229,
-      "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
-      "poster": "https://image.tmdb.org/t/p/w500/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
-      "release": "1985-02-19"
-    },
-    {
-      "id": 5266,
-      "title": "University Challenge",
-      "rating": 6.2,
-      "votes": 12,
-      "overview": "Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.",
-      "poster": "https://image.tmdb.org/t/p/w500/cqczsSUFFOlAYQ2QOsrDo9tkhWi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/9YROW0JA85k9IyHuaHhFcqzr0Jp.jpg",
-      "release": "1962-09-21"
-    },
-    {
-      "id": 2354,
-      "title": "Home and Away",
-      "rating": 6.359,
-      "votes": 78,
-      "overview": "Home and Away is set in the fictional town of Summer Bay, a coastal town in New South Wales, and follows the personal and professional lives of the people living in the area. The show initially focused on the Fletcher family, Pippa and Tom Fletcher and their five foster children Frank Morgan, Carly Morris, Steven Matheson, Lynn Davenport and Sally Keating, who would go on to become one of the show's longest-running characters. The show also originally and currently focuses on the Stewart family. Home and Away had proved popular when it premiered in 1988 and had risen to become a hit in Australia, and after only a few weeks, the show tackled its first major and disturbing storyline, the rape of Carly Morris; it was one of the first shows to feature such storylines during the early timeslot. H&A has tackled many adult-themed and controversial storylines; something rarely found in its restricted timeslot.",
-      "poster": "https://image.tmdb.org/t/p/w500/vn0eKMiG69bhQtxb7qLRo8SSqu5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pmAzkQJa993nIgPqFtVmOhStHXg.jpg",
-      "release": "1988-01-18"
-    },
-    {
-      "id": 1265,
-      "title": "Bargain Hunt",
-      "rating": 7.4,
-      "votes": 8,
-      "overview": "Two teams of amateur collectors have an hour at an antiques fair in which to acquire the best bargains possible.",
-      "poster": "https://image.tmdb.org/t/p/w500/vhvVEe3JozMWaHjjcs7II3FK9Y3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qkSTUKxUnllR8M3H3aqDDQysiG0.jpg",
-      "release": "2000-03-20"
-    },
-    {
-      "id": 261471,
-      "title": "Stand-up Comedy",
-      "rating": 5.8,
-      "votes": 4,
-      "overview": "A professional comedy talk show competition program, the program invites outstanding stand-up artists at home and abroad to share happiness, convey a positive attitude to life and comedy spirit.",
-      "poster": "https://image.tmdb.org/t/p/w500/vFJYt5Pi5Pjc3CKU58oonfXRCio.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/sGK1f1Y2dnExqpjRnsHpI4ZWqJr.jpg",
-      "release": "2024-08-20"
     }
   ]
 }
