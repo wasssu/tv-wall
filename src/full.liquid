@@ -1,8 +1,8 @@
 {% if trending.size > 0 %}
 <div class="layout layout--stretch bg--black">
   <div class="grid grid--cols-5 portrait:grid--cols-4 gap--none">
-    {% for show in trending limit: 10 %}
-    <div class="h--full">
+    {% for show in trending limit: 12 %}
+    <div class="h--full{% if forloop.index > 10 %} hidden portrait:visible{% endif %}">
       <img
         class="image image--contain image-dither w--full h--full"
         src="{{ show.poster }}"
