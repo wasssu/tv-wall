@@ -1,2 +1,2 @@
 # tv-wall
-TMDB TV Wall
+Trending TV shows (TMDB) - plugin for TRMNL X
