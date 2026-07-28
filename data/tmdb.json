@@ -1,45 +1,35 @@
 {
-  "updated": "2026-07-28T19:09:36.686645+00:00",
+  "updated": "2026-07-28T20:59:52.891394+00:00",
   "trending": [
-    {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "rating": 8.378,
-      "votes": 6764,
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "release": "2022-08-21"
-    },
     {
       "id": 287238,
       "title": "Furious",
-      "rating": 6.2,
-      "votes": 12,
+      "rating": 6.071,
+      "votes": 14,
       "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
       "poster": "https://image.tmdb.org/t/p/w500/cTJkD2QnyBv67ttIadEic7jT263.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/bzKhoFoHPmIc9UbjUlm6hIZBGna.jpg",
       "release": "2026-07-27"
     },
     {
+      "id": 94997,
+      "title": "House of the Dragon",
+      "rating": 8.378,
+      "votes": 6766,
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "release": "2022-08-21"
+    },
+    {
       "id": 60625,
       "title": "Rick and Morty",
       "rating": 8.679,
-      "votes": 11179,
+      "votes": 11180,
       "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
       "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
       "release": "2013-12-02"
-    },
-    {
-      "id": 300259,
-      "title": "Bloody Smart",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "In a town where strict rules shape students into their “best selves,” a hidden Bloodfruit Tree bears crimson fruit. A mysterious boy in black delivers these fruits only to those who truly “need” them. Once received, they awaken long-suppressed desires—gently unraveling the heart, and quietly leading the town toward irreversible collapse.",
-      "poster": "https://image.tmdb.org/t/p/w500/gXMmTQZFk7XZotVse4dCGfowkm7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gp01i35kvgpJLarGIGopnBWuzKE.jpg",
-      "release": "2026-07-28"
     },
     {
       "id": 296756,
@@ -52,6 +42,16 @@
       "release": "2026-07-26"
     },
     {
+      "id": 300259,
+      "title": "Bloody Smart",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "In a town where strict rules shape students into their “best selves,” a hidden Bloodfruit Tree bears crimson fruit. A mysterious boy in black delivers these fruits only to those who truly “need” them. Once received, they awaken long-suppressed desires—gently unraveling the heart, and quietly leading the town toward irreversible collapse.",
+      "poster": "https://image.tmdb.org/t/p/w500/gXMmTQZFk7XZotVse4dCGfowkm7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gp01i35kvgpJLarGIGopnBWuzKE.jpg",
+      "release": "2026-07-28"
+    },
+    {
       "id": 30984,
       "title": "Bleach",
       "rating": 8.368,
@@ -60,36 +60,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
       "release": "2004-10-05"
-    },
-    {
-      "id": 289763,
-      "title": "See You at Work Tomorrow!",
-      "rating": 9.25,
-      "votes": 38,
-      "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
-      "poster": "https://image.tmdb.org/t/p/w500/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-      "release": "2026-06-22"
-    },
-    {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.18,
-      "votes": 2337,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
-    },
-    {
-      "id": 194583,
-      "title": "The Walking Dead: Dead City",
-      "rating": 7.9,
-      "votes": 754,
-      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
-      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
-      "release": "2023-06-18"
     },
     {
       "id": 296206,
@@ -102,6 +72,26 @@
       "release": "2026-06-26"
     },
     {
+      "id": 194583,
+      "title": "The Walking Dead: Dead City",
+      "rating": 7.893,
+      "votes": 755,
+      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
+      "release": "2023-06-18"
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.18,
+      "votes": 2337,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
+    },
+    {
       "id": 37854,
       "title": "One Piece",
       "rating": 8.7,
@@ -110,6 +100,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
       "release": "1999-10-20"
+    },
+    {
+      "id": 278624,
+      "title": "Lucky",
+      "rating": 7.2,
+      "votes": 90,
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "release": "2026-07-14"
     },
     {
       "id": 281281,
@@ -137,7 +137,7 @@
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.378,
-      "votes": 6759,
+      "votes": 6766,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -156,8 +156,8 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.366,
-      "votes": 4457,
+      "rating": 8.367,
+      "votes": 4460,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
@@ -226,7 +226,7 @@
     {
       "id": 549,
       "title": "Law & Order",
-      "rating": 7.3,
+      "rating": 7.288,
       "votes": 697,
       "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
       "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
@@ -237,7 +237,7 @@
       "id": 125988,
       "title": "Silo",
       "rating": 8.18,
-      "votes": 2335,
+      "votes": 2337,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -249,7 +249,7 @@
       "id": 276161,
       "title": "Teach You a Lesson",
       "rating": 9.451,
-      "votes": 738,
+      "votes": 739,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.24,
-      "votes": 469,
+      "rating": 9.235,
+      "votes": 471,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.948,
-      "votes": 18204,
+      "rating": 8.9,
+      "votes": 18206,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.92,
-      "votes": 741,
+      "rating": 8.9,
+      "votes": 742,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
@@ -336,16 +336,6 @@
       "release": "2015-11-06"
     },
     {
-      "id": 94605,
-      "title": "Arcane",
-      "rating": 8.751,
-      "votes": 6049,
-      "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
-      "poster": "https://image.tmdb.org/t/p/w500/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
-      "release": "2021-11-06"
-    },
-    {
       "id": 219246,
       "title": "When Life Gives You Tangerines",
       "rating": 8.752,
@@ -356,9 +346,19 @@
       "release": "2025-03-07"
     },
     {
+      "id": 94605,
+      "title": "Arcane",
+      "rating": 8.751,
+      "votes": 6051,
+      "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+      "poster": "https://image.tmdb.org/t/p/w500/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
+      "release": "2021-11-06"
+    },
+    {
       "id": 37854,
       "title": "One Piece",
-      "rating": 8.748,
+      "rating": 8.7,
       "votes": 5445,
       "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
@@ -430,8 +430,8 @@
     {
       "id": 278624,
       "title": "Lucky",
-      "rating": 7.193,
-      "votes": 88,
+      "rating": 7.2,
+      "votes": 90,
       "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
       "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
@@ -471,7 +471,7 @@
       "id": 44953,
       "title": "El Señor de los Cielos",
       "rating": 7.98,
-      "votes": 3544,
+      "votes": 3545,
       "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
       "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
