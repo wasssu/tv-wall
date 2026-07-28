@@ -1,21 +1,11 @@
 {
-  "updated": "2026-07-28T13:41:41.588281+00:00",
+  "updated": "2026-07-28T15:59:00.005467+00:00",
   "trending": [
-    {
-      "id": 296756,
-      "title": "President Curtis",
-      "rating": 5.2,
-      "votes": 11,
-      "overview": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
-      "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
-      "release": "2026-07-26"
-    },
     {
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.378,
-      "votes": 6759,
+      "votes": 6761,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -52,6 +42,16 @@
       "release": "2026-07-28"
     },
     {
+      "id": 296756,
+      "title": "President Curtis",
+      "rating": 5.2,
+      "votes": 11,
+      "overview": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
+      "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+      "release": "2026-07-26"
+    },
+    {
       "id": 30984,
       "title": "Bleach",
       "rating": 8.4,
@@ -72,6 +72,16 @@
       "release": "2023-06-18"
     },
     {
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.7,
+      "votes": 5445,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
+    },
+    {
       "id": 296206,
       "title": "Agent Kim Reactivated",
       "rating": 7.7,
@@ -80,6 +90,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
       "release": "2026-06-26"
+    },
+    {
+      "id": 295599,
+      "title": "Royal Betrothal",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Meng Tinghui, the first female scholar, climbs power through cunning, fueled by devotion to the emperor who saved her. Unaware of his love, their bond is marred by her infamy.",
+      "poster": "https://image.tmdb.org/t/p/w500/aoLCbjb0b4f4hbqAofvkyHgsogM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mcGo1ilxxl6aRsXz3XPf3CbK1Wi.jpg",
+      "release": "2026-07-28"
     },
     {
       "id": 125988,
@@ -92,34 +112,14 @@
       "release": "2023-05-04"
     },
     {
-      "id": 278624,
-      "title": "Lucky",
-      "rating": 7.193,
-      "votes": 88,
-      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "release": "2026-07-14"
-    },
-    {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.7,
-      "votes": 5445,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "release": "1999-10-20"
-    },
-    {
-      "id": 103516,
-      "title": "Star Trek: Strange New Worlds",
-      "rating": 7.922,
-      "votes": 785,
-      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "poster": "https://image.tmdb.org/t/p/w500/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-      "release": "2022-05-05"
+      "id": 281281,
+      "title": "Elite Force",
+      "rating": 6.95,
+      "votes": 30,
+      "overview": "After an unprecedented attack on his unit, a high-ranking officer set to leave the field leads a perilous mission that forces him to confront his past.",
+      "poster": "https://image.tmdb.org/t/p/w500/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
+      "release": "2026-07-22"
     }
   ],
   "popular": [
@@ -137,21 +137,11 @@
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.378,
-      "votes": 6758,
+      "votes": 6759,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "release": "2022-08-21"
-    },
-    {
-      "id": 14424,
-      "title": "Young Hearts",
-      "rating": 6.284,
-      "votes": 37,
-      "overview": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
-      "poster": "https://image.tmdb.org/t/p/w500/bF24r2FxsjzgkJcrbBU8RC9JVoU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7Vpk75SxS86Ai7o2iilJUz5rx4x.jpg",
-      "release": "1995-04-24"
     },
     {
       "id": 2734,
@@ -164,14 +154,14 @@
       "release": "1999-09-20"
     },
     {
-      "id": 237020,
-      "title": "Lecture Room",
-      "rating": 7.0,
-      "votes": 3,
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3iZrlYvakyQepd1zfIQJAki47eO.jpg",
-      "release": "2001-07-09"
+      "id": 5920,
+      "title": "The Mentalist",
+      "rating": 8.366,
+      "votes": 4457,
+      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+      "release": "2008-09-23"
     },
     {
       "id": 22980,
@@ -184,26 +174,6 @@
       "release": "2009-07-16"
     },
     {
-      "id": 5920,
-      "title": "The Mentalist",
-      "rating": 8.366,
-      "votes": 4457,
-      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
-      "release": "2008-09-23"
-    },
-    {
-      "id": 6489,
-      "title": "Klan",
-      "rating": 5.455,
-      "votes": 11,
-      "overview": "Family is the most important thing, and the children of Władysław and Maria Lubicz from Warsaw can always count on each other, no matter what surprises life offers.",
-      "poster": "https://image.tmdb.org/t/p/w500/vuSKqHmKLrKG2AYFOyQ4Ci9wTAj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/u4oCL0YEl2vGH7J42QyqLgzyuKR.jpg",
-      "release": "1997-09-22"
-    },
-    {
       "id": 204269,
       "title": "Caressing My Hibernating Bear",
       "rating": 5.9,
@@ -212,6 +182,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gH3HCoEBuiLqzZii0sOMfMyXSR8.jpg",
       "release": "2022-07-04"
+    },
+    {
+      "id": 63770,
+      "title": "The Late Show with Stephen Colbert",
+      "rating": 6.098,
+      "votes": 358,
+      "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
+      "poster": "https://image.tmdb.org/t/p/w500/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+      "release": "2015-09-08"
     },
     {
       "id": 79744,
@@ -224,6 +204,26 @@
       "release": "2018-10-16"
     },
     {
+      "id": 233643,
+      "title": "Secret Mission - Undercover Agents Never Back Down!",
+      "rating": 6.154,
+      "votes": 26,
+      "overview": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as the hideout for a criminal organization. Despite Riko and Noma posing as a newlywed couple, the criminals begin to suspect them after not hearing any marital intimacy during the night. To convince them that they are a loving couple, Noma starts touching Riko's body...",
+      "poster": "https://image.tmdb.org/t/p/w500/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5IBSPGPAEFEkEJo4leqvpq0RcKf.jpg",
+      "release": "2023-10-02"
+    },
+    {
+      "id": 14424,
+      "title": "Young Hearts",
+      "rating": 6.284,
+      "votes": 37,
+      "overview": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "poster": "https://image.tmdb.org/t/p/w500/bF24r2FxsjzgkJcrbBU8RC9JVoU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7Vpk75SxS86Ai7o2iilJUz5rx4x.jpg",
+      "release": "1995-04-24"
+    },
+    {
       "id": 549,
       "title": "Law & Order",
       "rating": 7.3,
@@ -234,14 +234,14 @@
       "release": "1990-09-13"
     },
     {
-      "id": 17887,
-      "title": "7de Laan",
-      "rating": 8.333,
-      "votes": 3,
-      "overview": "7de Laan is an extraordinary microcosm where good and bad, evil and wholesome characters find themselves forming part of a wholesome community where no matter what – everyone counts and everyone cares…",
-      "poster": "https://image.tmdb.org/t/p/w500/vQcC4Kcx0ZEXxmj0gUrfkFR14LU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ovnj5NSQRAn54e81ecIyAIfKRZK.jpg",
-      "release": "2000-04-04"
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.18,
+      "votes": 2335,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
     }
   ],
   "top_rated": [
