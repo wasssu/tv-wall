@@ -1,16 +1,19 @@
-<div class="view view--half_vertical">
-  <div class="layout layout--stretch">
-    <div class="grid grid--cols-2 gap--none" style="height: 100%; grid-template-rows: repeat(2, 1fr);">
-      {% for show in trending limit: 4 %}
-        <div style="height: 100%; overflow: hidden; background-color: #000000;">
-          <img class="image image--contain image-dither" src="{{ show.poster }}" alt="{{ show.name }}" style="width: 100%; height: 100%;">
-        </div>
-      {% endfor %}
-    </div>
+<div class="layout layout--stretch bg--black">
+  <div class="grid grid--cols-2 gap--none h--full">
+    {% for show in trending limit: 8 %}
+      <div class="h--full{% if forloop.index > 4 %} hidden portrait:visible{% endif %}">
+        <img
+          class="image image--contain image-dither w--full h--full"
+          src="{{ show.poster }}"
+          alt="{{ show.title }}"
+        >
+      </div>
+    {% endfor %}
   </div>
-  <div class="title_bar">
-    <img class="image" src="data:image/svg+xml;base64,{{ tv_wall_logo | base64_encode }}">
-    <span class="title">TV Wall</span>
-    <span class="instance">Trending TV Shows (TMDB)</span>
-  </div>
+</div>
+
+<div class="title_bar">
+  <img class="image" src="data:image/svg+xml;base64,{{ tv_wall_logo | base64_encode }}">
+  <span class="title">TV Wall</span>
+  <span class="instance">Trending TV Shows (TMDB)</span>
 </div>
