@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-27T23:56:16.423156+00:00",
+  "updated": "2026-07-28T02:00:20.003547+00:00",
   "trending": [
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.377,
-      "votes": 6752,
+      "rating": 8.378,
+      "votes": 6753,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -54,7 +54,7 @@
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.2,
+      "rating": 8.178,
       "votes": 2329,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
@@ -62,44 +62,24 @@
       "release": "2023-05-04"
     },
     {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.748,
-      "votes": 5444,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "release": "1999-10-20"
-    },
-    {
       "id": 296206,
       "title": "Agent Kim Reactivated",
-      "rating": 7.7,
-      "votes": 57,
+      "rating": 7.741,
+      "votes": 58,
       "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
       "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
       "release": "2026-06-26"
     },
     {
-      "id": 287620,
-      "title": "Stuart Fails to Save the Universe",
-      "rating": 9.167,
-      "votes": 30,
-      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/bvH9g6TXhQaTG1WhU7hbfXM8LNP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2ngdvUiEKW8Q37ta8BBdydE2cuq.jpg",
-      "release": "2026-07-23"
-    },
-    {
-      "id": 281281,
-      "title": "Elite Force",
-      "rating": 7.054,
-      "votes": 28,
-      "overview": "After an unprecedented attack on his unit, a high-ranking officer set to leave the field leads a perilous mission that forces him to confront his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
-      "release": "2026-07-22"
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.748,
+      "votes": 5445,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
     },
     {
       "id": 94664,
@@ -112,6 +92,16 @@
       "release": "2021-01-11"
     },
     {
+      "id": 278624,
+      "title": "Lucky",
+      "rating": 7.193,
+      "votes": 88,
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "release": "2026-07-14"
+    },
+    {
       "id": 108978,
       "title": "Reacher",
       "rating": 8.08,
@@ -120,6 +110,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/voKEhzb4ExOmR0WSvQgLTTqRUEu.jpg",
       "release": "2022-02-03"
+    },
+    {
+      "id": 281281,
+      "title": "Elite Force",
+      "rating": 6.845,
+      "votes": 29,
+      "overview": "After an unprecedented attack on his unit, a high-ranking officer set to leave the field leads a perilous mission that forces him to confront his past.",
+      "poster": "https://image.tmdb.org/t/p/w500/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
+      "release": "2026-07-22"
     }
   ],
   "popular": [
@@ -137,7 +137,7 @@
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.377,
-      "votes": 6750,
+      "votes": 6752,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -186,8 +186,8 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.4,
-      "votes": 4454,
+      "rating": 8.366,
+      "votes": 4457,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
@@ -216,8 +216,8 @@
     {
       "id": 79744,
       "title": "The Rookie",
-      "rating": 8.55,
-      "votes": 3403,
+      "rating": 8.549,
+      "votes": 3404,
       "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
       "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
