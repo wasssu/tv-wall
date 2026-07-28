@@ -2,13 +2,13 @@
 <div class="layout layout--stretch bg--black">
   <div class="grid grid--cols-5 portrait:grid--cols-4 gap--none">
     {% for show in trending limit: 10 %}
-      <div class="h--full">
-        <img
-          class="image image--contain image-dither w--full h--full"
-          src="{{ show.poster }}"
-          alt="{{ show.title }}"
+    <div class="h--full">
+      <img
+        class="image image--contain image-dither w--full h--full"
+        src="{{ show.poster }}"
+        alt="{{ show.title }}"
         >
-      </div>
+    </div>
     {% endfor %}
   </div>
 </div>
@@ -19,4 +19,5 @@
   <span class="instance">Trending TV Shows (TMDB)</span>
 </div>
 {% else %} 
-<div class="layout"><span class="title">No shows available</span></div> {% endif %}
+<div class="layout"><span class="title">No shows available</span></div> 
+{% endif %}
