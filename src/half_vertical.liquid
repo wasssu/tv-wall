@@ -12,12 +12,11 @@
     {% endfor %}
   </div>
 </div>
-
+{% else %} 
+<div class="layout"><span class="title">No shows available</span></div> 
+{% endif %}
 <div class="title_bar">
   <img class="image" src="data:image/svg+xml;base64,{{ tv_wall_logo | base64_encode }}">
   <span class="title">TV Wall</span>
   <span class="instance">Trending TV Shows (TMDB)</span>
 </div>
-{% else %} 
-<div class="layout"><span class="title">No shows available</span></div> 
-{% endif %}
