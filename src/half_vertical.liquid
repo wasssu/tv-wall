@@ -1,5 +1,5 @@
 <div class="layout layout--stretch bg--black">
-  <div class="grid grid--cols-2 gap--none h--full">
+  <div class="grid grid--cols-2 gap--none">
     {% for show in trending limit: 8 %}
       <div class="h--full{% if forloop.index > 4 %} hidden portrait:visible{% endif %}">
         <img
