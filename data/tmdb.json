@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T15:44:44.024666+00:00",
+  "updated": "2026-07-29T17:05:21.001867+00:00",
   "trending": [
     {
       "id": 278624,
@@ -32,6 +32,16 @@
       "release": "2024-01-17"
     },
     {
+      "id": 327814,
+      "title": "Final Project",
+      "rating": 8.0,
+      "votes": 1,
+      "overview": "A new school, a new beginning. Until vicious online attacks and a challenge from a classmate trigger a dangerous connection that leads Tamara to a transformation.",
+      "poster": "https://image.tmdb.org/t/p/w500/hPA7xadxW24SqT2GKIkbbZYBR6I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/rc3Jy6sWFt7PDVGFqLjvo7tle13.jpg",
+      "release": "2026-07-29"
+    },
+    {
       "id": 295599,
       "title": "Royal Betrothal",
       "rating": 9.0,
@@ -40,16 +50,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/31nFRRsQQnCti8TiBuiEgNKYaZp.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qa3HJLBxhQQgCbaqdhtYea0Hygk.jpg",
       "release": "2026-07-28"
-    },
-    {
-      "id": 327814,
-      "title": "Final Project",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "A new school, a new beginning. Until vicious online attacks and a challenge from a classmate trigger a dangerous connection that leads Tamara to a transformation.",
-      "poster": "https://image.tmdb.org/t/p/w500/hPA7xadxW24SqT2GKIkbbZYBR6I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rc3Jy6sWFt7PDVGFqLjvo7tle13.jpg",
-      "release": "2026-07-29"
     },
     {
       "id": 94997,
@@ -72,26 +72,6 @@
       "release": "2004-10-05"
     },
     {
-      "id": 300259,
-      "title": "Bloody Smart",
-      "rating": 5.9,
-      "votes": 4,
-      "overview": "In a town where strict rules shape students into their “best selves,” a hidden Bloodfruit Tree bears crimson fruit. A mysterious boy in black delivers these fruits only to those who truly “need” them. Once received, they awaken long-suppressed desires—gently unraveling the heart, and quietly leading the town toward irreversible collapse.",
-      "poster": "https://image.tmdb.org/t/p/w500/gXMmTQZFk7XZotVse4dCGfowkm7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gp01i35kvgpJLarGIGopnBWuzKE.jpg",
-      "release": "2026-07-28"
-    },
-    {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "rating": 8.679,
-      "votes": 11187,
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
-      "release": "2013-12-02"
-    },
-    {
       "id": 37854,
       "title": "One Piece",
       "rating": 8.7,
@@ -112,6 +92,26 @@
       "release": "2023-05-04"
     },
     {
+      "id": 60625,
+      "title": "Rick and Morty",
+      "rating": 8.679,
+      "votes": 11187,
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+      "release": "2013-12-02"
+    },
+    {
+      "id": 300259,
+      "title": "Bloody Smart",
+      "rating": 6.5,
+      "votes": 5,
+      "overview": "In a town where strict rules shape students into their “best selves,” a hidden Bloodfruit Tree bears crimson fruit. A mysterious boy in black delivers these fruits only to those who truly “need” them. Once received, they awaken long-suppressed desires—gently unraveling the heart, and quietly leading the town toward irreversible collapse.",
+      "poster": "https://image.tmdb.org/t/p/w500/gXMmTQZFk7XZotVse4dCGfowkm7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gp01i35kvgpJLarGIGopnBWuzKE.jpg",
+      "release": "2026-07-28"
+    },
+    {
       "id": 138502,
       "title": "X-Men '97",
       "rating": 8.658,
@@ -123,16 +123,6 @@
     }
   ],
   "popular": [
-    {
-      "id": 94722,
-      "title": "Tagesschau",
-      "rating": 6.768,
-      "votes": 256,
-      "overview": "German daily news program, the oldest still existing program on German television.",
-      "poster": "https://image.tmdb.org/t/p/w500/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
-      "release": "1952-12-26"
-    },
     {
       "id": 94997,
       "title": "House of the Dragon",
@@ -147,11 +137,21 @@
       "id": 5920,
       "title": "The Mentalist",
       "rating": 8.367,
-      "votes": 4460,
+      "votes": 4461,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
       "release": "2008-09-23"
+    },
+    {
+      "id": 94722,
+      "title": "Tagesschau",
+      "rating": 6.768,
+      "votes": 256,
+      "overview": "German daily news program, the oldest still existing program on German television.",
+      "poster": "https://image.tmdb.org/t/p/w500/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+      "release": "1952-12-26"
     },
     {
       "id": 2734,
@@ -174,24 +174,14 @@
       "release": "2022-07-04"
     },
     {
-      "id": 22980,
-      "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 5.0,
-      "votes": 87,
-      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-      "release": "2009-07-16"
-    },
-    {
-      "id": 63770,
-      "title": "The Late Show with Stephen Colbert",
-      "rating": 6.098,
-      "votes": 358,
-      "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
-      "poster": "https://image.tmdb.org/t/p/w500/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
-      "release": "2015-09-08"
+      "id": 233643,
+      "title": "Secret Mission - Undercover Agents Never Back Down!",
+      "rating": 6.154,
+      "votes": 26,
+      "overview": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as the hideout for a criminal organization. Despite Riko and Noma posing as a newlywed couple, the criminals begin to suspect them after not hearing any marital intimacy during the night. To convince them that they are a loving couple, Noma starts touching Riko's body...",
+      "poster": "https://image.tmdb.org/t/p/w500/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5IBSPGPAEFEkEJo4leqvpq0RcKf.jpg",
+      "release": "2023-10-02"
     },
     {
       "id": 79744,
@@ -204,24 +194,24 @@
       "release": "2018-10-16"
     },
     {
-      "id": 233643,
-      "title": "Secret Mission - Undercover Agents Never Back Down!",
-      "rating": 6.154,
-      "votes": 26,
-      "overview": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as the hideout for a criminal organization. Despite Riko and Noma posing as a newlywed couple, the criminals begin to suspect them after not hearing any marital intimacy during the night. To convince them that they are a loving couple, Noma starts touching Riko's body...",
-      "poster": "https://image.tmdb.org/t/p/w500/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5IBSPGPAEFEkEJo4leqvpq0RcKf.jpg",
-      "release": "2023-10-02"
+      "id": 63770,
+      "title": "The Late Show with Stephen Colbert",
+      "rating": 6.098,
+      "votes": 358,
+      "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
+      "poster": "https://image.tmdb.org/t/p/w500/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+      "release": "2015-09-08"
     },
     {
-      "id": 14424,
-      "title": "Young Hearts",
-      "rating": 6.284,
-      "votes": 37,
-      "overview": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
-      "poster": "https://image.tmdb.org/t/p/w500/bF24r2FxsjzgkJcrbBU8RC9JVoU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7Vpk75SxS86Ai7o2iilJUz5rx4x.jpg",
-      "release": "1995-04-24"
+      "id": 1416,
+      "title": "Grey's Anatomy",
+      "rating": 8.207,
+      "votes": 10981,
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+      "poster": "https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+      "release": "2005-03-27"
     },
     {
       "id": 549,
@@ -234,14 +224,24 @@
       "release": "1990-09-13"
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.181,
-      "votes": 2337,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
+      "id": 60625,
+      "title": "Rick and Morty",
+      "rating": 8.679,
+      "votes": 11187,
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+      "release": "2013-12-02"
+    },
+    {
+      "id": 124364,
+      "title": "FROM",
+      "rating": 8.499,
+      "votes": 4076,
+      "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+      "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+      "release": "2022-02-20"
     }
   ],
   "top_rated": [
