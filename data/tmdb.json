@@ -1,16 +1,6 @@
 {
-  "updated": "2026-07-29T17:05:21.001867+00:00",
+  "updated": "2026-07-29T18:59:12.352100+00:00",
   "trending": [
-    {
-      "id": 278624,
-      "title": "Lucky",
-      "rating": 7.183,
-      "votes": 93,
-      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "release": "2026-07-14"
-    },
     {
       "id": 287238,
       "title": "Furious",
@@ -32,16 +22,6 @@
       "release": "2024-01-17"
     },
     {
-      "id": 327814,
-      "title": "Final Project",
-      "rating": 8.0,
-      "votes": 1,
-      "overview": "A new school, a new beginning. Until vicious online attacks and a challenge from a classmate trigger a dangerous connection that leads Tamara to a transformation.",
-      "poster": "https://image.tmdb.org/t/p/w500/hPA7xadxW24SqT2GKIkbbZYBR6I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rc3Jy6sWFt7PDVGFqLjvo7tle13.jpg",
-      "release": "2026-07-29"
-    },
-    {
       "id": 295599,
       "title": "Royal Betrothal",
       "rating": 9.0,
@@ -50,6 +30,66 @@
       "poster": "https://image.tmdb.org/t/p/w500/31nFRRsQQnCti8TiBuiEgNKYaZp.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qa3HJLBxhQQgCbaqdhtYea0Hygk.jpg",
       "release": "2026-07-28"
+    },
+    {
+      "id": 278624,
+      "title": "Lucky",
+      "rating": 7.183,
+      "votes": 93,
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "release": "2026-07-14"
+    },
+    {
+      "id": 60625,
+      "title": "Rick and Morty",
+      "rating": 8.679,
+      "votes": 11187,
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+      "release": "2013-12-02"
+    },
+    {
+      "id": 328735,
+      "title": "The Idaho Murders: College Nightmare",
+      "rating": 4.0,
+      "votes": 2,
+      "overview": "Chronicles one of the most chilling murder cases in recent memory — honoring the four young lives that were taken while tracing every step from the night of the killings to the eventual arrest of a suspect.",
+      "poster": "https://image.tmdb.org/t/p/w500/2Fjgxlv2ishFAaYYZLa6jccswbq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/1BosXOwTUudCrE77ayEJSROW8sL.jpg",
+      "release": "2026-07-29"
+    },
+    {
+      "id": 300259,
+      "title": "Bloody Smart",
+      "rating": 6.5,
+      "votes": 5,
+      "overview": "In a town where strict rules shape students into their “best selves,” a hidden Bloodfruit Tree bears crimson fruit. A mysterious boy in black delivers these fruits only to those who truly “need” them. Once received, they awaken long-suppressed desires—gently unraveling the heart, and quietly leading the town toward irreversible collapse.",
+      "poster": "https://image.tmdb.org/t/p/w500/gXMmTQZFk7XZotVse4dCGfowkm7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gp01i35kvgpJLarGIGopnBWuzKE.jpg",
+      "release": "2026-07-28"
+    },
+    {
+      "id": 194583,
+      "title": "The Walking Dead: Dead City",
+      "rating": 7.893,
+      "votes": 755,
+      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
+      "release": "2023-06-18"
+    },
+    {
+      "id": 327814,
+      "title": "Final Project",
+      "rating": 8.0,
+      "votes": 1,
+      "overview": "A new school, a new beginning. Until vicious online attacks and a challenge from a classmate trigger a dangerous connection that leads Tamara to a transformation.",
+      "poster": "https://image.tmdb.org/t/p/w500/hPA7xadxW24SqT2GKIkbbZYBR6I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/rc3Jy6sWFt7PDVGFqLjvo7tle13.jpg",
+      "release": "2026-07-29"
     },
     {
       "id": 94997,
@@ -72,54 +112,14 @@
       "release": "2004-10-05"
     },
     {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.7,
-      "votes": 5445,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "release": "1999-10-20"
-    },
-    {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.183,
-      "votes": 2339,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
-    },
-    {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "rating": 8.679,
-      "votes": 11187,
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
-      "release": "2013-12-02"
-    },
-    {
-      "id": 300259,
-      "title": "Bloody Smart",
-      "rating": 6.5,
-      "votes": 5,
-      "overview": "In a town where strict rules shape students into their “best selves,” a hidden Bloodfruit Tree bears crimson fruit. A mysterious boy in black delivers these fruits only to those who truly “need” them. Once received, they awaken long-suppressed desires—gently unraveling the heart, and quietly leading the town toward irreversible collapse.",
-      "poster": "https://image.tmdb.org/t/p/w500/gXMmTQZFk7XZotVse4dCGfowkm7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gp01i35kvgpJLarGIGopnBWuzKE.jpg",
-      "release": "2026-07-28"
-    },
-    {
-      "id": 138502,
-      "title": "X-Men '97",
-      "rating": 8.658,
-      "votes": 803,
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-      "release": "2024-03-20"
+      "id": 289763,
+      "title": "See You at Work Tomorrow!",
+      "rating": 9.125,
+      "votes": 40,
+      "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
+      "poster": "https://image.tmdb.org/t/p/w500/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
+      "release": "2026-06-22"
     }
   ],
   "popular": [
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.452,
-      "votes": 740,
+      "rating": 9.444,
+      "votes": 743,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.9,
-      "votes": 18210,
+      "rating": 8.948,
+      "votes": 18218,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -298,8 +298,8 @@
     {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.805,
-      "votes": 909,
+      "rating": 8.806,
+      "votes": 910,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude.  Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
@@ -319,7 +319,7 @@
       "id": 246,
       "title": "Avatar: The Last Airbender",
       "rating": 8.774,
-      "votes": 4992,
+      "votes": 4994,
       "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
       "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/kU98MbVVgi72wzceyrEbClZmMFe.jpg",
@@ -349,7 +349,7 @@
       "id": 94605,
       "title": "Arcane",
       "rating": 8.751,
-      "votes": 6051,
+      "votes": 6052,
       "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
       "poster": "https://image.tmdb.org/t/p/w500/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
