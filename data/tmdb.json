@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T05:12:44.261963+00:00",
+  "updated": "2026-07-29T08:22:29.162444+00:00",
   "trending": [
     {
       "id": 287238,
@@ -14,82 +14,12 @@
     {
       "id": 300259,
       "title": "Bloody Smart",
-      "rating": 3.75,
-      "votes": 2,
+      "rating": 5.833,
+      "votes": 3,
       "overview": "In a town where strict rules shape students into their “best selves,” a hidden Bloodfruit Tree bears crimson fruit. A mysterious boy in black delivers these fruits only to those who truly “need” them. Once received, they awaken long-suppressed desires—gently unraveling the heart, and quietly leading the town toward irreversible collapse.",
       "poster": "https://image.tmdb.org/t/p/w500/gXMmTQZFk7XZotVse4dCGfowkm7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gp01i35kvgpJLarGIGopnBWuzKE.jpg",
       "release": "2026-07-28"
-    },
-    {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "rating": 8.679,
-      "votes": 11183,
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
-      "release": "2013-12-02"
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.369,
-      "votes": 2194,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
-    },
-    {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "rating": 8.377,
-      "votes": 6769,
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "release": "2022-08-21"
-    },
-    {
-      "id": 296756,
-      "title": "President Curtis",
-      "rating": 5.1,
-      "votes": 13,
-      "overview": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
-      "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
-      "release": "2026-07-26"
-    },
-    {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.181,
-      "votes": 2337,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
-    },
-    {
-      "id": 295599,
-      "title": "Royal Betrothal",
-      "rating": 9.0,
-      "votes": 1,
-      "overview": "Rescued from the brink of death a decade ago, Meng Tinghui has transformed from a nameless survivor into the Daping Dynasty’s first female scholar to enter the prestigious Hanlin Academy. Known for her sharp wit and cunning nature, she has spent years navigating the treacherous waters of the imperial court. While her peers see only a ruthless official, she harbors a secret devotion to the man who saved her – Emperor Ying Gua. Tinghui is intent on helping Ying Gua become the greatest ruler in history, no matter what it takes. But amidst the power struggles and political schemes, Meng Tinghui remains blind to the one truth that could change everything: the Emperor’s heart has belonged to her all along.",
-      "poster": "https://image.tmdb.org/t/p/w500/v8Giwuf0l0XKoD29kWb9RSxiYku.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mcGo1ilxxl6aRsXz3XPf3CbK1Wi.jpg",
-      "release": "2026-07-28"
-    },
-    {
-      "id": 194583,
-      "title": "The Walking Dead: Dead City",
-      "rating": 7.893,
-      "votes": 755,
-      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
-      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
-      "release": "2023-06-18"
     },
     {
       "id": 278624,
@@ -102,14 +32,64 @@
       "release": "2026-07-14"
     },
     {
-      "id": 296206,
-      "title": "Agent Kim Reactivated",
-      "rating": 7.8,
-      "votes": 60,
-      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-      "release": "2026-06-26"
+      "id": 60625,
+      "title": "Rick and Morty",
+      "rating": 8.679,
+      "votes": 11184,
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+      "release": "2013-12-02"
+    },
+    {
+      "id": 94997,
+      "title": "House of the Dragon",
+      "rating": 8.377,
+      "votes": 6771,
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "release": "2022-08-21"
+    },
+    {
+      "id": 295599,
+      "title": "Royal Betrothal",
+      "rating": 9.0,
+      "votes": 1,
+      "overview": "Rescued from the brink of death a decade ago, Meng Tinghui has transformed from a nameless survivor into the Daping Dynasty’s first female scholar to enter the prestigious Hanlin Academy. Known for her sharp wit and cunning nature, she has spent years navigating the treacherous waters of the imperial court. While her peers see only a ruthless official, she harbors a secret devotion to the man who saved her – Emperor Ying Gua. Tinghui is intent on helping Ying Gua become the greatest ruler in history, no matter what it takes. But amidst the power struggles and political schemes, Meng Tinghui remains blind to the one truth that could change everything: the Emperor’s heart has belonged to her all along.",
+      "poster": "https://image.tmdb.org/t/p/w500/31nFRRsQQnCti8TiBuiEgNKYaZp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mcGo1ilxxl6aRsXz3XPf3CbK1Wi.jpg",
+      "release": "2026-07-28"
+    },
+    {
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.369,
+      "votes": 2194,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
+    },
+    {
+      "id": 296756,
+      "title": "President Curtis",
+      "rating": 5.1,
+      "votes": 13,
+      "overview": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
+      "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+      "release": "2026-07-26"
+    },
+    {
+      "id": 194583,
+      "title": "The Walking Dead: Dead City",
+      "rating": 7.893,
+      "votes": 755,
+      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
+      "release": "2023-06-18"
     },
     {
       "id": 37854,
@@ -120,6 +100,26 @@
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
       "release": "1999-10-20"
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.181,
+      "votes": 2337,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
+    },
+    {
+      "id": 296206,
+      "title": "Agent Kim Reactivated",
+      "rating": 7.8,
+      "votes": 60,
+      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+      "release": "2026-06-26"
     }
   ],
   "popular": [
