@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T08:22:29.162444+00:00",
+  "updated": "2026-07-29T11:14:39.396696+00:00",
   "trending": [
     {
       "id": 287238,
@@ -12,34 +12,14 @@
       "release": "2026-07-27"
     },
     {
-      "id": 300259,
-      "title": "Bloody Smart",
-      "rating": 5.833,
-      "votes": 3,
-      "overview": "In a town where strict rules shape students into their “best selves,” a hidden Bloodfruit Tree bears crimson fruit. A mysterious boy in black delivers these fruits only to those who truly “need” them. Once received, they awaken long-suppressed desires—gently unraveling the heart, and quietly leading the town toward irreversible collapse.",
-      "poster": "https://image.tmdb.org/t/p/w500/gXMmTQZFk7XZotVse4dCGfowkm7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gp01i35kvgpJLarGIGopnBWuzKE.jpg",
-      "release": "2026-07-28"
-    },
-    {
       "id": 278624,
       "title": "Lucky",
-      "rating": 7.187,
-      "votes": 91,
+      "rating": 7.174,
+      "votes": 92,
       "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
       "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
       "release": "2026-07-14"
-    },
-    {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "rating": 8.679,
-      "votes": 11184,
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
-      "release": "2013-12-02"
     },
     {
       "id": 94997,
@@ -52,6 +32,16 @@
       "release": "2022-08-21"
     },
     {
+      "id": 300259,
+      "title": "Bloody Smart",
+      "rating": 5.9,
+      "votes": 4,
+      "overview": "In a town where strict rules shape students into their “best selves,” a hidden Bloodfruit Tree bears crimson fruit. A mysterious boy in black delivers these fruits only to those who truly “need” them. Once received, they awaken long-suppressed desires—gently unraveling the heart, and quietly leading the town toward irreversible collapse.",
+      "poster": "https://image.tmdb.org/t/p/w500/gXMmTQZFk7XZotVse4dCGfowkm7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gp01i35kvgpJLarGIGopnBWuzKE.jpg",
+      "release": "2026-07-28"
+    },
+    {
       "id": 295599,
       "title": "Royal Betrothal",
       "rating": 9.0,
@@ -60,6 +50,26 @@
       "poster": "https://image.tmdb.org/t/p/w500/31nFRRsQQnCti8TiBuiEgNKYaZp.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mcGo1ilxxl6aRsXz3XPf3CbK1Wi.jpg",
       "release": "2026-07-28"
+    },
+    {
+      "id": 60625,
+      "title": "Rick and Morty",
+      "rating": 8.679,
+      "votes": 11185,
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+      "release": "2013-12-02"
+    },
+    {
+      "id": 215072,
+      "title": "A Shop for Killers",
+      "rating": 8.334,
+      "votes": 187,
+      "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+      "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+      "release": "2024-01-17"
     },
     {
       "id": 30984,
@@ -72,14 +82,24 @@
       "release": "2004-10-05"
     },
     {
-      "id": 296756,
-      "title": "President Curtis",
-      "rating": 5.1,
-      "votes": 13,
-      "overview": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
-      "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
-      "release": "2026-07-26"
+      "id": 296206,
+      "title": "Agent Kim Reactivated",
+      "rating": 7.8,
+      "votes": 60,
+      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+      "release": "2026-06-26"
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.181,
+      "votes": 2337,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
     },
     {
       "id": 194583,
@@ -100,26 +120,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
       "release": "1999-10-20"
-    },
-    {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.181,
-      "votes": 2337,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
-    },
-    {
-      "id": 296206,
-      "title": "Agent Kim Reactivated",
-      "rating": 7.8,
-      "votes": 60,
-      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-      "release": "2026-06-26"
     }
   ],
   "popular": [
@@ -137,21 +137,11 @@
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.377,
-      "votes": 6768,
+      "votes": 6771,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "release": "2022-08-21"
-    },
-    {
-      "id": 2734,
-      "title": "Law & Order: Special Victims Unit",
-      "rating": 7.957,
-      "votes": 4298,
-      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-      "release": "1999-09-20"
     },
     {
       "id": 5920,
@@ -164,14 +154,14 @@
       "release": "2008-09-23"
     },
     {
-      "id": 22980,
-      "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 5.0,
-      "votes": 87,
-      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-      "release": "2009-07-16"
+      "id": 2734,
+      "title": "Law & Order: Special Victims Unit",
+      "rating": 7.957,
+      "votes": 4298,
+      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+      "release": "1999-09-20"
     },
     {
       "id": 204269,
@@ -182,6 +172,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gH3HCoEBuiLqzZii0sOMfMyXSR8.jpg",
       "release": "2022-07-04"
+    },
+    {
+      "id": 22980,
+      "title": "Watch What Happens Live with Andy Cohen",
+      "rating": 5.0,
+      "votes": 87,
+      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+      "release": "2009-07-16"
     },
     {
       "id": 63770,
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.23,
-      "votes": 472,
+      "rating": 9.232,
+      "votes": 473,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
@@ -268,7 +268,7 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.948,
+      "rating": 8.9,
       "votes": 18210,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.919,
-      "votes": 744,
+      "rating": 8.923,
+      "votes": 747,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
@@ -308,7 +308,7 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.78,
+      "rating": 8.8,
       "votes": 932,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
@@ -318,8 +318,8 @@
     {
       "id": 246,
       "title": "Avatar: The Last Airbender",
-      "rating": 8.773,
-      "votes": 4988,
+      "rating": 8.774,
+      "votes": 4992,
       "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
       "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/kU98MbVVgi72wzceyrEbClZmMFe.jpg",
@@ -408,6 +408,26 @@
       "release": "1996-07-22"
     },
     {
+      "id": 65701,
+      "title": "Good Mythical Morning",
+      "rating": 6.9,
+      "votes": 91,
+      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+      "release": "2012-01-09"
+    },
+    {
+      "id": 91555,
+      "title": "All Elite Wrestling: Dynamite",
+      "rating": 7.959,
+      "votes": 85,
+      "overview": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years.",
+      "poster": "https://image.tmdb.org/t/p/w500/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg",
+      "release": "2019-10-02"
+    },
+    {
       "id": 14750,
       "title": "Na Wspólnej",
       "rating": 4.7,
@@ -416,16 +436,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
       "release": "2003-01-27"
-    },
-    {
-      "id": 278624,
-      "title": "Lucky",
-      "rating": 7.187,
-      "votes": 91,
-      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "release": "2026-07-14"
     },
     {
       "id": 79917,
@@ -470,22 +480,12 @@
     {
       "id": 44953,
       "title": "El Señor de los Cielos",
-      "rating": 7.98,
-      "votes": 3545,
+      "rating": 7.981,
+      "votes": 3546,
       "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
       "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
       "release": "2013-04-15"
-    },
-    {
-      "id": 46271,
-      "title": "Secret Story",
-      "rating": 3.955,
-      "votes": 11,
-      "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
-      "poster": "https://image.tmdb.org/t/p/w500/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
-      "release": "2007-06-23"
     }
   ]
 }
