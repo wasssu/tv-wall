@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T04:49:54.265452+00:00",
+  "updated": "2026-07-30T07:28:12.809713+00:00",
   "trending": [
     {
       "id": 278624,
@@ -12,24 +12,44 @@
       "release": "2026-07-14"
     },
     {
-      "id": 287238,
-      "title": "Furious",
-      "rating": 6.333,
-      "votes": 21,
-      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-      "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "release": "2026-07-27"
-    },
-    {
       "id": 327814,
       "title": "Final Project",
-      "rating": 9.25,
+      "rating": 9.2,
       "votes": 4,
       "overview": "New school, new start — until vicious online attacks and a classmate's twisted challenge spark a dangerous bond that pushes Tamara toward transformation.",
       "poster": "https://image.tmdb.org/t/p/w500/hPA7xadxW24SqT2GKIkbbZYBR6I.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rc3Jy6sWFt7PDVGFqLjvo7tle13.jpg",
       "release": "2026-07-29"
+    },
+    {
+      "id": 215072,
+      "title": "A Shop for Killers",
+      "rating": 8.329,
+      "votes": 190,
+      "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+      "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+      "release": "2024-01-17"
+    },
+    {
+      "id": 271016,
+      "title": "Mystic Nine",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/snExrS3rICUXDsiG7jUV7K6Q0wj.jpg",
+      "release": "2026-07-30"
+    },
+    {
+      "id": 94997,
+      "title": "House of the Dragon",
+      "rating": 8.378,
+      "votes": 6776,
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "release": "2022-08-21"
     },
     {
       "id": 30984,
@@ -42,34 +62,24 @@
       "release": "2004-10-05"
     },
     {
-      "id": 215072,
-      "title": "A Shop for Killers",
-      "rating": 8.37,
-      "votes": 189,
-      "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
-      "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-      "release": "2024-01-17"
+      "id": 287238,
+      "title": "Furious",
+      "rating": 6.5,
+      "votes": 22,
+      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "release": "2026-07-27"
     },
     {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "rating": 8.378,
-      "votes": 6775,
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "release": "2022-08-21"
-    },
-    {
-      "id": 292533,
-      "title": "Wrath",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "A wounded amnesiac finds refuge with an MMA coach and steps into the ring, torn between hope for a new future and a dangerous past that keeps closing in.",
-      "poster": "https://image.tmdb.org/t/p/w500/sg4QZgXllPD3WgXRhgruIzQfl0U.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/kZ77s94jLBliHXDXXPegi6ZbbtN.jpg",
-      "release": "2026-07-29"
+      "id": 296206,
+      "title": "Agent Kim Reactivated",
+      "rating": 7.646,
+      "votes": 65,
+      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+      "release": "2026-06-26"
     },
     {
       "id": 138502,
@@ -82,24 +92,24 @@
       "release": "2024-03-20"
     },
     {
-      "id": 295599,
-      "title": "Royal Betrothal",
-      "rating": 9.0,
-      "votes": 1,
-      "overview": "Rescued from the brink of death a decade ago, Meng Tinghui has transformed from a nameless survivor into the Daping Dynasty’s first female scholar to enter the prestigious Hanlin Academy. Known for her sharp wit and cunning nature, she has spent years navigating the treacherous waters of the imperial court. While her peers see only a ruthless official, she harbors a secret devotion to the man who saved her – Emperor Ying Gua. Tinghui is intent on helping Ying Gua become the greatest ruler in history, no matter what it takes. But amidst the power struggles and political schemes, Meng Tinghui remains blind to the one truth that could change everything: the Emperor’s heart has belonged to her all along.",
-      "poster": "https://image.tmdb.org/t/p/w500/31nFRRsQQnCti8TiBuiEgNKYaZp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qa3HJLBxhQQgCbaqdhtYea0Hygk.jpg",
-      "release": "2026-07-28"
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.7,
+      "votes": 5445,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
     },
     {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "rating": 8.68,
-      "votes": 11191,
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
-      "release": "2013-12-02"
+      "id": 292533,
+      "title": "Wrath",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "A wounded amnesiac finds refuge with an MMA coach and steps into the ring, torn between hope for a new future and a dangerous past that keeps closing in.",
+      "poster": "https://image.tmdb.org/t/p/w500/sg4QZgXllPD3WgXRhgruIzQfl0U.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/kZ77s94jLBliHXDXXPegi6ZbbtN.jpg",
+      "release": "2026-07-29"
     },
     {
       "id": 328735,
@@ -110,16 +120,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/2Fjgxlv2ishFAaYYZLa6jccswbq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/1BosXOwTUudCrE77ayEJSROW8sL.jpg",
       "release": "2026-07-29"
-    },
-    {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.2,
-      "votes": 2342,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/l0U6SoFpMvJXWz4SByxKkhcIJES.jpg",
-      "release": "2023-05-04"
     }
   ],
   "popular": [
@@ -378,6 +378,16 @@
       "release": "2009-07-16"
     },
     {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.2,
+      "votes": 2342,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/l0U6SoFpMvJXWz4SByxKkhcIJES.jpg",
+      "release": "2023-05-04"
+    },
+    {
       "id": 59941,
       "title": "The Tonight Show Starring Jimmy Fallon",
       "rating": 5.8,
@@ -418,36 +428,6 @@
       "release": "2005-10-13"
     },
     {
-      "id": 91555,
-      "title": "All Elite Wrestling: Dynamite",
-      "rating": 7.959,
-      "votes": 86,
-      "overview": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years.",
-      "poster": "https://image.tmdb.org/t/p/w500/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg",
-      "release": "2019-10-02"
-    },
-    {
-      "id": 65701,
-      "title": "Good Mythical Morning",
-      "rating": 6.9,
-      "votes": 91,
-      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
-      "release": "2012-01-09"
-    },
-    {
-      "id": 289139,
-      "title": "Overdo",
-      "rating": 8.2,
-      "votes": 6,
-      "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
-      "poster": "https://image.tmdb.org/t/p/w500/hg9fl45RQVR2yZ63DUWqy0hCZ1G.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
-      "release": "2026-07-19"
-    },
-    {
       "id": 6060,
       "title": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
       "rating": 3.417,
@@ -468,10 +448,20 @@
       "release": "2003-01-27"
     },
     {
+      "id": 289139,
+      "title": "Overdo",
+      "rating": 7.4,
+      "votes": 7,
+      "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
+      "poster": "https://image.tmdb.org/t/p/w500/hg9fl45RQVR2yZ63DUWqy0hCZ1G.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
+      "release": "2026-07-19"
+    },
+    {
       "id": 44953,
       "title": "El Señor de los Cielos",
-      "rating": 7.981,
-      "votes": 3546,
+      "rating": 7.982,
+      "votes": 3548,
       "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
       "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
@@ -486,6 +476,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wNzhjVcigBJx3dATrlEmaoKbRpx.jpg",
       "release": "2013-08-04"
+    },
+    {
+      "id": 16807,
+      "title": "Jornal Nacional",
+      "rating": 7.0,
+      "votes": 7,
+      "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "poster": "https://image.tmdb.org/t/p/w500/59iVuixNWRgtkT1aN8BR9RrJOBR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ngmekOxfGjiTtNbWM5T5U4WvzlS.jpg",
+      "release": "1969-09-01"
     }
   ]
 }
