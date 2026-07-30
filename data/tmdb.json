@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T10:14:01.451362+00:00",
+  "updated": "2026-07-30T12:23:55.746808+00:00",
   "trending": [
     {
       "id": 271016,
@@ -32,26 +32,6 @@
       "release": "2024-01-17"
     },
     {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.4,
-      "votes": 2194,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
-    },
-    {
-      "id": 327814,
-      "title": "Final Project",
-      "rating": 9.2,
-      "votes": 4,
-      "overview": "New school, new start — until vicious online attacks and a classmate's twisted challenge spark a dangerous bond that pushes Tamara toward transformation.",
-      "poster": "https://image.tmdb.org/t/p/w500/hPA7xadxW24SqT2GKIkbbZYBR6I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rc3Jy6sWFt7PDVGFqLjvo7tle13.jpg",
-      "release": "2026-07-29"
-    },
-    {
       "id": 292533,
       "title": "Wrath",
       "rating": 0.0,
@@ -62,24 +42,14 @@
       "release": "2026-07-29"
     },
     {
-      "id": 287238,
-      "title": "Furious",
-      "rating": 6.5,
-      "votes": 22,
-      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-      "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "release": "2026-07-27"
-    },
-    {
-      "id": 138502,
-      "title": "X-Men '97",
-      "rating": 8.661,
-      "votes": 805,
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-      "release": "2024-03-20"
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.4,
+      "votes": 2194,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
     },
     {
       "id": 94997,
@@ -92,14 +62,34 @@
       "release": "2022-08-21"
     },
     {
+      "id": 287238,
+      "title": "Furious",
+      "rating": 6.5,
+      "votes": 22,
+      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "release": "2026-07-27"
+    },
+    {
       "id": 125988,
       "title": "Silo",
       "rating": 8.2,
       "votes": 2342,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/l0U6SoFpMvJXWz4SByxKkhcIJES.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "release": "2023-05-04"
+    },
+    {
+      "id": 327814,
+      "title": "Final Project",
+      "rating": 9.2,
+      "votes": 4,
+      "overview": "New school, new start — until vicious online attacks and a classmate's twisted challenge spark a dangerous bond that pushes Tamara toward transformation.",
+      "poster": "https://image.tmdb.org/t/p/w500/hPA7xadxW24SqT2GKIkbbZYBR6I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/rc3Jy6sWFt7PDVGFqLjvo7tle13.jpg",
+      "release": "2026-07-29"
     },
     {
       "id": 60625,
@@ -112,22 +102,32 @@
       "release": "2013-12-02"
     },
     {
-      "id": 295599,
-      "title": "Royal Betrothal",
-      "rating": 9.0,
-      "votes": 1,
-      "overview": "Rescued from the brink of death a decade ago, Meng Tinghui has transformed from a nameless survivor into the Daping Dynasty’s first female scholar to enter the prestigious Hanlin Academy. Known for her sharp wit and cunning nature, she has spent years navigating the treacherous waters of the imperial court. While her peers see only a ruthless official, she harbors a secret devotion to the man who saved her – Emperor Ying Gua. Tinghui is intent on helping Ying Gua become the greatest ruler in history, no matter what it takes. But amidst the power struggles and political schemes, Meng Tinghui remains blind to the one truth that could change everything: the Emperor’s heart has belonged to her all along.",
-      "poster": "https://image.tmdb.org/t/p/w500/31nFRRsQQnCti8TiBuiEgNKYaZp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qa3HJLBxhQQgCbaqdhtYea0Hygk.jpg",
-      "release": "2026-07-28"
+      "id": 138502,
+      "title": "X-Men '97",
+      "rating": 8.661,
+      "votes": 805,
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+      "release": "2024-03-20"
+    },
+    {
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.7,
+      "votes": 5445,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
     }
   ],
   "popular": [
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.377,
-      "votes": 6774,
+      "rating": 8.378,
+      "votes": 6778,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -136,8 +136,8 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.367,
-      "votes": 4464,
+      "rating": 8.368,
+      "votes": 4465,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
@@ -157,7 +157,7 @@
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
       "rating": 7.957,
-      "votes": 4299,
+      "votes": 4300,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
@@ -237,7 +237,7 @@
       "id": 124364,
       "title": "FROM",
       "rating": 8.499,
-      "votes": 4078,
+      "votes": 4079,
       "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
       "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
