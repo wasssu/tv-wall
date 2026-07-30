@@ -7,7 +7,7 @@ polling_verb: get
 framework_version: 3.1.8
 serverless_language: node
 polling_url: https://wasssu.github.io/tv-wall/data/tmdb.json
-polling_headers: "."
+polling_headers: ''
 polling_body: ''
 id: 397259
 oauth_enabled: 'false'
