@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T13:42:56.164582+00:00",
+  "updated": "2026-07-31T15:55:34.971750+00:00",
   "trending": [
     {
       "id": 271016,
@@ -14,8 +14,8 @@
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.184,
-      "votes": 2344,
+      "rating": 8.185,
+      "votes": 2346,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -32,10 +32,20 @@
       "release": "2024-08-01"
     },
     {
+      "id": 277439,
+      "title": "Cape Fear",
+      "rating": 7.1,
+      "votes": 84,
+      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+      "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
+      "release": "2026-06-04"
+    },
+    {
       "id": 287620,
       "title": "Stuart Fails to Save the Universe",
-      "rating": 9.3,
-      "votes": 47,
+      "rating": 9.271,
+      "votes": 48,
       "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
       "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
@@ -52,16 +62,6 @@
       "release": "2022-05-05"
     },
     {
-      "id": 277439,
-      "title": "Cape Fear",
-      "rating": 7.143,
-      "votes": 84,
-      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-      "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
-      "release": "2026-06-04"
-    },
-    {
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.375,
@@ -70,16 +70,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "release": "2022-08-21"
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.4,
-      "votes": 2197,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
     },
     {
       "id": 278624,
@@ -92,14 +82,24 @@
       "release": "2026-07-14"
     },
     {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.748,
-      "votes": 5445,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "release": "1999-10-20"
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.4,
+      "votes": 2197,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
+    },
+    {
+      "id": 301418,
+      "title": "The Affair Was Just The Beginning",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "A successful entrepreneur with a seemingly perfect life sees everything fall apart after discovering her husband covering up a murder allegedly committed by their daughter. As the family scrambles to hide the truth, an anonymous blackmailer claims to have recorded everything, pulling them into a dangerous web of lies, secrets, and betrayal.",
+      "poster": "https://image.tmdb.org/t/p/w500/1AOX8kjzfktKIDtUoy9MEba883R.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
+      "release": "2026-07-31"
     },
     {
       "id": 215072,
@@ -112,22 +112,22 @@
       "release": "2024-01-17"
     },
     {
-      "id": 292533,
-      "title": "Wrath",
-      "rating": 5.5,
-      "votes": 2,
-      "overview": "A wounded amnesiac finds refuge with an MMA coach and steps into the ring, torn between hope for a new future and a dangerous past that keeps closing in.",
-      "poster": "https://image.tmdb.org/t/p/w500/sg4QZgXllPD3WgXRhgruIzQfl0U.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/kZ77s94jLBliHXDXXPegi6ZbbtN.jpg",
-      "release": "2026-07-29"
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.748,
+      "votes": 5445,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
     }
   ],
   "popular": [
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.376,
-      "votes": 6779,
+      "rating": 8.375,
+      "votes": 6782,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -136,12 +136,22 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.368,
-      "votes": 4466,
+      "rating": 8.369,
+      "votes": 4470,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
       "release": "2008-09-23"
+    },
+    {
+      "id": 51025,
+      "title": "Paradise Hotel",
+      "rating": 5.6,
+      "votes": 10,
+      "overview": "Danish version of the reality series \"Paradise Hotel\".",
+      "poster": "https://image.tmdb.org/t/p/w500/ycSBcACecVR0zSnP2ZF83k5f7he.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nun8Ssmni886Ib4v7chgQbswDfl.jpg",
+      "release": "2005-09-14"
     },
     {
       "id": 233643,
@@ -154,10 +164,30 @@
       "release": "2023-10-02"
     },
     {
+      "id": 204269,
+      "title": "Caressing My Hibernating Bear",
+      "rating": 5.9,
+      "votes": 7,
+      "overview": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of it with great care. Time passes and Nowa soon has to leave him temporarily alone in order to hibernate. Waking up several months later, he discovers that Airi has grown well into an attractive young man.",
+      "poster": "https://image.tmdb.org/t/p/w500/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gH3HCoEBuiLqzZii0sOMfMyXSR8.jpg",
+      "release": "2022-07-04"
+    },
+    {
+      "id": 79744,
+      "title": "The Rookie",
+      "rating": 8.551,
+      "votes": 3414,
+      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+      "release": "2018-10-16"
+    },
+    {
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
-      "rating": 7.957,
-      "votes": 4300,
+      "rating": 7.958,
+      "votes": 4301,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
@@ -174,40 +204,10 @@
       "release": "1952-12-26"
     },
     {
-      "id": 204269,
-      "title": "Caressing My Hibernating Bear",
-      "rating": 5.9,
-      "votes": 7,
-      "overview": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of it with great care. Time passes and Nowa soon has to leave him temporarily alone in order to hibernate. Waking up several months later, he discovers that Airi has grown well into an attractive young man.",
-      "poster": "https://image.tmdb.org/t/p/w500/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gH3HCoEBuiLqzZii0sOMfMyXSR8.jpg",
-      "release": "2022-07-04"
-    },
-    {
-      "id": 79744,
-      "title": "The Rookie",
-      "rating": 8.551,
-      "votes": 3413,
-      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-      "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-      "release": "2018-10-16"
-    },
-    {
-      "id": 51025,
-      "title": "Paradise Hotel",
-      "rating": 5.6,
-      "votes": 10,
-      "overview": "Danish version of the reality series \"Paradise Hotel\".",
-      "poster": "https://image.tmdb.org/t/p/w500/ycSBcACecVR0zSnP2ZF83k5f7he.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nun8Ssmni886Ib4v7chgQbswDfl.jpg",
-      "release": "2005-09-14"
-    },
-    {
       "id": 60625,
       "title": "Rick and Morty",
-      "rating": 8.679,
-      "votes": 11196,
+      "rating": 8.68,
+      "votes": 11197,
       "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
       "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
@@ -226,8 +226,8 @@
     {
       "id": 124364,
       "title": "FROM",
-      "rating": 8.498,
-      "votes": 4082,
+      "rating": 8.499,
+      "votes": 4084,
       "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
       "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
@@ -236,7 +236,7 @@
     {
       "id": 549,
       "title": "Law & Order",
-      "rating": 7.282,
+      "rating": 7.3,
       "votes": 698,
       "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
       "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
@@ -248,7 +248,7 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.438,
+      "rating": 9.4,
       "votes": 745,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.927,
-      "votes": 750,
+      "rating": 8.926,
+      "votes": 752,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
@@ -358,7 +358,7 @@
     {
       "id": 37854,
       "title": "One Piece",
-      "rating": 8.7,
+      "rating": 8.748,
       "votes": 5445,
       "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
