@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T23:54:48.314787+00:00",
+  "updated": "2026-07-31T01:56:44.115524+00:00",
   "trending": [
     {
       "id": 271016,
@@ -32,6 +32,26 @@
       "release": "2023-05-04"
     },
     {
+      "id": 327814,
+      "title": "Final Project",
+      "rating": 9.2,
+      "votes": 4,
+      "overview": "New school, new start — until vicious online attacks and a classmate's twisted challenge spark a dangerous bond that pushes Tamara toward transformation.",
+      "poster": "https://image.tmdb.org/t/p/w500/hPA7xadxW24SqT2GKIkbbZYBR6I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/rc3Jy6sWFt7PDVGFqLjvo7tle13.jpg",
+      "release": "2026-07-29"
+    },
+    {
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.368,
+      "votes": 2195,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
+    },
+    {
       "id": 278624,
       "title": "Lucky",
       "rating": 7.202,
@@ -44,7 +64,7 @@
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.377,
+      "rating": 8.376,
       "votes": 6779,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
@@ -62,34 +82,14 @@
       "release": "2026-07-29"
     },
     {
-      "id": 327814,
-      "title": "Final Project",
-      "rating": 9.2,
-      "votes": 4,
-      "overview": "New school, new start — until vicious online attacks and a classmate's twisted challenge spark a dangerous bond that pushes Tamara toward transformation.",
-      "poster": "https://image.tmdb.org/t/p/w500/hPA7xadxW24SqT2GKIkbbZYBR6I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rc3Jy6sWFt7PDVGFqLjvo7tle13.jpg",
-      "release": "2026-07-29"
-    },
-    {
-      "id": 287238,
-      "title": "Furious",
-      "rating": 6.625,
-      "votes": 24,
-      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-      "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "release": "2026-07-27"
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.368,
-      "votes": 2195,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
+      "id": 60625,
+      "title": "Rick and Morty",
+      "rating": 8.7,
+      "votes": 11195,
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+      "release": "2013-12-02"
     },
     {
       "id": 215072,
@@ -102,32 +102,32 @@
       "release": "2024-01-17"
     },
     {
+      "id": 287238,
+      "title": "Furious",
+      "rating": 6.625,
+      "votes": 24,
+      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "release": "2026-07-27"
+    },
+    {
       "id": 138502,
       "title": "X-Men '97",
-      "rating": 8.665,
-      "votes": 807,
+      "rating": 8.666,
+      "votes": 808,
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
       "release": "2024-03-20"
-    },
-    {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "rating": 8.679,
-      "votes": 11195,
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
-      "release": "2013-12-02"
     }
   ],
   "popular": [
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.377,
-      "votes": 6778,
+      "rating": 8.376,
+      "votes": 6779,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -186,8 +186,8 @@
     {
       "id": 79744,
       "title": "The Rookie",
-      "rating": 8.552,
-      "votes": 3411,
+      "rating": 8.551,
+      "votes": 3412,
       "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
       "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
@@ -206,8 +206,8 @@
     {
       "id": 60625,
       "title": "Rick and Morty",
-      "rating": 8.679,
-      "votes": 11193,
+      "rating": 8.7,
+      "votes": 11195,
       "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
       "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
@@ -226,8 +226,8 @@
     {
       "id": 124364,
       "title": "FROM",
-      "rating": 8.499,
-      "votes": 4080,
+      "rating": 8.498,
+      "votes": 4081,
       "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
       "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
@@ -236,8 +236,8 @@
     {
       "id": 549,
       "title": "Law & Order",
-      "rating": 7.288,
-      "votes": 697,
+      "rating": 7.282,
+      "votes": 698,
       "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
       "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
@@ -269,7 +269,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.949,
-      "votes": 18223,
+      "votes": 18225,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.9,
-      "votes": 749,
+      "rating": 8.927,
+      "votes": 750,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
