@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T15:55:34.971750+00:00",
+  "updated": "2026-07-31T17:21:12.443051+00:00",
   "trending": [
     {
       "id": 271016,
@@ -14,7 +14,7 @@
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.185,
+      "rating": 8.2,
       "votes": 2346,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
@@ -34,8 +34,8 @@
     {
       "id": 277439,
       "title": "Cape Fear",
-      "rating": 7.1,
-      "votes": 84,
+      "rating": 7.141,
+      "votes": 85,
       "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
       "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
@@ -62,6 +62,26 @@
       "release": "2022-05-05"
     },
     {
+      "id": 301418,
+      "title": "The Affair Was Just The Beginning",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "A successful entrepreneur with a seemingly perfect life sees everything fall apart after discovering her husband covering up a murder allegedly committed by their daughter. As the family scrambles to hide the truth, an anonymous blackmailer claims to have recorded everything, pulling them into a dangerous web of lies, secrets, and betrayal.",
+      "poster": "https://image.tmdb.org/t/p/w500/1AOX8kjzfktKIDtUoy9MEba883R.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
+      "release": "2026-07-31"
+    },
+    {
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.4,
+      "votes": 2197,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
+    },
+    {
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.375,
@@ -82,34 +102,14 @@
       "release": "2026-07-14"
     },
     {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.4,
-      "votes": 2197,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
-    },
-    {
-      "id": 301418,
-      "title": "The Affair Was Just The Beginning",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "A successful entrepreneur with a seemingly perfect life sees everything fall apart after discovering her husband covering up a murder allegedly committed by their daughter. As the family scrambles to hide the truth, an anonymous blackmailer claims to have recorded everything, pulling them into a dangerous web of lies, secrets, and betrayal.",
-      "poster": "https://image.tmdb.org/t/p/w500/1AOX8kjzfktKIDtUoy9MEba883R.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
-      "release": "2026-07-31"
-    },
-    {
-      "id": 215072,
-      "title": "A Shop for Killers",
-      "rating": 8.331,
-      "votes": 192,
-      "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
-      "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-      "release": "2024-01-17"
+      "id": 47663,
+      "title": "The Ark",
+      "rating": 6.37,
+      "votes": 162,
+      "overview": "100 years in the future, planetary colonization missions have begun as a necessity to help secure the survival of the human race. The first of these missions on a spacecraft known as Ark One encounters a catastrophic event causing massive destruction and loss of life. With more than a year left to go before reaching their target planet, a lack of life-sustaining supplies and loss of leadership, the remaining crew must become the best versions of themselves to stay on course and survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/rec774m02XNLSjU9qm5z6UUfMRl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nUEcobWsTpvOh23US0MRZXIU8jt.jpg",
+      "release": "2023-02-01"
     },
     {
       "id": 37854,
