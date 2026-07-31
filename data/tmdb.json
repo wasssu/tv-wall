@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-31T11:21:36.877035+00:00",
+  "updated": "2026-07-31T13:42:56.164582+00:00",
   "trending": [
     {
       "id": 271016,
       "title": "Mystic Nine",
-      "rating": 0.0,
-      "votes": 0,
+      "rating": 9.0,
+      "votes": 1,
       "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
       "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/snExrS3rICUXDsiG7jUV7K6Q0wj.jpg",
@@ -14,8 +14,8 @@
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.185,
-      "votes": 2343,
+      "rating": 8.184,
+      "votes": 2344,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -32,44 +32,54 @@
       "release": "2024-08-01"
     },
     {
-      "id": 277439,
-      "title": "Cape Fear",
-      "rating": 7.1,
-      "votes": 83,
-      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-      "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
-      "release": "2026-06-04"
-    },
-    {
-      "id": 103516,
-      "title": "Star Trek: Strange New Worlds",
-      "rating": 7.9,
-      "votes": 789,
-      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-      "release": "2022-05-05"
-    },
-    {
       "id": 287620,
       "title": "Stuart Fails to Save the Universe",
-      "rating": 9.2,
-      "votes": 46,
+      "rating": 9.3,
+      "votes": 47,
       "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
       "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
       "release": "2026-07-23"
     },
     {
+      "id": 103516,
+      "title": "Star Trek: Strange New Worlds",
+      "rating": 7.917,
+      "votes": 790,
+      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+      "release": "2022-05-05"
+    },
+    {
+      "id": 277439,
+      "title": "Cape Fear",
+      "rating": 7.143,
+      "votes": 84,
+      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+      "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
+      "release": "2026-06-04"
+    },
+    {
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.375,
-      "votes": 6781,
+      "votes": 6782,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "release": "2022-08-21"
+    },
+    {
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.4,
+      "votes": 2197,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
     },
     {
       "id": 278624,
@@ -82,19 +92,9 @@
       "release": "2026-07-14"
     },
     {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.369,
-      "votes": 2197,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
-    },
-    {
       "id": 37854,
       "title": "One Piece",
-      "rating": 8.7,
+      "rating": 8.748,
       "votes": 5445,
       "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
@@ -102,14 +102,14 @@
       "release": "1999-10-20"
     },
     {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "rating": 8.7,
-      "votes": 11197,
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
-      "release": "2013-12-02"
+      "id": 215072,
+      "title": "A Shop for Killers",
+      "rating": 8.331,
+      "votes": 192,
+      "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+      "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+      "release": "2024-01-17"
     },
     {
       "id": 292533,
@@ -368,26 +368,6 @@
   ],
   "airing_today": [
     {
-      "id": 296206,
-      "title": "Agent Kim Reactivated",
-      "rating": 7.662,
-      "votes": 65,
-      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-      "release": "2026-06-26"
-    },
-    {
-      "id": 61818,
-      "title": "Late Night with Seth Meyers",
-      "rating": 5.1,
-      "votes": 131,
-      "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-      "poster": "https://image.tmdb.org/t/p/w500/u8VruEGv7mtyJihVn2CSA1u90pk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-      "release": "2014-02-25"
-    },
-    {
       "id": 46271,
       "title": "Secret Story",
       "rating": 4.5,
@@ -396,6 +376,36 @@
       "poster": "https://image.tmdb.org/t/p/w500/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
       "release": "2007-06-23"
+    },
+    {
+      "id": 23393,
+      "title": "BBC Proms",
+      "rating": 7.7,
+      "votes": 3,
+      "overview": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Royal Albert Hall in London, and in recent years has explored an innovative series of Proms around the UK with concerts in all four nations. Its aim: to bring the best in classical music to the widest possible audience, which remains true to founder-conductor Henry Wood’s original vision in 1895.  Whether you are a classical connoisseur or think classical music isn’t for you, there is something for everyone in the eight-week stretch of concerts.",
+      "poster": "https://image.tmdb.org/t/p/w500/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aE8LrypJQs2EJvyVgmV2Ta6Hovz.jpg",
+      "release": "1947-09-13"
+    },
+    {
+      "id": 61818,
+      "title": "Late Night with Seth Meyers",
+      "rating": 5.083,
+      "votes": 132,
+      "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "poster": "https://image.tmdb.org/t/p/w500/u8VruEGv7mtyJihVn2CSA1u90pk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
+      "release": "2014-02-25"
+    },
+    {
+      "id": 296206,
+      "title": "Agent Kim Reactivated",
+      "rating": 7.7,
+      "votes": 65,
+      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+      "release": "2026-06-26"
     },
     {
       "id": 206559,
@@ -428,26 +438,6 @@
       "release": "1992-05-11"
     },
     {
-      "id": 65701,
-      "title": "Good Mythical Morning",
-      "rating": 6.9,
-      "votes": 91,
-      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
-      "release": "2012-01-09"
-    },
-    {
-      "id": 23393,
-      "title": "BBC Proms",
-      "rating": 7.7,
-      "votes": 3,
-      "overview": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Royal Albert Hall in London, and in recent years has explored an innovative series of Proms around the UK with concerts in all four nations. Its aim: to bring the best in classical music to the widest possible audience, which remains true to founder-conductor Henry Wood’s original vision in 1895.  Whether you are a classical connoisseur or think classical music isn’t for you, there is something for everyone in the eight-week stretch of concerts.",
-      "poster": "https://image.tmdb.org/t/p/w500/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/aE8LrypJQs2EJvyVgmV2Ta6Hovz.jpg",
-      "release": "1947-09-13"
-    },
-    {
       "id": 261471,
       "title": "Stand-up Comedy",
       "rating": 5.8,
@@ -468,14 +458,24 @@
       "release": "2013-04-15"
     },
     {
-      "id": 303084,
-      "title": "Deep In",
-      "rating": 9.4,
-      "votes": 5,
-      "overview": "Filming a daring romance movie, an award-winning actor and an ambitious newcomer lose track of where acting ends and their real desire begins.",
-      "poster": "https://image.tmdb.org/t/p/w500/aO2R6lWasqv9BsE7qpquDxE68TD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8RUoesAKJIQjTZffFuVpd7QR1CS.jpg",
-      "release": "2026-06-26"
+      "id": 301174,
+      "title": "Coração Acelerado",
+      "rating": 6.0,
+      "votes": 1,
+      "overview": "The musical romantic comedy tells the story of Agrado Garcia, who dreams of being a successful country singer. On the way, she meets the star João Raul, her old flame.",
+      "poster": "https://image.tmdb.org/t/p/w500/dwSw1affkj4DfdqkCfyhpSa4ueP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/xTU60aw1LhC3qGjKxK9B2W6gZ9k.jpg",
+      "release": "2026-01-12"
+    },
+    {
+      "id": 65701,
+      "title": "Good Mythical Morning",
+      "rating": 6.9,
+      "votes": 91,
+      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+      "release": "2012-01-09"
     },
     {
       "id": 57532,
