@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T19:09:06.635482+00:00",
+  "updated": "2026-07-31T20:54:16.628416+00:00",
   "trending": [
     {
       "id": 125988,
@@ -22,6 +22,16 @@
       "release": "2024-08-01"
     },
     {
+      "id": 277439,
+      "title": "Cape Fear",
+      "rating": 7.1,
+      "votes": 90,
+      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+      "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
+      "release": "2026-06-04"
+    },
+    {
       "id": 271016,
       "title": "Mystic Nine",
       "rating": 9.0,
@@ -32,24 +42,24 @@
       "release": "2026-07-30"
     },
     {
-      "id": 277439,
-      "title": "Cape Fear",
-      "rating": 7.135,
-      "votes": 89,
-      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-      "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
-      "release": "2026-06-04"
-    },
-    {
       "id": 287620,
       "title": "Stuart Fails to Save the Universe",
-      "rating": 9.286,
-      "votes": 49,
+      "rating": 9.3,
+      "votes": 50,
       "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
       "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
       "release": "2026-07-23"
+    },
+    {
+      "id": 103516,
+      "title": "Star Trek: Strange New Worlds",
+      "rating": 7.92,
+      "votes": 791,
+      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+      "release": "2022-05-05"
     },
     {
       "id": 94997,
@@ -62,14 +72,14 @@
       "release": "2022-08-21"
     },
     {
-      "id": 103516,
-      "title": "Star Trek: Strange New Worlds",
-      "rating": 7.92,
-      "votes": 791,
-      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-      "release": "2022-05-05"
+      "id": 301418,
+      "title": "The Affair Was Just The Beginning",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "A successful entrepreneur with a seemingly perfect life sees everything fall apart after discovering her husband covering up a murder allegedly committed by their daughter. As the family scrambles to hide the truth, an anonymous blackmailer claims to have recorded everything, pulling them into a dangerous web of lies, secrets, and betrayal.",
+      "poster": "https://image.tmdb.org/t/p/w500/96LapGcyjchiustfYnwryB6p7I5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
+      "release": "2026-07-31"
     },
     {
       "id": 30984,
@@ -92,23 +102,13 @@
       "release": "2026-07-14"
     },
     {
-      "id": 301418,
-      "title": "The Affair Was Just The Beginning",
+      "id": 294095,
+      "title": "A Bona Fide Killer",
       "rating": 0.0,
       "votes": 0,
-      "overview": "A successful entrepreneur with a seemingly perfect life sees everything fall apart after discovering her husband covering up a murder allegedly committed by their daughter. As the family scrambles to hide the truth, an anonymous blackmailer claims to have recorded everything, pulling them into a dangerous web of lies, secrets, and betrayal.",
-      "poster": "https://image.tmdb.org/t/p/w500/96LapGcyjchiustfYnwryB6p7I5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
-      "release": "2026-07-31"
-    },
-    {
-      "id": 329635,
-      "title": "Play Me",
-      "rating": 8.0,
-      "votes": 1,
-      "overview": "The top star Jung Yihyun, who started as a child actor, decides to quit the entertainment industry due to his mother's sudden death. Kang Jaewon, a part-time worker who lives from hand to mouth, has to temporarily give up his actor dream due to real-life pressures. The two, who had a falling-out in high school due to a misunderstanding, reunite years later because of a musical. Through portraying the characters, they rediscover love.",
-      "poster": "https://image.tmdb.org/t/p/w500/d9kY1DVjUnZKTwz6mVSxZZlpkGO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fDZRLsPMeo5OKuc1DSJbUCG46NX.jpg",
+      "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "poster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
       "release": "2026-07-31"
     },
     {
@@ -137,7 +137,7 @@
       "id": 5920,
       "title": "The Mentalist",
       "rating": 8.369,
-      "votes": 4470,
+      "votes": 4471,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
@@ -177,7 +177,7 @@
       "id": 79744,
       "title": "The Rookie",
       "rating": 8.551,
-      "votes": 3414,
+      "votes": 3415,
       "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
       "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
@@ -206,7 +206,7 @@
     {
       "id": 60625,
       "title": "Rick and Morty",
-      "rating": 8.68,
+      "rating": 8.7,
       "votes": 11197,
       "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
       "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
@@ -236,8 +236,8 @@
     {
       "id": 549,
       "title": "Law & Order",
-      "rating": 7.3,
-      "votes": 698,
+      "rating": 7.282,
+      "votes": 699,
       "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
       "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
@@ -450,7 +450,7 @@
     {
       "id": 44953,
       "title": "El Señor de los Cielos",
-      "rating": 7.982,
+      "rating": 8.0,
       "votes": 3549,
       "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
       "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
