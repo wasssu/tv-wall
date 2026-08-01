@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T09:52:10.977212+00:00",
+  "updated": "2026-08-01T11:10:47.388536+00:00",
   "trending": [
     {
       "id": 125909,
@@ -12,16 +12,6 @@
       "release": "2024-08-01"
     },
     {
-      "id": 277439,
-      "title": "Cape Fear",
-      "rating": 7.2,
-      "votes": 94,
-      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-      "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
-      "release": "2026-06-04"
-    },
-    {
       "id": 271016,
       "title": "Mystic Nine",
       "rating": 9.0,
@@ -32,24 +22,24 @@
       "release": "2026-07-30"
     },
     {
+      "id": 277439,
+      "title": "Cape Fear",
+      "rating": 7.2,
+      "votes": 94,
+      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+      "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
+      "release": "2026-06-04"
+    },
+    {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.184,
-      "votes": 2349,
+      "rating": 8.185,
+      "votes": 2350,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "release": "2023-05-04"
-    },
-    {
-      "id": 287620,
-      "title": "Stuart Fails to Save the Universe",
-      "rating": 9.298,
-      "votes": 57,
-      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
-      "release": "2026-07-23"
     },
     {
       "id": 294095,
@@ -60,6 +50,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
       "release": "2026-07-31"
+    },
+    {
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "rating": 9.3,
+      "votes": 57,
+      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
+      "release": "2026-07-23"
     },
     {
       "id": 301418,
@@ -92,6 +92,16 @@
       "release": "2022-08-21"
     },
     {
+      "id": 60625,
+      "title": "Rick and Morty",
+      "rating": 8.7,
+      "votes": 11201,
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+      "release": "2013-12-02"
+    },
+    {
       "id": 37854,
       "title": "One Piece",
       "rating": 8.748,
@@ -102,24 +112,14 @@
       "release": "1999-10-20"
     },
     {
-      "id": 8840,
-      "title": "Fightland",
-      "rating": 4.143,
-      "votes": 7,
-      "overview": "A disgraced, formerly incarcerated boxing champion returns to London to seek vengeance against the crime syndicate he thinks betrayed him.",
-      "poster": "https://image.tmdb.org/t/p/w500/qRlOEIiwkfLy6ERRMbyQNGQQ6Lc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mnczDxApNmxx50Q6WUVtdNV5QS6.jpg",
-      "release": "2026-07-31"
-    },
-    {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "rating": 8.68,
-      "votes": 11201,
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
-      "release": "2013-12-02"
+      "id": 278624,
+      "title": "Lucky",
+      "rating": 7.2,
+      "votes": 102,
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "release": "2026-07-14"
     }
   ],
   "popular": [
@@ -136,8 +136,8 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.37,
-      "votes": 4476,
+      "rating": 8.371,
+      "votes": 4477,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
@@ -206,8 +206,8 @@
     {
       "id": 60625,
       "title": "Rick and Morty",
-      "rating": 8.68,
-      "votes": 11200,
+      "rating": 8.7,
+      "votes": 11201,
       "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
       "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
@@ -216,8 +216,8 @@
     {
       "id": 1416,
       "title": "Grey's Anatomy",
-      "rating": 8.208,
-      "votes": 10982,
+      "rating": 8.207,
+      "votes": 10983,
       "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
       "poster": "https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
@@ -227,7 +227,7 @@
       "id": 124364,
       "title": "FROM",
       "rating": 8.497,
-      "votes": 4085,
+      "votes": 4086,
       "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
       "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
@@ -368,16 +368,6 @@
   ],
   "airing_today": [
     {
-      "id": 46271,
-      "title": "Secret Story",
-      "rating": 4.5,
-      "votes": 12,
-      "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
-      "poster": "https://image.tmdb.org/t/p/w500/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
-      "release": "2007-06-23"
-    },
-    {
       "id": 23393,
       "title": "BBC Proms",
       "rating": 7.7,
@@ -388,14 +378,14 @@
       "release": "1947-09-13"
     },
     {
-      "id": 61818,
-      "title": "Late Night with Seth Meyers",
-      "rating": 5.083,
-      "votes": 132,
-      "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-      "poster": "https://image.tmdb.org/t/p/w500/u8VruEGv7mtyJihVn2CSA1u90pk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-      "release": "2014-02-25"
+      "id": 45140,
+      "title": "Teen Titans Go!",
+      "rating": 6.433,
+      "votes": 714,
+      "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
+      "poster": "https://image.tmdb.org/t/p/w500/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+      "release": "2013-04-23"
     },
     {
       "id": 296206,
@@ -408,34 +398,24 @@
       "release": "2026-06-26"
     },
     {
-      "id": 206559,
-      "title": "Binnelanders",
-      "rating": 5.5,
-      "votes": 111,
-      "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-      "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-      "release": "2005-10-13"
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.4,
+      "votes": 2197,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
     },
     {
-      "id": 289139,
-      "title": "Overdo",
-      "rating": 7.75,
-      "votes": 8,
-      "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
-      "poster": "https://image.tmdb.org/t/p/w500/hg9fl45RQVR2yZ63DUWqy0hCZ1G.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
-      "release": "2026-07-19"
-    },
-    {
-      "id": 13945,
-      "title": "Gute Zeiten, schlechte Zeiten",
-      "rating": 5.458,
-      "votes": 48,
-      "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
-      "poster": "https://image.tmdb.org/t/p/w500/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
-      "release": "1992-05-11"
+      "id": 30983,
+      "title": "Detective Conan",
+      "rating": 8.01,
+      "votes": 778,
+      "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
+      "poster": "https://image.tmdb.org/t/p/w500/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+      "release": "1996-01-08"
     },
     {
       "id": 261471,
@@ -448,44 +428,64 @@
       "release": "2024-08-20"
     },
     {
-      "id": 44953,
-      "title": "El Señor de los Cielos",
-      "rating": 7.983,
-      "votes": 3550,
-      "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
-      "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
-      "release": "2013-04-15"
+      "id": 6060,
+      "title": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+      "rating": 3.417,
+      "votes": 12,
+      "overview": "A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start to get involved with having girlfriends and the bahu's try and break their relationships up.",
+      "poster": "https://image.tmdb.org/t/p/w500/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gwXnESfjDqop3tDLoGxSwCUP8GD.jpg",
+      "release": "2000-07-03"
     },
     {
-      "id": 301174,
-      "title": "Coração Acelerado",
-      "rating": 6.0,
+      "id": 106449,
+      "title": "A Record of a Mortal's Journey to Immortality",
+      "rating": 8.4,
+      "votes": 83,
+      "overview": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.",
+      "poster": "https://image.tmdb.org/t/p/w500/u1VRjvvCIVwb1MUhoxSAUimhoKZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
+      "release": "2020-07-25"
+    },
+    {
+      "id": 70672,
+      "title": "Men on a Mission",
+      "rating": 7.4,
+      "votes": 42,
+      "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
+      "poster": "https://image.tmdb.org/t/p/w500/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+      "release": "2015-12-05"
+    },
+    {
+      "id": 154770,
+      "title": "Hello Saturday",
+      "rating": 6.455,
+      "votes": 11,
+      "overview": "\"Hello, Saturday\" is the rebranding of the popular Chinese show \"Happy Camp\", hosted by He Jiong and with a fixed group of regular celebrity members.\n\nThe program showcases the talent of various stars as well as social topics through creative and diverse content and games. It aims to spread positive energy while keeping up with the current trends and leading youth culture.",
+      "poster": "https://image.tmdb.org/t/p/w500/wsTjWy6NE2s3h0neChr0D92ddwI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg",
+      "release": "2022-01-01"
+    },
+    {
+      "id": 319037,
+      "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+      "rating": 10.0,
       "votes": 1,
-      "overview": "The musical romantic comedy tells the story of Agrado Garcia, who dreams of being a successful country singer. On the way, she meets the star João Raul, her old flame.",
-      "poster": "https://image.tmdb.org/t/p/w500/dwSw1affkj4DfdqkCfyhpSa4ueP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/xTU60aw1LhC3qGjKxK9B2W6gZ9k.jpg",
-      "release": "2026-01-12"
+      "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
+      "poster": "https://image.tmdb.org/t/p/w500/scklOeyOFJYQehCm3hrssdYIISd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/s9Eg3PUfBbGi6AFFjT07hTuMhpd.jpg",
+      "release": "2026-06-12"
     },
     {
-      "id": 65701,
-      "title": "Good Mythical Morning",
-      "rating": 6.9,
-      "votes": 91,
-      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
-      "release": "2012-01-09"
-    },
-    {
-      "id": 57532,
-      "title": "PAW Patrol",
-      "rating": 6.985,
-      "votes": 815,
-      "overview": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
-      "poster": "https://image.tmdb.org/t/p/w500/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
-      "release": "2013-08-12"
+      "id": 16807,
+      "title": "Jornal Nacional",
+      "rating": 7.0,
+      "votes": 7,
+      "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "poster": "https://image.tmdb.org/t/p/w500/59iVuixNWRgtkT1aN8BR9RrJOBR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ngmekOxfGjiTtNbWM5T5U4WvzlS.jpg",
+      "release": "1969-09-01"
     }
   ]
 }
