@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-01T14:26:00.171149+00:00",
+  "updated": "2026-08-01T15:53:31.471631+00:00",
   "trending": [
     {
       "id": 125909,
       "title": "Batman: Caped Crusader",
-      "rating": 7.258,
+      "rating": 7.3,
       "votes": 265,
       "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
       "poster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
@@ -34,42 +34,12 @@
     {
       "id": 277439,
       "title": "Cape Fear",
-      "rating": 7.177,
-      "votes": 96,
+      "rating": 7.175,
+      "votes": 97,
       "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
       "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
       "release": "2026-06-04"
-    },
-    {
-      "id": 294095,
-      "title": "A Bona Fide Killer",
-      "rating": 10.0,
-      "votes": 2,
-      "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
-      "poster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
-      "release": "2026-07-31"
-    },
-    {
-      "id": 287620,
-      "title": "Stuart Fails to Save the Universe",
-      "rating": 9.267,
-      "votes": 58,
-      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
-      "release": "2026-07-23"
-    },
-    {
-      "id": 301418,
-      "title": "The Affair Was Just The Beginning",
-      "rating": 6.0,
-      "votes": 1,
-      "overview": "A successful entrepreneur with a seemingly perfect life sees everything fall apart after discovering her husband covering up a murder allegedly committed by their daughter. As the family scrambles to hide the truth, an anonymous blackmailer claims to have recorded everything, pulling them into a dangerous web of lies, secrets, and betrayal.",
-      "poster": "https://image.tmdb.org/t/p/w500/96LapGcyjchiustfYnwryB6p7I5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
-      "release": "2026-07-31"
     },
     {
       "id": 30984,
@@ -82,6 +52,36 @@
       "release": "2004-10-05"
     },
     {
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "rating": 9.267,
+      "votes": 58,
+      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
+      "release": "2026-07-23"
+    },
+    {
+      "id": 294095,
+      "title": "A Bona Fide Killer",
+      "rating": 10.0,
+      "votes": 2,
+      "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "poster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
+      "release": "2026-07-31"
+    },
+    {
+      "id": 301418,
+      "title": "The Affair Was Just The Beginning",
+      "rating": 6.0,
+      "votes": 1,
+      "overview": "A successful entrepreneur with a seemingly perfect life sees everything fall apart after discovering her husband covering up a murder allegedly committed by their daughter. As the family scrambles to hide the truth, an anonymous blackmailer claims to have recorded everything, pulling them into a dangerous web of lies, secrets, and betrayal.",
+      "poster": "https://image.tmdb.org/t/p/w500/96LapGcyjchiustfYnwryB6p7I5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
+      "release": "2026-07-31"
+    },
+    {
       "id": 37854,
       "title": "One Piece",
       "rating": 8.748,
@@ -90,16 +90,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
       "release": "1999-10-20"
-    },
-    {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "rating": 8.68,
-      "votes": 11204,
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
-      "release": "2013-12-02"
     },
     {
       "id": 94997,
@@ -112,14 +102,24 @@
       "release": "2022-08-21"
     },
     {
-      "id": 8840,
-      "title": "Fightland",
-      "rating": 3.8,
-      "votes": 8,
-      "overview": "A disgraced, formerly incarcerated boxing champion returns to London to seek vengeance against the crime syndicate he thinks betrayed him.",
-      "poster": "https://image.tmdb.org/t/p/w500/qRlOEIiwkfLy6ERRMbyQNGQQ6Lc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mnczDxApNmxx50Q6WUVtdNV5QS6.jpg",
-      "release": "2026-07-31"
+      "id": 278624,
+      "title": "Lucky",
+      "rating": 7.2,
+      "votes": 102,
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "release": "2026-07-14"
+    },
+    {
+      "id": 60625,
+      "title": "Rick and Morty",
+      "rating": 8.68,
+      "votes": 11205,
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+      "release": "2013-12-02"
     }
   ],
   "popular": [
