@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T17:53:52.759961+00:00",
+  "updated": "2026-08-01T18:55:47.886703+00:00",
   "trending": [
     {
       "id": 30984,
@@ -12,16 +12,6 @@
       "release": "2004-10-05"
     },
     {
-      "id": 125909,
-      "title": "Batman: Caped Crusader",
-      "rating": 7.3,
-      "votes": 265,
-      "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
-      "poster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
-      "release": "2024-08-01"
-    },
-    {
       "id": 125988,
       "title": "Silo",
       "rating": 8.182,
@@ -30,6 +20,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "release": "2023-05-04"
+    },
+    {
+      "id": 125909,
+      "title": "Batman: Caped Crusader",
+      "rating": 7.3,
+      "votes": 265,
+      "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
+      "poster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
+      "release": "2024-08-01"
     },
     {
       "id": 271016,
@@ -44,22 +44,12 @@
     {
       "id": 277439,
       "title": "Cape Fear",
-      "rating": 7.2,
-      "votes": 97,
+      "rating": 7.184,
+      "votes": 98,
       "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
       "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
       "release": "2026-06-04"
-    },
-    {
-      "id": 287620,
-      "title": "Stuart Fails to Save the Universe",
-      "rating": 9.258,
-      "votes": 60,
-      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
-      "release": "2026-07-23"
     },
     {
       "id": 294095,
@@ -72,14 +62,14 @@
       "release": "2026-07-31"
     },
     {
-      "id": 301418,
-      "title": "The Affair Was Just The Beginning",
-      "rating": 6.0,
-      "votes": 1,
-      "overview": "A successful entrepreneur with a seemingly perfect life sees everything fall apart after discovering her husband covering up a murder allegedly committed by their daughter. As the family scrambles to hide the truth, an anonymous blackmailer claims to have recorded everything, pulling them into a dangerous web of lies, secrets, and betrayal.",
-      "poster": "https://image.tmdb.org/t/p/w500/96LapGcyjchiustfYnwryB6p7I5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
-      "release": "2026-07-31"
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "rating": 9.258,
+      "votes": 60,
+      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
+      "release": "2026-07-23"
     },
     {
       "id": 37854,
@@ -92,6 +82,16 @@
       "release": "1999-10-20"
     },
     {
+      "id": 301418,
+      "title": "The Affair Was Just The Beginning",
+      "rating": 6.0,
+      "votes": 1,
+      "overview": "A successful entrepreneur with a seemingly perfect life sees everything fall apart after discovering her husband covering up a murder allegedly committed by their daughter. As the family scrambles to hide the truth, an anonymous blackmailer claims to have recorded everything, pulling them into a dangerous web of lies, secrets, and betrayal.",
+      "poster": "https://image.tmdb.org/t/p/w500/96LapGcyjchiustfYnwryB6p7I5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
+      "release": "2026-07-31"
+    },
+    {
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.375,
@@ -102,16 +102,6 @@
       "release": "2022-08-21"
     },
     {
-      "id": 278624,
-      "title": "Lucky",
-      "rating": 7.2,
-      "votes": 102,
-      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "release": "2026-07-14"
-    },
-    {
       "id": 60625,
       "title": "Rick and Morty",
       "rating": 8.68,
@@ -120,6 +110,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
       "release": "2013-12-02"
+    },
+    {
+      "id": 278624,
+      "title": "Lucky",
+      "rating": 7.2,
+      "votes": 102,
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "release": "2026-07-14"
     }
   ],
   "popular": [
@@ -368,6 +368,16 @@
   ],
   "airing_today": [
     {
+      "id": 16807,
+      "title": "Jornal Nacional",
+      "rating": 7.0,
+      "votes": 7,
+      "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "poster": "https://image.tmdb.org/t/p/w500/59iVuixNWRgtkT1aN8BR9RrJOBR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ngmekOxfGjiTtNbWM5T5U4WvzlS.jpg",
+      "release": "1969-09-01"
+    },
+    {
       "id": 23393,
       "title": "BBC Proms",
       "rating": 7.7,
@@ -476,16 +486,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/scklOeyOFJYQehCm3hrssdYIISd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/s9Eg3PUfBbGi6AFFjT07hTuMhpd.jpg",
       "release": "2026-06-12"
-    },
-    {
-      "id": 16807,
-      "title": "Jornal Nacional",
-      "rating": 7.0,
-      "votes": 7,
-      "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
-      "poster": "https://image.tmdb.org/t/p/w500/59iVuixNWRgtkT1aN8BR9RrJOBR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ngmekOxfGjiTtNbWM5T5U4WvzlS.jpg",
-      "release": "1969-09-01"
     }
   ]
 }
