@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-01T21:44:43.123055+00:00",
+  "updated": "2026-08-01T22:44:51.877455+00:00",
   "trending": [
     {
       "id": 125988,
       "title": "Silo",
       "rating": 8.182,
-      "votes": 2352,
+      "votes": 2353,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -42,6 +42,26 @@
       "release": "2026-06-04"
     },
     {
+      "id": 94997,
+      "title": "House of the Dragon",
+      "rating": 8.375,
+      "votes": 6790,
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "release": "2022-08-21"
+    },
+    {
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "rating": 9.3,
+      "votes": 60,
+      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
+      "release": "2026-07-23"
+    },
+    {
       "id": 271016,
       "title": "Mystic Nine",
       "rating": 9.0,
@@ -52,14 +72,14 @@
       "release": "2026-07-30"
     },
     {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "rating": 8.375,
-      "votes": 6790,
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "release": "2022-08-21"
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.748,
+      "votes": 5449,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
     },
     {
       "id": 294095,
@@ -72,34 +92,14 @@
       "release": "2026-07-31"
     },
     {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.748,
-      "votes": 5448,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "release": "1999-10-20"
-    },
-    {
-      "id": 287620,
-      "title": "Stuart Fails to Save the Universe",
-      "rating": 9.3,
-      "votes": 60,
-      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/xXlQYcKRlbWG3AiEJl4AjOEanH2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
-      "release": "2026-07-23"
-    },
-    {
-      "id": 301418,
-      "title": "The Affair Was Just The Beginning",
-      "rating": 6.0,
-      "votes": 1,
-      "overview": "A successful entrepreneur with a seemingly perfect life sees everything fall apart after discovering her husband covering up a murder allegedly committed by their daughter. As the family scrambles to hide the truth, an anonymous blackmailer claims to have recorded everything, pulling them into a dangerous web of lies, secrets, and betrayal.",
-      "poster": "https://image.tmdb.org/t/p/w500/96LapGcyjchiustfYnwryB6p7I5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
-      "release": "2026-07-31"
+      "id": 278624,
+      "title": "Lucky",
+      "rating": 7.2,
+      "votes": 102,
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "release": "2026-07-14"
     },
     {
       "id": 60625,
@@ -112,14 +112,14 @@
       "release": "2013-12-02"
     },
     {
-      "id": 278624,
-      "title": "Lucky",
-      "rating": 7.2,
-      "votes": 102,
-      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "release": "2026-07-14"
+      "id": 301418,
+      "title": "The Affair Was Just The Beginning",
+      "rating": 6.0,
+      "votes": 1,
+      "overview": "A successful entrepreneur with a seemingly perfect life sees everything fall apart after discovering her husband covering up a murder allegedly committed by their daughter. As the family scrambles to hide the truth, an anonymous blackmailer claims to have recorded everything, pulling them into a dangerous web of lies, secrets, and betrayal.",
+      "poster": "https://image.tmdb.org/t/p/w500/96LapGcyjchiustfYnwryB6p7I5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
+      "release": "2026-07-31"
     }
   ],
   "popular": [
