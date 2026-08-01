@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T20:06:41.483433+00:00",
+  "updated": "2026-08-01T21:44:43.123055+00:00",
   "trending": [
     {
       "id": 125988,
@@ -34,8 +34,8 @@
     {
       "id": 277439,
       "title": "Cape Fear",
-      "rating": 7.182,
-      "votes": 99,
+      "rating": 7.178,
+      "votes": 101,
       "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
       "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
@@ -52,29 +52,9 @@
       "release": "2026-07-30"
     },
     {
-      "id": 294095,
-      "title": "A Bona Fide Killer",
-      "rating": 10.0,
-      "votes": 2,
-      "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
-      "poster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
-      "release": "2026-07-31"
-    },
-    {
-      "id": 287620,
-      "title": "Stuart Fails to Save the Universe",
-      "rating": 9.3,
-      "votes": 60,
-      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/xXlQYcKRlbWG3AiEJl4AjOEanH2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
-      "release": "2026-07-23"
-    },
-    {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.4,
+      "rating": 8.375,
       "votes": 6790,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
@@ -82,13 +62,13 @@
       "release": "2022-08-21"
     },
     {
-      "id": 301418,
-      "title": "The Affair Was Just The Beginning",
-      "rating": 6.0,
-      "votes": 1,
-      "overview": "A successful entrepreneur with a seemingly perfect life sees everything fall apart after discovering her husband covering up a murder allegedly committed by their daughter. As the family scrambles to hide the truth, an anonymous blackmailer claims to have recorded everything, pulling them into a dangerous web of lies, secrets, and betrayal.",
-      "poster": "https://image.tmdb.org/t/p/w500/96LapGcyjchiustfYnwryB6p7I5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
+      "id": 294095,
+      "title": "A Bona Fide Killer",
+      "rating": 10.0,
+      "votes": 2,
+      "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "poster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
       "release": "2026-07-31"
     },
     {
@@ -102,6 +82,26 @@
       "release": "1999-10-20"
     },
     {
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "rating": 9.3,
+      "votes": 60,
+      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "poster": "https://image.tmdb.org/t/p/w500/xXlQYcKRlbWG3AiEJl4AjOEanH2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
+      "release": "2026-07-23"
+    },
+    {
+      "id": 301418,
+      "title": "The Affair Was Just The Beginning",
+      "rating": 6.0,
+      "votes": 1,
+      "overview": "A successful entrepreneur with a seemingly perfect life sees everything fall apart after discovering her husband covering up a murder allegedly committed by their daughter. As the family scrambles to hide the truth, an anonymous blackmailer claims to have recorded everything, pulling them into a dangerous web of lies, secrets, and betrayal.",
+      "poster": "https://image.tmdb.org/t/p/w500/96LapGcyjchiustfYnwryB6p7I5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
+      "release": "2026-07-31"
+    },
+    {
       "id": 60625,
       "title": "Rick and Morty",
       "rating": 8.68,
@@ -112,14 +112,14 @@
       "release": "2013-12-02"
     },
     {
-      "id": 8840,
-      "title": "Fightland",
-      "rating": 4.444,
-      "votes": 9,
-      "overview": "A disgraced, formerly incarcerated boxing champion returns to London to seek vengeance against the crime syndicate he thinks betrayed him.",
-      "poster": "https://image.tmdb.org/t/p/w500/qRlOEIiwkfLy6ERRMbyQNGQQ6Lc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/a0gOfhPiVGjS55HX9aIXInMVXc5.jpg",
-      "release": "2026-07-31"
+      "id": 278624,
+      "title": "Lucky",
+      "rating": 7.2,
+      "votes": 102,
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "release": "2026-07-14"
     }
   ],
   "popular": [
