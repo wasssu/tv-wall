@@ -1,45 +1,35 @@
 {
-  "updated": "2026-08-01T00:02:02.851847+00:00",
+  "updated": "2026-08-01T04:15:57.547943+00:00",
   "trending": [
-    {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.184,
-      "votes": 2347,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
-    },
     {
       "id": 125909,
       "title": "Batman: Caped Crusader",
       "rating": 7.2,
-      "votes": 263,
+      "votes": 264,
       "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
       "poster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
       "release": "2024-08-01"
     },
     {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.184,
+      "votes": 2348,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
+    },
+    {
       "id": 277439,
       "title": "Cape Fear",
-      "rating": 7.1,
-      "votes": 90,
+      "rating": 7.141,
+      "votes": 92,
       "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
       "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
       "release": "2026-06-04"
-    },
-    {
-      "id": 287620,
-      "title": "Stuart Fails to Save the Universe",
-      "rating": 9.216,
-      "votes": 51,
-      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
-      "release": "2026-07-23"
     },
     {
       "id": 271016,
@@ -52,34 +42,14 @@
       "release": "2026-07-30"
     },
     {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "rating": 8.375,
-      "votes": 6783,
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "release": "2022-08-21"
-    },
-    {
-      "id": 103516,
-      "title": "Star Trek: Strange New Worlds",
-      "rating": 7.92,
-      "votes": 791,
-      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-      "release": "2022-05-05"
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.4,
-      "votes": 2197,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "rating": 9.273,
+      "votes": 55,
+      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
+      "release": "2026-07-23"
     },
     {
       "id": 301418,
@@ -92,14 +62,44 @@
       "release": "2026-07-31"
     },
     {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "rating": 8.68,
-      "votes": 11199,
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
-      "release": "2013-12-02"
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.4,
+      "votes": 2197,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
+    },
+    {
+      "id": 94997,
+      "title": "House of the Dragon",
+      "rating": 8.375,
+      "votes": 6785,
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "release": "2022-08-21"
+    },
+    {
+      "id": 294095,
+      "title": "A Bona Fide Killer",
+      "rating": 10.0,
+      "votes": 2,
+      "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "poster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
+      "release": "2026-07-31"
+    },
+    {
+      "id": 103516,
+      "title": "Star Trek: Strange New Worlds",
+      "rating": 7.9,
+      "votes": 792,
+      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+      "release": "2022-05-05"
     },
     {
       "id": 278624,
@@ -112,14 +112,14 @@
       "release": "2026-07-14"
     },
     {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.748,
-      "votes": 5447,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "release": "1999-10-20"
+      "id": 8840,
+      "title": "Fightland",
+      "rating": 4.2,
+      "votes": 5,
+      "overview": "A disgraced, formerly incarcerated boxing champion returns to London to seek vengeance against the crime syndicate he thinks betrayed him.",
+      "poster": "https://image.tmdb.org/t/p/w500/qRlOEIiwkfLy6ERRMbyQNGQQ6Lc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mnczDxApNmxx50Q6WUVtdNV5QS6.jpg",
+      "release": "2026-07-31"
     }
   ],
   "popular": [
@@ -127,7 +127,7 @@
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.375,
-      "votes": 6782,
+      "votes": 6786,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -136,8 +136,8 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.369,
-      "votes": 4471,
+      "rating": 8.37,
+      "votes": 4476,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
@@ -177,7 +177,7 @@
       "id": 79744,
       "title": "The Rookie",
       "rating": 8.551,
-      "votes": 3415,
+      "votes": 3416,
       "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
       "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
@@ -187,7 +187,7 @@
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
       "rating": 7.958,
-      "votes": 4301,
+      "votes": 4303,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
@@ -206,8 +206,8 @@
     {
       "id": 60625,
       "title": "Rick and Morty",
-      "rating": 8.7,
-      "votes": 11197,
+      "rating": 8.68,
+      "votes": 11200,
       "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
       "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
@@ -226,8 +226,8 @@
     {
       "id": 124364,
       "title": "FROM",
-      "rating": 8.499,
-      "votes": 4084,
+      "rating": 8.497,
+      "votes": 4085,
       "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
       "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
@@ -400,8 +400,8 @@
     {
       "id": 296206,
       "title": "Agent Kim Reactivated",
-      "rating": 7.7,
-      "votes": 65,
+      "rating": 7.6,
+      "votes": 66,
       "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
       "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
@@ -420,8 +420,8 @@
     {
       "id": 289139,
       "title": "Overdo",
-      "rating": 7.4,
-      "votes": 7,
+      "rating": 7.75,
+      "votes": 8,
       "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
       "poster": "https://image.tmdb.org/t/p/w500/hg9fl45RQVR2yZ63DUWqy0hCZ1G.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
@@ -450,8 +450,8 @@
     {
       "id": 44953,
       "title": "El Señor de los Cielos",
-      "rating": 8.0,
-      "votes": 3549,
+      "rating": 7.983,
+      "votes": 3550,
       "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
       "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
