@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-02T13:00:47.477418+00:00",
+  "updated": "2026-08-02T14:54:23.707853+00:00",
   "trending": [
     {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.184,
-      "votes": 2356,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.0,
+      "votes": 1264,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+      "release": "2023-07-23"
     },
     {
       "id": 30984,
@@ -22,84 +22,14 @@
       "release": "2004-10-05"
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.0,
-      "votes": 1264,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
-      "release": "2023-07-23"
-    },
-    {
       "id": 271016,
       "title": "Mystic Nine",
-      "rating": 9.0,
-      "votes": 1,
+      "rating": 8.5,
+      "votes": 2,
       "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
       "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/snExrS3rICUXDsiG7jUV7K6Q0wj.jpg",
       "release": "2026-07-30"
-    },
-    {
-      "id": 277439,
-      "title": "Cape Fear",
-      "rating": 7.214,
-      "votes": 103,
-      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-      "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
-      "release": "2026-06-04"
-    },
-    {
-      "id": 289116,
-      "title": "Genius Girlfriend",
-      "rating": 9.0,
-      "votes": 1,
-      "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
-      "poster": "https://image.tmdb.org/t/p/w500/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg",
-      "release": "2026-08-02"
-    },
-    {
-      "id": 294095,
-      "title": "A Bona Fide Killer",
-      "rating": 10.0,
-      "votes": 2,
-      "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
-      "poster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
-      "release": "2026-07-31"
-    },
-    {
-      "id": 125909,
-      "title": "Batman: Caped Crusader",
-      "rating": 7.3,
-      "votes": 265,
-      "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
-      "poster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
-      "release": "2024-08-01"
-    },
-    {
-      "id": 194583,
-      "title": "The Walking Dead: Dead City",
-      "rating": 7.9,
-      "votes": 759,
-      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
-      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
-      "release": "2023-06-18"
-    },
-    {
-      "id": 278624,
-      "title": "Lucky",
-      "rating": 7.24,
-      "votes": 104,
-      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "release": "2026-07-14"
     },
     {
       "id": 94997,
@@ -112,6 +42,46 @@
       "release": "2022-08-21"
     },
     {
+      "id": 289116,
+      "title": "Genius Girlfriend",
+      "rating": 9.0,
+      "votes": 1,
+      "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+      "poster": "https://image.tmdb.org/t/p/w500/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg",
+      "release": "2026-08-02"
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.184,
+      "votes": 2356,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
+    },
+    {
+      "id": 125909,
+      "title": "Batman: Caped Crusader",
+      "rating": 7.3,
+      "votes": 265,
+      "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
+      "poster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
+      "release": "2024-08-01"
+    },
+    {
+      "id": 294095,
+      "title": "A Bona Fide Killer",
+      "rating": 10.0,
+      "votes": 2,
+      "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "poster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
+      "release": "2026-07-31"
+    },
+    {
       "id": 37854,
       "title": "One Piece",
       "rating": 8.748,
@@ -120,6 +90,36 @@
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
       "release": "1999-10-20"
+    },
+    {
+      "id": 277439,
+      "title": "Cape Fear",
+      "rating": 7.214,
+      "votes": 103,
+      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+      "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
+      "release": "2026-06-04"
+    },
+    {
+      "id": 60625,
+      "title": "Rick and Morty",
+      "rating": 8.68,
+      "votes": 11211,
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+      "release": "2013-12-02"
+    },
+    {
+      "id": 278624,
+      "title": "Lucky",
+      "rating": 7.24,
+      "votes": 104,
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "release": "2026-07-14"
     }
   ],
   "popular": [
@@ -370,7 +370,7 @@
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.4,
+      "rating": 8.375,
       "votes": 6794,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
@@ -408,6 +408,16 @@
       "release": "1947-09-13"
     },
     {
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.0,
+      "votes": 1264,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+      "release": "2023-07-23"
+    },
+    {
       "id": 2661,
       "title": "Kamen Rider",
       "rating": 6.4,
@@ -418,16 +428,6 @@
       "release": "1971-04-03"
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 7.992,
-      "votes": 1263,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
-      "release": "2023-07-23"
-    },
-    {
       "id": 33238,
       "title": "Running Man",
       "rating": 8.21,
@@ -436,16 +436,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
       "release": "2010-07-11"
-    },
-    {
-      "id": 289139,
-      "title": "Overdo",
-      "rating": 7.75,
-      "votes": 8,
-      "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
-      "poster": "https://image.tmdb.org/t/p/w500/hg9fl45RQVR2yZ63DUWqy0hCZ1G.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
-      "release": "2026-07-19"
     },
     {
       "id": 223911,
@@ -476,6 +466,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/vFJYt5Pi5Pjc3CKU58oonfXRCio.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/sGK1f1Y2dnExqpjRnsHpI4ZWqJr.jpg",
       "release": "2024-08-20"
+    },
+    {
+      "id": 289139,
+      "title": "Overdo",
+      "rating": 7.8,
+      "votes": 8,
+      "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
+      "poster": "https://image.tmdb.org/t/p/w500/sOh7qrLixexhiWObAKSyh4mAlAR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mmXea9UCZ83TMhHaSkDAJCHKr0S.jpg",
+      "release": "2026-07-19"
     },
     {
       "id": 194583,
