@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-03T17:46:18.369177+00:00",
+  "updated": "2026-08-03T19:20:13.161622+00:00",
   "trending": [
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 7.997,
-      "votes": 1275,
+      "rating": 7.996,
+      "votes": 1277,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3Udwq6W7y4AIsuJDXV2YwowZ1gQ.jpg",
@@ -24,32 +24,12 @@
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.381,
-      "votes": 6818,
+      "rating": 8.382,
+      "votes": 6820,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "release": "2022-08-21"
-    },
-    {
-      "id": 271016,
-      "title": "Mystic Nine",
-      "rating": 8.5,
-      "votes": 2,
-      "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
-      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/snExrS3rICUXDsiG7jUV7K6Q0wj.jpg",
-      "release": "2026-07-30"
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.363,
-      "votes": 2199,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
     },
     {
       "id": 37854,
@@ -72,6 +52,26 @@
       "release": "2023-05-04"
     },
     {
+      "id": 271016,
+      "title": "Mystic Nine",
+      "rating": 8.5,
+      "votes": 2,
+      "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/snExrS3rICUXDsiG7jUV7K6Q0wj.jpg",
+      "release": "2026-07-30"
+    },
+    {
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.364,
+      "votes": 2200,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
+    },
+    {
       "id": 289116,
       "title": "Genius Girlfriend",
       "rating": 9.0,
@@ -82,14 +82,24 @@
       "release": "2026-08-02"
     },
     {
-      "id": 296140,
-      "title": "My Bias, My Boss",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
-      "poster": "https://image.tmdb.org/t/p/w500/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
-      "release": "2026-08-03"
+      "id": 298610,
+      "title": "Spooky in Love",
+      "rating": 8.0,
+      "votes": 18,
+      "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
+      "poster": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
+      "release": "2026-07-18"
+    },
+    {
+      "id": 277439,
+      "title": "Cape Fear",
+      "rating": 7.149,
+      "votes": 111,
+      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+      "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
+      "release": "2026-06-04"
     },
     {
       "id": 287238,
@@ -102,24 +112,14 @@
       "release": "2026-07-27"
     },
     {
-      "id": 125909,
-      "title": "Batman: Caped Crusader",
-      "rating": 7.261,
-      "votes": 266,
-      "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
-      "poster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
-      "release": "2024-08-01"
-    },
-    {
-      "id": 194583,
-      "title": "The Walking Dead: Dead City",
-      "rating": 7.9,
-      "votes": 762,
-      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
-      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
-      "release": "2023-06-18"
+      "id": 296140,
+      "title": "My Bias, My Boss",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "poster": "https://image.tmdb.org/t/p/w500/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
+      "release": "2026-08-03"
     }
   ],
   "popular": [
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.4,
-      "votes": 757,
+      "rating": 9.428,
+      "votes": 758,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.212,
-      "votes": 490,
+      "rating": 9.204,
+      "votes": 491,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
@@ -269,7 +269,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.949,
-      "votes": 18265,
+      "votes": 18266,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -279,10 +279,10 @@
       "id": 273240,
       "title": "Off Campus",
       "rating": 8.9,
-      "votes": 753,
+      "votes": 754,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/TGJ34SvYJ2ZgzsOgAaXzSx3o7E.jpg",
       "release": "2026-05-13"
     },
     {
@@ -318,7 +318,7 @@
     {
       "id": 246,
       "title": "Avatar: The Last Airbender",
-      "rating": 8.775,
+      "rating": 8.8,
       "votes": 5005,
       "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
       "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
@@ -348,7 +348,7 @@
     {
       "id": 94605,
       "title": "Arcane",
-      "rating": 8.751,
+      "rating": 8.8,
       "votes": 6064,
       "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
       "poster": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
@@ -359,7 +359,7 @@
       "id": 37854,
       "title": "One Piece",
       "rating": 8.75,
-      "votes": 5455,
+      "votes": 5456,
       "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
