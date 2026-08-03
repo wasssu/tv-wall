@@ -1,25 +1,15 @@
 {
-  "updated": "2026-08-03T12:50:51.503167+00:00",
+  "updated": "2026-08-03T15:38:27.354537+00:00",
   "trending": [
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 7.995,
+      "rating": 8.0,
       "votes": 1274,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3Udwq6W7y4AIsuJDXV2YwowZ1gQ.jpg",
       "release": "2023-07-23"
-    },
-    {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "rating": 8.381,
-      "votes": 6817,
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "release": "2022-08-21"
     },
     {
       "id": 615,
@@ -32,6 +22,16 @@
       "release": "1999-03-28"
     },
     {
+      "id": 94997,
+      "title": "House of the Dragon",
+      "rating": 8.4,
+      "votes": 6818,
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "release": "2022-08-21"
+    },
+    {
       "id": 271016,
       "title": "Mystic Nine",
       "rating": 8.5,
@@ -40,36 +40,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/snExrS3rICUXDsiG7jUV7K6Q0wj.jpg",
       "release": "2026-07-30"
-    },
-    {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.75,
-      "votes": 5455,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "release": "1999-10-20"
-    },
-    {
-      "id": 296206,
-      "title": "Agent Kim Reactivated",
-      "rating": 7.585,
-      "votes": 71,
-      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-      "release": "2026-06-26"
-    },
-    {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.185,
-      "votes": 2363,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
     },
     {
       "id": 30984,
@@ -82,14 +52,24 @@
       "release": "2004-10-05"
     },
     {
-      "id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "rating": 8.466,
-      "votes": 1631,
-      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-      "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-      "release": "2021-01-11"
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.75,
+      "votes": 5455,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.185,
+      "votes": 2363,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
     },
     {
       "id": 289116,
@@ -102,24 +82,44 @@
       "release": "2026-08-02"
     },
     {
-      "id": 296756,
-      "title": "President Curtis",
-      "rating": 5.2,
-      "votes": 18,
-      "overview": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
-      "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
-      "release": "2026-07-26"
+      "id": 125909,
+      "title": "Batman: Caped Crusader",
+      "rating": 7.261,
+      "votes": 266,
+      "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
+      "poster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
+      "release": "2024-08-01"
     },
     {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "rating": 8.68,
-      "votes": 11218,
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
-      "release": "2013-12-02"
+      "id": 287238,
+      "title": "Furious",
+      "rating": 6.7,
+      "votes": 27,
+      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "release": "2026-07-27"
+    },
+    {
+      "id": 277439,
+      "title": "Cape Fear",
+      "rating": 7.179,
+      "votes": 109,
+      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+      "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
+      "release": "2026-06-04"
+    },
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "rating": 8.341,
+      "votes": 2469,
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
+      "release": "2020-08-14"
     }
   ],
   "popular": [
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.427,
-      "votes": 756,
+      "rating": 9.4,
+      "votes": 757,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -269,7 +269,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.949,
-      "votes": 18263,
+      "votes": 18265,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -278,7 +278,7 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.926,
+      "rating": 8.9,
       "votes": 753,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
@@ -299,7 +299,7 @@
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
       "rating": 8.808,
-      "votes": 912,
+      "votes": 913,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude.  Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
@@ -318,8 +318,8 @@
     {
       "id": 246,
       "title": "Avatar: The Last Airbender",
-      "rating": 8.8,
-      "votes": 5004,
+      "rating": 8.775,
+      "votes": 5005,
       "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
       "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/kU98MbVVgi72wzceyrEbClZmMFe.jpg",
@@ -349,7 +349,7 @@
       "id": 94605,
       "title": "Arcane",
       "rating": 8.751,
-      "votes": 6063,
+      "votes": 6064,
       "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
       "poster": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
@@ -358,8 +358,8 @@
     {
       "id": 37854,
       "title": "One Piece",
-      "rating": 8.749,
-      "votes": 5453,
+      "rating": 8.75,
+      "votes": 5455,
       "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
