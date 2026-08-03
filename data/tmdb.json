@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-03T15:38:27.354537+00:00",
+  "updated": "2026-08-03T17:46:18.369177+00:00",
   "trending": [
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.0,
-      "votes": 1274,
+      "rating": 7.997,
+      "votes": 1275,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3Udwq6W7y4AIsuJDXV2YwowZ1gQ.jpg",
@@ -24,7 +24,7 @@
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.4,
+      "rating": 8.381,
       "votes": 6818,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
@@ -44,8 +44,8 @@
     {
       "id": 30984,
       "title": "Bleach",
-      "rating": 8.4,
-      "votes": 2198,
+      "rating": 8.363,
+      "votes": 2199,
       "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
       "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
@@ -55,7 +55,7 @@
       "id": 37854,
       "title": "One Piece",
       "rating": 8.75,
-      "votes": 5455,
+      "votes": 5456,
       "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
@@ -64,8 +64,8 @@
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.185,
-      "votes": 2363,
+      "rating": 8.186,
+      "votes": 2364,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -82,6 +82,26 @@
       "release": "2026-08-02"
     },
     {
+      "id": 296140,
+      "title": "My Bias, My Boss",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "poster": "https://image.tmdb.org/t/p/w500/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
+      "release": "2026-08-03"
+    },
+    {
+      "id": 287238,
+      "title": "Furious",
+      "rating": 6.679,
+      "votes": 28,
+      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "release": "2026-07-27"
+    },
+    {
       "id": 125909,
       "title": "Batman: Caped Crusader",
       "rating": 7.261,
@@ -92,34 +112,14 @@
       "release": "2024-08-01"
     },
     {
-      "id": 287238,
-      "title": "Furious",
-      "rating": 6.7,
-      "votes": 27,
-      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-      "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "release": "2026-07-27"
-    },
-    {
-      "id": 277439,
-      "title": "Cape Fear",
-      "rating": 7.179,
-      "votes": 109,
-      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-      "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
-      "release": "2026-06-04"
-    },
-    {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "rating": 8.341,
-      "votes": 2469,
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
-      "release": "2020-08-14"
+      "id": 194583,
+      "title": "The Walking Dead: Dead City",
+      "rating": 7.9,
+      "votes": 762,
+      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
+      "release": "2023-06-18"
     }
   ],
   "popular": [
@@ -378,16 +378,6 @@
       "release": "1992-05-11"
     },
     {
-      "id": 22980,
-      "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 5.0,
-      "votes": 87,
-      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-      "release": "2009-07-16"
-    },
-    {
       "id": 16807,
       "title": "Jornal Nacional",
       "rating": 7.0,
@@ -398,9 +388,19 @@
       "release": "1969-09-01"
     },
     {
+      "id": 22980,
+      "title": "Watch What Happens Live with Andy Cohen",
+      "rating": 5.0,
+      "votes": 87,
+      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+      "release": "2009-07-16"
+    },
+    {
       "id": 94664,
       "title": "Mushoku Tensei: Jobless Reincarnation",
-      "rating": 8.466,
+      "rating": 8.5,
       "votes": 1631,
       "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
       "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
@@ -418,54 +418,24 @@
       "release": "2007-06-23"
     },
     {
-      "id": 127163,
-      "title": "Das perfekte Dinner",
-      "rating": 6.0,
-      "votes": 1,
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/1DTwcRiOMmn20hHLxKeiNoI0ux2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2CUdryUjbdOrWymDJSlHvlcoPsj.jpg",
-      "release": "2005-11-21"
-    },
-    {
-      "id": 206559,
-      "title": "Binnelanders",
-      "rating": 5.5,
-      "votes": 111,
-      "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-      "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-      "release": "2005-10-13"
-    },
-    {
-      "id": 14750,
-      "title": "Na Wspólnej",
-      "rating": 4.7,
-      "votes": 12,
-      "overview": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
-      "poster": "https://image.tmdb.org/t/p/w500/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
-      "release": "2003-01-27"
+      "id": 615,
+      "title": "Futurama",
+      "rating": 8.4,
+      "votes": 3820,
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "release": "1999-03-28"
     },
     {
       "id": 287238,
       "title": "Furious",
-      "rating": 6.704,
+      "rating": 6.7,
       "votes": 27,
       "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
       "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
       "release": "2026-07-27"
-    },
-    {
-      "id": 44953,
-      "title": "El Señor de los Cielos",
-      "rating": 7.983,
-      "votes": 3554,
-      "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
-      "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
-      "release": "2013-04-15"
     },
     {
       "id": 6060,
@@ -478,14 +448,44 @@
       "release": "2000-07-03"
     },
     {
+      "id": 4656,
+      "title": "Raw",
+      "rating": 6.8,
+      "votes": 367,
+      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+      "poster": "https://image.tmdb.org/t/p/w500/26v1iP77K6PySQRV0jBSnh3GtRc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/384Lam787FIDBnwjwQBvC8gjB2d.jpg",
+      "release": "1993-01-11"
+    },
+    {
       "id": 289139,
       "title": "Overdo",
-      "rating": 7.8,
-      "votes": 8,
+      "rating": 8.0,
+      "votes": 9,
       "overview": "In Republican Shanghai, Murong Qingyi, a warlord’s son swapped at birth, endures years of torment. His life changes when Ren Susu saves him, but tragedy strikes her family because of it. Years later, love sparks between them, but Ren Susu fakes her death to save another, leaving Qingyi heartbroken. Three years on, she returns as his future sister-in-law. Love, hate, betrayal, and old wounds resurface. As war looms, the two must defy fate together, but can love survive a nation’s fall?",
       "poster": "https://image.tmdb.org/t/p/w500/sOh7qrLixexhiWObAKSyh4mAlAR.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mmXea9UCZ83TMhHaSkDAJCHKr0S.jpg",
       "release": "2026-07-19"
+    },
+    {
+      "id": 206559,
+      "title": "Binnelanders",
+      "rating": 5.5,
+      "votes": 111,
+      "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+      "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+      "release": "2005-10-13"
+    },
+    {
+      "id": 44953,
+      "title": "El Señor de los Cielos",
+      "rating": 7.984,
+      "votes": 3555,
+      "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
+      "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
+      "release": "2013-04-15"
     }
   ]
 }
