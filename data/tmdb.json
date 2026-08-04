@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T16:46:30.090038+00:00",
+  "updated": "2026-08-04T18:23:20.845753+00:00",
   "trending": [
     {
       "id": 615,
@@ -14,8 +14,8 @@
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.0,
-      "votes": 1283,
+      "rating": 7.999,
+      "votes": 1284,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
@@ -24,7 +24,7 @@
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.384,
+      "rating": 8.4,
       "votes": 6829,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
@@ -40,16 +40,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
       "release": "2026-08-03"
-    },
-    {
-      "id": 271016,
-      "title": "Mystic Nine",
-      "rating": 8.5,
-      "votes": 2,
-      "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
-      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
-      "release": "2026-07-30"
     },
     {
       "id": 37854,
@@ -72,14 +62,24 @@
       "release": "2004-10-05"
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.188,
-      "votes": 2369,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
+      "id": 271016,
+      "title": "Mystic Nine",
+      "rating": 8.5,
+      "votes": 2,
+      "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
+      "release": "2026-07-30"
+    },
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "rating": 8.343,
+      "votes": 2474,
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+      "release": "2020-08-14"
     },
     {
       "id": 296756,
@@ -92,20 +92,20 @@
       "release": "2026-07-26"
     },
     {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "rating": 8.342,
-      "votes": 2473,
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
-      "release": "2020-08-14"
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.188,
+      "votes": 2369,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
     },
     {
       "id": 287238,
       "title": "Furious",
-      "rating": 6.7,
-      "votes": 28,
+      "rating": 6.69,
+      "votes": 29,
       "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
       "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
@@ -368,6 +368,16 @@
   ],
   "airing_today": [
     {
+      "id": 22980,
+      "title": "Watch What Happens Live with Andy Cohen",
+      "rating": 5.0,
+      "votes": 87,
+      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+      "release": "2009-07-16"
+    },
+    {
       "id": 13945,
       "title": "Gute Zeiten, schlechte Zeiten",
       "rating": 5.458,
@@ -388,14 +398,14 @@
       "release": "1969-09-01"
     },
     {
-      "id": 22980,
-      "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 5.0,
-      "votes": 87,
-      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-      "release": "2009-07-16"
+      "id": 278624,
+      "title": "Lucky",
+      "rating": 7.326,
+      "votes": 109,
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "release": "2026-07-14"
     },
     {
       "id": 46271,
@@ -408,33 +418,13 @@
       "release": "2007-06-23"
     },
     {
-      "id": 278624,
-      "title": "Lucky",
-      "rating": 7.315,
-      "votes": 108,
-      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "release": "2026-07-14"
-    },
-    {
-      "id": 6060,
-      "title": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
-      "rating": 3.417,
-      "votes": 12,
-      "overview": "A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start to get involved with having girlfriends and the bahu's try and break their relationships up.",
-      "poster": "https://image.tmdb.org/t/p/w500/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gwXnESfjDqop3tDLoGxSwCUP8GD.jpg",
-      "release": "2000-07-03"
-    },
-    {
       "id": 97546,
       "title": "Ted Lasso",
-      "rating": 8.342,
-      "votes": 2471,
+      "rating": 8.343,
+      "votes": 2474,
       "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
       "release": "2020-08-14"
     },
     {
@@ -448,6 +438,16 @@
       "release": "2026-07-19"
     },
     {
+      "id": 44953,
+      "title": "El Señor de los Cielos",
+      "rating": 7.985,
+      "votes": 3557,
+      "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
+      "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
+      "release": "2013-04-15"
+    },
+    {
       "id": 206559,
       "title": "Binnelanders",
       "rating": 5.5,
@@ -458,26 +458,6 @@
       "release": "2005-10-13"
     },
     {
-      "id": 44953,
-      "title": "El Señor de los Cielos",
-      "rating": 7.984,
-      "votes": 3556,
-      "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
-      "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
-      "release": "2013-04-15"
-    },
-    {
-      "id": 127163,
-      "title": "Das perfekte Dinner",
-      "rating": 6.0,
-      "votes": 1,
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/1DTwcRiOMmn20hHLxKeiNoI0ux2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2CUdryUjbdOrWymDJSlHvlcoPsj.jpg",
-      "release": "2005-11-21"
-    },
-    {
       "id": 291,
       "title": "Coronation Street",
       "rating": 5.3,
@@ -486,6 +466,26 @@
       "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
       "release": "1960-12-09"
+    },
+    {
+      "id": 271016,
+      "title": "Mystic Nine",
+      "rating": 8.5,
+      "votes": 2,
+      "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
+      "release": "2026-07-30"
+    },
+    {
+      "id": 31991,
+      "title": "WWE NXT",
+      "rating": 6.694,
+      "votes": 129,
+      "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+      "poster": "https://image.tmdb.org/t/p/w500/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8BaPwADDUeg752Dxf0VSUHMQuYc.jpg",
+      "release": "2010-02-23"
     }
   ]
 }
