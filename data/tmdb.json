@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T22:04:38.551595+00:00",
+  "updated": "2026-08-04T23:55:40.341657+00:00",
   "trending": [
     {
       "id": 615,
@@ -14,7 +14,7 @@
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.384,
+      "rating": 8.4,
       "votes": 6830,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
@@ -42,16 +42,6 @@
       "release": "2020-08-14"
     },
     {
-      "id": 296140,
-      "title": "My Bias, My Boss",
-      "rating": 0.75,
-      "votes": 2,
-      "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
-      "poster": "https://image.tmdb.org/t/p/w500/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
-      "release": "2026-08-03"
-    },
-    {
       "id": 125988,
       "title": "Silo",
       "rating": 8.186,
@@ -60,6 +50,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "release": "2023-05-04"
+    },
+    {
+      "id": 296140,
+      "title": "My Bias, My Boss",
+      "rating": 0.8,
+      "votes": 2,
+      "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "poster": "https://image.tmdb.org/t/p/w500/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
+      "release": "2026-08-03"
     },
     {
       "id": 30984,
@@ -92,6 +92,16 @@
       "release": "2026-07-27"
     },
     {
+      "id": 278624,
+      "title": "Lucky",
+      "rating": 7.35,
+      "votes": 110,
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "release": "2026-07-14"
+    },
+    {
       "id": 271016,
       "title": "Mystic Nine",
       "rating": 8.5,
@@ -100,16 +110,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
       "release": "2026-07-30"
-    },
-    {
-      "id": 278624,
-      "title": "Lucky",
-      "rating": 7.264,
-      "votes": 110,
-      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "release": "2026-07-14"
     },
     {
       "id": 60625,
@@ -127,7 +127,7 @@
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.384,
-      "votes": 6829,
+      "votes": 6830,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -147,7 +147,7 @@
       "id": 5920,
       "title": "The Mentalist",
       "rating": 8.369,
-      "votes": 4497,
+      "votes": 4498,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
@@ -186,8 +186,8 @@
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.0,
-      "votes": 1283,
+      "rating": 8.001,
+      "votes": 1285,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
@@ -207,7 +207,7 @@
       "id": 60625,
       "title": "Rick and Morty",
       "rating": 8.68,
-      "votes": 11222,
+      "votes": 11223,
       "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
       "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
@@ -216,8 +216,8 @@
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.187,
-      "votes": 2368,
+      "rating": 8.186,
+      "votes": 2372,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -237,7 +237,7 @@
       "id": 124364,
       "title": "FROM",
       "rating": 8.5,
-      "votes": 4105,
+      "votes": 4107,
       "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
       "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.419,
-      "votes": 760,
+      "rating": 9.417,
+      "votes": 762,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.195,
-      "votes": 495,
+      "rating": 9.198,
+      "votes": 497,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
@@ -269,7 +269,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.949,
-      "votes": 18277,
+      "votes": 18279,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.934,
-      "votes": 755,
+      "rating": 8.937,
+      "votes": 757,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/TGJ34SvYJ2ZgzsOgAaXzSx3o7E.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 259837,
       "title": "The WONDERfools",
-      "rating": 8.911,
-      "votes": 231,
+      "rating": 8.912,
+      "votes": 233,
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
@@ -318,7 +318,7 @@
     {
       "id": 246,
       "title": "Avatar: The Last Airbender",
-      "rating": 8.8,
+      "rating": 8.774,
       "votes": 5006,
       "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
       "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
@@ -349,7 +349,7 @@
       "id": 94605,
       "title": "Arcane",
       "rating": 8.752,
-      "votes": 6067,
+      "votes": 6069,
       "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
       "poster": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
