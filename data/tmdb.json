@@ -1,20 +1,40 @@
 {
-  "updated": "2026-08-05T10:26:41.002352+00:00",
+  "updated": "2026-08-05T12:47:55.243650+00:00",
   "trending": [
     {
       "id": 97546,
       "title": "Ted Lasso",
-      "rating": 8.3,
-      "votes": 2478,
+      "rating": 8.338,
+      "votes": 2480,
       "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
       "release": "2020-08-14"
     },
     {
+      "id": 207333,
+      "title": "One Hundred Years of Solitude",
+      "rating": 7.9,
+      "votes": 218,
+      "overview": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
+      "poster": "https://image.tmdb.org/t/p/w500/fvEhTiNg2ICs0wXTGKuKoIGhLGe.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
+      "release": "2024-12-11"
+    },
+    {
+      "id": 94997,
+      "title": "House of the Dragon",
+      "rating": 8.384,
+      "votes": 6834,
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "release": "2022-08-21"
+    },
+    {
       "id": 615,
       "title": "Futurama",
-      "rating": 8.361,
+      "rating": 8.362,
       "votes": 3824,
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
@@ -32,44 +52,44 @@
       "release": "2026-08-05"
     },
     {
+      "id": 296140,
+      "title": "My Bias, My Boss",
+      "rating": 5.0,
+      "votes": 2,
+      "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "poster": "https://image.tmdb.org/t/p/w500/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
+      "release": "2026-08-03"
+    },
+    {
       "id": 283297,
       "title": "Sterling Point",
-      "rating": 0.0,
-      "votes": 0,
+      "rating": 1.0,
+      "votes": 1,
       "overview": "Annie along with her twin brother were raised in New York by their single dad before they find out that their estranged grandfather left them an island on a lake in his will.",
       "poster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
       "release": "2026-08-05"
     },
     {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "rating": 8.384,
-      "votes": 6832,
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "release": "2022-08-21"
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.186,
+      "votes": 2374,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
     },
     {
       "id": 278624,
       "title": "Lucky",
-      "rating": 7.379,
-      "votes": 112,
+      "rating": 7.373,
+      "votes": 114,
       "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
       "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
       "release": "2026-07-14"
-    },
-    {
-      "id": 207333,
-      "title": "One Hundred Years of Solitude",
-      "rating": 7.9,
-      "votes": 218,
-      "overview": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
-      "poster": "https://image.tmdb.org/t/p/w500/fvEhTiNg2ICs0wXTGKuKoIGhLGe.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
-      "release": "2024-12-11"
     },
     {
       "id": 113962,
@@ -82,26 +102,6 @@
       "release": "2023-07-23"
     },
     {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.749,
-      "votes": 5460,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "release": "1999-10-20"
-    },
-    {
-      "id": 296140,
-      "title": "My Bias, My Boss",
-      "rating": 5.0,
-      "votes": 2,
-      "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
-      "poster": "https://image.tmdb.org/t/p/w500/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
-      "release": "2026-08-03"
-    },
-    {
       "id": 30984,
       "title": "Bleach",
       "rating": 8.4,
@@ -112,14 +112,14 @@
       "release": "2004-10-05"
     },
     {
-      "id": 271016,
-      "title": "Mystic Nine",
-      "rating": 6.0,
-      "votes": 3,
-      "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
-      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
-      "release": "2026-07-30"
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.749,
+      "votes": 5460,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
     }
   ],
   "popular": [
@@ -127,7 +127,7 @@
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.384,
-      "votes": 6831,
+      "votes": 6832,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -166,12 +166,22 @@
     {
       "id": 79744,
       "title": "The Rookie",
-      "rating": 8.551,
-      "votes": 3430,
+      "rating": 8.546,
+      "votes": 3437,
       "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
       "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
       "release": "2018-10-16"
+    },
+    {
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.007,
+      "votes": 1290,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "release": "2023-07-23"
     },
     {
       "id": 51025,
@@ -184,20 +194,10 @@
       "release": "2005-09-14"
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.004,
-      "votes": 1287,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
-    },
-    {
       "id": 1416,
       "title": "Grey's Anatomy",
       "rating": 8.208,
-      "votes": 10991,
+      "votes": 10992,
       "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
       "poster": "https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
@@ -207,7 +207,7 @@
       "id": 60625,
       "title": "Rick and Morty",
       "rating": 8.68,
-      "votes": 11225,
+      "votes": 11228,
       "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
       "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
@@ -216,8 +216,8 @@
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.2,
-      "votes": 2372,
+      "rating": 8.186,
+      "votes": 2374,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -237,7 +237,7 @@
       "id": 124364,
       "title": "FROM",
       "rating": 8.501,
-      "votes": 4109,
+      "votes": 4112,
       "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
       "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
