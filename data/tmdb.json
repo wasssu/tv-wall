@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T15:08:52.253858+00:00",
+  "updated": "2026-08-05T17:21:35.949005+00:00",
   "trending": [
     {
       "id": 97546,
@@ -34,7 +34,7 @@
     {
       "id": 207333,
       "title": "One Hundred Years of Solitude",
-      "rating": 7.927,
+      "rating": 7.9,
       "votes": 219,
       "overview": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
       "poster": "https://image.tmdb.org/t/p/w500/fvEhTiNg2ICs0wXTGKuKoIGhLGe.jpg",
@@ -44,22 +44,12 @@
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.4,
+      "rating": 8.384,
       "votes": 6835,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "release": "2022-08-21"
-    },
-    {
-      "id": 278624,
-      "title": "Lucky",
-      "rating": 7.3,
-      "votes": 115,
-      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "release": "2026-07-14"
     },
     {
       "id": 615,
@@ -72,10 +62,20 @@
       "release": "1999-03-28"
     },
     {
+      "id": 278624,
+      "title": "Lucky",
+      "rating": 7.3,
+      "votes": 115,
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "release": "2026-07-14"
+    },
+    {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.007,
-      "votes": 1292,
+      "rating": 8.0,
+      "votes": 1293,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
@@ -102,16 +102,6 @@
       "release": "2024-01-17"
     },
     {
-      "id": 271016,
-      "title": "Mystic Nine",
-      "rating": 6.25,
-      "votes": 4,
-      "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
-      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
-      "release": "2026-07-30"
-    },
-    {
       "id": 37854,
       "title": "One Piece",
       "rating": 8.749,
@@ -120,6 +110,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
       "release": "1999-10-20"
+    },
+    {
+      "id": 271016,
+      "title": "Mystic Nine",
+      "rating": 6.25,
+      "votes": 4,
+      "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
+      "release": "2026-07-30"
     }
   ],
   "popular": [
@@ -408,16 +408,6 @@
       "release": "2019-10-02"
     },
     {
-      "id": 46271,
-      "title": "Secret Story",
-      "rating": 4.5,
-      "votes": 12,
-      "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
-      "poster": "https://image.tmdb.org/t/p/w500/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
-      "release": "2007-06-23"
-    },
-    {
       "id": 261471,
       "title": "Stand-up Comedy",
       "rating": 5.8,
@@ -436,6 +426,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
       "release": "2024-03-20"
+    },
+    {
+      "id": 46271,
+      "title": "Secret Story",
+      "rating": 4.5,
+      "votes": 12,
+      "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
+      "poster": "https://image.tmdb.org/t/p/w500/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
+      "release": "2007-06-23"
     },
     {
       "id": 215072,
@@ -461,21 +461,11 @@
       "id": 44953,
       "title": "El Señor de los Cielos",
       "rating": 7.985,
-      "votes": 3560,
+      "votes": 3561,
       "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
       "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
       "release": "2013-04-15"
-    },
-    {
-      "id": 206559,
-      "title": "Binnelanders",
-      "rating": 5.5,
-      "votes": 111,
-      "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-      "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-      "release": "2005-10-13"
     },
     {
       "id": 10160,
@@ -486,6 +476,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/q2TMOpJITXP2sHd6CrBmO7FvYk1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/oBUwRT7TbhTeFFTguY1s8RmmJpW.jpg",
       "release": "2000-07-05"
+    },
+    {
+      "id": 206559,
+      "title": "Binnelanders",
+      "rating": 5.5,
+      "votes": 111,
+      "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+      "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+      "release": "2005-10-13"
     }
   ]
 }
