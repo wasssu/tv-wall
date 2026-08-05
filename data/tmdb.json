@@ -1,32 +1,32 @@
 {
-  "updated": "2026-08-05T20:57:59.024982+00:00",
+  "updated": "2026-08-05T22:11:50.217683+00:00",
   "trending": [
-    {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "rating": 8.341,
-      "votes": 2486,
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
-      "release": "2020-08-14"
-    },
     {
       "id": 289324,
       "title": "Star Wars: Visions Presents - The Ninth Jedi",
       "rating": 0.0,
       "votes": 0,
       "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
-      "poster": "https://image.tmdb.org/t/p/w500/r1AnM76TBeTNB5zRcIk2kRUXTDF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tyv8Gnv2ncXOEjLp6HbeLTtXwjl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
       "release": "2026-08-05"
+    },
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "rating": 8.339,
+      "votes": 2488,
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+      "release": "2020-08-14"
     },
     {
       "id": 283297,
       "title": "Sterling Point",
       "rating": 4.0,
       "votes": 3,
-      "overview": "Annie along with her twin brother were raised in New York by their single dad before they find out that their estranged grandfather left them an island on a lake in his will.",
+      "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
       "poster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
       "release": "2026-08-05"
@@ -34,8 +34,8 @@
     {
       "id": 207333,
       "title": "One Hundred Years of Solitude",
-      "rating": 7.9,
-      "votes": 219,
+      "rating": 7.927,
+      "votes": 220,
       "overview": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
       "poster": "https://image.tmdb.org/t/p/w500/fvEhTiNg2ICs0wXTGKuKoIGhLGe.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
@@ -45,7 +45,7 @@
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.383,
-      "votes": 6837,
+      "votes": 6838,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -55,7 +55,7 @@
       "id": 615,
       "title": "Futurama",
       "rating": 8.362,
-      "votes": 3825,
+      "votes": 3826,
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
@@ -64,8 +64,8 @@
     {
       "id": 278624,
       "title": "Lucky",
-      "rating": 7.358,
-      "votes": 116,
+      "rating": 7.355,
+      "votes": 117,
       "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
       "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
@@ -82,9 +82,19 @@
       "release": "2023-07-23"
     },
     {
+      "id": 138502,
+      "title": "X-Men '97",
+      "rating": 8.676,
+      "votes": 819,
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+      "release": "2024-03-20"
+    },
+    {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.184,
+      "rating": 8.2,
       "votes": 2377,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
@@ -92,34 +102,24 @@
       "release": "2023-05-04"
     },
     {
-      "id": 138502,
-      "title": "X-Men '97",
-      "rating": 8.7,
-      "votes": 818,
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-      "release": "2024-03-20"
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.749,
+      "votes": 5461,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
     },
     {
       "id": 30984,
       "title": "Bleach",
-      "rating": 8.366,
-      "votes": 2203,
+      "rating": 8.4,
+      "votes": 2204,
       "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
       "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
       "release": "2004-10-05"
-    },
-    {
-      "id": 215072,
-      "title": "A Shop for Killers",
-      "rating": 8.407,
-      "votes": 199,
-      "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
-      "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-      "release": "2024-01-17"
     }
   ],
   "popular": [
