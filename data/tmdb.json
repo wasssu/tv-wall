@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-06T07:36:54.911632+00:00",
+  "updated": "2026-08-06T10:29:17.990168+00:00",
   "trending": [
     {
       "id": 289324,
       "title": "Star Wars: Visions Presents - The Ninth Jedi",
       "rating": 7.0,
-      "votes": 7,
+      "votes": 8,
       "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
       "poster": "https://image.tmdb.org/t/p/w500/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
@@ -14,7 +14,7 @@
     {
       "id": 97546,
       "title": "Ted Lasso",
-      "rating": 8.339,
+      "rating": 8.3,
       "votes": 2491,
       "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
@@ -25,41 +25,51 @@
       "id": 283297,
       "title": "Sterling Point",
       "rating": 6.2,
-      "votes": 4,
+      "votes": 5,
       "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
       "poster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
       "release": "2026-08-05"
     },
     {
+      "id": 298168,
+      "title": "The Shards",
+      "rating": 9.8,
+      "votes": 4,
+      "overview": "Set in Los Angeles in 1981, the story follows a 17-year-old version of Bret Easton Ellis during his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+      "poster": "https://image.tmdb.org/t/p/w500/aMGHNXWcExdR7rA8uTM3hbzGn1Z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
+      "release": "2026-08-05"
+    },
+    {
       "id": 207333,
       "title": "One Hundred Years of Solitude",
-      "rating": 7.946,
+      "rating": 7.9,
       "votes": 222,
       "overview": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
-      "poster": "https://image.tmdb.org/t/p/w500/fvEhTiNg2ICs0wXTGKuKoIGhLGe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
       "release": "2024-12-11"
     },
     {
-      "id": 298168,
-      "title": "The Shards",
-      "rating": 10.0,
-      "votes": 2,
-      "overview": "Set in Los Angeles in 1981, the story follows a 17-year-old version of Bret Easton Ellis during his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-      "poster": "https://image.tmdb.org/t/p/w500/876V23IJpddyLcO1wvJUdSft585.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg",
-      "release": "2026-08-05"
-    },
-    {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.383,
-      "votes": 6843,
+      "rating": 8.384,
+      "votes": 6844,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "release": "2022-08-21"
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.2,
+      "votes": 2378,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
     },
     {
       "id": 278624,
@@ -72,26 +82,6 @@
       "release": "2026-07-14"
     },
     {
-      "id": 138502,
-      "title": "X-Men '97",
-      "rating": 8.678,
-      "votes": 822,
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-      "release": "2024-03-20"
-    },
-    {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.185,
-      "votes": 2378,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
-    },
-    {
       "id": 113962,
       "title": "Lioness",
       "rating": 8.011,
@@ -102,24 +92,34 @@
       "release": "2023-07-23"
     },
     {
+      "id": 138502,
+      "title": "X-Men '97",
+      "rating": 8.7,
+      "votes": 822,
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+      "release": "2024-03-20"
+    },
+    {
+      "id": 199001,
+      "title": "My Life with the Walter Boys",
+      "rating": 7.775,
+      "votes": 386,
+      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+      "poster": "https://image.tmdb.org/t/p/w500/jg3YdxDNlxay0NWTxgAPif647Hj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
+      "release": "2023-12-07"
+    },
+    {
       "id": 215072,
       "title": "A Shop for Killers",
-      "rating": 8.423,
-      "votes": 201,
+      "rating": 8.415,
+      "votes": 200,
       "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
       "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
       "release": "2024-01-17"
-    },
-    {
-      "id": 615,
-      "title": "Futurama",
-      "rating": 8.362,
-      "votes": 3827,
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-      "release": "1999-03-28"
     }
   ],
   "popular": [
@@ -127,7 +127,7 @@
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.384,
-      "votes": 6842,
+      "votes": 6844,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -147,7 +147,7 @@
       "id": 5920,
       "title": "The Mentalist",
       "rating": 8.373,
-      "votes": 4505,
+      "votes": 4507,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
@@ -166,8 +166,8 @@
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.01,
-      "votes": 1294,
+      "rating": 8.011,
+      "votes": 1295,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
@@ -216,8 +216,8 @@
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.184,
-      "votes": 2377,
+      "rating": 8.2,
+      "votes": 2378,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.2,
-      "votes": 498,
+      "rating": 9.201,
+      "votes": 501,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
@@ -269,7 +269,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.948,
-      "votes": 18297,
+      "votes": 18302,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -298,8 +298,8 @@
     {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.802,
-      "votes": 915,
+      "rating": 8.803,
+      "votes": 916,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude.  Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
@@ -308,8 +308,8 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.8,
-      "votes": 937,
+      "rating": 8.779,
+      "votes": 938,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
@@ -319,7 +319,7 @@
       "id": 246,
       "title": "Avatar: The Last Airbender",
       "rating": 8.774,
-      "votes": 5011,
+      "votes": 5012,
       "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
       "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/kU98MbVVgi72wzceyrEbClZmMFe.jpg",
@@ -328,8 +328,8 @@
     {
       "id": 64010,
       "title": "Reply 1988",
-      "rating": 8.8,
-      "votes": 219,
+      "rating": 8.762,
+      "votes": 221,
       "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
       "poster": "https://image.tmdb.org/t/p/w500/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
@@ -349,7 +349,7 @@
       "id": 94605,
       "title": "Arcane",
       "rating": 8.752,
-      "votes": 6071,
+      "votes": 6073,
       "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
       "poster": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
