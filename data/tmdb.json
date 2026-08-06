@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T12:51:12.678659+00:00",
+  "updated": "2026-08-06T15:07:34.194289+00:00",
   "trending": [
     {
       "id": 289324,
@@ -9,6 +9,16 @@
       "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
       "poster": "https://image.tmdb.org/t/p/w500/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
+      "release": "2026-08-05"
+    },
+    {
+      "id": 298168,
+      "title": "The Shards",
+      "rating": 8.2,
+      "votes": 6,
+      "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+      "poster": "https://image.tmdb.org/t/p/w500/rh7k9oa18I3ibdLdWOWKHqrHQM1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
       "release": "2026-08-05"
     },
     {
@@ -25,21 +35,11 @@
       "id": 97546,
       "title": "Ted Lasso",
       "rating": 8.339,
-      "votes": 2492,
+      "votes": 2493,
       "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
       "release": "2020-08-14"
-    },
-    {
-      "id": 298168,
-      "title": "The Shards",
-      "rating": 8.2,
-      "votes": 6,
-      "overview": "Set in Los Angeles in 1981, the story follows a 17-year-old version of Bret Easton Ellis during his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-      "poster": "https://image.tmdb.org/t/p/w500/aMGHNXWcExdR7rA8uTM3hbzGn1Z.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
-      "release": "2026-08-05"
     },
     {
       "id": 207333,
@@ -52,34 +52,14 @@
       "release": "2024-12-11"
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.011,
-      "votes": 1296,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
-    },
-    {
-      "id": 138502,
-      "title": "X-Men '97",
-      "rating": 8.7,
-      "votes": 822,
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-      "release": "2024-03-20"
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.365,
-      "votes": 2204,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
+      "id": 199001,
+      "title": "My Life with the Walter Boys",
+      "rating": 7.8,
+      "votes": 386,
+      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+      "poster": "https://image.tmdb.org/t/p/w500/4o9ICW8TxzqiQXfEzyFytBumA2i.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
+      "release": "2023-12-07"
     },
     {
       "id": 94997,
@@ -92,34 +72,54 @@
       "release": "2022-08-21"
     },
     {
-      "id": 236450,
-      "title": "1670",
-      "rating": 7.4,
-      "votes": 137,
-      "overview": "A zany nobleman contends with family feuds and clashes with peasants in his quest to become the most famous person in Poland.",
-      "poster": "https://image.tmdb.org/t/p/w500/sMPLjSZYJEeeXfxeKQ7Ct7SEYuV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4UVd9nuO79sbTdil6ZmAqlC9Rjr.jpg",
-      "release": "2023-12-13"
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.012,
+      "votes": 1297,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "release": "2023-07-23"
     },
     {
-      "id": 271016,
-      "title": "Mystic Nine",
-      "rating": 6.2,
-      "votes": 4,
-      "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
-      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
-      "release": "2026-07-30"
+      "id": 278624,
+      "title": "Lucky",
+      "rating": 7.382,
+      "votes": 119,
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "release": "2026-07-14"
     },
     {
-      "id": 199001,
-      "title": "My Life with the Walter Boys",
-      "rating": 7.775,
-      "votes": 386,
-      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-      "poster": "https://image.tmdb.org/t/p/w500/jg3YdxDNlxay0NWTxgAPif647Hj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
-      "release": "2023-12-07"
+      "id": 138502,
+      "title": "X-Men '97",
+      "rating": 8.7,
+      "votes": 822,
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+      "release": "2024-03-20"
+    },
+    {
+      "id": 615,
+      "title": "Futurama",
+      "rating": 8.363,
+      "votes": 3827,
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "release": "1999-03-28"
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.185,
+      "votes": 2379,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
     }
   ],
   "popular": [
@@ -371,7 +371,7 @@
       "id": 125988,
       "title": "Silo",
       "rating": 8.185,
-      "votes": 2378,
+      "votes": 2379,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -418,16 +418,6 @@
       "release": "2024-08-20"
     },
     {
-      "id": 46271,
-      "title": "Secret Story",
-      "rating": 4.5,
-      "votes": 12,
-      "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
-      "poster": "https://image.tmdb.org/t/p/w500/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
-      "release": "2007-06-23"
-    },
-    {
       "id": 44953,
       "title": "El Señor de los Cielos",
       "rating": 7.985,
@@ -438,16 +428,6 @@
       "release": "2013-04-15"
     },
     {
-      "id": 287620,
-      "title": "Stuart Fails to Save the Universe",
-      "rating": 9.271,
-      "votes": 72,
-      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
-      "release": "2026-07-23"
-    },
-    {
       "id": 206559,
       "title": "Binnelanders",
       "rating": 5.5,
@@ -456,6 +436,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
       "release": "2005-10-13"
+    },
+    {
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "rating": 9.3,
+      "votes": 72,
+      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "poster": "https://image.tmdb.org/t/p/w500/vM6B0dqOB2YdXEaA7bjq5LuXEo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
+      "release": "2026-07-23"
     },
     {
       "id": 10160,
@@ -478,14 +468,24 @@
       "release": "2022-05-05"
     },
     {
-      "id": 271016,
-      "title": "Mystic Nine",
-      "rating": 6.2,
-      "votes": 4,
-      "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
-      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
-      "release": "2026-07-30"
+      "id": 291,
+      "title": "Coronation Street",
+      "rating": 5.3,
+      "votes": 117,
+      "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+      "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+      "release": "1960-12-09"
+    },
+    {
+      "id": 46271,
+      "title": "Secret Story",
+      "rating": 4.5,
+      "votes": 12,
+      "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
+      "poster": "https://image.tmdb.org/t/p/w500/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
+      "release": "2007-06-23"
     }
   ]
 }
