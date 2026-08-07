@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T09:52:11.179183+00:00",
+  "updated": "2026-08-07T10:43:02.883441+00:00",
   "trending": [
     {
       "id": 298168,
@@ -22,16 +22,6 @@
       "release": "2023-05-04"
     },
     {
-      "id": 199001,
-      "title": "My Life with the Walter Boys",
-      "rating": 7.779,
-      "votes": 390,
-      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-      "poster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
-      "release": "2023-12-07"
-    },
-    {
       "id": 289324,
       "title": "Star Wars: Visions Presents - The Ninth Jedi",
       "rating": 7.0,
@@ -40,6 +30,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
       "release": "2026-08-05"
+    },
+    {
+      "id": 199001,
+      "title": "My Life with the Walter Boys",
+      "rating": 7.788,
+      "votes": 392,
+      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+      "poster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
+      "release": "2023-12-07"
     },
     {
       "id": 283297,
@@ -54,52 +54,42 @@
     {
       "id": 97546,
       "title": "Ted Lasso",
-      "rating": 8.341,
-      "votes": 2499,
+      "rating": 8.343,
+      "votes": 2501,
       "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
       "release": "2020-08-14"
     },
     {
+      "id": 291496,
+      "title": "Our Sticky Love",
+      "rating": 6.0,
+      "votes": 1,
+      "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+      "poster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+      "release": "2026-08-07"
+    },
+    {
+      "id": 300480,
+      "title": "Ricky Gervais Alley Cats",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
+      "poster": "https://image.tmdb.org/t/p/w500/mWC77mH2Nv7KMP8vGzwwCVkhsWu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/w7yWr1UM413lOAPt2XS7TVALWrg.jpg",
+      "release": "2026-08-07"
+    },
+    {
       "id": 203744,
       "title": "Sugar",
-      "rating": 7.149,
+      "rating": 7.1,
       "votes": 347,
       "overview": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
       "poster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
       "release": "2024-04-04"
-    },
-    {
-      "id": 207333,
-      "title": "One Hundred Years of Solitude",
-      "rating": 7.9,
-      "votes": 222,
-      "overview": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
-      "poster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
-      "release": "2024-12-11"
-    },
-    {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "rating": 8.384,
-      "votes": 6855,
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "release": "2022-08-21"
-    },
-    {
-      "id": 103516,
-      "title": "Star Trek: Strange New Worlds",
-      "rating": 7.9,
-      "votes": 801,
-      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-      "release": "2022-05-05"
     },
     {
       "id": 287620,
@@ -112,14 +102,24 @@
       "release": "2026-07-23"
     },
     {
-      "id": 300480,
-      "title": "Ricky Gervais Alley Cats",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
-      "poster": "https://image.tmdb.org/t/p/w500/mWC77mH2Nv7KMP8vGzwwCVkhsWu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/w7yWr1UM413lOAPt2XS7TVALWrg.jpg",
-      "release": "2026-08-07"
+      "id": 94997,
+      "title": "House of the Dragon",
+      "rating": 8.384,
+      "votes": 6855,
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "release": "2022-08-21"
+    },
+    {
+      "id": 207333,
+      "title": "One Hundred Years of Solitude",
+      "rating": 7.9,
+      "votes": 222,
+      "overview": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
+      "poster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
+      "release": "2024-12-11"
     }
   ],
   "popular": [
