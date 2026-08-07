@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T04:48:38.957153+00:00",
+  "updated": "2026-08-07T06:04:56.565592+00:00",
   "trending": [
     {
       "id": 298168,
@@ -32,6 +32,16 @@
       "release": "2023-12-07"
     },
     {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.185,
+      "votes": 2383,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
+    },
+    {
       "id": 283297,
       "title": "Sterling Point",
       "rating": 6.667,
@@ -44,22 +54,12 @@
     {
       "id": 97546,
       "title": "Ted Lasso",
-      "rating": 8.3,
-      "votes": 2496,
+      "rating": 8.341,
+      "votes": 2497,
       "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
       "release": "2020-08-14"
-    },
-    {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.186,
-      "votes": 2382,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
     },
     {
       "id": 207333,
@@ -74,8 +74,8 @@
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.385,
-      "votes": 6854,
+      "rating": 8.384,
+      "votes": 6855,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -84,12 +84,22 @@
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.014,
-      "votes": 1299,
+      "rating": 8.015,
+      "votes": 1300,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
       "release": "2023-07-23"
+    },
+    {
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.366,
+      "votes": 2205,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
     },
     {
       "id": 103516,
@@ -102,20 +112,10 @@
       "release": "2022-05-05"
     },
     {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.365,
-      "votes": 2204,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
-    },
-    {
       "id": 615,
       "title": "Futurama",
       "rating": 8.364,
-      "votes": 3828,
+      "votes": 3829,
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
