@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-07T10:43:02.883441+00:00",
+  "updated": "2026-08-07T12:59:28.298125+00:00",
   "trending": [
     {
       "id": 298168,
       "title": "The Shards",
-      "rating": 8.2,
-      "votes": 12,
+      "rating": 7.7,
+      "votes": 13,
       "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
       "poster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
@@ -14,12 +14,32 @@
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.185,
-      "votes": 2383,
+      "rating": 8.186,
+      "votes": 2384,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "release": "2023-05-04"
+    },
+    {
+      "id": 199001,
+      "title": "My Life with the Walter Boys",
+      "rating": 7.8,
+      "votes": 392,
+      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+      "poster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
+      "release": "2023-12-07"
+    },
+    {
+      "id": 291496,
+      "title": "Our Sticky Love",
+      "rating": 6.0,
+      "votes": 1,
+      "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+      "poster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+      "release": "2026-08-07"
     },
     {
       "id": 289324,
@@ -30,16 +50,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
       "release": "2026-08-05"
-    },
-    {
-      "id": 199001,
-      "title": "My Life with the Walter Boys",
-      "rating": 7.788,
-      "votes": 392,
-      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-      "poster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
-      "release": "2023-12-07"
     },
     {
       "id": 283297,
@@ -55,21 +65,11 @@
       "id": 97546,
       "title": "Ted Lasso",
       "rating": 8.343,
-      "votes": 2501,
+      "votes": 2502,
       "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
       "release": "2020-08-14"
-    },
-    {
-      "id": 291496,
-      "title": "Our Sticky Love",
-      "rating": 6.0,
-      "votes": 1,
-      "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-      "poster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
-      "release": "2026-08-07"
     },
     {
       "id": 300480,
@@ -82,6 +82,16 @@
       "release": "2026-08-07"
     },
     {
+      "id": 615,
+      "title": "Futurama",
+      "rating": 8.363,
+      "votes": 3830,
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "release": "1999-03-28"
+    },
+    {
       "id": 203744,
       "title": "Sugar",
       "rating": 7.1,
@@ -92,20 +102,10 @@
       "release": "2024-04-04"
     },
     {
-      "id": 287620,
-      "title": "Stuart Fails to Save the Universe",
-      "rating": 9.287,
-      "votes": 75,
-      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/vM6B0dqOB2YdXEaA7bjq5LuXEo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
-      "release": "2026-07-23"
-    },
-    {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.384,
-      "votes": 6855,
+      "rating": 8.383,
+      "votes": 6856,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.182,
-      "votes": 503,
+      "rating": 9.184,
+      "votes": 504,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
@@ -278,7 +278,7 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.929,
+      "rating": 8.9,
       "votes": 763,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 259837,
       "title": "The WONDERfools",
-      "rating": 8.909,
-      "votes": 236,
+      "rating": 8.905,
+      "votes": 237,
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
@@ -349,7 +349,7 @@
       "id": 94605,
       "title": "Arcane",
       "rating": 8.752,
-      "votes": 6077,
+      "votes": 6078,
       "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
       "poster": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
@@ -367,26 +367,6 @@
     }
   ],
   "airing_today": [
-    {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.186,
-      "votes": 2382,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
-    },
-    {
-      "id": 22980,
-      "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 5.0,
-      "votes": 87,
-      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-      "release": "2009-07-16"
-    },
     {
       "id": 13945,
       "title": "Gute Zeiten, schlechte Zeiten",
@@ -408,6 +388,16 @@
       "release": "1969-09-01"
     },
     {
+      "id": 57532,
+      "title": "PAW Patrol",
+      "rating": 6.988,
+      "votes": 816,
+      "overview": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
+      "poster": "https://image.tmdb.org/t/p/w500/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
+      "release": "2013-08-12"
+    },
+    {
       "id": 261471,
       "title": "Stand-up Comedy",
       "rating": 5.8,
@@ -420,12 +410,22 @@
     {
       "id": 44953,
       "title": "El Señor de los Cielos",
-      "rating": 7.986,
-      "votes": 3565,
+      "rating": 7.987,
+      "votes": 3566,
       "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
       "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
       "release": "2013-04-15"
+    },
+    {
+      "id": 14610,
+      "title": "Secret Lives",
+      "rating": 4.217,
+      "votes": 23,
+      "overview": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
+      "poster": "https://image.tmdb.org/t/p/w500/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
+      "release": "1999-01-25"
     },
     {
       "id": 206559,
@@ -438,14 +438,24 @@
       "release": "2005-10-13"
     },
     {
-      "id": 287620,
-      "title": "Stuart Fails to Save the Universe",
-      "rating": 9.291,
-      "votes": 74,
-      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/vM6B0dqOB2YdXEaA7bjq5LuXEo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
-      "release": "2026-07-23"
+      "id": 154770,
+      "title": "Hello Saturday",
+      "rating": 6.455,
+      "votes": 11,
+      "overview": "\"Hello, Saturday\" is the rebranding of the popular Chinese show \"Happy Camp\", hosted by He Jiong and with a fixed group of regular celebrity members.\n\nThe program showcases the talent of various stars as well as social topics through creative and diverse content and games. It aims to spread positive energy while keeping up with the current trends and leading youth culture.",
+      "poster": "https://image.tmdb.org/t/p/w500/wsTjWy6NE2s3h0neChr0D92ddwI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg",
+      "release": "2022-01-01"
+    },
+    {
+      "id": 23393,
+      "title": "BBC Proms",
+      "rating": 7.7,
+      "votes": 3,
+      "overview": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Royal Albert Hall in London, and in recent years has explored an innovative series of Proms around the UK with concerts in all four nations. Its aim: to bring the best in classical music to the widest possible audience, which remains true to founder-conductor Henry Wood’s original vision in 1895.  Whether you are a classical connoisseur or think classical music isn’t for you, there is something for everyone in the eight-week stretch of concerts.",
+      "poster": "https://image.tmdb.org/t/p/w500/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aE8LrypJQs2EJvyVgmV2Ta6Hovz.jpg",
+      "release": "1947-09-13"
     },
     {
       "id": 10160,
@@ -458,24 +468,14 @@
       "release": "2000-07-05"
     },
     {
-      "id": 103516,
-      "title": "Star Trek: Strange New Worlds",
-      "rating": 7.9,
-      "votes": 801,
-      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-      "release": "2022-05-05"
-    },
-    {
-      "id": 291,
-      "title": "Coronation Street",
-      "rating": 5.3,
-      "votes": 117,
-      "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-      "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-      "release": "1960-12-09"
+      "id": 4419,
+      "title": "Real Time with Bill Maher",
+      "rating": 6.1,
+      "votes": 244,
+      "overview": "Each week Bill Maher surrounds himself with a panel of guests which include politicians, actors, comedians, musicians and the like to discuss what's going on in the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/njEGYHyq58q94ZPJlSGs6bGrepv.jpg",
+      "release": "2003-02-21"
     },
     {
       "id": 46271,
