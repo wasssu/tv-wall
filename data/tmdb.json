@@ -1,44 +1,14 @@
 {
-  "updated": "2026-08-07T08:07:24.098404+00:00",
+  "updated": "2026-08-07T09:52:11.179183+00:00",
   "trending": [
     {
       "id": 298168,
       "title": "The Shards",
-      "rating": 8.208,
+      "rating": 8.2,
       "votes": 12,
       "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
       "poster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
-      "release": "2026-08-05"
-    },
-    {
-      "id": 199001,
-      "title": "My Life with the Walter Boys",
-      "rating": 7.779,
-      "votes": 390,
-      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-      "poster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
-      "release": "2023-12-07"
-    },
-    {
-      "id": 283297,
-      "title": "Sterling Point",
-      "rating": 6.6,
-      "votes": 10,
-      "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
-      "poster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
-      "release": "2026-08-05"
-    },
-    {
-      "id": 289324,
-      "title": "Star Wars: Visions Presents - The Ninth Jedi",
-      "rating": 7.0,
-      "votes": 10,
-      "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
-      "poster": "https://image.tmdb.org/t/p/w500/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
       "release": "2026-08-05"
     },
     {
@@ -52,6 +22,36 @@
       "release": "2023-05-04"
     },
     {
+      "id": 199001,
+      "title": "My Life with the Walter Boys",
+      "rating": 7.779,
+      "votes": 390,
+      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+      "poster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
+      "release": "2023-12-07"
+    },
+    {
+      "id": 289324,
+      "title": "Star Wars: Visions Presents - The Ninth Jedi",
+      "rating": 7.0,
+      "votes": 10,
+      "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
+      "poster": "https://image.tmdb.org/t/p/w500/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
+      "release": "2026-08-05"
+    },
+    {
+      "id": 283297,
+      "title": "Sterling Point",
+      "rating": 6.6,
+      "votes": 10,
+      "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
+      "poster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
+      "release": "2026-08-05"
+    },
+    {
       "id": 97546,
       "title": "Ted Lasso",
       "rating": 8.341,
@@ -60,6 +60,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
       "release": "2020-08-14"
+    },
+    {
+      "id": 203744,
+      "title": "Sugar",
+      "rating": 7.149,
+      "votes": 347,
+      "overview": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
+      "poster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
+      "release": "2024-04-04"
     },
     {
       "id": 207333,
@@ -72,16 +82,6 @@
       "release": "2024-12-11"
     },
     {
-      "id": 103516,
-      "title": "Star Trek: Strange New Worlds",
-      "rating": 7.9,
-      "votes": 801,
-      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-      "release": "2022-05-05"
-    },
-    {
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.384,
@@ -92,34 +92,34 @@
       "release": "2022-08-21"
     },
     {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.366,
-      "votes": 2205,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
+      "id": 103516,
+      "title": "Star Trek: Strange New Worlds",
+      "rating": 7.9,
+      "votes": 801,
+      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+      "release": "2022-05-05"
     },
     {
-      "id": 203744,
-      "title": "Sugar",
-      "rating": 7.149,
-      "votes": 346,
-      "overview": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
-      "poster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
-      "release": "2024-04-04"
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "rating": 9.287,
+      "votes": 75,
+      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "poster": "https://image.tmdb.org/t/p/w500/vM6B0dqOB2YdXEaA7bjq5LuXEo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
+      "release": "2026-07-23"
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.015,
-      "votes": 1300,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
+      "id": 300480,
+      "title": "Ricky Gervais Alley Cats",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
+      "poster": "https://image.tmdb.org/t/p/w500/mWC77mH2Nv7KMP8vGzwwCVkhsWu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/w7yWr1UM413lOAPt2XS7TVALWrg.jpg",
+      "release": "2026-08-07"
     }
   ],
   "popular": [
