@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-08T01:25:42.512658+00:00",
+  "updated": "2026-08-08T12:43:46.227517+00:00",
   "trending": [
     {
       "id": 291496,
       "title": "Our Sticky Love",
-      "rating": 8.0,
-      "votes": 2,
+      "rating": 6.5,
+      "votes": 6,
       "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
       "poster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
@@ -14,8 +14,8 @@
     {
       "id": 300480,
       "title": "Ricky Gervais Alley Cats",
-      "rating": 7.2,
-      "votes": 6,
+      "rating": 7.6,
+      "votes": 12,
       "overview": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
       "poster": "https://image.tmdb.org/t/p/w500/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/w7yWr1UM413lOAPt2XS7TVALWrg.jpg",
@@ -25,16 +25,46 @@
       "id": 125988,
       "title": "Silo",
       "rating": 8.186,
-      "votes": 2385,
+      "votes": 2386,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "release": "2023-05-04"
     },
     {
+      "id": 94997,
+      "title": "House of the Dragon",
+      "rating": 8.381,
+      "votes": 6864,
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+      "release": "2022-08-21"
+    },
+    {
+      "id": 284753,
+      "title": "Operation Safed Sagar: The Highest Air Force Mission",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
+      "poster": "https://image.tmdb.org/t/p/w500/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/bKvEIOHJ2UpK6NhF86n36dOmfBY.jpg",
+      "release": "2026-08-07"
+    },
+    {
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.8,
+      "votes": 5464,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
+    },
+    {
       "id": 298168,
       "title": "The Shards",
-      "rating": 8.25,
+      "rating": 8.2,
       "votes": 12,
       "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
       "poster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
@@ -42,14 +72,24 @@
       "release": "2026-08-05"
     },
     {
-      "id": 199001,
-      "title": "My Life with the Walter Boys",
+      "id": 220074,
+      "title": "Flex X Cop",
       "rating": 7.8,
-      "votes": 395,
-      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-      "poster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
-      "release": "2023-12-07"
+      "votes": 43,
+      "overview": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
+      "poster": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
+      "release": "2024-01-26"
+    },
+    {
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.014,
+      "votes": 1303,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "release": "2023-07-23"
     },
     {
       "id": 97546,
@@ -62,24 +102,14 @@
       "release": "2020-08-14"
     },
     {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "rating": 8.381,
-      "votes": 6862,
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "release": "2022-08-21"
-    },
-    {
-      "id": 237964,
-      "title": "Death Inc.",
-      "rating": 7.2,
-      "votes": 42,
-      "overview": "When the founder of Torregrosa Funeral Home dies, his scheming right-hand man is poised to take over the business. But the owner's widow has other plans.",
-      "poster": "https://image.tmdb.org/t/p/w500/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rNnTUZgVhzJc36FViudinVPBDSh.jpg",
-      "release": "2024-04-04"
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.367,
+      "votes": 2206,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
     },
     {
       "id": 203744,
@@ -90,47 +120,17 @@
       "poster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
       "release": "2024-04-04"
-    },
-    {
-      "id": 287620,
-      "title": "Stuart Fails to Save the Universe",
-      "rating": 9.247,
-      "votes": 79,
-      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "poster": "https://image.tmdb.org/t/p/w500/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
-      "release": "2026-07-23"
-    },
-    {
-      "id": 289324,
-      "title": "Star Wars: Visions Presents - The Ninth Jedi",
-      "rating": 7.0,
-      "votes": 10,
-      "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
-      "poster": "https://image.tmdb.org/t/p/w500/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
-      "release": "2026-08-05"
-    },
-    {
-      "id": 284753,
-      "title": "Operation Safed Sagar",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "A squadron of Indian Air Force pilots push beyond their limits to attempt a daring and dangerous mission.",
-      "poster": "https://image.tmdb.org/t/p/w500/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/bKvEIOHJ2UpK6NhF86n36dOmfBY.jpg",
-      "release": "2026-08-07"
     }
   ],
   "popular": [
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.383,
-      "votes": 6860,
+      "rating": 8.4,
+      "votes": 6864,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
       "release": "2022-08-21"
     },
     {
@@ -147,7 +147,7 @@
       "id": 5920,
       "title": "The Mentalist",
       "rating": 8.375,
-      "votes": 4514,
+      "votes": 4517,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
@@ -156,7 +156,7 @@
     {
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
-      "rating": 7.959,
+      "rating": 7.958,
       "votes": 4309,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
@@ -176,8 +176,8 @@
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.011,
-      "votes": 1301,
+      "rating": 8.014,
+      "votes": 1303,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
@@ -194,24 +194,34 @@
       "release": "2005-09-14"
     },
     {
-      "id": 65334,
-      "title": "Miraculous: Tales of Ladybug & Cat Noir",
-      "rating": 8.1,
-      "votes": 4635,
-      "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
-      "poster": "https://image.tmdb.org/t/p/w500/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
-      "release": "2015-10-19"
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.186,
+      "votes": 2386,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
     },
     {
       "id": 60625,
       "title": "Rick and Morty",
       "rating": 8.681,
-      "votes": 11240,
+      "votes": 11243,
       "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
       "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
       "release": "2013-12-02"
+    },
+    {
+      "id": 65334,
+      "title": "Miraculous: Tales of Ladybug & Cat Noir",
+      "rating": 8.1,
+      "votes": 4636,
+      "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+      "poster": "https://image.tmdb.org/t/p/w500/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+      "release": "2015-10-19"
     },
     {
       "id": 1416,
@@ -224,20 +234,10 @@
       "release": "2005-03-27"
     },
     {
-      "id": 1396,
-      "title": "Breaking Bad",
-      "rating": 8.948,
-      "votes": 18316,
-      "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-      "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-      "release": "2008-01-20"
-    },
-    {
       "id": 456,
       "title": "The Simpsons",
       "rating": 8.02,
-      "votes": 10912,
+      "votes": 10914,
       "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
       "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.419,
-      "votes": 778,
+      "rating": 9.42,
+      "votes": 779,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.2,
-      "votes": 504,
+      "rating": 9.185,
+      "votes": 505,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.948,
-      "votes": 18316,
+      "rating": 8.947,
+      "votes": 18320,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.932,
-      "votes": 765,
+      "rating": 8.921,
+      "votes": 767,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/TGJ34SvYJ2ZgzsOgAaXzSx3o7E.jpg",
@@ -368,36 +368,6 @@
   ],
   "airing_today": [
     {
-      "id": 13945,
-      "title": "Gute Zeiten, schlechte Zeiten",
-      "rating": 5.458,
-      "votes": 48,
-      "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
-      "poster": "https://image.tmdb.org/t/p/w500/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
-      "release": "1992-05-11"
-    },
-    {
-      "id": 14610,
-      "title": "Secret Lives",
-      "rating": 4.217,
-      "votes": 23,
-      "overview": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
-      "poster": "https://image.tmdb.org/t/p/w500/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
-      "release": "1999-01-25"
-    },
-    {
-      "id": 206559,
-      "title": "Binnelanders",
-      "rating": 5.5,
-      "votes": 111,
-      "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-      "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-      "release": "2005-10-13"
-    },
-    {
       "id": 261471,
       "title": "Stand-up Comedy",
       "rating": 5.8,
@@ -408,14 +378,34 @@
       "release": "2024-08-20"
     },
     {
-      "id": 44953,
-      "title": "El Señor de los Cielos",
-      "rating": 7.988,
-      "votes": 3568,
-      "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
-      "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
-      "release": "2013-04-15"
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.367,
+      "votes": 2206,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
+    },
+    {
+      "id": 45140,
+      "title": "Teen Titans Go!",
+      "rating": 6.432,
+      "votes": 717,
+      "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
+      "poster": "https://image.tmdb.org/t/p/w500/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+      "release": "2013-04-23"
+    },
+    {
+      "id": 106449,
+      "title": "A Record of a Mortal's Journey to Immortality",
+      "rating": 8.4,
+      "votes": 83,
+      "overview": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.",
+      "poster": "https://image.tmdb.org/t/p/w500/5JV6AfPMHbCrtB5oUhKkSiPARQ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
+      "release": "2020-07-25"
     },
     {
       "id": 16807,
@@ -426,16 +416,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/meWAnliwwbNAwzgE8aVJpZlHWux.jpg",
       "release": "1969-09-01"
-    },
-    {
-      "id": 57532,
-      "title": "PAW Patrol",
-      "rating": 6.988,
-      "votes": 816,
-      "overview": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
-      "poster": "https://image.tmdb.org/t/p/w500/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
-      "release": "2013-08-12"
     },
     {
       "id": 23393,
@@ -458,34 +438,54 @@
       "release": "2022-01-01"
     },
     {
-      "id": 10160,
-      "title": "Big Brother",
-      "rating": 4.846,
-      "votes": 272,
-      "overview": "American version of the reality game show which follows a group of HouseGuests living together 24 hours a day in the \"Big Brother\" house, isolated from the outside world but under constant surveillance with no privacy for three months.",
-      "poster": "https://image.tmdb.org/t/p/w500/q2TMOpJITXP2sHd6CrBmO7FvYk1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/oBUwRT7TbhTeFFTguY1s8RmmJpW.jpg",
-      "release": "2000-07-05"
+      "id": 121651,
+      "title": "Stardom on Stardom World",
+      "rating": 8.7,
+      "votes": 3,
+      "overview": "Stardom World is the VOD network for World Wonder Ring Stardom. WWR Stardom is a Japanese women's promotion started in 2011 featuring matches of many varieties including high speed octane action, long brutal brawls, and even costume battle royals. In 2019, the promotion was acquired by Bushiroad and has since become one of the top wrestling promotions in Japan.",
+      "poster": "https://image.tmdb.org/t/p/w500/liGgY9uimx9jmv89x49jHtb8Ndl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aFKa34eHIPoKxRxkEQLd6tKy9Ph.jpg",
+      "release": "2011-01-23"
     },
     {
-      "id": 65701,
-      "title": "Good Mythical Morning",
-      "rating": 6.9,
-      "votes": 91,
-      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
-      "release": "2012-01-09"
+      "id": 70672,
+      "title": "Men on a Mission",
+      "rating": 7.4,
+      "votes": 42,
+      "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
+      "poster": "https://image.tmdb.org/t/p/w500/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+      "release": "2015-12-05"
     },
     {
-      "id": 4419,
-      "title": "Real Time with Bill Maher",
-      "rating": 6.1,
-      "votes": 244,
-      "overview": "Each week Bill Maher surrounds himself with a panel of guests which include politicians, actors, comedians, musicians and the like to discuss what's going on in the world.",
-      "poster": "https://image.tmdb.org/t/p/w500/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/njEGYHyq58q94ZPJlSGs6bGrepv.jpg",
-      "release": "2003-02-21"
+      "id": 319037,
+      "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+      "rating": 9.0,
+      "votes": 2,
+      "overview": "Seeking refuge in the mountains, a famous actor falls for a tea farmer, where love blooms between two vastly different worlds.",
+      "poster": "https://image.tmdb.org/t/p/w500/scklOeyOFJYQehCm3hrssdYIISd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/s9Eg3PUfBbGi6AFFjT07hTuMhpd.jpg",
+      "release": "2026-06-12"
+    },
+    {
+      "id": 298610,
+      "title": "Spooky in Love",
+      "rating": 7.9,
+      "votes": 25,
+      "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
+      "poster": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
+      "release": "2026-07-18"
+    },
+    {
+      "id": 289116,
+      "title": "Genius Girlfriend",
+      "rating": 9.0,
+      "votes": 1,
+      "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+      "poster": "https://image.tmdb.org/t/p/w500/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg",
+      "release": "2026-08-02"
     }
   ]
 }
