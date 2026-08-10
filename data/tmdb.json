@@ -1,55 +1,75 @@
 {
-  "updated": "2026-08-10T01:41:01.487002+00:00",
+  "updated": "2026-08-10T13:04:06.868864+00:00",
   "trending": [
-    {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.02,
-      "votes": 1311,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
-    },
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.382,
-      "votes": 6879,
+      "rating": 8.4,
+      "votes": 6893,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "release": "2022-08-21"
     },
     {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.367,
-      "votes": 2209,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.023,
+      "votes": 1314,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "release": "2023-07-23"
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.187,
+      "votes": 2398,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
+    },
+    {
+      "id": 615,
+      "title": "Futurama",
+      "rating": 8.364,
+      "votes": 3835,
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "release": "1999-03-28"
     },
     {
       "id": 291496,
       "title": "Our Sticky Love",
-      "rating": 7.045,
-      "votes": 11,
+      "rating": 7.714,
+      "votes": 14,
       "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
       "poster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
       "release": "2026-08-07"
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.187,
-      "votes": 2397,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.752,
+      "votes": 5471,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
+    },
+    {
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.368,
+      "votes": 2210,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
     },
     {
       "id": 203744,
@@ -62,14 +82,14 @@
       "release": "2024-04-04"
     },
     {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.752,
-      "votes": 5469,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "release": "1999-10-20"
+      "id": 300954,
+      "title": "The Husband",
+      "rating": 7.4,
+      "votes": 11,
+      "overview": "Taeju and Seyun are on the verge of divorce. But when a drunken comment from Taeju gets Seyun kidnapped, everything changes. Even worse, he's now the prime suspect. Forced to go on the run, Taeju must rescue his wife on his own. To save her, he pushes himself to the absolute limit.",
+      "poster": "https://image.tmdb.org/t/p/w500/z74qJEf1MRsEEIKFgbeyBAHmJXg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/lfTUwBiSyCVcvBPAMzSOYGUgr2c.jpg",
+      "release": "2026-07-04"
     },
     {
       "id": 287496,
@@ -82,44 +102,24 @@
       "release": "2026-08-09"
     },
     {
-      "id": 300480,
-      "title": "Ricky Gervais Alley Cats",
-      "rating": 7.0,
-      "votes": 15,
-      "overview": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
-      "poster": "https://image.tmdb.org/t/p/w500/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/w7yWr1UM413lOAPt2XS7TVALWrg.jpg",
-      "release": "2026-08-07"
+      "id": 97546,
+      "title": "Ted Lasso",
+      "rating": 8.344,
+      "votes": 2510,
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+      "release": "2020-08-14"
     },
     {
-      "id": 283297,
-      "title": "Sterling Point",
-      "rating": 7.8,
-      "votes": 23,
-      "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
-      "poster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
-      "release": "2026-08-05"
-    },
-    {
-      "id": 291350,
-      "title": "Anna Pigeon",
-      "rating": 3.75,
+      "id": 271016,
+      "title": "Mystic Nine",
+      "rating": 6.2,
       "votes": 4,
-      "overview": "Anna Pigeon flees city life for the solitude of America's stunning national parks following a devastating loss; while Anna tries to outrun her demons, her focus turns to solving crimes that have taken place within national park grounds.",
-      "poster": "https://image.tmdb.org/t/p/w500/cA2NyvzIqjeAOXYlxtWcQWGSRZ8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/w6F8pr3bYBlr9LRCM4sIgfto5g3.jpg",
-      "release": "2026-08-07"
-    },
-    {
-      "id": 289324,
-      "title": "Star Wars: Visions Presents - The Ninth Jedi",
-      "rating": 7.267,
-      "votes": 15,
-      "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
-      "poster": "https://image.tmdb.org/t/p/w500/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
-      "release": "2026-08-05"
+      "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
+      "release": "2026-07-30"
     }
   ],
   "popular": [
@@ -146,12 +146,22 @@
     {
       "id": 94997,
       "title": "House of the Dragon",
-      "rating": 8.382,
-      "votes": 6879,
+      "rating": 8.385,
+      "votes": 6891,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "release": "2022-08-21"
+    },
+    {
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.023,
+      "votes": 1314,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "release": "2023-07-23"
     },
     {
       "id": 5920,
@@ -162,16 +172,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
       "release": "2008-09-23"
-    },
-    {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.02,
-      "votes": 1310,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
     },
     {
       "id": 233643,
@@ -206,8 +206,8 @@
     {
       "id": 79744,
       "title": "The Rookie",
-      "rating": 8.546,
-      "votes": 3449,
+      "rating": 8.545,
+      "votes": 3450,
       "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
       "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
@@ -226,7 +226,7 @@
     {
       "id": 65334,
       "title": "Miraculous: Tales of Ladybug & Cat Noir",
-      "rating": 8.059,
+      "rating": 8.1,
       "votes": 4637,
       "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
       "poster": "https://image.tmdb.org/t/p/w500/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -237,7 +237,7 @@
       "id": 125988,
       "title": "Silo",
       "rating": 8.187,
-      "votes": 2397,
+      "votes": 2398,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.422,
-      "votes": 782,
+      "rating": 9.417,
+      "votes": 785,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.947,
-      "votes": 18334,
+      "rating": 8.9,
+      "votes": 18337,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 259837,
       "title": "The WONDERfools",
-      "rating": 8.901,
-      "votes": 238,
+      "rating": 8.898,
+      "votes": 241,
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
@@ -308,8 +308,8 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.781,
-      "votes": 941,
+      "rating": 8.783,
+      "votes": 943,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
@@ -319,7 +319,7 @@
       "id": 246,
       "title": "Avatar: The Last Airbender",
       "rating": 8.776,
-      "votes": 5026,
+      "votes": 5027,
       "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
       "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/kU98MbVVgi72wzceyrEbClZmMFe.jpg",
@@ -338,8 +338,8 @@
     {
       "id": 219246,
       "title": "When Life Gives You Tangerines",
-      "rating": 8.757,
-      "votes": 564,
+      "rating": 8.759,
+      "votes": 565,
       "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
       "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
@@ -349,7 +349,7 @@
       "id": 94605,
       "title": "Arcane",
       "rating": 8.752,
-      "votes": 6086,
+      "votes": 6087,
       "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
       "poster": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
@@ -359,7 +359,7 @@
       "id": 37854,
       "title": "One Piece",
       "rating": 8.752,
-      "votes": 5469,
+      "votes": 5470,
       "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
@@ -367,26 +367,6 @@
     }
   ],
   "airing_today": [
-    {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "rating": 8.382,
-      "votes": 6879,
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "release": "2022-08-21"
-    },
-    {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.018,
-      "votes": 1309,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
-    },
     {
       "id": 22980,
       "title": "Watch What Happens Live with Andy Cohen",
@@ -396,6 +376,26 @@
       "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
       "release": "2009-07-16"
+    },
+    {
+      "id": 59941,
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "rating": 5.775,
+      "votes": 382,
+      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+      "release": "2014-02-17"
+    },
+    {
+      "id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "rating": 8.5,
+      "votes": 1636,
+      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "release": "2021-01-11"
     },
     {
       "id": 261471,
@@ -418,44 +418,44 @@
       "release": "2007-06-23"
     },
     {
-      "id": 2661,
-      "title": "Kamen Rider",
-      "rating": 6.413,
-      "votes": 104,
-      "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-      "poster": "https://image.tmdb.org/t/p/w500/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-      "release": "1971-04-03"
+      "id": 615,
+      "title": "Futurama",
+      "rating": 8.364,
+      "votes": 3835,
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "release": "1999-03-28"
     },
     {
-      "id": 23393,
-      "title": "BBC Proms",
-      "rating": 7.7,
-      "votes": 3,
-      "overview": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Royal Albert Hall in London, and in recent years has explored an innovative series of Proms around the UK with concerts in all four nations. Its aim: to bring the best in classical music to the widest possible audience, which remains true to founder-conductor Henry Wood’s original vision in 1895.  Whether you are a classical connoisseur or think classical music isn’t for you, there is something for everyone in the eight-week stretch of concerts.",
-      "poster": "https://image.tmdb.org/t/p/w500/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/aE8LrypJQs2EJvyVgmV2Ta6Hovz.jpg",
-      "release": "1947-09-13"
+      "id": 4656,
+      "title": "Raw",
+      "rating": 6.8,
+      "votes": 367,
+      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+      "poster": "https://image.tmdb.org/t/p/w500/26v1iP77K6PySQRV0jBSnh3GtRc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qvq06zocz1zhMHdJAPUg0NCBj3z.jpg",
+      "release": "1993-01-11"
     },
     {
-      "id": 33238,
-      "title": "Running Man",
-      "rating": 8.2,
-      "votes": 214,
-      "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
-      "poster": "https://image.tmdb.org/t/p/w500/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-      "release": "2010-07-11"
+      "id": 37528,
+      "title": "Gran hermano",
+      "rating": 4.5,
+      "votes": 4,
+      "overview": "Argentina's version of the Big Brother franchise.",
+      "poster": "https://image.tmdb.org/t/p/w500/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
+      "release": "2001-03-10"
     },
     {
-      "id": 223911,
-      "title": "Renegade Immortal",
-      "rating": 8.2,
-      "votes": 40,
-      "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
-      "poster": "https://image.tmdb.org/t/p/w500/mCt5qgkOYEvuHSiSwNByMv6LMoB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
-      "release": "2023-09-25"
+      "id": 206559,
+      "title": "Binnelanders",
+      "rating": 5.5,
+      "votes": 111,
+      "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+      "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+      "release": "2005-10-13"
     },
     {
       "id": 291,
@@ -468,24 +468,24 @@
       "release": "1960-12-09"
     },
     {
-      "id": 194583,
-      "title": "The Walking Dead: Dead City",
-      "rating": 7.902,
-      "votes": 768,
-      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
-      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
-      "release": "2023-06-18"
+      "id": 13945,
+      "title": "Gute Zeiten, schlechte Zeiten",
+      "rating": 5.458,
+      "votes": 48,
+      "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
+      "poster": "https://image.tmdb.org/t/p/w500/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+      "release": "1992-05-11"
     },
     {
-      "id": 10160,
-      "title": "Big Brother",
-      "rating": 4.846,
-      "votes": 272,
-      "overview": "American version of the reality game show which follows a group of HouseGuests living together 24 hours a day in the \"Big Brother\" house, isolated from the outside world but under constant surveillance with no privacy for three months.",
-      "poster": "https://image.tmdb.org/t/p/w500/q2TMOpJITXP2sHd6CrBmO7FvYk1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/oBUwRT7TbhTeFFTguY1s8RmmJpW.jpg",
-      "release": "2000-07-05"
+      "id": 44953,
+      "title": "El Señor de los Cielos",
+      "rating": 7.99,
+      "votes": 3572,
+      "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
+      "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
+      "release": "2013-04-15"
     }
   ]
 }
