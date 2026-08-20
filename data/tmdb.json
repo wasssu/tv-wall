@@ -1,51 +1,71 @@
 {
-  "updated": "2026-08-19T12:42:26.815285+00:00",
+  "updated": "2026-08-20T01:07:31.435445+00:00",
   "trending": [
-    {
-      "id": 278624,
-      "title": "Lucky",
-      "rating": 7.3,
-      "votes": 151,
-      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/qdobPy3No4Fi3dCzcIDP9n8AjcO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "release": "2026-07-14"
-    },
-    {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "rating": 8.356,
-      "votes": 2561,
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-      "release": "2020-08-14"
-    },
-    {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.2,
-      "votes": 98,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-      "release": "2026-08-16"
-    },
     {
       "id": 108978,
       "title": "Reacher",
       "rating": 8.085,
-      "votes": 3089,
+      "votes": 3090,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "release": "2022-02-03"
     },
     {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "rating": 8.4,
+      "votes": 2565,
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "release": "2020-08-14"
+    },
+    {
+      "id": 278624,
+      "title": "Lucky",
+      "rating": 7.242,
+      "votes": 165,
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "release": "2026-07-14"
+    },
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.11,
+      "votes": 105,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "release": "2026-08-16"
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.189,
+      "votes": 2457,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
+    },
+    {
+      "id": 272938,
+      "title": "Pull Strings",
+      "rating": 8.5,
+      "votes": 2,
+      "overview": "Li Changshou, a terminally ill patient in his previous life, is reborn into the Primordial World as a low-level Qi cultivator who cherishes life and avoids all karmic entanglements. Determined to dodge the great calamity foretold by the Heavenly Dao, he adopts the \"Way of Steady\" — his ultimate goal being to secure a humble post in the Heavenly Court and survive quietly. He operates with extreme caution: when still, he's as steady as an old dog; when he moves, he shakes the heavens. He firmly believes the era of bloodshed is over — better to trick than to kill, better to stay single than to fall in love. Yet enemies and beauties keep surging toward him like tides. Before he knows it, he becomes a mastermind pulling strings behind the scenes, entangled in power plays among multiple factions, orchestrating the \"Dragon Clan's ascent to Heaven\" — and even the great calamity itself accelerates toward him…",
+      "poster": "https://image.tmdb.org/t/p/w500/87irKQfNYW0HlOFXemvSMygDkvD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fFcwzH5ipOfiQQEnAnBk6C9enXG.jpg",
+      "release": "2026-08-19"
+    },
+    {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.1,
-      "votes": 1372,
+      "rating": 8.075,
+      "votes": 1375,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
@@ -54,7 +74,7 @@
     {
       "id": 30984,
       "title": "Bleach",
-      "rating": 8.364,
+      "rating": 8.4,
       "votes": 2225,
       "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
       "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
@@ -62,44 +82,24 @@
       "release": "2004-10-05"
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.19,
-      "votes": 2454,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
+      "id": 331946,
+      "title": "A Beautiful Obsession",
+      "rating": 9.5,
+      "votes": 2,
+      "overview": "An intimate, raw portrait of Manchester City FC across two era-defining seasons. With unprecedented access, the film follows their worst run in decades and fightback to glory.",
+      "poster": "https://image.tmdb.org/t/p/w500/sMGr6FeYhA799ZU50r4wjt5HVdV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/kqaqrGjVthqrK2kcjQEIeDYAAdH.jpg",
+      "release": "2026-08-19"
     },
     {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.751,
-      "votes": 5489,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "release": "1999-10-20"
-    },
-    {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "rating": 8.386,
-      "votes": 6990,
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "release": "2022-08-21"
-    },
-    {
-      "id": 2710,
-      "title": "It's Always Sunny in Philadelphia",
-      "rating": 8.259,
-      "votes": 1386,
-      "overview": "Four egocentric friends run a neighborhood Irish pub in Philadelphia and try to find their way through the adult world of work and relationships. Unfortunately, their warped views and precarious judgments often lead them to trouble, creating a myriad of uncomfortable situations that usually only get worse before they get better.",
-      "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/265v8OtLO4h8XgJu5eDRpJdf9e0.jpg",
-      "release": "2005-08-04"
+      "id": 228421,
+      "title": "Average Joe",
+      "rating": 7.4,
+      "votes": 17,
+      "overview": "Blue-collar plumber, Joe Washington, discovers his recently deceased father lived a secret, second life and stole millions of dollars from dangerous people just before he died. Now those people think Joe knows where it is. A bloody and violent confrontation triggers a chain of events that force Joe and his close-knit circle of family and friends out of their very average and mundane lives into a life-or-death race against time to find the truth and the millions.",
+      "poster": "https://image.tmdb.org/t/p/w500/jsLYlsWA3CsE7V1owlSqfU9QzVG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/l2E1zRep7sM73aCJ4YTuLPxid5H.jpg",
+      "release": "2023-06-26"
     },
     {
       "id": 65942,
@@ -112,22 +112,22 @@
       "release": "2016-04-04"
     },
     {
-      "id": 272938,
-      "title": "Pull Strings",
-      "rating": 9.0,
-      "votes": 1,
-      "overview": "Li Changshou, a terminally ill patient in his previous life, is reborn into the Primordial World as a low-level Qi cultivator who cherishes life and avoids all karmic entanglements. Determined to dodge the great calamity foretold by the Heavenly Dao, he adopts the \"Way of Steady\" — his ultimate goal being to secure a humble post in the Heavenly Court and survive quietly. He operates with extreme caution: when still, he's as steady as an old dog; when he moves, he shakes the heavens. He firmly believes the era of bloodshed is over — better to trick than to kill, better to stay single than to fall in love. Yet enemies and beauties keep surging toward him like tides. Before he knows it, he becomes a mastermind pulling strings behind the scenes, entangled in power plays among multiple factions, orchestrating the \"Dragon Clan's ascent to Heaven\" — and even the great calamity itself accelerates toward him…",
-      "poster": "https://image.tmdb.org/t/p/w500/87irKQfNYW0HlOFXemvSMygDkvD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fFcwzH5ipOfiQQEnAnBk6C9enXG.jpg",
-      "release": "2026-08-19"
+      "id": 94997,
+      "title": "House of the Dragon",
+      "rating": 8.386,
+      "votes": 6994,
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "release": "2022-08-21"
     }
   ],
   "popular": [
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.085,
-      "votes": 3088,
+      "rating": 8.1,
+      "votes": 3090,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -136,42 +136,22 @@
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.1,
-      "votes": 1372,
+      "rating": 8.074,
+      "votes": 1374,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
       "release": "2023-07-23"
     },
     {
-      "id": 67707,
-      "title": "Paradise Hotel",
-      "rating": 5.0,
-      "votes": 4,
-      "overview": "A group of hot singles check into a luxury hotel in Mexico. Prepare for love, partying, betrayal and tears. Half a million kronor is at stake and anything can happen in paradise.",
-      "poster": "https://image.tmdb.org/t/p/w500/aeU8fC5JaG2BkWqgMX7yPfX7dfW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jv7E1Fr6roiVQSvql6bWqOQVDC9.jpg",
-      "release": "2005-01-17"
-    },
-    {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.4,
-      "votes": 4581,
+      "rating": 8.385,
+      "votes": 4582,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
       "release": "2008-09-23"
-    },
-    {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "rating": 8.386,
-      "votes": 6990,
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "release": "2022-08-21"
     },
     {
       "id": 51025,
@@ -184,49 +164,49 @@
       "release": "2005-09-14"
     },
     {
+      "id": 94997,
+      "title": "House of the Dragon",
+      "rating": 8.386,
+      "votes": 6992,
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "release": "2022-08-21"
+    },
+    {
+      "id": 67707,
+      "title": "Paradise Hotel",
+      "rating": 5.0,
+      "votes": 4,
+      "overview": "A group of hot singles check into a luxury hotel in Mexico. Prepare for love, partying, betrayal and tears. Half a million kronor is at stake and anything can happen in paradise.",
+      "poster": "https://image.tmdb.org/t/p/w500/aeU8fC5JaG2BkWqgMX7yPfX7dfW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jv7E1Fr6roiVQSvql6bWqOQVDC9.jpg",
+      "release": "2005-01-17"
+    },
+    {
+      "id": 91759,
+      "title": "Come Home Love: Lo and Behold",
+      "rating": 5.4,
+      "votes": 46,
+      "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
+      "poster": "https://image.tmdb.org/t/p/w500/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dyFTt1a9ZpFdKE96kPlE9fQvXOJ.jpg",
+      "release": "2017-02-20"
+    },
+    {
       "id": 95350,
       "title": "Lanterns",
-      "rating": 8.2,
-      "votes": 97,
+      "rating": 8.15,
+      "votes": 103,
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
       "release": "2026-08-16"
     },
     {
-      "id": 94722,
-      "title": "Tagesschau",
-      "rating": 6.768,
-      "votes": 256,
-      "overview": "German daily news program, the oldest still existing program on German television.",
-      "poster": "https://image.tmdb.org/t/p/w500/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
-      "release": "1952-12-26"
-    },
-    {
-      "id": 59941,
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.766,
-      "votes": 385,
-      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
-      "release": "2014-02-17"
-    },
-    {
-      "id": 37528,
-      "title": "Gran hermano",
-      "rating": 4.5,
-      "votes": 4,
-      "overview": "Argentina's version of the Big Brother franchise.",
-      "poster": "https://image.tmdb.org/t/p/w500/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
-      "release": "2001-03-10"
-    },
-    {
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
-      "rating": 8.0,
+      "rating": 7.959,
       "votes": 4312,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
@@ -242,14 +222,34 @@
       "poster": null,
       "backdrop": null,
       "release": "2021-04-10"
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.2,
+      "votes": 2456,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
+    },
+    {
+      "id": 1416,
+      "title": "Grey's Anatomy",
+      "rating": 8.207,
+      "votes": 11013,
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+      "poster": "https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+      "release": "2005-03-27"
     }
   ],
   "top_rated": [
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.42,
-      "votes": 809,
+      "rating": 9.417,
+      "votes": 810,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.9,
-      "votes": 18422,
+      "rating": 8.949,
+      "votes": 18425,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -308,8 +308,8 @@
     {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.802,
-      "votes": 932,
+      "rating": 8.803,
+      "votes": 933,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude.  Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
@@ -328,8 +328,8 @@
     {
       "id": 246,
       "title": "Avatar: The Last Airbender",
-      "rating": 8.778,
-      "votes": 5051,
+      "rating": 8.779,
+      "votes": 5053,
       "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
       "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
@@ -358,8 +358,8 @@
     {
       "id": 94605,
       "title": "Arcane",
-      "rating": 8.8,
-      "votes": 6106,
+      "rating": 8.751,
+      "votes": 6108,
       "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
       "poster": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
@@ -370,22 +370,12 @@
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.085,
-      "votes": 3089,
+      "rating": 8.1,
+      "votes": 3090,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "release": "2022-02-03"
-    },
-    {
-      "id": 59941,
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.766,
-      "votes": 385,
-      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
-      "release": "2014-02-17"
     },
     {
       "id": 37528,
@@ -396,6 +386,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
       "release": "2001-03-10"
+    },
+    {
+      "id": 59941,
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "rating": 5.766,
+      "votes": 385,
+      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+      "release": "2014-02-17"
     },
     {
       "id": 46271,
@@ -438,24 +438,34 @@
       "release": "1960-12-09"
     },
     {
-      "id": 16807,
-      "title": "Jornal Nacional",
-      "rating": 7.0,
-      "votes": 7,
-      "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
-      "poster": "https://image.tmdb.org/t/p/w500/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/meWAnliwwbNAwzgE8aVJpZlHWux.jpg",
-      "release": "1969-09-01"
+      "id": 72879,
+      "title": "Tomorrow Is Ours",
+      "rating": 6.366,
+      "votes": 71,
+      "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+      "poster": "https://image.tmdb.org/t/p/w500/7BjipkA48xXLauTg45QKiOb144a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg",
+      "release": "2017-07-17"
     },
     {
-      "id": 13945,
-      "title": "Gute Zeiten, schlechte Zeiten",
-      "rating": 5.49,
-      "votes": 49,
-      "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
-      "poster": "https://image.tmdb.org/t/p/w500/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
-      "release": "1992-05-11"
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "rating": 8.1,
+      "votes": 756,
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+      "release": "2016-04-04"
+    },
+    {
+      "id": 44953,
+      "title": "El Señor de los Cielos",
+      "rating": 7.999,
+      "votes": 3597,
+      "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
+      "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
+      "release": "2013-04-15"
     },
     {
       "id": 36361,
@@ -468,24 +478,14 @@
       "release": "2005-09-05"
     },
     {
-      "id": 44953,
-      "title": "El Señor de los Cielos",
-      "rating": 7.998,
-      "votes": 3595,
-      "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
-      "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
-      "release": "2013-04-15"
-    },
-    {
-      "id": 65701,
-      "title": "Good Mythical Morning",
-      "rating": 6.9,
-      "votes": 92,
-      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
-      "release": "2012-01-09"
+      "id": 13945,
+      "title": "Gute Zeiten, schlechte Zeiten",
+      "rating": 5.49,
+      "votes": 49,
+      "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
+      "poster": "https://image.tmdb.org/t/p/w500/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+      "release": "1992-05-11"
     }
   ]
 }
