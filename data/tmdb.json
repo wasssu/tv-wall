@@ -1,50 +1,50 @@
 {
-  "updated": "2026-08-23T12:35:52.438426+00:00",
+  "updated": "2026-08-24T01:11:00.339861+00:00",
   "trending": [
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.4,
-      "votes": 2231,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
-    },
-    {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.2,
-      "votes": 141,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-      "release": "2026-08-16"
-    },
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.189,
-      "votes": 2482,
+      "rating": 8.193,
+      "votes": 2486,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "release": "2023-05-04"
     },
     {
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.081,
+      "votes": 1393,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "release": "2023-07-23"
+    },
+    {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.089,
-      "votes": 3115,
+      "rating": 8.1,
+      "votes": 3118,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "release": "2022-02-03"
     },
     {
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.367,
+      "votes": 2232,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
+    },
+    {
       "id": 100757,
       "title": "Outer Banks",
-      "rating": 8.2,
+      "rating": 8.243,
       "votes": 1241,
       "overview": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
       "poster": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
@@ -52,40 +52,30 @@
       "release": "2020-04-15"
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.1,
-      "votes": 1391,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.166,
+      "votes": 145,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "release": "2026-08-16"
     },
     {
       "id": 278624,
       "title": "Lucky",
-      "rating": 7.193,
-      "votes": 202,
+      "rating": 7.228,
+      "votes": 206,
       "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
       "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
       "release": "2026-07-14"
     },
     {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "rating": 8.4,
-      "votes": 2579,
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-      "release": "2020-08-14"
-    },
-    {
       "id": 94997,
       "title": "House of the Dragon",
       "rating": 8.386,
-      "votes": 7020,
+      "votes": 7022,
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -102,32 +92,42 @@
       "release": "1999-10-20"
     },
     {
-      "id": 303351,
-      "title": "Blood Sacrifice",
-      "rating": 5.4,
-      "votes": 12,
-      "overview": "Following the brutal murder of two police officers, a tenacious detective reluctantly joins forces with his estranged ex-cop father to catch the killer.",
-      "poster": "https://image.tmdb.org/t/p/w500/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg",
-      "release": "2026-08-20"
+      "id": 97546,
+      "title": "Ted Lasso",
+      "rating": 8.363,
+      "votes": 2581,
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "release": "2020-08-14"
     },
     {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "rating": 8.1,
-      "votes": 758,
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-      "release": "2016-04-04"
+      "id": 286709,
+      "title": "The Westies",
+      "rating": 7.2,
+      "votes": 26,
+      "overview": "As the Javits Center construction project ignites a battle for profit in early 1980s Hell's Kitchen, a generational rift threatens the uneasy peace between violent Irish gang the Westies and the Mafia, and draws FBI heat.",
+      "poster": "https://image.tmdb.org/t/p/w500/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tT2MwxaST3Fx1Dg4u9v82sDrIu.jpg",
+      "release": "2026-07-12"
+    },
+    {
+      "id": 298610,
+      "title": "Spooky in Love",
+      "rating": 8.853,
+      "votes": 51,
+      "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
+      "poster": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
+      "release": "2026-07-18"
     }
   ],
   "popular": [
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.089,
-      "votes": 3115,
+      "rating": 8.086,
+      "votes": 3116,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -136,12 +136,22 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.388,
-      "votes": 4597,
+      "rating": 8.4,
+      "votes": 4599,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
       "release": "2008-09-23"
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.191,
+      "votes": 2484,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
     },
     {
       "id": 51025,
@@ -157,31 +167,11 @@
       "id": 113962,
       "title": "Lioness",
       "rating": 8.1,
-      "votes": 1391,
+      "votes": 1392,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
       "release": "2023-07-23"
-    },
-    {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.2,
-      "votes": 141,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-      "release": "2026-08-16"
-    },
-    {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.189,
-      "votes": 2482,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
     },
     {
       "id": 67707,
@@ -194,34 +184,14 @@
       "release": "2005-01-17"
     },
     {
-      "id": 2734,
-      "title": "Law & Order: Special Victims Unit",
-      "rating": 7.96,
-      "votes": 4315,
-      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-      "release": "1999-09-20"
-    },
-    {
-      "id": 1434,
-      "title": "Family Guy",
-      "rating": 7.41,
-      "votes": 5075,
-      "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
-      "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
-      "release": "1999-01-31"
-    },
-    {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "rating": 8.386,
-      "votes": 7020,
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "release": "2022-08-21"
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.194,
+      "votes": 144,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "release": "2026-08-16"
     },
     {
       "id": 37528,
@@ -234,22 +204,52 @@
       "release": "2001-03-10"
     },
     {
-      "id": 456,
-      "title": "The Simpsons",
-      "rating": 8.0,
-      "votes": 10947,
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-      "release": "1989-12-17"
+      "id": 2734,
+      "title": "Law & Order: Special Victims Unit",
+      "rating": 7.96,
+      "votes": 4315,
+      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+      "release": "1999-09-20"
+    },
+    {
+      "id": 94722,
+      "title": "Tagesschau",
+      "rating": 6.768,
+      "votes": 256,
+      "overview": "German daily news program, the oldest still existing program on German television.",
+      "poster": "https://image.tmdb.org/t/p/w500/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+      "release": "1952-12-26"
+    },
+    {
+      "id": 94997,
+      "title": "House of the Dragon",
+      "rating": 8.386,
+      "votes": 7021,
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "release": "2022-08-21"
+    },
+    {
+      "id": 1416,
+      "title": "Grey's Anatomy",
+      "rating": 8.2,
+      "votes": 11020,
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+      "poster": "https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+      "release": "2005-03-27"
     }
   ],
   "top_rated": [
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.423,
-      "votes": 818,
+      "rating": 9.4,
+      "votes": 819,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.949,
-      "votes": 18454,
+      "rating": 8.9,
+      "votes": 18458,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.915,
-      "votes": 803,
+      "rating": 8.916,
+      "votes": 804,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 259837,
       "title": "The WONDERfools",
-      "rating": 8.9,
-      "votes": 249,
+      "rating": 8.874,
+      "votes": 250,
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
@@ -328,8 +328,8 @@
     {
       "id": 246,
       "title": "Avatar: The Last Airbender",
-      "rating": 8.8,
-      "votes": 5056,
+      "rating": 8.781,
+      "votes": 5057,
       "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
       "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
@@ -359,7 +359,7 @@
       "id": 94605,
       "title": "Arcane",
       "rating": 8.8,
-      "votes": 6117,
+      "votes": 6118,
       "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
       "poster": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
@@ -370,8 +370,8 @@
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.079,
-      "votes": 1391,
+      "rating": 8.1,
+      "votes": 1392,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
@@ -380,8 +380,8 @@
     {
       "id": 95350,
       "title": "Lanterns",
-      "rating": 8.2,
-      "votes": 140,
+      "rating": 8.166,
+      "votes": 145,
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
@@ -418,16 +418,6 @@
       "release": "1964-08-22"
     },
     {
-      "id": 291856,
-      "title": "Forging Justice",
-      "rating": 8.0,
-      "votes": 3,
-      "overview": "In the early years of China's reform and opening-up, five law school graduates—Chen Yizhong, Yu Gaoyuan, Lu Zeming, Xia Yingjie, and Zhang Lihui—embarked on diverse careers within the judicial system.",
-      "poster": "https://image.tmdb.org/t/p/w500/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/elfvJ7Quc5ffx1SK59UFEa5dRkQ.jpg",
-      "release": "2026-08-10"
-    },
-    {
       "id": 33238,
       "title": "Running Man",
       "rating": 8.222,
@@ -440,12 +430,22 @@
     {
       "id": 287496,
       "title": "The Road to Splendor",
-      "rating": 9.0,
-      "votes": 2,
+      "rating": 7.0,
+      "votes": 3,
       "overview": "After being falsely accused of a scandal that ruins her reputation, noblewoman Fu Tingyun escapes with the help of salt smuggler Zhao Ling. Together, they expose government corruption and navigate the treacherous world of court politics. As they seek justice and uncover the truth behind her past, their bond deepens, leading them to a new beginning.",
       "poster": "https://image.tmdb.org/t/p/w500/32xB4tvOEixN0XUuL43I8qy9ghg.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
       "release": "2026-08-09"
+    },
+    {
+      "id": 291856,
+      "title": "Forging Justice",
+      "rating": 8.0,
+      "votes": 3,
+      "overview": "In the early years of China's reform and opening-up, five law school graduates—Chen Yizhong, Yu Gaoyuan, Lu Zeming, Xia Yingjie, and Zhang Lihui—embarked on diverse careers within the judicial system.",
+      "poster": "https://image.tmdb.org/t/p/w500/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/elfvJ7Quc5ffx1SK59UFEa5dRkQ.jpg",
+      "release": "2026-08-10"
     },
     {
       "id": 223911,
@@ -478,14 +478,14 @@
       "release": "2000-07-03"
     },
     {
-      "id": 10160,
-      "title": "Big Brother",
-      "rating": 4.856,
-      "votes": 271,
-      "overview": "American version of the reality game show which follows a group of HouseGuests living together 24 hours a day in the \"Big Brother\" house, isolated from the outside world but under constant surveillance with no privacy for three months.",
-      "poster": "https://image.tmdb.org/t/p/w500/q2TMOpJITXP2sHd6CrBmO7FvYk1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/oBUwRT7TbhTeFFTguY1s8RmmJpW.jpg",
-      "release": "2000-07-05"
+      "id": 121651,
+      "title": "Stardom on Stardom World",
+      "rating": 8.7,
+      "votes": 3,
+      "overview": "Stardom World is the VOD network for World Wonder Ring Stardom. WWR Stardom is a Japanese women's promotion started in 2011 featuring matches of many varieties including high speed octane action, long brutal brawls, and even costume battle royals. In 2019, the promotion was acquired by Bushiroad and has since become one of the top wrestling promotions in Japan.",
+      "poster": "https://image.tmdb.org/t/p/w500/liGgY9uimx9jmv89x49jHtb8Ndl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aFKa34eHIPoKxRxkEQLd6tKy9Ph.jpg",
+      "release": "2011-01-23"
     }
   ]
 }
