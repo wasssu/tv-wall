@@ -1,65 +1,85 @@
 {
-  "updated": "2026-08-27T07:24:09.042121+00:00",
+  "updated": "2026-08-27T21:47:35.375337+00:00",
   "trending": [
-    {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.2,
-      "votes": 179,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-      "release": "2026-08-16"
-    },
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.091,
-      "votes": 3146,
+      "rating": 8.092,
+      "votes": 3152,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "release": "2022-02-03"
     },
     {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.215,
+      "votes": 181,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "release": "2026-08-16"
+    },
+    {
+      "id": 246246,
+      "title": "Beauty in Black",
+      "rating": 8.212,
+      "votes": 259,
+      "overview": "A stripper's fate takes a turn when she crosses paths with the wealthy, dysfunctional family behind a cosmetics dynasty and a devious trafficking scheme.",
+      "poster": "https://image.tmdb.org/t/p/w500/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ywJcUIMTCjstPLvvyIiPWP3G3m3.jpg",
+      "release": "2024-10-24"
+    },
+    {
       "id": 97546,
       "title": "Ted Lasso",
-      "rating": 8.4,
-      "votes": 2590,
+      "rating": 8.363,
+      "votes": 2593,
       "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
       "release": "2020-08-14"
     },
     {
-      "id": 299952,
-      "title": "The Early Spring",
-      "rating": 8.0,
-      "votes": 1,
-      "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-      "poster": "https://image.tmdb.org/t/p/w500/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/d7aATTaFwreVu0eSdVc3k9Yqlvv.jpg",
-      "release": "2026-08-26"
+      "id": 252751,
+      "title": "Leanne",
+      "rating": 7.1,
+      "votes": 21,
+      "overview": "When her husband leaves her for another woman, a resilient Southern mom starts over with the support of her loving, but unfiltered family.",
+      "poster": "https://image.tmdb.org/t/p/w500/sILKrYhFK6bedXgDggQD3GmGUUV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i5qNKvdBkVAJvJZRkkzSvQxrAL2.jpg",
+      "release": "2025-07-31"
     },
     {
-      "id": 289761,
-      "title": "Awaken",
-      "rating": 8.0,
-      "votes": 1,
-      "overview": "During World War II, photographer Chen Kailai unexpectedly becomes involved in an underground resistance mission to stop the Japanese army’s secret biological experiment. Taking up his fallen mentor’s codename, he joins fellow spies in a perilous fight to expose the enemy’s crimes and prevent a viral catastrophe.",
-      "poster": "https://image.tmdb.org/t/p/w500/4fKwBMS8Gj6uJRbLzeNn5JNY54M.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jY5xb5HLoVWkXlKCTbXqh3g7GQL.jpg",
-      "release": "2026-08-26"
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.194,
+      "votes": 2504,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
     },
     {
-      "id": 331616,
-      "title": "Death of the Pastor's Wife",
-      "rating": 6.0,
-      "votes": 1,
-      "overview": "What happened to Mica Miller? This documentary series retraces her promising life, toxic marriage and the mysterious circumstances of her death.",
-      "poster": "https://image.tmdb.org/t/p/w500/1vY2JjWOKQefWFos9XQ20lqgmtZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg",
-      "release": "2026-08-26"
+      "id": 103516,
+      "title": "Star Trek: Strange New Worlds",
+      "rating": 7.9,
+      "votes": 824,
+      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+      "release": "2022-05-05"
+    },
+    {
+      "id": 330540,
+      "title": "Dalliance",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Billy, a former cameraman, encounters Dani on a Sydney Harbour ferry as their different worlds intersect.",
+      "poster": "https://image.tmdb.org/t/p/w500/oUwy6xIffGNp94bkiqowBDM9W1S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8Ye9jv4Ibo5xK6GgWihsec8M94A.jpg",
+      "release": "2026-08-27"
     },
     {
       "id": 30984,
@@ -72,34 +92,14 @@
       "release": "2004-10-05"
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.197,
-      "votes": 2501,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
-    },
-    {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "rating": 8.083,
-      "votes": 760,
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-      "release": "2016-04-04"
-    },
-    {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.751,
-      "votes": 5498,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "release": "1999-10-20"
+      "id": 299952,
+      "title": "The Early Spring",
+      "rating": 8.0,
+      "votes": 1,
+      "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+      "poster": "https://image.tmdb.org/t/p/w500/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/d7aATTaFwreVu0eSdVc3k9Yqlvv.jpg",
+      "release": "2026-08-26"
     },
     {
       "id": 456,
@@ -112,76 +112,26 @@
       "release": "1989-12-17"
     },
     {
-      "id": 207333,
-      "title": "One Hundred Years of Solitude",
-      "rating": 7.998,
-      "votes": 244,
-      "overview": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
-      "poster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
-      "release": "2024-12-11"
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "rating": 8.08,
+      "votes": 760,
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+      "release": "2016-04-04"
     }
   ],
   "popular": [
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.091,
-      "votes": 3146,
+      "rating": 8.092,
+      "votes": 3150,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "release": "2022-02-03"
-    },
-    {
-      "id": 5920,
-      "title": "The Mentalist",
-      "rating": 8.392,
-      "votes": 4620,
-      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
-      "release": "2008-09-23"
-    },
-    {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.091,
-      "votes": 1418,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
-    },
-    {
-      "id": 100757,
-      "title": "Outer Banks",
-      "rating": 8.244,
-      "votes": 1245,
-      "overview": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
-      "poster": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fjJ0aqDeDXFzmFXXJ4CF3ryB19b.jpg",
-      "release": "2020-04-15"
-    },
-    {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.197,
-      "votes": 178,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-      "release": "2026-08-16"
-    },
-    {
-      "id": 51025,
-      "title": "Paradise Hotel",
-      "rating": 5.6,
-      "votes": 10,
-      "overview": "Danish version of the reality series \"Paradise Hotel\".",
-      "poster": "https://image.tmdb.org/t/p/w500/ycSBcACecVR0zSnP2ZF83k5f7he.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nun8Ssmni886Ib4v7chgQbswDfl.jpg",
-      "release": "2005-09-14"
     },
     {
       "id": 94722,
@@ -194,24 +144,44 @@
       "release": "1952-12-26"
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.198,
-      "votes": 2501,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.095,
+      "votes": 1423,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "release": "2023-07-23"
     },
     {
-      "id": 2734,
-      "title": "Law & Order: Special Victims Unit",
-      "rating": 7.959,
-      "votes": 4319,
-      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-      "release": "1999-09-20"
+      "id": 5920,
+      "title": "The Mentalist",
+      "rating": 8.4,
+      "votes": 4621,
+      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+      "release": "2008-09-23"
+    },
+    {
+      "id": 100757,
+      "title": "Outer Banks",
+      "rating": 8.245,
+      "votes": 1246,
+      "overview": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
+      "poster": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fjJ0aqDeDXFzmFXXJ4CF3ryB19b.jpg",
+      "release": "2020-04-15"
+    },
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.206,
+      "votes": 180,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "release": "2026-08-16"
     },
     {
       "id": 37528,
@@ -224,14 +194,44 @@
       "release": "2001-03-10"
     },
     {
-      "id": 67707,
+      "id": 51025,
       "title": "Paradise Hotel",
-      "rating": 5.0,
-      "votes": 4,
-      "overview": "A group of hot singles check into a luxury hotel in Mexico. Prepare for love, partying, betrayal and tears. Half a million kronor is at stake and anything can happen in paradise.",
-      "poster": "https://image.tmdb.org/t/p/w500/zE4hi4gDP0T8HDC4noHasNsBKtb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pLCg3tEGumMXFM6nLR7ldufvlqG.jpg",
-      "release": "2005-01-17"
+      "rating": 5.6,
+      "votes": 10,
+      "overview": "Danish version of the reality series \"Paradise Hotel\".",
+      "poster": "https://image.tmdb.org/t/p/w500/ycSBcACecVR0zSnP2ZF83k5f7he.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nun8Ssmni886Ib4v7chgQbswDfl.jpg",
+      "release": "2005-09-14"
+    },
+    {
+      "id": 2734,
+      "title": "Law & Order: Special Victims Unit",
+      "rating": 7.959,
+      "votes": 4319,
+      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+      "release": "1999-09-20"
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.194,
+      "votes": 2503,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
+    },
+    {
+      "id": 79744,
+      "title": "The Rookie",
+      "rating": 8.5,
+      "votes": 3488,
+      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+      "release": "2018-10-16"
     },
     {
       "id": 1434,
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.407,
-      "votes": 833,
+      "rating": 9.409,
+      "votes": 836,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.17,
-      "votes": 555,
+      "rating": 9.168,
+      "votes": 556,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.95,
-      "votes": 18475,
+      "rating": 8.949,
+      "votes": 18480,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.915,
-      "votes": 811,
+      "rating": 8.916,
+      "votes": 812,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 259837,
       "title": "The WONDERfools",
-      "rating": 8.867,
-      "votes": 252,
+      "rating": 8.864,
+      "votes": 253,
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
@@ -308,7 +308,7 @@
     {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.805,
+      "rating": 8.8,
       "votes": 941,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude.  Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/cHhJzdUGcEBq6av4wr9jsIvUITH.jpg",
@@ -318,8 +318,8 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.8,
-      "votes": 961,
+      "rating": 8.801,
+      "votes": 962,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
@@ -339,7 +339,7 @@
       "id": 246,
       "title": "Avatar: The Last Airbender",
       "rating": 8.78,
-      "votes": 5063,
+      "votes": 5064,
       "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
       "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
@@ -348,35 +348,25 @@
     {
       "id": 64010,
       "title": "Reply 1988",
-      "rating": 8.762,
+      "rating": 8.8,
       "votes": 225,
       "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
-      "poster": "https://image.tmdb.org/t/p/w500/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/655MownSWwplhvVlXERRJ4OSOG2.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
       "release": "2015-11-06"
     },
     {
-      "id": 259666,
-      "title": "No One Will Miss Us",
-      "rating": 8.736,
-      "votes": 363,
-      "overview": "It's the '90s, and five losers run an illegal business at their high school. They sell homework and assignments to their classmates. The advantage is that no one ever suspects the nerds. Their business brings them money and popularity. But hormones and an unexpected death threaten to ruin everything. If the business collapses, their futures and their friendships are at risk.",
-      "poster": "https://image.tmdb.org/t/p/w500/5U3WiAz67fJn5gnvFk4zOJAx9Sc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jmV6NIzZxGzRoljFPwao6sh4Nny.jpg",
-      "release": "2024-08-09"
+      "id": 94605,
+      "title": "Arcane",
+      "rating": 8.75,
+      "votes": 6128,
+      "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+      "poster": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
+      "release": "2021-11-06"
     }
   ],
   "airing_today": [
-    {
-      "id": 108978,
-      "title": "Reacher",
-      "rating": 8.092,
-      "votes": 3142,
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "release": "2022-02-03"
-    },
     {
       "id": 37528,
       "title": "Gran hermano",
@@ -388,14 +378,14 @@
       "release": "2001-03-10"
     },
     {
-      "id": 13945,
-      "title": "Gute Zeiten, schlechte Zeiten",
-      "rating": 5.5,
-      "votes": 49,
-      "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
-      "poster": "https://image.tmdb.org/t/p/w500/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
-      "release": "1992-05-11"
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.194,
+      "votes": 2503,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
     },
     {
       "id": 16807,
@@ -408,6 +398,16 @@
       "release": "1969-09-01"
     },
     {
+      "id": 13945,
+      "title": "Gute Zeiten, schlechte Zeiten",
+      "rating": 5.5,
+      "votes": 49,
+      "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
+      "poster": "https://image.tmdb.org/t/p/w500/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+      "release": "1992-05-11"
+    },
+    {
       "id": 206559,
       "title": "Binnelanders",
       "rating": 5.5,
@@ -416,16 +416,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
       "release": "2005-10-13"
-    },
-    {
-      "id": 91555,
-      "title": "All Elite Wrestling: Dynamite",
-      "rating": 8.0,
-      "votes": 86,
-      "overview": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years.",
-      "poster": "https://image.tmdb.org/t/p/w500/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg",
-      "release": "2019-10-02"
     },
     {
       "id": 82873,
@@ -448,16 +438,6 @@
       "release": "1960-12-09"
     },
     {
-      "id": 65701,
-      "title": "Good Mythical Morning",
-      "rating": 6.9,
-      "votes": 92,
-      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
-      "release": "2012-01-09"
-    },
-    {
       "id": 36361,
       "title": "Ulice",
       "rating": 4.8,
@@ -468,14 +448,14 @@
       "release": "2005-09-05"
     },
     {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "rating": 8.083,
-      "votes": 760,
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-      "release": "2016-04-04"
+      "id": 127163,
+      "title": "Das perfekte Dinner",
+      "rating": 6.0,
+      "votes": 1,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/1DTwcRiOMmn20hHLxKeiNoI0ux2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2CUdryUjbdOrWymDJSlHvlcoPsj.jpg",
+      "release": "2005-11-21"
     },
     {
       "id": 79917,
@@ -486,6 +466,26 @@
       "poster": "https://image.tmdb.org/t/p/w500/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wNzhjVcigBJx3dATrlEmaoKbRpx.jpg",
       "release": "2013-08-04"
+    },
+    {
+      "id": 72879,
+      "title": "Tomorrow Is Ours",
+      "rating": 6.366,
+      "votes": 71,
+      "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+      "poster": "https://image.tmdb.org/t/p/w500/7BjipkA48xXLauTg45QKiOb144a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg",
+      "release": "2017-07-17"
+    },
+    {
+      "id": 2527,
+      "title": "Emmerdale",
+      "rating": 4.3,
+      "votes": 100,
+      "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
+      "poster": "https://image.tmdb.org/t/p/w500/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
+      "release": "1972-10-16"
     }
   ]
 }
