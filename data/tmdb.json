@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-28T09:38:49.638036+00:00",
+  "updated": "2026-08-28T21:43:59.099768+00:00",
   "trending": [
     {
       "id": 196322,
       "title": "Dark Matter",
       "rating": 7.8,
       "votes": 731,
-      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his true family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
       "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/lcyaTfX6KEMpWNnzPoGPKp7LwwC.jpg",
       "release": "2024-05-07"
@@ -14,32 +14,52 @@
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.194,
-      "votes": 2508,
+      "rating": 8.189,
+      "votes": 2510,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "release": "2023-05-04"
     },
     {
-      "id": 246246,
-      "title": "Beauty in Black",
-      "rating": 8.224,
-      "votes": 263,
-      "overview": "A stripper's fate takes a turn when she crosses paths with the wealthy, dysfunctional family behind a cosmetics dynasty and a devious trafficking scheme.",
-      "poster": "https://image.tmdb.org/t/p/w500/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ywJcUIMTCjstPLvvyIiPWP3G3m3.jpg",
-      "release": "2024-10-24"
+      "id": 290193,
+      "title": "Mousetrap",
+      "rating": 9.0,
+      "votes": 1,
+      "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
+      "poster": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/bYtQiIibQzvMeXvLMKVcZ5DlT31.jpg",
+      "release": "2026-08-28"
     },
     {
       "id": 260458,
       "title": "Adults",
       "rating": 5.9,
-      "votes": 73,
+      "votes": 75,
       "overview": "A group of twenty-somethings in New York trying to be good people, despite being neither \"good\" nor \"people\" yet.",
       "poster": "https://image.tmdb.org/t/p/w500/oJUoRlVXGl3MJb62Ugi1G08GPbx.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6skot5l7gcJd6hO6qlKDGGY6LBJ.jpg",
       "release": "2025-05-28"
+    },
+    {
+      "id": 108978,
+      "title": "Reacher",
+      "rating": 8.093,
+      "votes": 3154,
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "release": "2022-02-03"
+    },
+    {
+      "id": 292558,
+      "title": "All the Truth In My Lies",
+      "rating": 6.0,
+      "votes": 1,
+      "overview": "Coco and Marín, best friends, embark on a caravan trip to celebrate Blanca's bachelorette party, but their adventure becomes a time bomb as secrets unravel.",
+      "poster": "https://image.tmdb.org/t/p/w500/sf8Cg0g9PQe3iVL0PLMYslgGeYC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg",
+      "release": "2026-08-28"
     },
     {
       "id": 95350,
@@ -52,44 +72,14 @@
       "release": "2026-08-16"
     },
     {
-      "id": 290193,
-      "title": "Mousetrap",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
-      "poster": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/bYtQiIibQzvMeXvLMKVcZ5DlT31.jpg",
-      "release": "2026-08-28"
-    },
-    {
-      "id": 252751,
-      "title": "Leanne",
-      "rating": 7.1,
-      "votes": 21,
-      "overview": "When her husband leaves her for another woman, a resilient Southern mom starts over with the support of her loving, but unfiltered family.",
-      "poster": "https://image.tmdb.org/t/p/w500/sILKrYhFK6bedXgDggQD3GmGUUV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i5qNKvdBkVAJvJZRkkzSvQxrAL2.jpg",
-      "release": "2025-07-31"
-    },
-    {
-      "id": 108978,
-      "title": "Reacher",
-      "rating": 8.095,
-      "votes": 3152,
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "release": "2022-02-03"
-    },
-    {
-      "id": 103516,
-      "title": "Star Trek: Strange New Worlds",
-      "rating": 7.9,
-      "votes": 824,
-      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-      "release": "2022-05-05"
+      "id": 246246,
+      "title": "Beauty in Black",
+      "rating": 8.238,
+      "votes": 265,
+      "overview": "A stripper's fate takes a turn when she crosses paths with the wealthy, dysfunctional family behind a cosmetics dynasty and a devious trafficking scheme.",
+      "poster": "https://image.tmdb.org/t/p/w500/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ywJcUIMTCjstPLvvyIiPWP3G3m3.jpg",
+      "release": "2024-10-24"
     },
     {
       "id": 97546,
@@ -108,7 +98,7 @@
       "votes": 127,
       "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
       "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
       "release": "2026-07-23"
     },
     {
@@ -120,6 +110,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
       "release": "2004-10-05"
+    },
+    {
+      "id": 103516,
+      "title": "Star Trek: Strange New Worlds",
+      "rating": 7.899,
+      "votes": 825,
+      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+      "release": "2022-05-05"
     }
   ],
   "popular": [
@@ -134,6 +134,16 @@
       "release": "2022-02-03"
     },
     {
+      "id": 5920,
+      "title": "The Mentalist",
+      "rating": 8.393,
+      "votes": 4623,
+      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+      "release": "2008-09-23"
+    },
+    {
       "id": 94722,
       "title": "Tagesschau",
       "rating": 6.768,
@@ -146,22 +156,32 @@
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.095,
-      "votes": 1423,
+      "rating": 8.094,
+      "votes": 1424,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
       "release": "2023-07-23"
     },
     {
-      "id": 5920,
-      "title": "The Mentalist",
-      "rating": 8.393,
-      "votes": 4623,
-      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
-      "release": "2008-09-23"
+      "id": 2734,
+      "title": "Law & Order: Special Victims Unit",
+      "rating": 7.959,
+      "votes": 4321,
+      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+      "release": "1999-09-20"
+    },
+    {
+      "id": 1434,
+      "title": "Family Guy",
+      "rating": 7.411,
+      "votes": 5082,
+      "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+      "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
+      "release": "1999-01-31"
     },
     {
       "id": 100757,
@@ -184,16 +204,6 @@
       "release": "2001-03-10"
     },
     {
-      "id": 51025,
-      "title": "Paradise Hotel",
-      "rating": 5.6,
-      "votes": 10,
-      "overview": "Danish version of the reality series \"Paradise Hotel\".",
-      "poster": "https://image.tmdb.org/t/p/w500/ycSBcACecVR0zSnP2ZF83k5f7he.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nun8Ssmni886Ib4v7chgQbswDfl.jpg",
-      "release": "2005-09-14"
-    },
-    {
       "id": 95350,
       "title": "Lanterns",
       "rating": 8.2,
@@ -214,42 +224,32 @@
       "release": "2009-07-16"
     },
     {
-      "id": 2734,
-      "title": "Law & Order: Special Victims Unit",
-      "rating": 7.958,
-      "votes": 4320,
-      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-      "release": "1999-09-20"
-    },
-    {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.193,
-      "votes": 2507,
+      "rating": 8.192,
+      "votes": 2509,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "release": "2023-05-04"
     },
     {
-      "id": 79744,
-      "title": "The Rookie",
-      "rating": 8.544,
-      "votes": 3489,
-      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-      "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-      "release": "2018-10-16"
+      "id": 97546,
+      "title": "Ted Lasso",
+      "rating": 8.4,
+      "votes": 2593,
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "release": "2020-08-14"
     }
   ],
   "top_rated": [
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.409,
-      "votes": 837,
+      "rating": 9.405,
+      "votes": 839,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.9,
-      "votes": 18480,
+      "rating": 8.949,
+      "votes": 18483,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 259837,
       "title": "The WONDERfools",
-      "rating": 8.864,
-      "votes": 253,
+      "rating": 8.86,
+      "votes": 254,
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
@@ -318,8 +318,8 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.801,
-      "votes": 962,
+      "rating": 8.8,
+      "votes": 963,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
@@ -356,14 +356,14 @@
       "release": "2015-11-06"
     },
     {
-      "id": 94605,
-      "title": "Arcane",
-      "rating": 8.75,
-      "votes": 6128,
-      "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
-      "poster": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
-      "release": "2021-11-06"
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.8,
+      "votes": 5498,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
     }
   ],
   "airing_today": [
@@ -398,14 +398,24 @@
       "release": "1992-05-11"
     },
     {
-      "id": 14610,
-      "title": "Secret Lives",
-      "rating": 4.2,
-      "votes": 23,
-      "overview": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
-      "poster": "https://image.tmdb.org/t/p/w500/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
-      "release": "1999-01-25"
+      "id": 82873,
+      "title": "The Kelly Clarkson Show",
+      "rating": 6.3,
+      "votes": 72,
+      "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+      "poster": "https://image.tmdb.org/t/p/w500/sBix25bie9UQFzbarN51DpFO5ky.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
+      "release": "2019-09-09"
+    },
+    {
+      "id": 65282,
+      "title": "Home Alone",
+      "rating": 7.5,
+      "votes": 18,
+      "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+      "release": "2013-03-22"
     },
     {
       "id": 206559,
@@ -418,24 +428,14 @@
       "release": "2005-10-13"
     },
     {
-      "id": 82873,
-      "title": "The Kelly Clarkson Show",
-      "rating": 6.3,
-      "votes": 72,
-      "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
-      "poster": "https://image.tmdb.org/t/p/w500/sBix25bie9UQFzbarN51DpFO5ky.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
-      "release": "2019-09-09"
-    },
-    {
-      "id": 291,
-      "title": "Coronation Street",
-      "rating": 5.373,
-      "votes": 118,
-      "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-      "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-      "release": "1960-12-09"
+      "id": 14610,
+      "title": "Secret Lives",
+      "rating": 4.2,
+      "votes": 23,
+      "overview": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
+      "poster": "https://image.tmdb.org/t/p/w500/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
+      "release": "1999-01-25"
     },
     {
       "id": 154770,
@@ -448,16 +448,6 @@
       "release": "2022-01-01"
     },
     {
-      "id": 36361,
-      "title": "Ulice",
-      "rating": 4.8,
-      "votes": 36,
-      "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farský, Jordán, Boháč, Nikl, and Liška families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
-      "poster": "https://image.tmdb.org/t/p/w500/zBEHcmVe87YjfI8SmIYkiDtX35I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cchlQWYrnMPyl1EbjZWCzeAz8l5.jpg",
-      "release": "2005-09-05"
-    },
-    {
       "id": 4419,
       "title": "Real Time with Bill Maher",
       "rating": 6.051,
@@ -468,24 +458,34 @@
       "release": "2003-02-21"
     },
     {
-      "id": 65701,
-      "title": "Good Mythical Morning",
-      "rating": 6.9,
-      "votes": 92,
-      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
-      "release": "2012-01-09"
+      "id": 291,
+      "title": "Coronation Street",
+      "rating": 5.373,
+      "votes": 118,
+      "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+      "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+      "release": "1960-12-09"
     },
     {
-      "id": 206484,
-      "title": "Jade Dynasty",
-      "rating": 8.1,
-      "votes": 22,
-      "overview": "Zhang Xiaofan, who turned into an orphan overnight, becomes a disciple of the Qingyun Sect. After five years of training, he performs well in the Seven Peak Martial Arts Competition. He's sent to the Kongsang Mountain to defeat the evil. During the journey, he and his senior, Lu Xueqi, met with an accident, and got to know and save the lady of the cult, Bi Yao. At the same time, new danger is ahead of him.",
-      "poster": "https://image.tmdb.org/t/p/w500/oOy0PskfCQyWwsQVdHyM2PoN9H4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5fq2lbecTwvpitm7WHfQGa0VGXh.jpg",
-      "release": "2022-08-02"
+      "id": 299952,
+      "title": "The Early Spring",
+      "rating": 6.167,
+      "votes": 3,
+      "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+      "poster": "https://image.tmdb.org/t/p/w500/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+      "release": "2026-08-26"
+    },
+    {
+      "id": 36361,
+      "title": "Ulice",
+      "rating": 4.8,
+      "votes": 36,
+      "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farský, Jordán, Boháč, Nikl, and Liška families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
+      "poster": "https://image.tmdb.org/t/p/w500/zBEHcmVe87YjfI8SmIYkiDtX35I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cchlQWYrnMPyl1EbjZWCzeAz8l5.jpg",
+      "release": "2005-09-05"
     }
   ]
 }
