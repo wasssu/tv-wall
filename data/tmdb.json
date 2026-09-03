@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-02T15:59:24.991658+00:00",
+  "updated": "2026-09-03T03:01:07.158178+00:00",
   "trending": [
     {
       "id": 290234,
       "title": "Lovesick",
-      "rating": 10.0,
-      "votes": 1,
+      "rating": 8.0,
+      "votes": 2,
       "overview": "Set during the Mexican Revolution, follow Emilia Sauri, a woman torn between two passionate loves while navigating a world dominated by violence and revolution.",
       "poster": "https://image.tmdb.org/t/p/w500/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg",
@@ -15,61 +15,41 @@
       "id": 108978,
       "title": "Reacher",
       "rating": 8.104,
-      "votes": 3196,
+      "votes": 3202,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "release": "2022-02-03"
     },
     {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.312,
-      "votes": 239,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-      "release": "2026-08-16"
-    },
-    {
       "id": 97546,
       "title": "Ted Lasso",
-      "rating": 8.366,
-      "votes": 2610,
+      "rating": 8.367,
+      "votes": 2612,
       "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
       "release": "2020-08-14"
     },
     {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.3,
+      "votes": 242,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "release": "2026-08-16"
+    },
+    {
       "id": 125988,
       "title": "Silo",
       "rating": 8.2,
-      "votes": 2543,
+      "votes": 2546,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "release": "2023-05-04"
-    },
-    {
-      "id": 287238,
-      "title": "Furious",
-      "rating": 7.1,
-      "votes": 83,
-      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-      "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "release": "2026-07-27"
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.4,
-      "votes": 2256,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
     },
     {
       "id": 65942,
@@ -82,10 +62,30 @@
       "release": "2016-04-04"
     },
     {
+      "id": 287238,
+      "title": "Furious",
+      "rating": 7.149,
+      "votes": 87,
+      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "release": "2026-07-27"
+    },
+    {
+      "id": 236235,
+      "title": "The Gentlemen",
+      "rating": 7.816,
+      "votes": 850,
+      "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+      "poster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/PqIW7PA74YBURz5slZkxc0K5Pl.jpg",
+      "release": "2024-03-07"
+    },
+    {
       "id": 37854,
       "title": "One Piece",
       "rating": 8.75,
-      "votes": 5514,
+      "votes": 5517,
       "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
       "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
@@ -94,40 +94,40 @@
     {
       "id": 290193,
       "title": "Mousetrap",
-      "rating": 7.522,
-      "votes": 23,
+      "rating": 7.542,
+      "votes": 24,
       "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
       "poster": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
       "release": "2026-08-28"
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.114,
-      "votes": 1452,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.4,
+      "votes": 2256,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
     },
     {
-      "id": 236235,
-      "title": "The Gentlemen",
-      "rating": 7.8,
-      "votes": 850,
-      "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-      "poster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/PqIW7PA74YBURz5slZkxc0K5Pl.jpg",
-      "release": "2024-03-07"
+      "id": 196322,
+      "title": "Dark Matter",
+      "rating": 7.79,
+      "votes": 751,
+      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/lcyaTfX6KEMpWNnzPoGPKp7LwwC.jpg",
+      "release": "2024-05-07"
     }
   ],
   "popular": [
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.105,
-      "votes": 3194,
+      "rating": 8.1,
+      "votes": 3202,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -137,7 +137,7 @@
       "id": 5920,
       "title": "The Mentalist",
       "rating": 8.397,
-      "votes": 4639,
+      "votes": 4640,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
@@ -146,8 +146,8 @@
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.114,
-      "votes": 1452,
+      "rating": 8.1,
+      "votes": 1453,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
@@ -156,8 +156,8 @@
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.194,
-      "votes": 2540,
+      "rating": 8.2,
+      "votes": 2546,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -167,11 +167,21 @@
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
       "rating": 7.961,
-      "votes": 4328,
+      "votes": 4329,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
       "release": "1999-09-20"
+    },
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.3,
+      "votes": 242,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "release": "2026-08-16"
     },
     {
       "id": 117217,
@@ -184,14 +194,24 @@
       "release": "2005-01-03"
     },
     {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.305,
-      "votes": 238,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-      "release": "2026-08-16"
+      "id": 37528,
+      "title": "Gran hermano",
+      "rating": 4.5,
+      "votes": 4,
+      "overview": "Argentina's version of the Big Brother franchise.",
+      "poster": "https://image.tmdb.org/t/p/w500/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
+      "release": "2001-03-10"
+    },
+    {
+      "id": 456,
+      "title": "The Simpsons",
+      "rating": 8.022,
+      "votes": 10973,
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "release": "1989-12-17"
     },
     {
       "id": 94722,
@@ -204,26 +224,6 @@
       "release": "1952-12-26"
     },
     {
-      "id": 456,
-      "title": "The Simpsons",
-      "rating": 8.022,
-      "votes": 10971,
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-      "release": "1989-12-17"
-    },
-    {
-      "id": 37528,
-      "title": "Gran hermano",
-      "rating": 4.5,
-      "votes": 4,
-      "overview": "Argentina's version of the Big Brother franchise.",
-      "poster": "https://image.tmdb.org/t/p/w500/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
-      "release": "2001-03-10"
-    },
-    {
       "id": 1434,
       "title": "Family Guy",
       "rating": 7.41,
@@ -234,22 +234,22 @@
       "release": "1999-01-31"
     },
     {
-      "id": 22980,
-      "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 4.921,
-      "votes": 89,
-      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-      "release": "2009-07-16"
+      "id": 79744,
+      "title": "The Rookie",
+      "rating": 8.544,
+      "votes": 3495,
+      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+      "release": "2018-10-16"
     }
   ],
   "top_rated": [
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.412,
-      "votes": 857,
+      "rating": 9.411,
+      "votes": 859,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,11 +258,11 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.173,
-      "votes": 559,
+      "rating": 9.172,
+      "votes": 561,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
       "release": "2026-05-15"
     },
     {
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.95,
-      "votes": 18512,
+      "votes": 18521,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.9,
-      "votes": 821,
+      "rating": 8.919,
+      "votes": 823,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -316,24 +316,24 @@
       "release": "2024-10-29"
     },
     {
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "rating": 8.804,
+      "votes": 946,
+      "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude.  Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+      "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
+      "release": "2023-09-29"
+    },
+    {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.798,
-      "votes": 970,
+      "rating": 8.792,
+      "votes": 972,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
       "release": "2019-04-21"
-    },
-    {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "rating": 8.8,
-      "votes": 944,
-      "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude.  Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
-      "poster": "https://image.tmdb.org/t/p/w500/cHhJzdUGcEBq6av4wr9jsIvUITH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
-      "release": "2023-09-29"
     },
     {
       "id": 219246,
@@ -349,7 +349,7 @@
       "id": 246,
       "title": "Avatar: The Last Airbender",
       "rating": 8.78,
-      "votes": 5076,
+      "votes": 5077,
       "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
       "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
@@ -370,8 +370,8 @@
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.104,
-      "votes": 3195,
+      "rating": 8.1,
+      "votes": 3201,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
