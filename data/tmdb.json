@@ -1,95 +1,45 @@
 {
-  "updated": "2026-09-07T17:16:40.360769+00:00",
+  "updated": "2026-09-08T03:09:39.745027+00:00",
   "trending": [
     {
       "id": 95350,
       "title": "Lanterns",
       "rating": 8.3,
-      "votes": 280,
+      "votes": 286,
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "release": "2026-08-16"
-    },
-    {
-      "id": 301626,
-      "title": "A Tale of Two Cities",
-      "rating": 9.571,
-      "votes": 7,
-      "overview": "A pair of lookalikes, one a former French aristocrat and the other an alcoholic English lawyer, fall in love with the same woman amidst the turmoil of the French Revolution.",
-      "poster": "https://image.tmdb.org/t/p/w500/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
-      "release": "2026-09-06"
     },
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.205,
-      "votes": 2598,
+      "rating": 8.206,
+      "votes": 2602,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
       "release": "2023-05-04"
     },
     {
-      "id": 236235,
-      "title": "The Gentlemen",
-      "rating": 7.832,
-      "votes": 880,
-      "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-      "poster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-      "release": "2024-03-07"
-    },
-    {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.136,
-      "votes": 1475,
+      "rating": 8.144,
+      "votes": 1483,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
       "release": "2023-07-23"
     },
     {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.749,
-      "votes": 5527,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "release": "1999-10-20"
-    },
-    {
-      "id": 329471,
-      "title": "The Grand Tour",
-      "rating": 9.6,
-      "votes": 5,
-      "overview": "Welcome to The Grand Tour. The world's greatest motoring show reboots with new presenters - Thomas Holland, James Engelsman and Francis Bourgeois - and its trademark blend of global adventure, incredible vehicles, epic stunts and strong opinions.",
-      "poster": "https://image.tmdb.org/t/p/w500/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/40Dx3P1mllQq1jhgN3K8dlti6CS.jpg",
-      "release": "2026-09-04"
-    },
-    {
-      "id": 108978,
-      "title": "Reacher",
-      "rating": 8.108,
-      "votes": 3234,
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "release": "2022-02-03"
-    },
-    {
-      "id": 294486,
-      "title": "The Long Watch",
-      "rating": 9.0,
-      "votes": 1,
-      "overview": "A millennium-era leak case shaping cross-strait dynamics hides a covert tug-of-war between foreign forces and Chinese agents. In the late 90s, rookie Chunxiao and star agent Ma Qi foil plots together, but as time passes, the case reshapes all involved amid era-defining shifts.",
-      "poster": "https://image.tmdb.org/t/p/w500/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
-      "release": "2026-09-06"
+      "id": 236235,
+      "title": "The Gentlemen",
+      "rating": 7.834,
+      "votes": 881,
+      "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+      "poster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+      "release": "2024-03-07"
     },
     {
       "id": 30984,
@@ -104,30 +54,80 @@
     {
       "id": 615,
       "title": "Futurama",
-      "rating": 8.365,
-      "votes": 3883,
+      "rating": 8.4,
+      "votes": 3884,
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
       "release": "1999-03-28"
     },
     {
-      "id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "rating": 8.4,
-      "votes": 1704,
-      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-      "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-      "release": "2021-01-11"
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.749,
+      "votes": 5527,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
+    },
+    {
+      "id": 329471,
+      "title": "The Grand Tour",
+      "rating": 9.5,
+      "votes": 6,
+      "overview": "Welcome to The Grand Tour. The world's greatest motoring show reboots with new presenters - Thomas Holland, James Engelsman and Francis Bourgeois - and its trademark blend of global adventure, incredible vehicles, epic stunts and strong opinions.",
+      "poster": "https://image.tmdb.org/t/p/w500/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/40Dx3P1mllQq1jhgN3K8dlti6CS.jpg",
+      "release": "2026-09-04"
+    },
+    {
+      "id": 301626,
+      "title": "A Tale of Two Cities",
+      "rating": 9.0,
+      "votes": 8,
+      "overview": "A pair of lookalikes, one a former French aristocrat and the other an alcoholic English lawyer, fall in love with the same woman amidst the turmoil of the French Revolution.",
+      "poster": "https://image.tmdb.org/t/p/w500/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
+      "release": "2026-09-06"
+    },
+    {
+      "id": 108978,
+      "title": "Reacher",
+      "rating": 8.109,
+      "votes": 3236,
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "release": "2022-02-03"
+    },
+    {
+      "id": 387,
+      "title": "SpongeBob SquarePants",
+      "rating": 7.7,
+      "votes": 3265,
+      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+      "poster": "https://image.tmdb.org/t/p/w500/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pv8zQ2MKIZA67VmOfTNktJLmHa5.jpg",
+      "release": "1999-05-01"
+    },
+    {
+      "id": 294486,
+      "title": "The Long Watch",
+      "rating": 9.0,
+      "votes": 1,
+      "overview": "A millennium-era leak case shaping cross-strait dynamics hides a covert tug-of-war between foreign forces and Chinese agents. In the late 90s, rookie Chunxiao and star agent Ma Qi foil plots together, but as time passes, the case reshapes all involved amid era-defining shifts.",
+      "poster": "https://image.tmdb.org/t/p/w500/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
+      "release": "2026-09-06"
     }
   ],
   "popular": [
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.108,
-      "votes": 3234,
+      "rating": 8.1,
+      "votes": 3235,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -156,8 +156,8 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.402,
-      "votes": 4663,
+      "rating": 8.403,
+      "votes": 4668,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
@@ -166,8 +166,8 @@
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.136,
-      "votes": 1475,
+      "rating": 8.138,
+      "votes": 1478,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
@@ -176,8 +176,8 @@
     {
       "id": 125988,
       "title": "Silo",
-      "rating": 8.205,
-      "votes": 2598,
+      "rating": 8.206,
+      "votes": 2602,
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
@@ -196,8 +196,8 @@
     {
       "id": 79744,
       "title": "The Rookie",
-      "rating": 8.541,
-      "votes": 3509,
+      "rating": 8.542,
+      "votes": 3511,
       "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
       "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
@@ -236,7 +236,7 @@
     {
       "id": 456,
       "title": "The Simpsons",
-      "rating": 8.022,
+      "rating": 8.0,
       "votes": 10986,
       "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
       "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.156,
-      "votes": 567,
+      "rating": 9.159,
+      "votes": 569,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 278573,
       "title": "Perfect Crown",
-      "rating": 9.123,
-      "votes": 203,
+      "rating": 9.127,
+      "votes": 204,
       "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.951,
-      "votes": 18549,
+      "votes": 18554,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.92,
-      "votes": 839,
+      "rating": 8.915,
+      "votes": 840,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -390,8 +390,8 @@
     {
       "id": 94664,
       "title": "Mushoku Tensei: Jobless Reincarnation",
-      "rating": 8.415,
-      "votes": 1704,
+      "rating": 8.4,
+      "votes": 1705,
       "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
       "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
@@ -400,7 +400,7 @@
     {
       "id": 299952,
       "title": "The Early Spring",
-      "rating": 7.688,
+      "rating": 7.7,
       "votes": 8,
       "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
       "poster": "https://image.tmdb.org/t/p/w500/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
@@ -418,16 +418,6 @@
       "release": "2017-07-17"
     },
     {
-      "id": 16807,
-      "title": "Jornal Nacional",
-      "rating": 7.0,
-      "votes": 9,
-      "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
-      "poster": "https://image.tmdb.org/t/p/w500/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg",
-      "release": "1969-09-01"
-    },
-    {
       "id": 206559,
       "title": "Binnelanders",
       "rating": 5.5,
@@ -436,6 +426,26 @@
       "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
       "release": "2005-10-13"
+    },
+    {
+      "id": 615,
+      "title": "Futurama",
+      "rating": 8.4,
+      "votes": 3884,
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "release": "1999-03-28"
+    },
+    {
+      "id": 4656,
+      "title": "Raw",
+      "rating": 6.8,
+      "votes": 371,
+      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+      "poster": "https://image.tmdb.org/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fvnxFPUsTFMh81cMoIGBrJo8F6z.jpg",
+      "release": "1993-01-11"
     },
     {
       "id": 11890,
@@ -448,44 +458,34 @@
       "release": "1990-10-01"
     },
     {
-      "id": 4656,
-      "title": "Raw",
-      "rating": 6.794,
-      "votes": 371,
-      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-      "poster": "https://image.tmdb.org/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gjRnFAQk4EVg1P1s5512FT1Lq9c.jpg",
-      "release": "1993-01-11"
+      "id": 16807,
+      "title": "Jornal Nacional",
+      "rating": 7.0,
+      "votes": 9,
+      "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "poster": "https://image.tmdb.org/t/p/w500/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg",
+      "release": "1969-09-01"
     },
     {
-      "id": 615,
-      "title": "Futurama",
-      "rating": 8.365,
-      "votes": 3882,
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-      "release": "1999-03-28"
+      "id": 2527,
+      "title": "Emmerdale",
+      "rating": 4.3,
+      "votes": 100,
+      "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
+      "poster": "https://image.tmdb.org/t/p/w500/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
+      "release": "1972-10-16"
     },
     {
-      "id": 36361,
-      "title": "Ulice",
-      "rating": 4.8,
-      "votes": 36,
-      "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farský, Jordán, Boháč, Nikl, and Liška families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
-      "poster": "https://image.tmdb.org/t/p/w500/zBEHcmVe87YjfI8SmIYkiDtX35I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cchlQWYrnMPyl1EbjZWCzeAz8l5.jpg",
-      "release": "2005-09-05"
-    },
-    {
-      "id": 14750,
-      "title": "Na Wspólnej",
-      "rating": 4.7,
-      "votes": 12,
-      "overview": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
-      "poster": "https://image.tmdb.org/t/p/w500/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
-      "release": "2003-01-27"
+      "id": 55216,
+      "title": "Scènes de ménages",
+      "rating": 5.875,
+      "votes": 32,
+      "overview": "Scènes de ménages depicts the daily lives of several couples from different generations, illustrating with humor their arguments, tender moments and little idiosyncrasies. Each episode is made up of short sketches, in which the characters exchange scathing retorts and funny situations.",
+      "poster": "https://image.tmdb.org/t/p/w500/38N3KQblPyTLGWNZs2qmy9mQywm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pnTYmGcsJBgQyI6qB8wHyvbuHBW.jpg",
+      "release": "2009-11-09"
     }
   ]
 }
