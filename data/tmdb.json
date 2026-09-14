@@ -1,15 +1,35 @@
 {
-  "updated": "2026-09-13T15:38:48.887967+00:00",
+  "updated": "2026-09-14T03:28:42.114061+00:00",
   "trending": [
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.3,
+      "votes": 323,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "release": "2026-08-16"
+    },
     {
       "id": 314939,
       "title": "A Love Other Than Yours",
-      "rating": 0.0,
-      "votes": 0,
+      "rating": 8.0,
+      "votes": 1,
       "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
       "poster": "https://image.tmdb.org/t/p/w500/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
       "release": "2026-09-12"
+    },
+    {
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.169,
+      "votes": 1524,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "release": "2023-07-23"
     },
     {
       "id": 30984,
@@ -22,34 +42,44 @@
       "release": "2004-10-05"
     },
     {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.3,
-      "votes": 317,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-      "release": "2026-08-16"
-    },
-    {
       "id": 108978,
       "title": "Reacher",
       "rating": 8.113,
       "votes": 3289,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/m5CggjJuFc08QCuKz54znHP6spJ.jpg",
       "release": "2022-02-03"
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.166,
-      "votes": 1522,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.21,
+      "votes": 2653,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "release": "2023-05-04"
+    },
+    {
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.746,
+      "votes": 5535,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
+    },
+    {
+      "id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "rating": 8.4,
+      "votes": 1710,
+      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "release": "2021-01-11"
     },
     {
       "id": 282326,
@@ -62,20 +92,20 @@
       "release": "2026-09-11"
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.21,
-      "votes": 2648,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "release": "2023-05-04"
+      "id": 194583,
+      "title": "The Walking Dead: Dead City",
+      "rating": 7.9,
+      "votes": 792,
+      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
+      "release": "2023-06-18"
     },
     {
       "id": 236235,
       "title": "The Gentlemen",
-      "rating": 7.859,
-      "votes": 910,
+      "rating": 7.9,
+      "votes": 913,
       "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
       "poster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
@@ -85,41 +115,11 @@
       "id": 196322,
       "title": "Dark Matter",
       "rating": 7.804,
-      "votes": 773,
+      "votes": 772,
       "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
       "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/572uSrnXM5uPVYMVqsxfNA41cT8.jpg",
       "release": "2024-05-07"
-    },
-    {
-      "id": 300507,
-      "title": "Crew Girl",
-      "rating": 7.9,
-      "votes": 15,
-      "overview": "After a family scandal, teen rower Teagan Tao moves to a small town and joins an elite prep school's all-boys crew, sparking rivalry and attraction.",
-      "poster": "https://image.tmdb.org/t/p/w500/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
-      "release": "2026-09-10"
-    },
-    {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.7,
-      "votes": 5534,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "release": "1999-10-20"
-    },
-    {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "rating": 8.371,
-      "votes": 2646,
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-      "release": "2020-08-14"
     }
   ],
   "popular": [
@@ -166,7 +166,7 @@
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.1,
+      "rating": 8.113,
       "votes": 3289,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
@@ -186,8 +186,8 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.406,
-      "votes": 4704,
+      "rating": 8.407,
+      "votes": 4706,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
@@ -216,8 +216,8 @@
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.166,
-      "votes": 1522,
+      "rating": 8.167,
+      "votes": 1523,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
@@ -226,7 +226,7 @@
     {
       "id": 72879,
       "title": "Tomorrow Is Ours",
-      "rating": 6.292,
+      "rating": 6.3,
       "votes": 72,
       "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
       "poster": "https://image.tmdb.org/t/p/w500/7BjipkA48xXLauTg45QKiOb144a.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.402,
-      "votes": 894,
+      "rating": 9.403,
+      "votes": 895,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.95,
-      "votes": 18599,
+      "votes": 18601,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.91,
-      "votes": 847,
+      "rating": 8.911,
+      "votes": 848,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -298,7 +298,7 @@
     {
       "id": 259837,
       "title": "The WONDERfools",
-      "rating": 8.857,
+      "rating": 8.9,
       "votes": 262,
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "poster": "https://image.tmdb.org/t/p/w500/q5wfakAtbiO4dMss2N21vY1i128.jpg",
@@ -359,7 +359,7 @@
       "id": 246,
       "title": "Avatar: The Last Airbender",
       "rating": 8.778,
-      "votes": 5097,
+      "votes": 5098,
       "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
       "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
@@ -367,16 +367,6 @@
     }
   ],
   "airing_today": [
-    {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.166,
-      "votes": 1522,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
-    },
     {
       "id": 22980,
       "title": "Watch What Happens Live with Andy Cohen",
@@ -388,9 +378,29 @@
       "release": "2009-07-16"
     },
     {
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.167,
+      "votes": 1523,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "release": "2023-07-23"
+    },
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.286,
+      "votes": 323,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "release": "2026-08-16"
+    },
+    {
       "id": 2661,
       "title": "Kamen Rider",
-      "rating": 6.396,
+      "rating": 6.4,
       "votes": 106,
       "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
       "poster": "https://image.tmdb.org/t/p/w500/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
@@ -398,19 +408,9 @@
       "release": "1971-04-03"
     },
     {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.3,
-      "votes": 317,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-      "release": "2026-08-16"
-    },
-    {
       "id": 1433,
       "title": "American Dad!",
-      "rating": 7.021,
+      "rating": 7.02,
       "votes": 2442,
       "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
       "poster": "https://image.tmdb.org/t/p/w500/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
@@ -448,6 +448,16 @@
       "release": "1964-08-22"
     },
     {
+      "id": 19538,
+      "title": "Fantástico",
+      "rating": 8.4,
+      "votes": 5,
+      "overview": "'Fantástico' is a journalistic program shown on Sundays, presented by Poliana Abritta and Maju Coutinho. Every week, he presents special reports, shows and various paintings.",
+      "poster": "https://image.tmdb.org/t/p/w500/8N6BBpC561JHXULRzGzFzJGBV14.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/b8VGbwQNwV0YYq8A8ixKEZ6sJaQ.jpg",
+      "release": "1973-08-05"
+    },
+    {
       "id": 154770,
       "title": "Hello Saturday",
       "rating": 6.455,
@@ -468,24 +478,14 @@
       "release": "2000-07-05"
     },
     {
-      "id": 294546,
-      "title": "Board AF",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "Board AF - the table top game show! We'll be playing all kinds of board & card games - so let us know what you want to see!",
-      "poster": "https://image.tmdb.org/t/p/w500/uuebWZJEnOIiPqLdoxQQRAPuGyc.jpg",
-      "backdrop": null,
-      "release": "2016-10-16"
-    },
-    {
-      "id": 65278,
-      "title": "Inkigayo",
-      "rating": 7.5,
-      "votes": 4,
-      "overview": "The program is a weekly music show that features and introduces viewers to the most popular artists in Korea. Every week, they ask viewers to vote and select the most popular song of the week.",
-      "poster": "https://image.tmdb.org/t/p/w500/hvY5NH73JRvfJI714MF6Ja4TM3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/eXySrZkDWeOel45DlXTcSWiM6NH.jpg",
-      "release": "1998-02-01"
+      "id": 314939,
+      "title": "A Love Other Than Yours",
+      "rating": 8.0,
+      "votes": 1,
+      "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
+      "poster": "https://image.tmdb.org/t/p/w500/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+      "release": "2026-09-12"
     }
   ]
 }
