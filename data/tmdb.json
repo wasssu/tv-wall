@@ -1,125 +1,125 @@
 {
-  "updated": "2026-09-16T03:25:48.203537+00:00",
+  "updated": "2026-09-16T16:10:19.569727+00:00",
   "trending": [
     {
-      "id": 270476,
-      "title": "Widow's Bay",
-      "rating": 8.051,
-      "votes": 459,
-      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
-      "poster": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
-      "release": "2026-04-28"
-    },
-    {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.2,
-      "votes": 343,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "release": "2026-08-16"
+      "id": 273207,
+      "title": "Neagley",
+      "rating": 6.8,
+      "votes": 11,
+      "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/1m6CxPAuGv2oHc1ahERrcVWnk2J.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/20ivBYm3H9MbGtRISGdhjydll9L.jpg",
+      "release": "2026-09-16"
     },
     {
       "id": 95480,
       "title": "Slow Horses",
-      "rating": 8.018,
-      "votes": 978,
+      "rating": 8.0,
+      "votes": 981,
       "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
       "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wrMY8LMEnPiM9dokAUZCGGKLWrm.jpg",
       "release": "2022-04-01"
     },
     {
       "id": 108978,
       "title": "Reacher",
       "rating": 8.115,
-      "votes": 3308,
+      "votes": 3316,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "release": "2022-02-03"
     },
     {
+      "id": 332401,
+      "title": "City of Blood",
+      "rating": 10.0,
+      "votes": 3,
+      "overview": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
+      "poster": "https://image.tmdb.org/t/p/w500/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nAEIr2b9M9ya8SXOTA1bDDMjhCA.jpg",
+      "release": "2026-09-16"
+    },
+    {
+      "id": 332657,
+      "title": "Route 187",
+      "rating": 10.0,
+      "votes": 3,
+      "overview": "Citizens combat urban violence until a bus driver and student's murders by thugs spark outrage, leading authorities to hunt the culprits captured on video.",
+      "poster": "https://image.tmdb.org/t/p/w500/yfP9A3IaKE00U1ap1y7wAoZRzeC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/Agx8RmlBBDJrlH9MyUOd5JYYZPS.jpg",
+      "release": "2026-09-16"
+    },
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.246,
+      "votes": 347,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "release": "2026-08-16"
+    },
+    {
       "id": 232018,
       "title": "Has Fallen",
-      "rating": 7.0,
-      "votes": 120,
+      "rating": 7.025,
+      "votes": 121,
       "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
-      "poster": "https://image.tmdb.org/t/p/w500/ei1jnjJ154XN1E4q9JKEpuEImup.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
       "release": "2024-09-23"
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.188,
-      "votes": 1550,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.349,
-      "votes": 2271,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
-    },
-    {
-      "id": 250307,
-      "title": "The Pitt",
-      "rating": 8.734,
-      "votes": 965,
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "release": "2025-01-09"
-    },
-    {
-      "id": 615,
-      "title": "Futurama",
-      "rating": 8.4,
-      "votes": 3903,
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-      "release": "1999-03-28"
-    },
-    {
       "id": 97546,
       "title": "Ted Lasso",
-      "rating": 8.373,
-      "votes": 2660,
+      "rating": 8.4,
+      "votes": 2662,
       "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
       "release": "2020-08-14"
     },
     {
-      "id": 194583,
-      "title": "The Walking Dead: Dead City",
-      "rating": 7.902,
-      "votes": 794,
-      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
-      "poster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
-      "release": "2023-06-18"
+      "id": 295089,
+      "title": "The Doll",
+      "rating": 10.0,
+      "votes": 1,
+      "overview": "When Stanisław falls in love with the aristocratic Izabela, he dedicates his entire life to winning her over.",
+      "poster": "https://image.tmdb.org/t/p/w500/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg",
+      "release": "2026-09-16"
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "rating": 8.213,
-      "votes": 2672,
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
-      "release": "2023-05-04"
+      "id": 252105,
+      "title": "Golden Axe",
+      "rating": 10.0,
+      "votes": 2,
+      "overview": "Legendary warriors Ax Battler, Tyris Flare, and Gilius Thunderhead reunite to save Yuria from the evil giant Death Adder, who just won't seem to stay dead. Their quest is complicated by Hampton Squib, an inexperienced and wildly underprepared adventurer whose dream of heroism far exceeds his abilities. Forced to work together despite their flaws, they must find a way to stop Death Adder once and for all.",
+      "poster": "https://image.tmdb.org/t/p/w500/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/zOcEo3oQf9KDPPxZueNhReN6TBr.jpg",
+      "release": "2026-09-16"
+    },
+    {
+      "id": 270476,
+      "title": "Widow's Bay",
+      "rating": 8.1,
+      "votes": 462,
+      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+      "poster": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6h23WrCtrojF92ZgU2MhWcyqBMy.jpg",
+      "release": "2026-04-28"
+    },
+    {
+      "id": 299255,
+      "title": "Minimum Security",
+      "rating": 10.0,
+      "votes": 1,
+      "overview": "Corinne runs Chénoise prison with her unlikely team: By-the-book Jeff, JP who's always been closer to inmates than colleagues, and rookie Stéphanie.",
+      "poster": "https://image.tmdb.org/t/p/w500/c0vJ8YFq7mUwdA8z16OtW9peTWd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aAWDj71XRCHhSrE0dnU6YrquMMY.jpg",
+      "release": "2026-09-16"
     }
   ],
   "popular": [
@@ -146,8 +146,8 @@
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.113,
-      "votes": 3309,
+      "rating": 8.1,
+      "votes": 3312,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -166,7 +166,7 @@
     {
       "id": 502,
       "title": "Sesame Street",
-      "rating": 7.135,
+      "rating": 7.1,
       "votes": 293,
       "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
       "poster": "https://image.tmdb.org/t/p/w500/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
@@ -226,8 +226,8 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.407,
-      "votes": 4721,
+      "rating": 8.406,
+      "votes": 4722,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.404,
-      "votes": 897,
+      "rating": 9.395,
+      "votes": 899,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.2,
-      "votes": 582,
+      "rating": 9.157,
+      "votes": 584,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 278573,
       "title": "Perfect Crown",
-      "rating": 9.111,
-      "votes": 208,
+      "rating": 9.112,
+      "votes": 209,
       "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.95,
-      "votes": 18621,
+      "rating": 8.951,
+      "votes": 18626,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -358,8 +358,8 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.797,
-      "votes": 983,
+      "rating": 8.798,
+      "votes": 984,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
@@ -367,6 +367,16 @@
     }
   ],
   "airing_today": [
+    {
+      "id": 108978,
+      "title": "Reacher",
+      "rating": 8.1,
+      "votes": 3312,
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "release": "2022-02-03"
+    },
     {
       "id": 22980,
       "title": "Watch What Happens Live with Andy Cohen",
@@ -398,16 +408,6 @@
       "release": "2014-02-17"
     },
     {
-      "id": 291,
-      "title": "Coronation Street",
-      "rating": 5.4,
-      "votes": 118,
-      "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-      "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-      "release": "1960-12-09"
-    },
-    {
       "id": 2224,
       "title": "The Daily Show",
       "rating": 6.4,
@@ -428,14 +428,14 @@
       "release": "1992-05-11"
     },
     {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "rating": 8.373,
-      "votes": 2659,
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-      "release": "2020-08-14"
+      "id": 2912,
+      "title": "Jeopardy!",
+      "rating": 6.905,
+      "votes": 164,
+      "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+      "poster": "https://image.tmdb.org/t/p/w500/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+      "release": "1984-09-10"
     },
     {
       "id": 206559,
@@ -458,16 +458,6 @@
       "release": "1997-08-11"
     },
     {
-      "id": 2527,
-      "title": "Emmerdale",
-      "rating": 4.3,
-      "votes": 100,
-      "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
-      "poster": "https://image.tmdb.org/t/p/w500/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
-      "release": "1972-10-16"
-    },
-    {
       "id": 112470,
       "title": "Ici tout commence",
       "rating": 6.788,
@@ -486,6 +476,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hlVfglhjnlCP5tp8hFvTQKQVaMp.jpg",
       "release": "1990-10-01"
+    },
+    {
+      "id": 16807,
+      "title": "Jornal Nacional",
+      "rating": 7.0,
+      "votes": 9,
+      "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "poster": "https://image.tmdb.org/t/p/w500/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg",
+      "release": "1969-09-01"
     }
   ]
 }
