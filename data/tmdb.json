@@ -1,21 +1,41 @@
 {
-  "updated": "2026-09-18T03:17:41.397334+00:00",
+  "updated": "2026-09-18T15:52:05.981394+00:00",
   "trending": [
     {
       "id": 299939,
       "title": "Monster: The Lizzie Borden Story",
-      "rating": 8.0,
-      "votes": 10,
+      "rating": 7.9,
+      "votes": 14,
       "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
       "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
       "release": "2026-09-17"
     },
     {
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.375,
+      "votes": 850,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+      "release": "2025-03-30"
+    },
+    {
+      "id": 275102,
+      "title": "The Scandal",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+      "poster": "https://image.tmdb.org/t/p/w500/pJsIzlTjmx07ilwEkl0cglrMVa1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+      "release": "2026-09-18"
+    },
+    {
       "id": 273207,
       "title": "Neagley",
-      "rating": 7.763,
-      "votes": 40,
+      "rating": 7.9,
+      "votes": 48,
       "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
       "poster": "https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
@@ -25,7 +45,7 @@
       "id": 108978,
       "title": "Reacher",
       "rating": 8.122,
-      "votes": 3339,
+      "votes": 3342,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -42,16 +62,6 @@
       "release": "2026-04-23"
     },
     {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.4,
-      "votes": 849,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
-      "release": "2025-03-30"
-    },
-    {
       "id": 2190,
       "title": "South Park",
       "rating": 8.3,
@@ -60,36 +70,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
       "release": "1997-08-13"
-    },
-    {
-      "id": 332401,
-      "title": "City of Blood",
-      "rating": 10.0,
-      "votes": 4,
-      "overview": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
-      "poster": "https://image.tmdb.org/t/p/w500/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
-      "release": "2026-09-16"
-    },
-    {
-      "id": 298008,
-      "title": "Plastic Beauty",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "When a gifted ER surgeon is thrust into cosmetic medicine, her clash with a celebrity doctor exposes the greed and desire beneath the glamour.",
-      "poster": "https://image.tmdb.org/t/p/w500/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
-      "release": "2026-09-17"
-    },
-    {
-      "id": 95480,
-      "title": "Slow Horses",
-      "rating": 8.0,
-      "votes": 982,
-      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-      "release": "2022-04-01"
     },
     {
       "id": 320760,
@@ -102,32 +82,52 @@
       "release": "2026-09-17"
     },
     {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.258,
-      "votes": 354,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "release": "2026-08-16"
+      "id": 332401,
+      "title": "City of Blood",
+      "rating": 8.6,
+      "votes": 5,
+      "overview": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
+      "poster": "https://image.tmdb.org/t/p/w500/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
+      "release": "2026-09-16"
+    },
+    {
+      "id": 298008,
+      "title": "Plastic Beauty",
+      "rating": 7.0,
+      "votes": 1,
+      "overview": "When a gifted ER surgeon is thrust into cosmetic medicine, her clash with a celebrity doctor exposes the greed and desire beneath the glamour.",
+      "poster": "https://image.tmdb.org/t/p/w500/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
+      "release": "2026-09-17"
     },
     {
       "id": 232018,
       "title": "Has Fallen",
       "rating": 7.0,
-      "votes": 121,
+      "votes": 122,
       "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
       "poster": "https://image.tmdb.org/t/p/w500/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
       "release": "2024-09-23"
+    },
+    {
+      "id": 196322,
+      "title": "Dark Matter",
+      "rating": 7.8,
+      "votes": 778,
+      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+      "release": "2024-05-07"
     }
   ],
   "popular": [
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.12,
-      "votes": 3334,
+      "rating": 8.123,
+      "votes": 3342,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -144,24 +144,14 @@
       "release": "2017-02-20"
     },
     {
-      "id": 31472,
-      "title": "Pelotón",
-      "rating": 9.0,
-      "votes": 1,
-      "overview": "Pelotón is a Chilean reality show on National Television of Chile in which the participants undergo an intense regime of military training. The winner receives 50 million pesos. The first season aired January 2 — May 5, 2007, and the second season ran from October 2, 2007 to March 11, 2008. The third season were premiere in July 2009 and the contestants were Chilean celebrities. The third and 4th season were shooting back to back, and like last season the majority of participants were celebrities.",
-      "poster": "https://image.tmdb.org/t/p/w500/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
-      "backdrop": null,
-      "release": "2007-01-02"
-    },
-    {
-      "id": 51025,
-      "title": "Paradise Hotel",
-      "rating": 5.182,
-      "votes": 11,
-      "overview": "Danish version of the reality series \"Paradise Hotel\".",
-      "poster": "https://image.tmdb.org/t/p/w500/ycSBcACecVR0zSnP2ZF83k5f7he.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nun8Ssmni886Ib4v7chgQbswDfl.jpg",
-      "release": "2005-09-14"
+      "id": 22980,
+      "title": "Watch What Happens Live with Andy Cohen",
+      "rating": 4.916,
+      "votes": 95,
+      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+      "release": "2009-07-16"
     },
     {
       "id": 502,
@@ -174,74 +164,84 @@
       "release": "1969-11-10"
     },
     {
-      "id": 22980,
-      "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 4.916,
-      "votes": 95,
-      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-      "release": "2009-07-16"
+      "id": 31472,
+      "title": "Pelotón",
+      "rating": 9.0,
+      "votes": 1,
+      "overview": "Pelotón is a Chilean reality show on National Television of Chile in which the participants undergo an intense regime of military training. The winner receives 50 million pesos. The first season aired January 2 — May 5, 2007, and the second season ran from October 2, 2007 to March 11, 2008. The third season were premiere in July 2009 and the contestants were Chilean celebrities. The third and 4th season were shooting back to back, and like last season the majority of participants were celebrities.",
+      "poster": "https://image.tmdb.org/t/p/w500/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
+      "backdrop": null,
+      "release": "2007-01-02"
     },
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.196,
-      "votes": 1559,
+      "rating": 8.198,
+      "votes": 1561,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
       "release": "2023-07-23"
     },
     {
+      "id": 59941,
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "rating": 5.765,
+      "votes": 388,
+      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+      "release": "2014-02-17"
+    },
+    {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.405,
-      "votes": 4730,
+      "rating": 8.406,
+      "votes": 4732,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
       "release": "2008-09-23"
     },
     {
+      "id": 65270,
+      "title": "Radio Star",
+      "rating": 5.5,
+      "votes": 6,
+      "overview": "“Radio Star” is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives, their pasts and their work. It is part of Munhwa Broadcasting Corporation's \"Golden Fishery\" programming block.",
+      "poster": "https://image.tmdb.org/t/p/w500/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
+      "release": "2007-05-30"
+    },
+    {
+      "id": 70672,
+      "title": "Men on a Mission",
+      "rating": 7.4,
+      "votes": 42,
+      "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
+      "poster": "https://image.tmdb.org/t/p/w500/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+      "release": "2015-12-05"
+    },
+    {
       "id": 18165,
       "title": "The Vampire Diaries",
       "rating": 8.3,
-      "votes": 9763,
+      "votes": 9764,
       "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
       "poster": "https://image.tmdb.org/t/p/w500/b3vl6wV1W8PBezFfntKTrhrehCY.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
       "release": "2009-09-10"
     },
     {
-      "id": 35007,
-      "title": "The Daily Fable",
-      "rating": 8.0,
-      "votes": 5,
-      "overview": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in 1968 by Leen Valkenier and produced by Thijs Chanowski and Loek de Levita, it ended in 1989 and was broadcast on the Dutch channels NOS, RTL 4 and RTL 8 and on Belgian channel VRT. From 1973 to 1975 it was broadcast also in the United Kingdom, on ITV, with the title The Daily Fable.",
-      "poster": "https://image.tmdb.org/t/p/w500/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
-      "backdrop": null,
-      "release": "1968-09-29"
-    },
-    {
-      "id": 206693,
-      "title": "My Dearest",
-      "rating": 8.333,
-      "votes": 57,
-      "overview": "A love-story between a noblewoman and a mysterious man who shows up in her hometown set in the 1600s during the Qing invasion.",
-      "poster": "https://image.tmdb.org/t/p/w500/d00uWx8T84ZRsguQTqITl3HnFJO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3MkrzqX1jog9ItFux72MvYyYfuT.jpg",
-      "release": "2023-08-04"
-    },
-    {
-      "id": 59941,
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.765,
-      "votes": 387,
-      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
-      "release": "2014-02-17"
+      "id": 2661,
+      "title": "Kamen Rider",
+      "rating": 6.389,
+      "votes": 108,
+      "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "poster": "https://image.tmdb.org/t/p/w500/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+      "release": "1971-04-03"
     }
   ],
   "top_rated": [
@@ -249,7 +249,7 @@
       "id": 276161,
       "title": "Teach You a Lesson",
       "rating": 9.397,
-      "votes": 905,
+      "votes": 906,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.951,
-      "votes": 18635,
+      "votes": 18637,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -308,8 +308,8 @@
     {
       "id": 259837,
       "title": "The WONDERfools",
-      "rating": 8.9,
-      "votes": 263,
+      "rating": 8.866,
+      "votes": 264,
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
@@ -318,8 +318,8 @@
     {
       "id": 245026,
       "title": "Wizards Beyond Waverly Place",
-      "rating": 8.851,
-      "votes": 202,
+      "rating": 8.9,
+      "votes": 203,
       "overview": "Justin Russo has chosen to lead a normal, mortal life with his family, Giada, Roman and Milo. But when Justin's sister Alex brings Billie to his home seeking help, Justin realizes he must dust off his magical skills to mentor the wizard-in-training while also juggling his everyday responsibilities — and safeguarding the future of the Wizard World.",
       "poster": "https://image.tmdb.org/t/p/w500/5hrBpjFzIqmN9k7QxEC610gwZGw.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/TxicZcsiP9VHYXMYHm4IEHnwv9.jpg",
@@ -348,7 +348,7 @@
     {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.804,
+      "rating": 8.8,
       "votes": 962,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
@@ -367,26 +367,6 @@
     }
   ],
   "airing_today": [
-    {
-      "id": 22980,
-      "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 4.916,
-      "votes": 95,
-      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-      "release": "2009-07-16"
-    },
-    {
-      "id": 59941,
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.765,
-      "votes": 387,
-      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
-      "release": "2014-02-17"
-    },
     {
       "id": 72879,
       "title": "Tomorrow Is Ours",
@@ -416,26 +396,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
       "release": "1972-10-16"
-    },
-    {
-      "id": 2224,
-      "title": "The Daily Show",
-      "rating": 6.4,
-      "votes": 658,
-      "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-      "poster": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-      "release": "1996-07-22"
-    },
-    {
-      "id": 256440,
-      "title": "Alıkara",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "A mysterious corpse draws Chief Inspector Deniz and Psychologist Işık into a grueling struggle. As the investigation deepens, long-hidden traumas from the past come to light, and the hunt for an anonymous killer begins…",
-      "poster": "https://image.tmdb.org/t/p/w500/3Vp8LSlyJY34q8jnGTNs0FHgnXP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7leJka0INkfFgZ3RpAKfDShyCTq.jpg",
-      "release": "2026-09-10"
     },
     {
       "id": 13945,
@@ -468,6 +428,36 @@
       "release": "2005-10-13"
     },
     {
+      "id": 65282,
+      "title": "Home Alone",
+      "rating": 7.5,
+      "votes": 18,
+      "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+      "release": "2013-03-22"
+    },
+    {
+      "id": 154770,
+      "title": "Hello Saturday",
+      "rating": 6.455,
+      "votes": 11,
+      "overview": "\"Hello, Saturday\" is the rebranding of the popular Chinese show \"Happy Camp\", hosted by He Jiong and with a fixed group of regular celebrity members.\n\nThe program showcases the talent of various stars as well as social topics through creative and diverse content and games. It aims to spread positive energy while keeping up with the current trends and leading youth culture.",
+      "poster": "https://image.tmdb.org/t/p/w500/wsTjWy6NE2s3h0neChr0D92ddwI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg",
+      "release": "2022-01-01"
+    },
+    {
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.4,
+      "votes": 849,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+      "release": "2025-03-30"
+    },
+    {
       "id": 112470,
       "title": "Ici tout commence",
       "rating": 6.788,
@@ -478,14 +468,24 @@
       "release": "2020-11-02"
     },
     {
-      "id": 16322,
-      "title": "X Factor",
-      "rating": 7.5,
-      "votes": 12,
-      "overview": "X Factor is the Italian version of the British musical talent show The X Factor. The first four seasons aired on Rai 2, but since 2011 it has been broadcast on Sky Uno, with reruns on TV8, after Rai dropped the show due to high costs. Sky Italia acquired the format, extending its broadcast until 2024. Starting from the eleventh season, RTL 102.5 became the official radio station, replacing Radio Deejay and Radio 105. The show was hosted by Francesco Facchinetti (2008-2010), Alessandro Cattelan (2011-2020), Ludovico Tersigni (2021), and Francesca Michielin (2022-2023). From 2024 onwards, Giorgia will take over as host. Since the seventh season, the show has been produced by Fremantle Italia without the collaboration of Magnolia, which had produced the selection episodes in the early seasons.",
-      "poster": "https://image.tmdb.org/t/p/w500/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pwP9zHx1L6FTxDtekx8VZJ9OZdK.jpg",
-      "release": "2008-03-10"
+      "id": 2221,
+      "title": "The View",
+      "rating": 4.345,
+      "votes": 113,
+      "overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
+      "poster": "https://image.tmdb.org/t/p/w500/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
+      "release": "1997-08-11"
+    },
+    {
+      "id": 57532,
+      "title": "PAW Patrol",
+      "rating": 7.0,
+      "votes": 820,
+      "overview": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
+      "poster": "https://image.tmdb.org/t/p/w500/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
+      "release": "2013-08-12"
     }
   ]
 }
