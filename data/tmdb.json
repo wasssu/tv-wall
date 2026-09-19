@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-18T15:52:05.981394+00:00",
+  "updated": "2026-09-19T03:13:42.992803+00:00",
   "trending": [
-    {
-      "id": 299939,
-      "title": "Monster: The Lizzie Borden Story",
-      "rating": 7.9,
-      "votes": 14,
-      "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-      "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "release": "2026-09-17"
-    },
-    {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.375,
-      "votes": 850,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
-      "release": "2025-03-30"
-    },
     {
       "id": 275102,
       "title": "The Scandal",
-      "rating": 0.0,
-      "votes": 0,
+      "rating": 6.0,
+      "votes": 3,
       "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
       "poster": "https://image.tmdb.org/t/p/w500/pJsIzlTjmx07ilwEkl0cglrMVa1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
       "release": "2026-09-18"
     },
     {
+      "id": 299939,
+      "title": "Monster: The Lizzie Borden Story",
+      "rating": 7.173,
+      "votes": 26,
+      "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+      "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hcoKwpW6W5jPIlIRop6dVab1XpR.jpg",
+      "release": "2026-09-17"
+    },
+    {
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.4,
+      "votes": 854,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+      "release": "2025-03-30"
+    },
+    {
       "id": 273207,
       "title": "Neagley",
-      "rating": 7.9,
-      "votes": 48,
+      "rating": 7.8,
+      "votes": 55,
       "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
       "poster": "https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
@@ -44,12 +44,32 @@
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.122,
-      "votes": 3342,
+      "rating": 8.124,
+      "votes": 3352,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "release": "2022-02-03"
+    },
+    {
+      "id": 196322,
+      "title": "Dark Matter",
+      "rating": 7.792,
+      "votes": 780,
+      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+      "release": "2024-05-07"
+    },
+    {
+      "id": 2190,
+      "title": "South Park",
+      "rating": 8.331,
+      "votes": 5147,
+      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+      "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "release": "1997-08-13"
     },
     {
       "id": 224263,
@@ -62,44 +82,14 @@
       "release": "2026-04-23"
     },
     {
-      "id": 2190,
-      "title": "South Park",
+      "id": 95350,
+      "title": "Lanterns",
       "rating": 8.3,
-      "votes": 5146,
-      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "release": "1997-08-13"
-    },
-    {
-      "id": 320760,
-      "title": "Not a Stranger",
-      "rating": 6.5,
-      "votes": 1,
-      "overview": "After giving birth, painter Funda put her career on hold to focus on her child. Ready to return to painting, she finally finds the nanny she has been searching for: Nazlı. But the mysterious and increasingly unsettling woman soon begins to disrupt the seemingly peaceful lives of Funda and her husband İlker. What begins as a simple employment arrangement develops into a dangerous psychological game in which desire, secrets and loyalty are put to the test.",
-      "poster": "https://image.tmdb.org/t/p/w500/tgBRNtynz81e0DE4bWo8XwTbCw9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
-      "release": "2026-09-17"
-    },
-    {
-      "id": 332401,
-      "title": "City of Blood",
-      "rating": 8.6,
-      "votes": 5,
-      "overview": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
-      "poster": "https://image.tmdb.org/t/p/w500/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
-      "release": "2026-09-16"
-    },
-    {
-      "id": 298008,
-      "title": "Plastic Beauty",
-      "rating": 7.0,
-      "votes": 1,
-      "overview": "When a gifted ER surgeon is thrust into cosmetic medicine, her clash with a celebrity doctor exposes the greed and desire beneath the glamour.",
-      "poster": "https://image.tmdb.org/t/p/w500/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
-      "release": "2026-09-17"
+      "votes": 359,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "release": "2026-08-16"
     },
     {
       "id": 232018,
@@ -112,22 +102,32 @@
       "release": "2024-09-23"
     },
     {
-      "id": 196322,
-      "title": "Dark Matter",
-      "rating": 7.8,
-      "votes": 778,
-      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-      "release": "2024-05-07"
+      "id": 298008,
+      "title": "Plastic Beauty",
+      "rating": 7.0,
+      "votes": 1,
+      "overview": "When a gifted ER surgeon is thrust into cosmetic medicine, her clash with a celebrity doctor exposes the greed and desire beneath the glamour.",
+      "poster": "https://image.tmdb.org/t/p/w500/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
+      "release": "2026-09-17"
+    },
+    {
+      "id": 332401,
+      "title": "City of Blood",
+      "rating": 8.6,
+      "votes": 5,
+      "overview": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
+      "poster": "https://image.tmdb.org/t/p/w500/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
+      "release": "2026-09-16"
     }
   ],
   "popular": [
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.123,
-      "votes": 3342,
+      "rating": 8.124,
+      "votes": 3352,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -174,30 +174,30 @@
       "release": "2007-01-02"
     },
     {
+      "id": 59941,
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "rating": 5.8,
+      "votes": 389,
+      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
+      "release": "2014-02-17"
+    },
+    {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.198,
-      "votes": 1561,
+      "rating": 8.201,
+      "votes": 1564,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
       "release": "2023-07-23"
     },
     {
-      "id": 59941,
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.765,
-      "votes": 388,
-      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
-      "release": "2014-02-17"
-    },
-    {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.406,
-      "votes": 4732,
+      "rating": 8.405,
+      "votes": 4735,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
@@ -227,7 +227,7 @@
       "id": 18165,
       "title": "The Vampire Diaries",
       "rating": 8.3,
-      "votes": 9764,
+      "votes": 9765,
       "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
       "poster": "https://image.tmdb.org/t/p/w500/b3vl6wV1W8PBezFfntKTrhrehCY.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.397,
-      "votes": 906,
+      "rating": 9.393,
+      "votes": 908,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.162,
-      "votes": 590,
+      "rating": 9.163,
+      "votes": 591,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.951,
-      "votes": 18637,
+      "votes": 18642,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -308,8 +308,8 @@
     {
       "id": 259837,
       "title": "The WONDERfools",
-      "rating": 8.866,
-      "votes": 264,
+      "rating": 8.9,
+      "votes": 265,
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
@@ -328,12 +328,22 @@
     {
       "id": 284445,
       "title": "Takopi's Original Sin",
-      "rating": 8.811,
-      "votes": 201,
+      "rating": 8.812,
+      "votes": 202,
       "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
       "poster": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
       "release": "2025-06-28"
+    },
+    {
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "rating": 8.804,
+      "votes": 964,
+      "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+      "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
+      "release": "2023-09-29"
     },
     {
       "id": 219246,
@@ -344,16 +354,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
       "release": "2025-03-07"
-    },
-    {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "rating": 8.8,
-      "votes": 962,
-      "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
-      "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
-      "release": "2023-09-29"
     },
     {
       "id": 85077,
@@ -378,6 +378,26 @@
       "release": "2017-07-17"
     },
     {
+      "id": 2527,
+      "title": "Emmerdale",
+      "rating": 4.3,
+      "votes": 100,
+      "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
+      "poster": "https://image.tmdb.org/t/p/w500/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
+      "release": "1972-10-16"
+    },
+    {
+      "id": 2912,
+      "title": "Jeopardy!",
+      "rating": 6.9,
+      "votes": 165,
+      "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+      "poster": "https://image.tmdb.org/t/p/w500/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+      "release": "1984-09-10"
+    },
+    {
       "id": 291,
       "title": "Coronation Street",
       "rating": 5.4,
@@ -388,14 +408,14 @@
       "release": "1960-12-09"
     },
     {
-      "id": 2527,
-      "title": "Emmerdale",
-      "rating": 4.3,
-      "votes": 100,
-      "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
-      "poster": "https://image.tmdb.org/t/p/w500/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
-      "release": "1972-10-16"
+      "id": 65282,
+      "title": "Home Alone",
+      "rating": 7.5,
+      "votes": 18,
+      "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+      "release": "2013-03-22"
     },
     {
       "id": 13945,
@@ -408,16 +428,6 @@
       "release": "1992-05-11"
     },
     {
-      "id": 2912,
-      "title": "Jeopardy!",
-      "rating": 6.912,
-      "votes": 165,
-      "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
-      "poster": "https://image.tmdb.org/t/p/w500/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
-      "release": "1984-09-10"
-    },
-    {
       "id": 206559,
       "title": "Binnelanders",
       "rating": 5.5,
@@ -428,14 +438,14 @@
       "release": "2005-10-13"
     },
     {
-      "id": 65282,
-      "title": "Home Alone",
-      "rating": 7.5,
-      "votes": 18,
-      "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
-      "poster": "https://image.tmdb.org/t/p/w500/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
-      "release": "2013-03-22"
+      "id": 2221,
+      "title": "The View",
+      "rating": 4.345,
+      "votes": 113,
+      "overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
+      "poster": "https://image.tmdb.org/t/p/w500/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
+      "release": "1997-08-11"
     },
     {
       "id": 154770,
@@ -450,8 +460,8 @@
     {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.4,
-      "votes": 849,
+      "rating": 8.379,
+      "votes": 852,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
@@ -466,16 +476,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
       "release": "2020-11-02"
-    },
-    {
-      "id": 2221,
-      "title": "The View",
-      "rating": 4.345,
-      "votes": 113,
-      "overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
-      "poster": "https://image.tmdb.org/t/p/w500/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
-      "release": "1997-08-11"
     },
     {
       "id": 57532,
