@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-20T03:30:40.440411+00:00",
+  "updated": "2026-09-20T15:29:01.839277+00:00",
   "trending": [
     {
       "id": 299939,
       "title": "Monster: The Lizzie Borden Story",
-      "rating": 6.797,
-      "votes": 37,
+      "rating": 7.0,
+      "votes": 41,
       "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
       "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
@@ -14,38 +14,58 @@
     {
       "id": 275102,
       "title": "The Scandal",
-      "rating": 6.6,
-      "votes": 5,
+      "rating": 6.5,
+      "votes": 8,
       "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-      "poster": "https://image.tmdb.org/t/p/w500/pJsIzlTjmx07ilwEkl0cglrMVa1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
       "release": "2026-09-18"
     },
     {
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.208,
+      "votes": 1572,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "release": "2023-07-23"
+    },
+    {
+      "id": 239618,
+      "title": "American Hostage",
+      "rating": 1.0,
+      "votes": 1,
+      "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
+      "poster": "https://image.tmdb.org/t/p/w500/dzoPQ13XrRUGl8Yoz1P66V8rRUy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
+      "release": "2026-09-20"
+    },
+    {
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.387,
+      "votes": 866,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vW6oPZEdqxZyQIYimouqA5b78mT.jpg",
+      "release": "2025-03-30"
+    },
+    {
       "id": 273207,
       "title": "Neagley",
-      "rating": 7.979,
-      "votes": 71,
+      "rating": 7.918,
+      "votes": 78,
       "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
       "poster": "https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
       "release": "2026-09-16"
     },
     {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.4,
-      "votes": 863,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
-    },
-    {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.125,
-      "votes": 3361,
+      "rating": 8.126,
+      "votes": 3364,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -54,8 +74,8 @@
     {
       "id": 95350,
       "title": "Lanterns",
-      "rating": 8.259,
-      "votes": 361,
+      "rating": 8.262,
+      "votes": 365,
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
@@ -64,7 +84,7 @@
     {
       "id": 207484,
       "title": "Outlander: Blood of My Blood",
-      "rating": 8.6,
+      "rating": 8.58,
       "votes": 106,
       "overview": "From the battlefields of World War I to the rugged Highlands of 18th century Scotland, two fated couples must defy the forces that seek to tear them apart, unfolding in surprising and unforeseen ways in this romantic saga that unfolds across time.",
       "poster": "https://image.tmdb.org/t/p/w500/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
@@ -72,34 +92,24 @@
       "release": "2025-08-08"
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.207,
-      "votes": 1570,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.349,
+      "votes": 2276,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
     },
     {
       "id": 2190,
       "title": "South Park",
-      "rating": 8.3,
-      "votes": 5148,
+      "rating": 8.331,
+      "votes": 5151,
       "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
       "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
       "release": "1997-08-13"
-    },
-    {
-      "id": 95480,
-      "title": "Slow Horses",
-      "rating": 8.0,
-      "votes": 987,
-      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-      "release": "2022-04-01"
     },
     {
       "id": 232018,
@@ -108,100 +118,60 @@
       "votes": 122,
       "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
       "poster": "https://image.tmdb.org/t/p/w500/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/oS5vwLiVvfZrQ0NpbRJRfuXJhUX.jpg",
       "release": "2024-09-23"
-    },
-    {
-      "id": 215943,
-      "title": "The Traitors",
-      "rating": 6.4,
-      "votes": 65,
-      "overview": "The entertainment industry's most competitive reality stars and famous faces play the ultimate murder mystery game. Hosted by award-winning actor Alan Cumming at an ancient castle set deep in the Scottish Highlands, contestants work together on a series of exhilarating missions to build a prize fund worth up to $250,000. Hidden amongst the Faithful are the Traitors, whose goal is to eliminate the Faithful and claim the prize for themselves.",
-      "poster": "https://image.tmdb.org/t/p/w500/ulYR2NMKwnWoRWiw3KnFpaT2qjj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/sCn3qAUCbDOcPJcNvjdq7z06Eg2.jpg",
-      "release": "2023-01-12"
     }
   ],
   "popular": [
     {
       "id": 275102,
       "title": "The Scandal",
-      "rating": 6.2,
-      "votes": 4,
+      "rating": 6.6,
+      "votes": 7,
       "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-      "poster": "https://image.tmdb.org/t/p/w500/pJsIzlTjmx07ilwEkl0cglrMVa1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
       "release": "2026-09-18"
     },
     {
+      "id": 2261,
+      "title": "The Tonight Show Starring Johnny Carson",
+      "rating": 7.536,
+      "votes": 96,
+      "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+      "poster": "https://image.tmdb.org/t/p/w500/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+      "release": "1962-10-01"
+    },
+    {
+      "id": 63770,
+      "title": "The Late Show with Stephen Colbert",
+      "rating": 6.082,
+      "votes": 364,
+      "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
+      "poster": "https://image.tmdb.org/t/p/w500/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+      "release": "2015-09-08"
+    },
+    {
+      "id": 62223,
+      "title": "The Late Late Show with James Corden",
+      "rating": 5.149,
+      "votes": 148,
+      "overview": "Once Craig Ferguson retires, James Corden will be taking over The Late Late Show. The show is a late night talk show that interviews celebrities and has its own bits. And of course, it's all hosted by James Corden.",
+      "poster": "https://image.tmdb.org/t/p/w500/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/amtOltTVcK9vQtL1iQS6p3LBi05.jpg",
+      "release": "2015-03-23"
+    },
+    {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.125,
-      "votes": 3361,
+      "rating": 8.1,
+      "votes": 3363,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "release": "2022-02-03"
-    },
-    {
-      "id": 91759,
-      "title": "Come Home Love: Lo and Behold",
-      "rating": 5.435,
-      "votes": 46,
-      "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
-      "poster": "https://image.tmdb.org/t/p/w500/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dyFTt1a9ZpFdKE96kPlE9fQvXOJ.jpg",
-      "release": "2017-02-20"
-    },
-    {
-      "id": 22980,
-      "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 4.916,
-      "votes": 95,
-      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-      "release": "2009-07-16"
-    },
-    {
-      "id": 59941,
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.8,
-      "votes": 389,
-      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-      "release": "2014-02-17"
-    },
-    {
-      "id": 5920,
-      "title": "The Mentalist",
-      "rating": 8.406,
-      "votes": 4741,
-      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-      "release": "2008-09-23"
-    },
-    {
-      "id": 65270,
-      "title": "Radio Star",
-      "rating": 5.5,
-      "votes": 6,
-      "overview": "“Radio Star” is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives, their pasts and their work. It is part of Munhwa Broadcasting Corporation's \"Golden Fishery\" programming block.",
-      "poster": "https://image.tmdb.org/t/p/w500/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
-      "release": "2007-05-30"
-    },
-    {
-      "id": 502,
-      "title": "Sesame Street",
-      "rating": 7.1,
-      "votes": 293,
-      "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
-      "poster": "https://image.tmdb.org/t/p/w500/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
-      "release": "1969-11-10"
     },
     {
       "id": 549,
@@ -214,42 +184,72 @@
       "release": "1990-09-13"
     },
     {
-      "id": 31472,
-      "title": "Pelotón",
-      "rating": 9.0,
-      "votes": 1,
-      "overview": "Pelotón is a Chilean reality show on National Television of Chile in which the participants undergo an intense regime of military training. The winner receives 50 million pesos. The first season aired January 2 — May 5, 2007, and the second season ran from October 2, 2007 to March 11, 2008. The third season were premiere in July 2009 and the contestants were Chilean celebrities. The third and 4th season were shooting back to back, and like last season the majority of participants were celebrities.",
-      "poster": "https://image.tmdb.org/t/p/w500/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
-      "backdrop": null,
-      "release": "2007-01-02"
+      "id": 22980,
+      "title": "Watch What Happens Live with Andy Cohen",
+      "rating": 4.916,
+      "votes": 95,
+      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+      "release": "2009-07-16"
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.206,
-      "votes": 1569,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
+      "id": 14981,
+      "title": "The Late Late Show with Craig Ferguson",
+      "rating": 6.835,
+      "votes": 121,
+      "overview": "The Late Late Show with Craig Ferguson is an American late-night talk show hosted by Scottish American comedian Craig Ferguson, who is the third regular host of the Late Late Show franchise. It follows Late Show with David Letterman in the CBS late-night lineup, airing weekdays in the US at 12:37 a.m. It is taped in front of a live studio audience from Monday to Friday at CBS Television City in Los Angeles, California, directly above the Bob Barker Studio. It is produced by David Letterman's production company Worldwide Pants Incorporated and CBS Television Studios.\n\nSince becoming host on January 3, 2005, after Craig Kilborn and Tom Snyder, Ferguson has achieved the highest ratings since the show's inception in 1995. While the majority of the episodes focus on comedy, Ferguson has also addressed difficult subject matter, such as the deaths of his parents, and undertaken serious interviews, such as one with Desmond Tutu, which earned the show a 2009 Peabody Award.",
+      "poster": "https://image.tmdb.org/t/p/w500/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/m0bV3qBiJBBlpFaaKjwHo13MVjm.jpg",
+      "release": "2005-01-03"
     },
     {
-      "id": 70672,
-      "title": "Men on a Mission",
-      "rating": 7.4,
-      "votes": 42,
-      "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
-      "poster": "https://image.tmdb.org/t/p/w500/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
-      "release": "2015-12-05"
+      "id": 1433,
+      "title": "American Dad!",
+      "rating": 7.019,
+      "votes": 2445,
+      "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+      "poster": "https://image.tmdb.org/t/p/w500/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
+      "release": "2005-02-06"
+    },
+    {
+      "id": 94722,
+      "title": "Tagesschau",
+      "rating": 6.768,
+      "votes": 256,
+      "overview": "German daily news program, the oldest still existing program on German television.",
+      "poster": "https://image.tmdb.org/t/p/w500/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+      "release": "1952-12-26"
+    },
+    {
+      "id": 91759,
+      "title": "Come Home Love: Lo and Behold",
+      "rating": 5.435,
+      "votes": 46,
+      "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
+      "poster": "https://image.tmdb.org/t/p/w500/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dyFTt1a9ZpFdKE96kPlE9fQvXOJ.jpg",
+      "release": "2017-02-20"
+    },
+    {
+      "id": 59941,
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "rating": 5.8,
+      "votes": 389,
+      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
+      "release": "2014-02-17"
     }
   ],
   "top_rated": [
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.4,
-      "votes": 911,
+      "rating": 9.394,
+      "votes": 912,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.161,
-      "votes": 592,
+      "rating": 9.163,
+      "votes": 595,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.951,
-      "votes": 18652,
+      "votes": 18658,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.911,
-      "votes": 851,
+      "rating": 8.905,
+      "votes": 852,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -308,8 +308,8 @@
     {
       "id": 259837,
       "title": "The WONDERfools",
-      "rating": 8.867,
-      "votes": 266,
+      "rating": 8.863,
+      "votes": 267,
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
@@ -368,24 +368,54 @@
   ],
   "airing_today": [
     {
-      "id": 70672,
-      "title": "Men on a Mission",
-      "rating": 7.4,
-      "votes": 42,
-      "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
-      "poster": "https://image.tmdb.org/t/p/w500/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
-      "release": "2015-12-05"
+      "id": 22980,
+      "title": "Watch What Happens Live with Andy Cohen",
+      "rating": 4.916,
+      "votes": 95,
+      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+      "release": "2009-07-16"
     },
     {
-      "id": 106449,
-      "title": "A Record of a Mortal's Journey to Immortality",
-      "rating": 8.425,
-      "votes": 87,
-      "overview": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.",
-      "poster": "https://image.tmdb.org/t/p/w500/rXX12X3Lx7jmlvfUc3glIwJVLCH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
-      "release": "2020-07-25"
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.208,
+      "votes": 1571,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "release": "2023-07-23"
+    },
+    {
+      "id": 2661,
+      "title": "Kamen Rider",
+      "rating": 6.389,
+      "votes": 108,
+      "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "poster": "https://image.tmdb.org/t/p/w500/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+      "release": "1971-04-03"
+    },
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.3,
+      "votes": 363,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "release": "2026-08-16"
+    },
+    {
+      "id": 223911,
+      "title": "Renegade Immortal",
+      "rating": 8.3,
+      "votes": 44,
+      "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+      "poster": "https://image.tmdb.org/t/p/w500/mCt5qgkOYEvuHSiSwNByMv6LMoB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
+      "release": "2023-09-25"
     },
     {
       "id": 154770,
@@ -398,64 +428,54 @@
       "release": "2022-01-01"
     },
     {
-      "id": 80736,
-      "title": "The Manager",
-      "rating": 5.5,
-      "votes": 6,
-      "overview": "We will get involved in every little detail of the stars’ lives. The managers who work closely with the stars reveal their mundane lives. Once the information is all revealed, the professional meddlers from various different fields are invited to make comments regarding even the smallest details. Lee Yeong Ja, Jun Hyun Moo, Song Eun I, Kim Saeng Min, Yang Se Hyeong and Yoo Byung Jae participate as the life meddlers along with the professionals.",
-      "poster": "https://image.tmdb.org/t/p/w500/jASfIetUKhrbqEEKBnjRjjgfuGK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o82rmThq339zBdO8Bd3gUyBic0o.jpg",
-      "release": "2018-03-10"
+      "id": 10160,
+      "title": "Big Brother",
+      "rating": 4.8,
+      "votes": 272,
+      "overview": "American version of the reality game show which follows a group of HouseGuests living together 24 hours a day in the \"Big Brother\" house, isolated from the outside world but under constant surveillance with no privacy for three months.",
+      "poster": "https://image.tmdb.org/t/p/w500/kvuNuOJSiPSBY1FDQHFGz1PIWUe.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/oBUwRT7TbhTeFFTguY1s8RmmJpW.jpg",
+      "release": "2000-07-05"
     },
     {
-      "id": 30983,
-      "title": "Detective Conan",
-      "rating": 8.01,
-      "votes": 788,
-      "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
-      "poster": "https://image.tmdb.org/t/p/w500/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-      "release": "1996-01-08"
+      "id": 3034,
+      "title": "Scene of the Crime",
+      "rating": 6.185,
+      "votes": 127,
+      "overview": "Tatort is a long-running German/Austrian/Swiss crime television series set in various parts of these countries. The show is broadcast on the channels of ARD in Germany, ORF in Austria and SF1 in Switzerland.",
+      "poster": "https://image.tmdb.org/t/p/w500/yh43TKi9himQWhzrlWBxV8WjsFn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/A4iwF1mpDq8HScQ3MZMhMJuT93k.jpg",
+      "release": "1970-11-29"
     },
     {
-      "id": 35024,
-      "title": "Show! Music Core",
+      "id": 72896,
+      "title": "My Little Old Boy",
       "rating": 7.0,
-      "votes": 1,
-      "overview": "Show! Music Core is a music show that has been aired since 2005. Not like any other music shows, this show doesn't include any charts or awards. There are a few segments such as This Week's Hot 3, Chart Up Core and Core of Rising Stars.",
-      "poster": "https://image.tmdb.org/t/p/w500/AkoQr6axSoFdpTuPt0dY3WekIeY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ivHoFv1aJCmtpi8Kejs3ubjLYAR.jpg",
-      "release": "2005-10-29"
-    },
-    {
-      "id": 203769,
-      "title": "Pushpa Impossible",
-      "rating": 7.0,
-      "votes": 1,
-      "overview": "Pushpa Impossible is the story about a feisty middle-aged woman having studied until grade 9 in a Gujarati medium school and going back to school at the age of 44! She is boisterous, uncouth, impulsive, hardworking and an endearingly loveable mother of three children. She is Pushpa Patel hailing from a small town Patan in Gujarat and now residing at Bapodra Chawl in Mumbai. The show is a peek into her day-to-day struggles, her small victories, her Juggad, her shortcomings, and her constant pursuit of living a good life while struggling as a full-time mother and part-time businesswoman. The show is an autobiography of a mother, who decides to go back to school and change her life by impacting many lives!",
-      "poster": "https://image.tmdb.org/t/p/w500/jInpgPiN2KnTFAu2mtIbFJtFp7A.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4vw2auyqSnxlXRb0NP1Z3nZ59TP.jpg",
-      "release": "2022-06-06"
-    },
-    {
-      "id": 207468,
-      "title": "Kaiju No. 8",
-      "rating": 8.438,
-      "votes": 811,
-      "overview": "In a world plagued by creatures known as Kaiju, Kafka Hibino aspired to enlist in The Defense Force. He makes a promise to enlist with his childhood friend, Mina Ashiro. Soon, life takes them in separate ways. While employed cleaning up after Kaiju battles, Kafka meets Reno Ichikawa. Reno's determination to join The Defense Force reawakens Kafka's promise to join Mina and protect humanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/83yDUQVpdhv8ePy3nbTRzFaKYuQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
-      "release": "2024-04-13"
+      "votes": 10,
+      "overview": "How much do you know about your grown up son? In Mom’s Diary, the daily lives of the grown up celebrity sons are closely observed by their mothers. Do you know why your son drinks so much these days? How much do you know about your son’s philosophy in his life style? Heart-warming moments of observational communication between a mother and a son can be seen on Mom’s Diary.",
+      "poster": "https://image.tmdb.org/t/p/w500/fgeWRIiigNHLxy3qEzM0HqNcFHT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vrLDuQ5L45f7vFWpMT17WopdWx0.jpg",
+      "release": "2016-08-26"
     },
     {
       "id": 282326,
       "title": "Against the Current",
-      "rating": 7.2,
+      "rating": 7.5,
       "votes": 4,
       "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
       "poster": "https://image.tmdb.org/t/p/w500/euBlF64efQmsl2y54LeNmLQPNob.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
       "release": "2026-09-11"
+    },
+    {
+      "id": 57775,
+      "title": "Chibi Maruko-chan",
+      "rating": 7.8,
+      "votes": 24,
+      "overview": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a cozy town alongside her loving parents, grandparents, and sister. Maruko has a band of loyal friends, including her closest pal, Tama-chan, but her playful and doting grandpa is at the heart of it all. Life is never dull in this charming series.",
+      "poster": "https://image.tmdb.org/t/p/w500/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
+      "release": "1990-01-07"
     },
     {
       "id": 224,
@@ -466,26 +486,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/tVFCu0jE9m5QHmHM4rzEFGs1kUI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3EGjqKhVHGsvNHvBIbxmqS17Aal.jpg",
       "release": "1964-08-22"
-    },
-    {
-      "id": 314939,
-      "title": "A Love Other Than Yours",
-      "rating": 8.0,
-      "votes": 1,
-      "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
-      "poster": "https://image.tmdb.org/t/p/w500/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
-      "release": "2026-09-12"
-    },
-    {
-      "id": 79481,
-      "title": "Fights Break Sphere",
-      "rating": 8.048,
-      "votes": 62,
-      "overview": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years ago, Xiao Yan, who had shown talents none had seen in decades, suddenly lost everything. His powers, his reputation, and his promise to his mother. What sorcery has caused him to lose all of his powers? And why has his fiancee suddenly shown up?",
-      "poster": "https://image.tmdb.org/t/p/w500/oyoahIcdamTXwjIaL3CqZ1v5CLl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cTCn2EO69SERNfhaezJMoqBom4G.jpg",
-      "release": "2017-01-07"
     }
   ]
 }
