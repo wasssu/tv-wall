@@ -1,15 +1,75 @@
 {
-  "updated": "2026-09-20T15:29:01.839277+00:00",
+  "updated": "2026-09-21T03:25:52.782736+00:00",
   "trending": [
+    {
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.2,
+      "votes": 1577,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "release": "2023-07-23"
+    },
+    {
+      "id": 239618,
+      "title": "American Hostage",
+      "rating": 7.8,
+      "votes": 4,
+      "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
+      "poster": "https://image.tmdb.org/t/p/w500/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
+      "release": "2026-09-20"
+    },
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.287,
+      "votes": 371,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "release": "2026-08-16"
+    },
     {
       "id": 299939,
       "title": "Monster: The Lizzie Borden Story",
-      "rating": 7.0,
-      "votes": 41,
+      "rating": 7.214,
+      "votes": 49,
       "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
       "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
       "release": "2026-09-17"
+    },
+    {
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.392,
+      "votes": 869,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vW6oPZEdqxZyQIYimouqA5b78mT.jpg",
+      "release": "2025-03-30"
+    },
+    {
+      "id": 108978,
+      "title": "Reacher",
+      "rating": 8.127,
+      "votes": 3371,
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "release": "2022-02-03"
+    },
+    {
+      "id": 273207,
+      "title": "Neagley",
+      "rating": 7.989,
+      "votes": 89,
+      "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+      "release": "2026-09-16"
     },
     {
       "id": 275102,
@@ -22,94 +82,24 @@
       "release": "2026-09-18"
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.208,
-      "votes": 1572,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "release": "2023-07-23"
+      "id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "rating": 8.409,
+      "votes": 1723,
+      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "release": "2021-01-11"
     },
     {
-      "id": 239618,
-      "title": "American Hostage",
-      "rating": 1.0,
-      "votes": 1,
-      "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
-      "poster": "https://image.tmdb.org/t/p/w500/dzoPQ13XrRUGl8Yoz1P66V8rRUy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
-      "release": "2026-09-20"
-    },
-    {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.387,
-      "votes": 866,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vW6oPZEdqxZyQIYimouqA5b78mT.jpg",
-      "release": "2025-03-30"
-    },
-    {
-      "id": 273207,
-      "title": "Neagley",
-      "rating": 7.918,
-      "votes": 78,
-      "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
-      "release": "2026-09-16"
-    },
-    {
-      "id": 108978,
-      "title": "Reacher",
-      "rating": 8.126,
-      "votes": 3364,
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "release": "2022-02-03"
-    },
-    {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.262,
-      "votes": 365,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-      "release": "2026-08-16"
-    },
-    {
-      "id": 207484,
-      "title": "Outlander: Blood of My Blood",
-      "rating": 8.58,
-      "votes": 106,
-      "overview": "From the battlefields of World War I to the rugged Highlands of 18th century Scotland, two fated couples must defy the forces that seek to tear them apart, unfolding in surprising and unforeseen ways in this romantic saga that unfolds across time.",
-      "poster": "https://image.tmdb.org/t/p/w500/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
-      "release": "2025-08-08"
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.349,
-      "votes": 2276,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
-    },
-    {
-      "id": 2190,
-      "title": "South Park",
-      "rating": 8.331,
-      "votes": 5151,
-      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "release": "1997-08-13"
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.748,
+      "votes": 5552,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6fRwRD7GdCfg6owzmCT3VgQtowl.jpg",
+      "release": "1999-10-20"
     },
     {
       "id": 232018,
@@ -117,17 +107,27 @@
       "rating": 7.0,
       "votes": 122,
       "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
-      "poster": "https://image.tmdb.org/t/p/w500/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/oS5vwLiVvfZrQ0NpbRJRfuXJhUX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pbjUYxmI2BdqpXpr89XaBnKlc6F.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3yoTM5JtkxnPZvVzQOrL0c2ILVM.jpg",
       "release": "2024-09-23"
+    },
+    {
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.35,
+      "votes": 2276,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
     }
   ],
   "popular": [
     {
       "id": 275102,
       "title": "The Scandal",
-      "rating": 6.6,
-      "votes": 7,
+      "rating": 6.5,
+      "votes": 8,
       "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
       "poster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
@@ -166,8 +166,8 @@
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.1,
-      "votes": 3363,
+      "rating": 8.127,
+      "votes": 3370,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -176,8 +176,8 @@
     {
       "id": 549,
       "title": "Law & Order",
-      "rating": 7.3,
-      "votes": 722,
+      "rating": 7.275,
+      "votes": 723,
       "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
       "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.394,
-      "votes": 912,
+      "rating": 9.391,
+      "votes": 917,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.163,
-      "votes": 595,
+      "rating": 9.164,
+      "votes": 596,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.951,
-      "votes": 18658,
+      "rating": 8.952,
+      "votes": 18662,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,7 +288,7 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.905,
+      "rating": 8.9,
       "votes": 852,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
@@ -328,8 +328,8 @@
     {
       "id": 284445,
       "title": "Takopi's Original Sin",
-      "rating": 8.812,
-      "votes": 202,
+      "rating": 8.803,
+      "votes": 203,
       "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
       "poster": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
@@ -338,8 +338,8 @@
     {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.808,
-      "votes": 967,
+      "rating": 8.8,
+      "votes": 969,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
@@ -348,8 +348,8 @@
     {
       "id": 219246,
       "title": "When Life Gives You Tangerines",
-      "rating": 8.8,
-      "votes": 587,
+      "rating": 8.806,
+      "votes": 588,
       "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
       "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
@@ -358,8 +358,8 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.8,
-      "votes": 987,
+      "rating": 8.802,
+      "votes": 988,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
@@ -380,8 +380,8 @@
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.208,
-      "votes": 1571,
+      "rating": 8.2,
+      "votes": 1577,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
@@ -400,8 +400,8 @@
     {
       "id": 95350,
       "title": "Lanterns",
-      "rating": 8.3,
-      "votes": 363,
+      "rating": 8.282,
+      "votes": 370,
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
@@ -430,22 +430,12 @@
     {
       "id": 10160,
       "title": "Big Brother",
-      "rating": 4.8,
-      "votes": 272,
+      "rating": 4.839,
+      "votes": 273,
       "overview": "American version of the reality game show which follows a group of HouseGuests living together 24 hours a day in the \"Big Brother\" house, isolated from the outside world but under constant surveillance with no privacy for three months.",
       "poster": "https://image.tmdb.org/t/p/w500/kvuNuOJSiPSBY1FDQHFGz1PIWUe.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/oBUwRT7TbhTeFFTguY1s8RmmJpW.jpg",
       "release": "2000-07-05"
-    },
-    {
-      "id": 3034,
-      "title": "Scene of the Crime",
-      "rating": 6.185,
-      "votes": 127,
-      "overview": "Tatort is a long-running German/Austrian/Swiss crime television series set in various parts of these countries. The show is broadcast on the channels of ARD in Germany, ORF in Austria and SF1 in Switzerland.",
-      "poster": "https://image.tmdb.org/t/p/w500/yh43TKi9himQWhzrlWBxV8WjsFn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/A4iwF1mpDq8HScQ3MZMhMJuT93k.jpg",
-      "release": "1970-11-29"
     },
     {
       "id": 72896,
@@ -458,14 +448,24 @@
       "release": "2016-08-26"
     },
     {
-      "id": 282326,
-      "title": "Against the Current",
-      "rating": 7.5,
-      "votes": 4,
-      "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
-      "poster": "https://image.tmdb.org/t/p/w500/euBlF64efQmsl2y54LeNmLQPNob.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
-      "release": "2026-09-11"
+      "id": 3034,
+      "title": "Scene of the Crime",
+      "rating": 6.185,
+      "votes": 127,
+      "overview": "Tatort is a long-running German/Austrian/Swiss crime television series set in various parts of these countries. The show is broadcast on the channels of ARD in Germany, ORF in Austria and SF1 in Switzerland.",
+      "poster": "https://image.tmdb.org/t/p/w500/yh43TKi9himQWhzrlWBxV8WjsFn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/A4iwF1mpDq8HScQ3MZMhMJuT93k.jpg",
+      "release": "1970-11-29"
+    },
+    {
+      "id": 224,
+      "title": "Match of the Day",
+      "rating": 7.6,
+      "votes": 51,
+      "overview": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised by Guinness World Records in 2015.",
+      "poster": "https://image.tmdb.org/t/p/w500/tVFCu0jE9m5QHmHM4rzEFGs1kUI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3EGjqKhVHGsvNHvBIbxmqS17Aal.jpg",
+      "release": "1964-08-22"
     },
     {
       "id": 57775,
@@ -478,14 +478,14 @@
       "release": "1990-01-07"
     },
     {
-      "id": 224,
-      "title": "Match of the Day",
-      "rating": 7.6,
-      "votes": 51,
-      "overview": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised by Guinness World Records in 2015.",
-      "poster": "https://image.tmdb.org/t/p/w500/tVFCu0jE9m5QHmHM4rzEFGs1kUI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3EGjqKhVHGsvNHvBIbxmqS17Aal.jpg",
-      "release": "1964-08-22"
+      "id": 60694,
+      "title": "Last Week Tonight with John Oliver",
+      "rating": 7.771,
+      "votes": 841,
+      "overview": "A half-hour satirical look at the week in news, politics and current events.",
+      "poster": "https://image.tmdb.org/t/p/w500/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/q31EEBycbOyX7GGJP4GTPI5WJRO.jpg",
+      "release": "2014-04-27"
     }
   ]
 }
