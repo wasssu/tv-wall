@@ -1,55 +1,85 @@
 {
-  "updated": "2026-09-22T16:18:59.534693+00:00",
+  "updated": "2026-09-23T03:25:46.114764+00:00",
   "trending": [
+    {
+      "id": 312557,
+      "title": "Minerva Academy",
+      "rating": 7.7,
+      "votes": 3,
+      "overview": "At Minerva Military High School, teens navigate discipline, rivalry and family pressure as a young cadet searches for answers about his missing friend.",
+      "poster": "https://image.tmdb.org/t/p/w500/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
+      "release": "2026-09-22"
+    },
     {
       "id": 95350,
       "title": "Lanterns",
-      "rating": 8.266,
-      "votes": 402,
+      "rating": 8.237,
+      "votes": 405,
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
       "release": "2026-08-16"
     },
     {
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.226,
+      "votes": 1604,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+      "release": "2023-07-23"
+    },
+    {
       "id": 299939,
       "title": "Monster: The Lizzie Borden Story",
-      "rating": 7.056,
-      "votes": 71,
+      "rating": 7.1,
+      "votes": 76,
       "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
       "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
       "release": "2026-09-17"
     },
     {
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.405,
+      "votes": 879,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+      "release": "2025-03-30"
+    },
+    {
       "id": 273207,
       "title": "Neagley",
-      "rating": 8.0,
-      "votes": 104,
+      "rating": 8.019,
+      "votes": 108,
       "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
       "poster": "https://image.tmdb.org/t/p/w500/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
       "release": "2026-09-16"
     },
     {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.404,
-      "votes": 877,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
+      "id": 321958,
+      "title": "Line of Fire",
+      "rating": 9.2,
+      "votes": 6,
+      "overview": "A family of law enforcement agents bridges personal differences and crosses professional boundaries as they tackle cases for the FBI, US Marshals, Secret Service and Department of Justice. After a seemingly cut-and-dry case turns into a deadly conspiracy, they must use the expertise from a lifetime of protecting civilians and politicians to protect one another and bring the killer to justice … even if it means betraying their sworn code.",
+      "poster": "https://image.tmdb.org/t/p/w500/sodRW36uEDHjv8l1WhYUNDvnIK6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8U4dW5E24Eqs06OJko5ChjcufHb.jpg",
+      "release": "2026-09-21"
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.223,
-      "votes": 1599,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-      "release": "2023-07-23"
+      "id": 108978,
+      "title": "Reacher",
+      "rating": 8.1,
+      "votes": 3386,
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "release": "2022-02-03"
     },
     {
       "id": 285418,
@@ -57,20 +87,42 @@
       "rating": 7.8,
       "votes": 5,
       "overview": "A 50-year-old divorcee searches for sex and love whilst juggling caring for her ailing parents and parenting her should-be grown up son.",
-      "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/zKaTNcWmP2dxYnxmOAVhBvSqNy9.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
       "release": "2026-09-21"
     },
     {
-      "id": 312557,
-      "title": "Minerva Academy",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "At Minerva Military High School, teens navigate discipline, rivalry and family pressure as a young cadet searches for answers about his missing friend.",
-      "poster": "https://image.tmdb.org/t/p/w500/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
-      "release": "2026-09-22"
+      "id": 239618,
+      "title": "American Hostage",
+      "rating": 7.2,
+      "votes": 5,
+      "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
+      "poster": "https://image.tmdb.org/t/p/w500/cJX6cFqJsX4cWe3DeZBJzg7w4rH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
+      "release": "2026-09-20"
     },
+    {
+      "id": 275102,
+      "title": "The Scandal",
+      "rating": 6.6,
+      "votes": 12,
+      "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+      "poster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+      "release": "2026-09-18"
+    },
+    {
+      "id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "rating": 8.413,
+      "votes": 1728,
+      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "poster": "https://image.tmdb.org/t/p/w500/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "release": "2021-01-11"
+    }
+  ],
+  "popular": [
     {
       "id": 275102,
       "title": "The Scandal",
@@ -84,60 +136,8 @@
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.128,
-      "votes": 3385,
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "release": "2022-02-03"
-    },
-    {
-      "id": 321958,
-      "title": "Line of Fire",
-      "rating": 8.8,
-      "votes": 4,
-      "overview": "A family of law enforcement agents bridges personal differences and crosses professional boundaries as they tackle cases for the FBI, US Marshals, Secret Service and Department of Justice. After a seemingly cut-and-dry case turns into a deadly conspiracy, they must use the expertise from a lifetime of protecting civilians and politicians to protect one another and bring the killer to justice … even if it means betraying their sworn code.",
-      "poster": "https://image.tmdb.org/t/p/w500/sodRW36uEDHjv8l1WhYUNDvnIK6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8U4dW5E24Eqs06OJko5ChjcufHb.jpg",
-      "release": "2026-09-21"
-    },
-    {
-      "id": 615,
-      "title": "Futurama",
-      "rating": 8.365,
-      "votes": 3913,
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-      "release": "1999-03-28"
-    },
-    {
-      "id": 239618,
-      "title": "American Hostage",
-      "rating": 7.2,
-      "votes": 5,
-      "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
-      "poster": "https://image.tmdb.org/t/p/w500/p3Ro0ngezX9aNZY6j3vYbpQqVhr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
-      "release": "2026-09-20"
-    }
-  ],
-  "popular": [
-    {
-      "id": 275102,
-      "title": "The Scandal",
-      "rating": 6.273,
-      "votes": 11,
-      "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-      "poster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-      "release": "2026-09-18"
-    },
-    {
-      "id": 108978,
-      "title": "Reacher",
       "rating": 8.1,
-      "votes": 3383,
+      "votes": 3386,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -174,44 +174,34 @@
       "release": "2009-07-16"
     },
     {
-      "id": 549,
-      "title": "Law & Order",
-      "rating": 7.286,
-      "votes": 726,
-      "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-      "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-      "release": "1990-09-13"
+      "id": 91759,
+      "title": "Come Home Love: Lo and Behold",
+      "rating": 5.435,
+      "votes": 46,
+      "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
+      "poster": "https://image.tmdb.org/t/p/w500/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dyFTt1a9ZpFdKE96kPlE9fQvXOJ.jpg",
+      "release": "2017-02-20"
     },
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.225,
-      "votes": 1593,
+      "rating": 8.226,
+      "votes": 1603,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
       "release": "2023-07-23"
     },
     {
-      "id": 62223,
-      "title": "The Late Late Show with James Corden",
-      "rating": 5.149,
-      "votes": 148,
-      "overview": "Once Craig Ferguson retires, James Corden will be taking over The Late Late Show. The show is a late night talk show that interviews celebrities and has its own bits. And of course, it's all hosted by James Corden.",
-      "poster": "https://image.tmdb.org/t/p/w500/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/amtOltTVcK9vQtL1iQS6p3LBi05.jpg",
-      "release": "2015-03-23"
-    },
-    {
-      "id": 2734,
-      "title": "Law & Order: Special Victims Unit",
-      "rating": 7.959,
-      "votes": 4357,
-      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-      "release": "1999-09-20"
+      "id": 549,
+      "title": "Law & Order",
+      "rating": 7.287,
+      "votes": 727,
+      "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+      "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
+      "release": "1990-09-13"
     },
     {
       "id": 59941,
@@ -224,6 +214,16 @@
       "release": "2014-02-17"
     },
     {
+      "id": 62223,
+      "title": "The Late Late Show with James Corden",
+      "rating": 5.149,
+      "votes": 148,
+      "overview": "Once Craig Ferguson retires, James Corden will be taking over The Late Late Show. The show is a late night talk show that interviews celebrities and has its own bits. And of course, it's all hosted by James Corden.",
+      "poster": "https://image.tmdb.org/t/p/w500/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/amtOltTVcK9vQtL1iQS6p3LBi05.jpg",
+      "release": "2015-03-23"
+    },
+    {
       "id": 94722,
       "title": "Tagesschau",
       "rating": 6.768,
@@ -234,22 +234,22 @@
       "release": "1952-12-26"
     },
     {
-      "id": 91759,
-      "title": "Come Home Love: Lo and Behold",
-      "rating": 5.435,
-      "votes": 46,
-      "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
-      "poster": "https://image.tmdb.org/t/p/w500/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dyFTt1a9ZpFdKE96kPlE9fQvXOJ.jpg",
-      "release": "2017-02-20"
+      "id": 2734,
+      "title": "Law & Order: Special Victims Unit",
+      "rating": 8.0,
+      "votes": 4357,
+      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+      "release": "1999-09-20"
     }
   ],
   "top_rated": [
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.4,
-      "votes": 919,
+      "rating": 9.393,
+      "votes": 920,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.2,
-      "votes": 596,
+      "rating": 9.166,
+      "votes": 597,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -278,7 +278,7 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.952,
+      "rating": 9.0,
       "votes": 18676,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
@@ -328,8 +328,8 @@
     {
       "id": 284445,
       "title": "Takopi's Original Sin",
-      "rating": 8.8,
-      "votes": 204,
+      "rating": 8.815,
+      "votes": 205,
       "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
       "poster": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
@@ -380,7 +380,7 @@
     {
       "id": 59941,
       "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.753,
+      "rating": 5.8,
       "votes": 389,
       "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
       "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
@@ -390,10 +390,10 @@
     {
       "id": 61818,
       "title": "Late Night with Seth Meyers",
-      "rating": 5.112,
+      "rating": 5.1,
       "votes": 134,
       "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-      "poster": "https://image.tmdb.org/t/p/w500/u8VruEGv7mtyJihVn2CSA1u90pk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qKFP9Se7LJtBaxrMS41iu63dtK3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
       "release": "2014-02-25"
     },
@@ -428,10 +428,20 @@
       "release": "2005-10-13"
     },
     {
+      "id": 2221,
+      "title": "The View",
+      "rating": 4.345,
+      "votes": 113,
+      "overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
+      "poster": "https://image.tmdb.org/t/p/w500/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
+      "release": "1997-08-11"
+    },
+    {
       "id": 97546,
       "title": "Ted Lasso",
       "rating": 8.371,
-      "votes": 2676,
+      "votes": 2677,
       "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
@@ -476,16 +486,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
       "release": "2020-11-02"
-    },
-    {
-      "id": 1489,
-      "title": "Jimmy Kimmel Live!",
-      "rating": 5.323,
-      "votes": 217,
-      "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
-      "poster": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
-      "release": "2003-01-26"
     }
   ]
 }
