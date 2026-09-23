@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-23T03:25:46.114764+00:00",
+  "updated": "2026-09-23T16:08:46.884199+00:00",
   "trending": [
+    {
+      "id": 250203,
+      "title": "Brothers",
+      "rating": 10.0,
+      "votes": 4,
+      "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+      "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/snowLqDdNTDyHo8yTYGht3a3TyN.jpg",
+      "release": "2026-09-22"
+    },
+    {
+      "id": 299939,
+      "title": "Monster: The Lizzie Borden Story",
+      "rating": 7.0,
+      "votes": 79,
+      "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+      "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "release": "2026-09-17"
+    },
     {
       "id": 312557,
       "title": "Minerva Academy",
@@ -14,52 +34,82 @@
     {
       "id": 95350,
       "title": "Lanterns",
-      "rating": 8.237,
-      "votes": 405,
+      "rating": 8.246,
+      "votes": 410,
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "release": "2026-08-16"
+    },
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "rating": 8.368,
+      "votes": 2679,
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "release": "2020-08-14"
     },
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.226,
-      "votes": 1604,
+      "rating": 8.231,
+      "votes": 1609,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
       "release": "2023-07-23"
     },
     {
-      "id": 299939,
-      "title": "Monster: The Lizzie Borden Story",
-      "rating": 7.1,
-      "votes": 76,
-      "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-      "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "release": "2026-09-17"
-    },
-    {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.405,
-      "votes": 879,
+      "rating": 8.408,
+      "votes": 883,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "release": "2025-03-30"
+    },
+    {
+      "id": 95480,
+      "title": "Slow Horses",
+      "rating": 8.023,
+      "votes": 995,
+      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
+      "release": "2022-04-01"
+    },
+    {
+      "id": 246473,
+      "title": "Made in Korea",
+      "rating": 8.2,
+      "votes": 36,
+      "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
+      "poster": "https://image.tmdb.org/t/p/w500/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3GmRS3efCTp6jumogKOxYBrV5mO.jpg",
+      "release": "2025-12-24"
     },
     {
       "id": 273207,
       "title": "Neagley",
-      "rating": 8.019,
-      "votes": 108,
+      "rating": 8.071,
+      "votes": 113,
       "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
       "poster": "https://image.tmdb.org/t/p/w500/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
       "release": "2026-09-16"
+    },
+    {
+      "id": 108978,
+      "title": "Reacher",
+      "rating": 8.127,
+      "votes": 3389,
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "release": "2022-02-03"
     },
     {
       "id": 321958,
@@ -70,56 +120,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/sodRW36uEDHjv8l1WhYUNDvnIK6.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8U4dW5E24Eqs06OJko5ChjcufHb.jpg",
       "release": "2026-09-21"
-    },
-    {
-      "id": 108978,
-      "title": "Reacher",
-      "rating": 8.1,
-      "votes": 3386,
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "release": "2022-02-03"
-    },
-    {
-      "id": 285418,
-      "title": "Youth",
-      "rating": 7.8,
-      "votes": 5,
-      "overview": "A 50-year-old divorcee searches for sex and love whilst juggling caring for her ailing parents and parenting her should-be grown up son.",
-      "poster": "https://image.tmdb.org/t/p/w500/zKaTNcWmP2dxYnxmOAVhBvSqNy9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
-      "release": "2026-09-21"
-    },
-    {
-      "id": 239618,
-      "title": "American Hostage",
-      "rating": 7.2,
-      "votes": 5,
-      "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
-      "poster": "https://image.tmdb.org/t/p/w500/cJX6cFqJsX4cWe3DeZBJzg7w4rH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
-      "release": "2026-09-20"
-    },
-    {
-      "id": 275102,
-      "title": "The Scandal",
-      "rating": 6.6,
-      "votes": 12,
-      "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-      "poster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-      "release": "2026-09-18"
-    },
-    {
-      "id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "rating": 8.413,
-      "votes": 1728,
-      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-      "poster": "https://image.tmdb.org/t/p/w500/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-      "release": "2021-01-11"
     }
   ],
   "popular": [
@@ -136,8 +136,8 @@
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.1,
-      "votes": 3386,
+      "rating": 8.129,
+      "votes": 3389,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -156,8 +156,8 @@
     {
       "id": 63770,
       "title": "The Late Show with Stephen Colbert",
-      "rating": 6.088,
-      "votes": 365,
+      "rating": 6.093,
+      "votes": 366,
       "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
       "poster": "https://image.tmdb.org/t/p/w500/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
@@ -184,16 +184,6 @@
       "release": "2017-02-20"
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.226,
-      "votes": 1603,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-      "release": "2023-07-23"
-    },
-    {
       "id": 549,
       "title": "Law & Order",
       "rating": 7.287,
@@ -204,9 +194,19 @@
       "release": "1990-09-13"
     },
     {
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.228,
+      "votes": 1607,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+      "release": "2023-07-23"
+    },
+    {
       "id": 59941,
       "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.753,
+      "rating": 5.8,
       "votes": 389,
       "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
       "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
@@ -236,8 +236,8 @@
     {
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
-      "rating": 8.0,
-      "votes": 4357,
+      "rating": 7.959,
+      "votes": 4358,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.393,
-      "votes": 920,
+      "rating": 9.394,
+      "votes": 922,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 9.0,
-      "votes": 18676,
+      "rating": 8.952,
+      "votes": 18678,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.907,
-      "votes": 856,
+      "rating": 8.91,
+      "votes": 859,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -358,8 +358,8 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.803,
-      "votes": 989,
+      "rating": 8.805,
+      "votes": 994,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
@@ -438,16 +438,6 @@
       "release": "1997-08-11"
     },
     {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "rating": 8.371,
-      "votes": 2677,
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-      "release": "2020-08-14"
-    },
-    {
       "id": 11890,
       "title": "Goede Tijden, Slechte Tijden",
       "rating": 5.3,
@@ -468,24 +458,34 @@
       "release": "1960-12-09"
     },
     {
-      "id": 72879,
-      "title": "Tomorrow Is Ours",
-      "rating": 6.2,
-      "votes": 73,
-      "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-      "poster": "https://image.tmdb.org/t/p/w500/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
-      "release": "2017-07-17"
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "rating": 8.111,
+      "votes": 787,
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+      "release": "2016-04-04"
     },
     {
-      "id": 112470,
-      "title": "Ici tout commence",
-      "rating": 6.8,
-      "votes": 92,
-      "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
-      "poster": "https://image.tmdb.org/t/p/w500/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
-      "release": "2020-11-02"
+      "id": 95480,
+      "title": "Slow Horses",
+      "rating": 8.023,
+      "votes": 995,
+      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
+      "release": "2022-04-01"
+    },
+    {
+      "id": 1900,
+      "title": "LIVE with Kelly and Mark",
+      "rating": 5.598,
+      "votes": 51,
+      "overview": "A morning talk show with A-list celebrity guests, top-notch performances and one-of-a-kind segments that are unrivaled on daytime television, plus spontaneous, hilarious and unpredictable talk.",
+      "poster": "https://image.tmdb.org/t/p/w500/8eXDNLIhOGSoKCaIw9JJFNbnZ5x.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/eNjzPQsNNPd8zluKTpv7Axhk8p4.jpg",
+      "release": "1988-09-05"
     }
   ]
 }
