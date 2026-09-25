@@ -1,75 +1,85 @@
 {
-  "updated": "2026-09-25T03:32:43.750510+00:00",
+  "updated": "2026-09-25T16:35:29.312243+00:00",
   "trending": [
-    {
-      "id": 305357,
-      "title": "A Different World",
-      "rating": 9.5,
-      "votes": 2,
-      "overview": "Deborah Wayne enters her freshman year at her parents' HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.",
-      "poster": "https://image.tmdb.org/t/p/w500/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
-      "release": "2026-09-24"
-    },
-    {
-      "id": 310290,
-      "title": "My Sad Dead",
-      "rating": 3.0,
-      "votes": 2,
-      "overview": "Emma can see the dead. But when her niece arrives, thousands of lives are shaken.",
-      "poster": "https://image.tmdb.org/t/p/w500/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg",
-      "release": "2026-09-24"
-    },
     {
       "id": 1413,
       "title": "American Horror Story",
       "rating": 8.1,
-      "votes": 6180,
+      "votes": 6184,
       "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
       "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
       "release": "2011-10-05"
     },
     {
-      "id": 250203,
-      "title": "Brothers",
-      "rating": 9.5,
-      "votes": 8,
-      "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
-      "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-      "release": "2026-09-22"
+      "id": 290720,
+      "title": "The Final Problem",
+      "rating": 6.0,
+      "votes": 1,
+      "overview": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
+      "poster": "https://image.tmdb.org/t/p/w500/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+      "release": "2026-09-25"
+    },
+    {
+      "id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "rating": 8.6,
+      "votes": 1657,
+      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+      "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+      "release": "2012-10-06"
+    },
+    {
+      "id": 305357,
+      "title": "A Different World",
+      "rating": 5.2,
+      "votes": 4,
+      "overview": "Deborah Wayne enters her freshman year at her parents' HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.",
+      "poster": "https://image.tmdb.org/t/p/w500/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
+      "release": "2026-09-24"
     },
     {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.412,
-      "votes": 896,
+      "rating": 8.417,
+      "votes": 899,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
       "release": "2025-03-30"
     },
     {
+      "id": 310290,
+      "title": "My Sad Dead",
+      "rating": 5.3,
+      "votes": 3,
+      "overview": "Emma can see the dead. But when her niece arrives, thousands of lives are shaken.",
+      "poster": "https://image.tmdb.org/t/p/w500/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg",
+      "release": "2026-09-24"
+    },
+    {
       "id": 289078,
       "title": "A Prophet",
-      "rating": 0.0,
-      "votes": 0,
+      "rating": 8.5,
+      "votes": 2,
       "overview": "After his family is wiped out by the Tianxiang Sect, Shangguan Chengming goes undercover to take revenge. With the help of Jiang Feiyan, they use a series of scams to expose corruption and fight for justice.",
       "poster": "https://image.tmdb.org/t/p/w500/giSXBUuCfCXV9ALQAmcZd659J0r.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/e6KzyAR2xCmss9fnnPteDHkDIvd.jpg",
       "release": "2026-09-24"
     },
     {
-      "id": 103516,
-      "title": "Star Trek: Strange New Worlds",
-      "rating": 7.9,
-      "votes": 853,
-      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-      "release": "2022-05-05"
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "rating": 8.672,
+      "votes": 186,
+      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
+      "release": "2026-07-23"
     },
     {
       "id": 285147,
@@ -77,7 +87,7 @@
       "rating": 0.0,
       "votes": 0,
       "overview": "A mother receives yearly photos of her missing child. After nine years of searching, she discovers the truth about the abduction lies not far away, but hidden among her closest circle.",
-      "poster": "https://image.tmdb.org/t/p/w500/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pKYaqY8hYwRFw3FgLRbGzk6JcxJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg",
       "release": "2026-09-24"
     },
@@ -92,34 +102,24 @@
       "release": "2026-08-16"
     },
     {
-      "id": 299939,
-      "title": "Monster: The Lizzie Borden Story",
-      "rating": 6.8,
-      "votes": 94,
-      "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-      "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "release": "2026-09-17"
+      "id": 250203,
+      "title": "Brothers",
+      "rating": 9.5,
+      "votes": 8,
+      "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+      "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+      "release": "2026-09-22"
     },
     {
-      "id": 108978,
-      "title": "Reacher",
-      "rating": 8.1,
-      "votes": 3398,
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "release": "2022-02-03"
-    },
-    {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.245,
-      "votes": 1625,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-      "release": "2023-07-23"
+      "id": 331979,
+      "title": "Delusion",
+      "rating": 10.0,
+      "votes": 1,
+      "overview": "When her father's worsening dementia makes him a prime suspect in a murder case, a small-town school teacher races to uncover the truth amid dark rumors.",
+      "poster": "https://image.tmdb.org/t/p/w500/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cae4gjklRHnzQTmVCxpZnOdPw71.jpg",
+      "release": "2026-09-24"
     }
   ],
   "popular": [
@@ -134,14 +134,14 @@
       "release": "2026-09-18"
     },
     {
-      "id": 108978,
-      "title": "Reacher",
-      "rating": 8.1,
-      "votes": 3398,
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "release": "2022-02-03"
+      "id": 91759,
+      "title": "Come Home Love: Lo and Behold",
+      "rating": 5.435,
+      "votes": 46,
+      "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
+      "poster": "https://image.tmdb.org/t/p/w500/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dyFTt1a9ZpFdKE96kPlE9fQvXOJ.jpg",
+      "release": "2017-02-20"
     },
     {
       "id": 2261,
@@ -154,24 +154,24 @@
       "release": "1962-10-01"
     },
     {
+      "id": 108978,
+      "title": "Reacher",
+      "rating": 8.128,
+      "votes": 3399,
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "release": "2022-02-03"
+    },
+    {
       "id": 22980,
       "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 4.969,
+      "rating": 5.0,
       "votes": 96,
       "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
       "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
       "release": "2009-07-16"
-    },
-    {
-      "id": 91759,
-      "title": "Come Home Love: Lo and Behold",
-      "rating": 5.435,
-      "votes": 46,
-      "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
-      "poster": "https://image.tmdb.org/t/p/w500/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dyFTt1a9ZpFdKE96kPlE9fQvXOJ.jpg",
-      "release": "2017-02-20"
     },
     {
       "id": 63770,
@@ -186,42 +186,12 @@
     {
       "id": 549,
       "title": "Law & Order",
-      "rating": 7.282,
+      "rating": 7.3,
       "votes": 727,
       "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
       "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
       "release": "1990-09-13"
-    },
-    {
-      "id": 113962,
-      "title": "Lioness",
-      "rating": 8.245,
-      "votes": 1625,
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-      "release": "2023-07-23"
-    },
-    {
-      "id": 2734,
-      "title": "Law & Order: Special Victims Unit",
-      "rating": 8.0,
-      "votes": 4360,
-      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-      "release": "1999-09-20"
-    },
-    {
-      "id": 5920,
-      "title": "The Mentalist",
-      "rating": 8.408,
-      "votes": 4767,
-      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-      "release": "2008-09-23"
     },
     {
       "id": 59941,
@@ -234,6 +204,26 @@
       "release": "2014-02-17"
     },
     {
+      "id": 2734,
+      "title": "Law & Order: Special Victims Unit",
+      "rating": 8.0,
+      "votes": 4360,
+      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+      "release": "1999-09-20"
+    },
+    {
+      "id": 113962,
+      "title": "Lioness",
+      "rating": 8.241,
+      "votes": 1628,
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+      "release": "2023-07-23"
+    },
+    {
       "id": 94722,
       "title": "Tagesschau",
       "rating": 6.768,
@@ -242,14 +232,24 @@
       "poster": "https://image.tmdb.org/t/p/w500/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
       "release": "1952-12-26"
+    },
+    {
+      "id": 5920,
+      "title": "The Mentalist",
+      "rating": 8.408,
+      "votes": 4768,
+      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+      "release": "2008-09-23"
     }
   ],
   "top_rated": [
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.394,
-      "votes": 928,
+      "rating": 9.4,
+      "votes": 930,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.155,
-      "votes": 601,
+      "rating": 9.141,
+      "votes": 602,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 278573,
       "title": "Perfect Crown",
-      "rating": 9.097,
-      "votes": 212,
+      "rating": 9.059,
+      "votes": 213,
       "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.952,
-      "votes": 18685,
+      "votes": 18686,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,22 +288,12 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.907,
-      "votes": 861,
+      "rating": 8.898,
+      "votes": 862,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
       "release": "2026-05-13"
-    },
-    {
-      "id": 322430,
-      "title": "The Polygamist",
-      "rating": 8.881,
-      "votes": 206,
-      "overview": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
-      "poster": "https://image.tmdb.org/t/p/w500/vamznpYBCI9n7VhrI3mxuzff7XP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
-      "release": "2026-06-12"
     },
     {
       "id": 214999,
@@ -336,10 +326,20 @@
       "release": "2024-10-29"
     },
     {
+      "id": 322430,
+      "title": "The Polygamist",
+      "rating": 8.843,
+      "votes": 207,
+      "overview": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
+      "poster": "https://image.tmdb.org/t/p/w500/vamznpYBCI9n7VhrI3mxuzff7XP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
+      "release": "2026-06-12"
+    },
+    {
       "id": 284445,
       "title": "Takopi's Original Sin",
-      "rating": 8.815,
-      "votes": 205,
+      "rating": 8.811,
+      "votes": 204,
       "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
       "poster": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
@@ -368,26 +368,6 @@
   ],
   "airing_today": [
     {
-      "id": 22980,
-      "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 4.969,
-      "votes": 96,
-      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-      "release": "2009-07-16"
-    },
-    {
-      "id": 59941,
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.8,
-      "votes": 389,
-      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-      "release": "2014-02-17"
-    },
-    {
       "id": 61818,
       "title": "Late Night with Seth Meyers",
       "rating": 5.1,
@@ -398,14 +378,14 @@
       "release": "2014-02-25"
     },
     {
-      "id": 2224,
-      "title": "The Daily Show",
-      "rating": 6.405,
-      "votes": 663,
-      "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-      "poster": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-      "release": "1996-07-22"
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.4,
+      "votes": 898,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+      "release": "2025-03-30"
     },
     {
       "id": 206559,
@@ -428,16 +408,6 @@
       "release": "1984-09-10"
     },
     {
-      "id": 11890,
-      "title": "Goede Tijden, Slechte Tijden",
-      "rating": 5.3,
-      "votes": 21,
-      "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-      "poster": "https://image.tmdb.org/t/p/w500/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-      "release": "1990-10-01"
-    },
-    {
       "id": 2221,
       "title": "The View",
       "rating": 4.316,
@@ -458,6 +428,16 @@
       "release": "1960-12-09"
     },
     {
+      "id": 65282,
+      "title": "Home Alone",
+      "rating": 7.5,
+      "votes": 18,
+      "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+      "release": "2013-03-22"
+    },
+    {
       "id": 72879,
       "title": "Tomorrow Is Ours",
       "rating": 6.2,
@@ -468,14 +448,14 @@
       "release": "2017-07-17"
     },
     {
-      "id": 1413,
-      "title": "American Horror Story",
-      "rating": 8.1,
-      "votes": 6180,
-      "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-      "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6TSJRc77dDOesKzcNqkz0KeXdLz.jpg",
-      "release": "2011-10-05"
+      "id": 1220,
+      "title": "The Graham Norton Show",
+      "rating": 7.2,
+      "votes": 290,
+      "overview": "Each week celebrity guests join Irish comedian Graham Norton to discuss what's being going on around the world that week. The guests poke fun and share their opinions on the main news stories. Graham is often joined by a band or artist to play the show out.",
+      "poster": "https://image.tmdb.org/t/p/w500/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5UNcEz7Lc3OGilpPn1Tb9cd1xsc.jpg",
+      "release": "2007-02-22"
     },
     {
       "id": 65701,
@@ -486,6 +466,26 @@
       "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
       "release": "2012-01-09"
+    },
+    {
+      "id": 112470,
+      "title": "Ici tout commence",
+      "rating": 6.8,
+      "votes": 92,
+      "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+      "poster": "https://image.tmdb.org/t/p/w500/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+      "release": "2020-11-02"
+    },
+    {
+      "id": 1900,
+      "title": "LIVE with Kelly and Mark",
+      "rating": 5.598,
+      "votes": 51,
+      "overview": "A morning talk show with A-list celebrity guests, top-notch performances and one-of-a-kind segments that are unrivaled on daytime television, plus spontaneous, hilarious and unpredictable talk.",
+      "poster": "https://image.tmdb.org/t/p/w500/8eXDNLIhOGSoKCaIw9JJFNbnZ5x.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/eNjzPQsNNPd8zluKTpv7Axhk8p4.jpg",
+      "release": "1988-09-05"
     }
   ]
 }
