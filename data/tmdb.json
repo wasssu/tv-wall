@@ -1,71 +1,71 @@
 {
-  "updated": "2026-09-26T15:49:34.126689+00:00",
+  "updated": "2026-09-27T03:47:02.948425+00:00",
   "trending": [
-    {
-      "id": 1413,
-      "title": "American Horror Story",
-      "rating": 8.073,
-      "votes": 6190,
-      "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-      "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-      "release": "2011-10-05"
-    },
     {
       "id": 290720,
       "title": "The Final Problem",
-      "rating": 6.1,
-      "votes": 4,
+      "rating": 6.438,
+      "votes": 8,
       "overview": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
       "poster": "https://image.tmdb.org/t/p/w500/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
       "release": "2026-09-25"
     },
     {
+      "id": 1413,
+      "title": "American Horror Story",
+      "rating": 8.1,
+      "votes": 6194,
+      "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+      "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+      "release": "2011-10-05"
+    },
+    {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.424,
-      "votes": 906,
+      "rating": 8.4,
+      "votes": 908,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
       "release": "2025-03-30"
     },
     {
-      "id": 45790,
-      "title": "JoJo's Bizarre Adventure",
-      "rating": 8.55,
-      "votes": 1659,
-      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-      "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
-      "release": "2012-10-06"
+      "id": 316197,
+      "title": "Dive into You",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
+      "poster": "https://image.tmdb.org/t/p/w500/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
+      "release": "2026-09-26"
     },
     {
       "id": 287620,
       "title": "Stuart Fails to Save the Universe",
-      "rating": 8.6,
-      "votes": 197,
+      "rating": 8.582,
+      "votes": 202,
       "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
       "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
       "release": "2026-07-23"
     },
     {
-      "id": 288385,
-      "title": "Paolo",
-      "rating": 10.0,
-      "votes": 1,
-      "overview": "Follow working-class Paolo's unsettling intrusion into the life of Téophane Tolbiac, a young and up-and-coming politician.",
-      "poster": "https://image.tmdb.org/t/p/w500/4EGhg689jbAO865qWs8AznalyWl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
-      "release": "2026-09-25"
+      "id": 280042,
+      "title": "A Wild Last Boss Appeared!",
+      "rating": 7.3,
+      "votes": 24,
+      "overview": "An MMO gamer awakens as the Black-Winged Tyrant, Lufas Maphaahl, rising from her sealed fate—only to find this is very real. Her defeat 200 years ago unleashed monsters of death, and the legend is one of terror. Now, trapped in the body of history's most feared conqueror, he must survive a world that wants her dead…and uncover why he's here.",
+      "poster": "https://image.tmdb.org/t/p/w500/sDb5USp0nknvs3mHmyurgH8y3z6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gNYmU3RUlCb6dVqkiPCT7vglMfg.jpg",
+      "release": "2025-10-04"
     },
     {
       "id": 95350,
       "title": "Lanterns",
-      "rating": 8.2,
-      "votes": 426,
+      "rating": 8.248,
+      "votes": 429,
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
@@ -74,52 +74,52 @@
     {
       "id": 299939,
       "title": "Monster: The Lizzie Borden Story",
-      "rating": 7.0,
-      "votes": 106,
+      "rating": 7.027,
+      "votes": 112,
       "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
       "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
       "release": "2026-09-17"
     },
     {
-      "id": 196322,
-      "title": "Dark Matter",
-      "rating": 7.792,
-      "votes": 799,
-      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-      "release": "2024-05-07"
+      "id": 108978,
+      "title": "Reacher",
+      "rating": 8.129,
+      "votes": 3409,
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "release": "2022-02-03"
     },
     {
-      "id": 292742,
-      "title": "S.W.A.T. Exiles",
-      "rating": 7.833,
-      "votes": 6,
-      "overview": "After a high-profile mission goes sideways, Daniel 'Hondo' Harrelson is pulled out of forced retirement to lead a last-chance experimental SWAT unit made up of untested, unpredictable young recruits. Hondo must bridge a generational divide, navigate clashing personalities, and turn a squad of outsiders into a team capable of protecting the city and saving the program that made him who he is.",
-      "poster": "https://image.tmdb.org/t/p/w500/pPiEujhVa2MBSowmvnNWqEzxH0x.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mNIc5QqjBuXHeeyj6P4WSqTCBu9.jpg",
-      "release": "2026-09-25"
+      "id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "rating": 8.6,
+      "votes": 1661,
+      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+      "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+      "release": "2012-10-06"
     },
     {
       "id": 103516,
       "title": "Star Trek: Strange New Worlds",
-      "rating": 7.87,
-      "votes": 856,
+      "rating": 7.871,
+      "votes": 857,
       "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
       "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
       "release": "2022-05-05"
     },
     {
-      "id": 331979,
-      "title": "Delusion",
-      "rating": 10.0,
-      "votes": 1,
-      "overview": "When her father's worsening dementia makes him a prime suspect in a murder case, a small-town school teacher races to uncover the truth amid dark rumors.",
-      "poster": "https://image.tmdb.org/t/p/w500/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cae4gjklRHnzQTmVCxpZnOdPw71.jpg",
-      "release": "2026-09-24"
+      "id": 125988,
+      "title": "Silo",
+      "rating": 8.2,
+      "votes": 2730,
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
+      "release": "2023-05-04"
     }
   ],
   "popular": [
@@ -156,8 +156,8 @@
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.127,
-      "votes": 3403,
+      "rating": 8.128,
+      "votes": 3408,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -186,8 +186,8 @@
     {
       "id": 549,
       "title": "Law & Order",
-      "rating": 7.3,
-      "votes": 727,
+      "rating": 7.282,
+      "votes": 728,
       "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
       "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
@@ -216,8 +216,8 @@
     {
       "id": 113962,
       "title": "Lioness",
-      "rating": 8.245,
-      "votes": 1631,
+      "rating": 8.247,
+      "votes": 1634,
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
@@ -226,8 +226,8 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.408,
-      "votes": 4776,
+      "rating": 8.409,
+      "votes": 4779,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.141,
-      "votes": 602,
+      "rating": 9.129,
+      "votes": 603,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -268,7 +268,7 @@
     {
       "id": 278573,
       "title": "Perfect Crown",
-      "rating": 9.059,
+      "rating": 9.1,
       "votes": 213,
       "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.952,
-      "votes": 18697,
+      "votes": 18700,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.897,
-      "votes": 863,
+      "rating": 8.889,
+      "votes": 865,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -308,8 +308,8 @@
     {
       "id": 259837,
       "title": "The WONDERfools",
-      "rating": 8.868,
-      "votes": 268,
+      "rating": 8.838,
+      "votes": 269,
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
@@ -336,16 +336,6 @@
       "release": "2026-06-12"
     },
     {
-      "id": 284445,
-      "title": "Takopi's Original Sin",
-      "rating": 8.811,
-      "votes": 204,
-      "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
-      "poster": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
-      "release": "2025-06-28"
-    },
-    {
       "id": 219246,
       "title": "When Life Gives You Tangerines",
       "rating": 8.812,
@@ -354,6 +344,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
       "release": "2025-03-07"
+    },
+    {
+      "id": 284445,
+      "title": "Takopi's Original Sin",
+      "rating": 8.811,
+      "votes": 204,
+      "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
+      "poster": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
+      "release": "2025-06-28"
     },
     {
       "id": 209867,
@@ -368,16 +368,6 @@
   ],
   "airing_today": [
     {
-      "id": 1667,
-      "title": "Saturday Night Live",
-      "rating": 6.91,
-      "votes": 529,
-      "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
-      "poster": "https://image.tmdb.org/t/p/w500/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg",
-      "release": "1975-10-11"
-    },
-    {
       "id": 70672,
       "title": "Men on a Mission",
       "rating": 7.4,
@@ -386,6 +376,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
       "release": "2015-12-05"
+    },
+    {
+      "id": 1667,
+      "title": "Saturday Night Live",
+      "rating": 6.91,
+      "votes": 529,
+      "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
+      "poster": "https://image.tmdb.org/t/p/w500/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg",
+      "release": "1975-10-11"
     },
     {
       "id": 30983,
@@ -418,14 +418,14 @@
       "release": "2026-09-11"
     },
     {
-      "id": 203769,
-      "title": "Pushpa Impossible",
-      "rating": 7.0,
-      "votes": 1,
-      "overview": "Pushpa Impossible is the story about a feisty middle-aged woman having studied until grade 9 in a Gujarati medium school and going back to school at the age of 44! She is boisterous, uncouth, impulsive, hardworking and an endearingly loveable mother of three children. She is Pushpa Patel hailing from a small town Patan in Gujarat and now residing at Bapodra Chawl in Mumbai. The show is a peek into her day-to-day struggles, her small victories, her Juggad, her shortcomings, and her constant pursuit of living a good life while struggling as a full-time mother and part-time businesswoman. The show is an autobiography of a mother, who decides to go back to school and change her life by impacting many lives!",
-      "poster": "https://image.tmdb.org/t/p/w500/jInpgPiN2KnTFAu2mtIbFJtFp7A.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4vw2auyqSnxlXRb0NP1Z3nZ59TP.jpg",
-      "release": "2022-06-06"
+      "id": 121651,
+      "title": "World Wonder Ring Stardom",
+      "rating": 8.7,
+      "votes": 3,
+      "overview": "Stardom World is the VOD network for World Wonder Ring Stardom. WWR Stardom is a Japanese women's promotion started in 2011 featuring matches of many varieties including high speed octane action, long brutal brawls, and even costume battle royals. In 2019, the promotion was acquired by Bushiroad and has since become one of the top wrestling promotions in Japan.",
+      "poster": "https://image.tmdb.org/t/p/w500/liGgY9uimx9jmv89x49jHtb8Ndl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aFKa34eHIPoKxRxkEQLd6tKy9Ph.jpg",
+      "release": "2011-01-23"
     },
     {
       "id": 80736,
@@ -438,24 +438,44 @@
       "release": "2018-03-10"
     },
     {
+      "id": 106449,
+      "title": "A Record of a Mortal's Journey to Immortality",
+      "rating": 8.443,
+      "votes": 88,
+      "overview": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.",
+      "poster": "https://image.tmdb.org/t/p/w500/rXX12X3Lx7jmlvfUc3glIwJVLCH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
+      "release": "2020-07-25"
+    },
+    {
+      "id": 203769,
+      "title": "Pushpa Impossible",
+      "rating": 7.0,
+      "votes": 1,
+      "overview": "Pushpa Impossible is the story about a feisty middle-aged woman having studied until grade 9 in a Gujarati medium school and going back to school at the age of 44! She is boisterous, uncouth, impulsive, hardworking and an endearingly loveable mother of three children. She is Pushpa Patel hailing from a small town Patan in Gujarat and now residing at Bapodra Chawl in Mumbai. The show is a peek into her day-to-day struggles, her small victories, her Juggad, her shortcomings, and her constant pursuit of living a good life while struggling as a full-time mother and part-time businesswoman. The show is an autobiography of a mother, who decides to go back to school and change her life by impacting many lives!",
+      "poster": "https://image.tmdb.org/t/p/w500/jInpgPiN2KnTFAu2mtIbFJtFp7A.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4vw2auyqSnxlXRb0NP1Z3nZ59TP.jpg",
+      "release": "2022-06-06"
+    },
+    {
       "id": 207468,
       "title": "Kaiju No. 8",
-      "rating": 8.438,
-      "votes": 814,
+      "rating": 8.439,
+      "votes": 815,
       "overview": "In a world plagued by creatures known as Kaiju, Kafka Hibino aspired to enlist in The Defense Force. He makes a promise to enlist with his childhood friend, Mina Ashiro. Soon, life takes them in separate ways. While employed cleaning up after Kaiju battles, Kafka meets Reno Ichikawa. Reno's determination to join The Defense Force reawakens Kafka's promise to join Mina and protect humanity.",
       "poster": "https://image.tmdb.org/t/p/w500/83yDUQVpdhv8ePy3nbTRzFaKYuQ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
       "release": "2024-04-13"
     },
     {
-      "id": 106449,
-      "title": "A Record of a Mortal's Journey to Immortality",
-      "rating": 8.4,
-      "votes": 87,
-      "overview": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.",
-      "poster": "https://image.tmdb.org/t/p/w500/rXX12X3Lx7jmlvfUc3glIwJVLCH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
-      "release": "2020-07-25"
+      "id": 79481,
+      "title": "Fights Break Sphere",
+      "rating": 8.048,
+      "votes": 62,
+      "overview": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years ago, Xiao Yan, who had shown talents none had seen in decades, suddenly lost everything. His powers, his reputation, and his promise to his mother. What sorcery has caused him to lose all of his powers? And why has his fiancee suddenly shown up?",
+      "poster": "https://image.tmdb.org/t/p/w500/oyoahIcdamTXwjIaL3CqZ1v5CLl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cTCn2EO69SERNfhaezJMoqBom4G.jpg",
+      "release": "2017-01-07"
     },
     {
       "id": 300388,
@@ -466,26 +486,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/ksEsR8aSPahJ0kvLS0nUBqwpEFa.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/e2hpVdY2WVJDz3y0nEHszhtR24q.jpg",
       "release": "2025-10-11"
-    },
-    {
-      "id": 91768,
-      "title": "Ascendance of a Bookworm",
-      "rating": 8.1,
-      "votes": 144,
-      "overview": "When a sickly young girl suddenly becomes obsessed with inventing new things, her family and friends are all puzzled. \"What has gotten into Myne?\" they wondered, never dreaming that the answer is not a \"What\" but a \"Who\": Urano Motosu, a book-loving apprentice librarian who died in an earthquake in Tokyo who somehow found herself in Myne's body! And since Myne's world is still in a medieval stage, where books can only be owned by the elite, the new Myne intends to do everything she can to bring her beloved books to the masses in the time she has left.",
-      "poster": "https://image.tmdb.org/t/p/w500/aVGueAM88cc4sX6PeMvuAPObDc4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
-      "release": "2019-10-03"
-    },
-    {
-      "id": 91801,
-      "title": "Welcome to Demon School! Iruma-kun",
-      "rating": 8.281,
-      "votes": 306,
-      "overview": "Fourteen-year-old Iruma Suzuki has just been abandoned and sold to a demon by his irresponsible parents! Surprisingly, the next thing he knows he's living with the demon who has adopted him as his new grandson and has been transferred into a school in the Netherworld where his new demon grandfather works as the principal. Thus begins the cowardly Iruma-kun's extraordinary school life among the otherworldly as he faces his true self, takes on challenges, and rises to become someone great.",
-      "poster": "https://image.tmdb.org/t/p/w500/gKz8wiKsbgefAkxjpBCmJPnnXJE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/d8bAI2EDM7L2q94wDZfjb82KRoh.jpg",
-      "release": "2019-10-05"
     }
   ]
 }
