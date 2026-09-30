@@ -1,25 +1,55 @@
 {
-  "updated": "2026-09-29T17:40:26.090110+00:00",
+  "updated": "2026-09-30T04:04:44.830549+00:00",
   "trending": [
     {
       "id": 318918,
       "title": "LEGO ONE PIECE",
-      "rating": 9.5,
-      "votes": 4,
-      "overview": "Usopp spins a tall tale about the Straw Hats' journey across the East Blue into the Grand Line before Chopper joined the crew.",
-      "poster": "https://image.tmdb.org/t/p/w500/2bpv75taDqB6j5nkIpKe1E1b75s.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/1ftqNLph1CxcXxSXJsijjlw7ZkX.jpg",
+      "rating": 8.714,
+      "votes": 7,
+      "overview": "The Straw Hats hit the high seas in a two-part LEGO special! Join Luffy, Nami, Usopp and the crew on their epic journey, fully reimagined brick by brick.",
+      "poster": "https://image.tmdb.org/t/p/w500/lbo93zbKQjR1rGHI16h6rtUb0wi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
       "release": "2026-09-29"
     },
     {
       "id": 95350,
       "title": "Lanterns",
-      "rating": 8.342,
-      "votes": 468,
+      "rating": 8.3,
+      "votes": 471,
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
       "release": "2026-08-16"
+    },
+    {
+      "id": 615,
+      "title": "Futurama",
+      "rating": 8.365,
+      "votes": 3924,
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "poster": "https://image.tmdb.org/t/p/w500/7RRHbCUtAsVmKI6FEMzZB6Re88P.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "release": "1999-03-28"
+    },
+    {
+      "id": 456,
+      "title": "The Simpsons",
+      "rating": 8.023,
+      "votes": 11040,
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "release": "1989-12-17"
+    },
+    {
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.8,
+      "votes": 5567,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "release": "1999-10-20"
     },
     {
       "id": 297982,
@@ -32,34 +62,24 @@
       "release": "2026-09-28"
     },
     {
-      "id": 456,
-      "title": "The Simpsons",
-      "rating": 8.023,
-      "votes": 11039,
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-      "release": "1989-12-17"
-    },
-    {
-      "id": 615,
-      "title": "Futurama",
-      "rating": 8.4,
-      "votes": 3921,
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "poster": "https://image.tmdb.org/t/p/w500/7RRHbCUtAsVmKI6FEMzZB6Re88P.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-      "release": "1999-03-28"
-    },
-    {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.132,
-      "votes": 3426,
+      "rating": 8.133,
+      "votes": 3428,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "release": "2022-02-03"
+    },
+    {
+      "id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "rating": 8.4,
+      "votes": 1750,
+      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "release": "2021-01-11"
     },
     {
       "id": 282326,
@@ -72,30 +92,10 @@
       "release": "2026-09-11"
     },
     {
-      "id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "rating": 8.427,
-      "votes": 1749,
-      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-      "poster": "https://image.tmdb.org/t/p/w500/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-      "release": "2021-01-11"
-    },
-    {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.75,
-      "votes": 5567,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "release": "1999-10-20"
-    },
-    {
       "id": 299939,
       "title": "Monster: The Lizzie Borden Story",
-      "rating": 7.042,
-      "votes": 130,
+      "rating": 7.057,
+      "votes": 132,
       "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
       "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
@@ -104,22 +104,22 @@
     {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.4,
-      "votes": 931,
+      "rating": 8.5,
+      "votes": 934,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "release": "2025-03-30"
     },
     {
-      "id": 290720,
-      "title": "The Final Problem",
-      "rating": 7.559,
-      "votes": 17,
-      "overview": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
-      "poster": "https://image.tmdb.org/t/p/w500/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
-      "release": "2026-09-25"
+      "id": 292741,
+      "title": "Nocturne",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+      "poster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/DCSa6Fd3NN075JOqcJqO3VU6fM.jpg",
+      "release": "2026-10-29"
     }
   ],
   "popular": [
@@ -146,8 +146,8 @@
     {
       "id": 22980,
       "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 5.0,
-      "votes": 97,
+      "rating": 4.969,
+      "votes": 98,
       "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
       "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
@@ -156,8 +156,8 @@
     {
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
-      "rating": 8.0,
-      "votes": 4360,
+      "rating": 7.957,
+      "votes": 4361,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
@@ -176,8 +176,8 @@
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.132,
-      "votes": 3426,
+      "rating": 8.1,
+      "votes": 3427,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -216,7 +216,7 @@
     {
       "id": 549,
       "title": "Law & Order",
-      "rating": 7.3,
+      "rating": 7.285,
       "votes": 729,
       "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
       "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.382,
-      "votes": 938,
+      "rating": 9.381,
+      "votes": 939,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.132,
-      "votes": 606,
+      "rating": 9.133,
+      "votes": 607,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.953,
-      "votes": 18717,
+      "votes": 18725,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,7 +288,7 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.893,
+      "rating": 8.895,
       "votes": 870,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
@@ -306,20 +306,10 @@
       "release": "2023-04-26"
     },
     {
-      "id": 245026,
-      "title": "Wizards Beyond Waverly Place",
-      "rating": 8.819,
-      "votes": 204,
-      "overview": "Justin Russo has chosen to lead a normal, mortal life with his family, Giada, Roman and Milo. But when Justin's sister Alex brings Billie to his home seeking help, Justin realizes he must dust off his magical skills to mentor the wizard-in-training while also juggling his everyday responsibilities — and safeguarding the future of the Wizard World.",
-      "poster": "https://image.tmdb.org/t/p/w500/5hrBpjFzIqmN9k7QxEC610gwZGw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/TxicZcsiP9VHYXMYHm4IEHnwv9.jpg",
-      "release": "2024-10-29"
-    },
-    {
       "id": 322430,
       "title": "The Polygamist",
-      "rating": 8.854,
-      "votes": 209,
+      "rating": 8.86,
+      "votes": 211,
       "overview": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
       "poster": "https://image.tmdb.org/t/p/w500/vamznpYBCI9n7VhrI3mxuzff7XP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
@@ -328,38 +318,48 @@
     {
       "id": 259837,
       "title": "The WONDERfools",
-      "rating": 8.839,
-      "votes": 270,
+      "rating": 8.822,
+      "votes": 272,
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
       "release": "2026-05-15"
     },
     {
-      "id": 219246,
-      "title": "When Life Gives You Tangerines",
-      "rating": 8.799,
-      "votes": 593,
-      "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
-      "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-      "release": "2025-03-07"
+      "id": 245026,
+      "title": "Wizards Beyond Waverly Place",
+      "rating": 8.825,
+      "votes": 206,
+      "overview": "Justin Russo has chosen to lead a normal, mortal life with his family, Giada, Roman and Milo. But when Justin's sister Alex brings Billie to his home seeking help, Justin realizes he must dust off his magical skills to mentor the wizard-in-training while also juggling his everyday responsibilities — and safeguarding the future of the Wizard World.",
+      "poster": "https://image.tmdb.org/t/p/w500/5hrBpjFzIqmN9k7QxEC610gwZGw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/TxicZcsiP9VHYXMYHm4IEHnwv9.jpg",
+      "release": "2024-10-29"
     },
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.8,
-      "votes": 1001,
+      "rating": 8.813,
+      "votes": 1002,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
       "release": "2019-04-21"
     },
     {
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "rating": 8.813,
+      "votes": 980,
+      "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+      "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
+      "release": "2023-09-29"
+    },
+    {
       "id": 284445,
       "title": "Takopi's Original Sin",
-      "rating": 8.808,
-      "votes": 206,
+      "rating": 8.785,
+      "votes": 207,
       "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
       "poster": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
@@ -370,8 +370,8 @@
     {
       "id": 22980,
       "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 5.0,
-      "votes": 97,
+      "rating": 4.969,
+      "votes": 98,
       "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
       "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
@@ -380,8 +380,8 @@
     {
       "id": 59941,
       "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.8,
-      "votes": 390,
+      "rating": 5.777,
+      "votes": 391,
       "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
       "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
@@ -390,8 +390,8 @@
     {
       "id": 61818,
       "title": "Late Night with Seth Meyers",
-      "rating": 5.1,
-      "votes": 134,
+      "rating": 5.119,
+      "votes": 135,
       "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
       "poster": "https://image.tmdb.org/t/p/w500/qKFP9Se7LJtBaxrMS41iu63dtK3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
@@ -400,8 +400,8 @@
     {
       "id": 2224,
       "title": "The Daily Show",
-      "rating": 6.4,
-      "votes": 663,
+      "rating": 6.406,
+      "votes": 664,
       "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
       "poster": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
@@ -428,16 +428,6 @@
       "release": "2017-07-17"
     },
     {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "rating": 8.364,
-      "votes": 2698,
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-      "release": "2020-08-14"
-    },
-    {
       "id": 206559,
       "title": "Binnelanders",
       "rating": 5.5,
@@ -446,6 +436,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
       "release": "2005-10-13"
+    },
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "rating": 8.365,
+      "votes": 2700,
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "release": "2020-08-14"
     },
     {
       "id": 2221,
@@ -468,14 +468,14 @@
       "release": "1984-09-10"
     },
     {
-      "id": 65701,
-      "title": "Good Mythical Morning",
-      "rating": 6.9,
-      "votes": 94,
-      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
-      "release": "2012-01-09"
+      "id": 112470,
+      "title": "Ici tout commence",
+      "rating": 6.8,
+      "votes": 92,
+      "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+      "poster": "https://image.tmdb.org/t/p/w500/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+      "release": "2020-11-02"
     },
     {
       "id": 1489,
