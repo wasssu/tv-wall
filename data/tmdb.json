@@ -1,15 +1,55 @@
 {
-  "updated": "2026-10-01T04:16:47.550778+00:00",
+  "updated": "2026-10-01T18:03:31.083251+00:00",
   "trending": [
     {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "rating": 8.365,
-      "votes": 2702,
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-      "release": "2020-08-14"
+      "id": 258165,
+      "title": "East of Eden",
+      "rating": 8.3,
+      "votes": 8,
+      "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8WGq5Q0tmTe30YZetLnU2dkOJZf.jpg",
+      "release": "2026-10-01"
+    },
+    {
+      "id": 295778,
+      "title": "Scrubs",
+      "rating": 7.714,
+      "votes": 112,
+      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
+      "poster": "https://image.tmdb.org/t/p/w500/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
+      "release": "2026-02-25"
+    },
+    {
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "rating": 8.122,
+      "votes": 794,
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+      "release": "2016-04-04"
+    },
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.363,
+      "votes": 482,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "release": "2026-08-16"
+    },
+    {
+      "id": 311842,
+      "title": "FX Fighter Kurumi-chan",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Buy! Sell! Profit...or lose it all! University student Kurumi Fukuga jumps into the fast-moving world of foreign exchange trading to recover the 20 million yen her late mother lost. Together with fellow FX enthusiasts Mochiko, Mebuki, and Yasuko, she’ll battle volatile markets where every decision can lead to fortune—or disaster!",
+      "poster": "https://image.tmdb.org/t/p/w500/bNLqJ7RjWcsV1XgfqM2W51eAEmV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qFELvRyy0C0vxYcKBQEX7BDe4vO.jpg",
+      "release": "2026-10-01"
     },
     {
       "id": 284792,
@@ -22,49 +62,39 @@
       "release": "2025-03-05"
     },
     {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.358,
-      "votes": 477,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "release": "2026-08-16"
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.458,
+      "votes": 941,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "release": "2025-03-30"
     },
     {
-      "id": 318918,
-      "title": "LEGO ONE PIECE",
-      "rating": 8.6,
-      "votes": 8,
-      "overview": "The Straw Hats hit the high seas in a two-part LEGO special! Join Luffy, Nami, Usopp and the crew on their epic journey, fully reimagined brick by brick.",
-      "poster": "https://image.tmdb.org/t/p/w500/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
-      "release": "2026-09-29"
+      "id": 283428,
+      "title": "The Ramparts of Ice",
+      "rating": 8.631,
+      "votes": 61,
+      "overview": "Weighed down by memories she can't shake, high schooler Koyuki Hikawa keeps everyone at arm's length — until three schoolmates draw her out of her shell.",
+      "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+      "release": "2026-04-02"
     },
     {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "rating": 8.1,
-      "votes": 793,
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-      "release": "2016-04-04"
-    },
-    {
-      "id": 95480,
-      "title": "Slow Horses",
-      "rating": 8.032,
-      "votes": 1008,
-      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-      "release": "2022-04-01"
+      "id": 97546,
+      "title": "Ted Lasso",
+      "rating": 8.4,
+      "votes": 2703,
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "release": "2020-08-14"
     },
     {
       "id": 250203,
       "title": "Brothers",
-      "rating": 8.364,
+      "rating": 8.4,
       "votes": 11,
       "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
       "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
@@ -72,54 +102,24 @@
       "release": "2026-09-22"
     },
     {
-      "id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "rating": 8.429,
-      "votes": 1753,
-      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-      "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-      "release": "2021-01-11"
-    },
-    {
-      "id": 297982,
-      "title": "Irreplaceable",
+      "id": 95480,
+      "title": "Slow Horses",
       "rating": 8.0,
-      "votes": 1,
-      "overview": "After witnessing her mother's suicide following a divorce, Xu Chi defies her tragic fate by rising from an ordinary graduate to a sharp-witted top consultant. Drawn into the covert revenge scheme of seasoned partner Ye Xinzhi, who mentors her while navigating their growing mutual attraction, the duo confronts a crossroads when professional upheavals collide with their evolving bond.",
-      "poster": "https://image.tmdb.org/t/p/w500/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg",
-      "release": "2026-09-28"
+      "votes": 1010,
+      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "release": "2022-04-01"
     },
     {
       "id": 2190,
       "title": "South Park",
-      "rating": 8.335,
+      "rating": 8.3,
       "votes": 5173,
       "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
       "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
       "release": "1997-08-13"
-    },
-    {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.455,
-      "votes": 937,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
-    },
-    {
-      "id": 615,
-      "title": "Futurama",
-      "rating": 8.365,
-      "votes": 3925,
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "poster": "https://image.tmdb.org/t/p/w500/7RRHbCUtAsVmKI6FEMzZB6Re88P.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-      "release": "1999-03-28"
     }
   ],
   "popular": [
@@ -166,8 +166,8 @@
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.134,
-      "votes": 3435,
+      "rating": 8.135,
+      "votes": 3437,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -216,8 +216,8 @@
     {
       "id": 456,
       "title": "The Simpsons",
-      "rating": 8.0,
-      "votes": 11041,
+      "rating": 8.023,
+      "votes": 11043,
       "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
       "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.383,
-      "votes": 943,
+      "rating": 9.374,
+      "votes": 947,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 278573,
       "title": "Perfect Crown",
-      "rating": 9.048,
-      "votes": 217,
+      "rating": 9.053,
+      "votes": 218,
       "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.953,
-      "votes": 18732,
+      "votes": 18734,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -318,7 +318,7 @@
     {
       "id": 245026,
       "title": "Wizards Beyond Waverly Place",
-      "rating": 8.825,
+      "rating": 8.828,
       "votes": 206,
       "overview": "Justin Russo has chosen to lead a normal, mortal life with his family, Giada, Roman and Milo. But when Justin's sister Alex brings Billie to his home seeking help, Justin realizes he must dust off his magical skills to mentor the wizard-in-training while also juggling his everyday responsibilities — and safeguarding the future of the Wizard World.",
       "poster": "https://image.tmdb.org/t/p/w500/5hrBpjFzIqmN9k7QxEC610gwZGw.jpg",
@@ -338,7 +338,7 @@
     {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.813,
+      "rating": 8.814,
       "votes": 981,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
@@ -378,26 +378,6 @@
       "release": "2009-07-16"
     },
     {
-      "id": 59941,
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.777,
-      "votes": 391,
-      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-      "release": "2014-02-17"
-    },
-    {
-      "id": 61818,
-      "title": "Late Night with Seth Meyers",
-      "rating": 5.1,
-      "votes": 135,
-      "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-      "poster": "https://image.tmdb.org/t/p/w500/qKFP9Se7LJtBaxrMS41iu63dtK3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-      "release": "2014-02-25"
-    },
-    {
       "id": 2224,
       "title": "The Daily Show",
       "rating": 6.406,
@@ -418,14 +398,14 @@
       "release": "1990-10-01"
     },
     {
-      "id": 72879,
-      "title": "Tomorrow Is Ours",
-      "rating": 6.2,
-      "votes": 73,
-      "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-      "poster": "https://image.tmdb.org/t/p/w500/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
-      "release": "2017-07-17"
+      "id": 1413,
+      "title": "American Horror Story",
+      "rating": 8.075,
+      "votes": 6201,
+      "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+      "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+      "release": "2011-10-05"
     },
     {
       "id": 206559,
@@ -438,14 +418,14 @@
       "release": "2005-10-13"
     },
     {
-      "id": 65270,
-      "title": "Radio Star",
-      "rating": 5.5,
-      "votes": 6,
-      "overview": "“Radio Star” is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives, their pasts and their work. It is part of Munhwa Broadcasting Corporation's \"Golden Fishery\" programming block.",
-      "poster": "https://image.tmdb.org/t/p/w500/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
-      "release": "2007-05-30"
+      "id": 72879,
+      "title": "Tomorrow Is Ours",
+      "rating": 6.2,
+      "votes": 73,
+      "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+      "poster": "https://image.tmdb.org/t/p/w500/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
+      "release": "2017-07-17"
     },
     {
       "id": 2221,
@@ -458,16 +438,6 @@
       "release": "1997-08-11"
     },
     {
-      "id": 95480,
-      "title": "Slow Horses",
-      "rating": 8.032,
-      "votes": 1008,
-      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-      "release": "2022-04-01"
-    },
-    {
       "id": 291,
       "title": "Coronation Street",
       "rating": 5.4,
@@ -478,14 +448,44 @@
       "release": "1960-12-09"
     },
     {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "rating": 8.1,
-      "votes": 793,
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-      "release": "2016-04-04"
+      "id": 2912,
+      "title": "Jeopardy!",
+      "rating": 6.9,
+      "votes": 166,
+      "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+      "poster": "https://image.tmdb.org/t/p/w500/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+      "release": "1984-09-10"
+    },
+    {
+      "id": 65701,
+      "title": "Good Mythical Morning",
+      "rating": 6.937,
+      "votes": 95,
+      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+      "release": "2012-01-09"
+    },
+    {
+      "id": 1489,
+      "title": "Jimmy Kimmel Live!",
+      "rating": 5.3,
+      "votes": 218,
+      "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+      "poster": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
+      "release": "2003-01-26"
+    },
+    {
+      "id": 1871,
+      "title": "EastEnders",
+      "rating": 4.3,
+      "votes": 230,
+      "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+      "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
+      "release": "1985-02-19"
     }
   ]
 }
