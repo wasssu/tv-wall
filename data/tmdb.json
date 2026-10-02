@@ -1,15 +1,105 @@
 {
-  "updated": "2026-10-02T04:09:53.041880+00:00",
+  "updated": "2026-10-02T17:30:02.124045+00:00",
   "trending": [
     {
       "id": 258165,
       "title": "East of Eden",
-      "rating": 8.3,
-      "votes": 9,
+      "rating": 7.9,
+      "votes": 12,
       "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
-      "poster": "https://image.tmdb.org/t/p/w500/VMyZWR0GBHGY9WIwcaj232ALAl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8WGq5Q0tmTe30YZetLnU2dkOJZf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
       "release": "2026-10-01"
+    },
+    {
+      "id": 298505,
+      "title": "Coven Academy",
+      "rating": 10.0,
+      "votes": 4,
+      "overview": "In the haunted heart of New Orleans, follow three teenage witches and their dangerously charming warlock peers at an elite magic boarding school where power is currency, secrets are lethal and attraction is a liability. Caught between ancient supernatural wars and forbidden love interests, the coven must decide how far they’re willing to go to protect their city—and themselves.",
+      "poster": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+      "release": "2026-10-01"
+    },
+    {
+      "id": 284558,
+      "title": "Kill Jackie",
+      "rating": 8.8,
+      "votes": 5,
+      "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
+      "poster": "https://image.tmdb.org/t/p/w500/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4OJPcAAFAC9TvV75c9hjZVFgbjQ.jpg",
+      "release": "2026-10-02"
+    },
+    {
+      "id": 298852,
+      "title": "WAR",
+      "rating": 9.2,
+      "votes": 5,
+      "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
+      "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2hdcWhcyuHllCEjIxz8VDBzC0Fs.jpg",
+      "release": "2026-10-02"
+    },
+    {
+      "id": 335227,
+      "title": "I Would Rather Die",
+      "rating": 9.0,
+      "votes": 2,
+      "overview": "The protagonist Archie, considered the school loser, is bitten by a zombie and finds himself at the center of a mission to save the city alongside his friends Cris and Brenda.",
+      "poster": "https://image.tmdb.org/t/p/w500/wCFvuoNaL4nk7HCFiH7uEm2CDEp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/x91V52Ew4WFoYOryVuFMNuFPZDC.jpg",
+      "release": "2026-10-02"
+    },
+    {
+      "id": 203667,
+      "title": "Red Queen",
+      "rating": 7.0,
+      "votes": 130,
+      "overview": "A gifted woman's intellect brings chance to lead covert European police force. But it backfires, costing her everything. Following murder at her home and kidnapped heiress, her ex-supervisor enlists a policeman's aid to reinstate her.",
+      "poster": "https://image.tmdb.org/t/p/w500/lk7LVXYSOO5rReR2jzLo8Le3cO1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
+      "release": "2024-02-29"
+    },
+    {
+      "id": 283428,
+      "title": "The Ramparts of Ice",
+      "rating": 8.6,
+      "votes": 62,
+      "overview": "Weighed down by memories she can't shake, high schooler Koyuki Hikawa keeps everyone at arm's length — until three schoolmates draw her out of her shell.",
+      "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+      "release": "2026-04-02"
+    },
+    {
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.5,
+      "votes": 944,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "release": "2025-03-30"
+    },
+    {
+      "id": 220542,
+      "title": "The Apothecary Diaries",
+      "rating": 8.6,
+      "votes": 648,
+      "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+      "poster": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+      "release": "2023-10-22"
+    },
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.4,
+      "votes": 484,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "release": "2026-08-16"
     },
     {
       "id": 295778,
@@ -22,104 +112,14 @@
       "release": "2026-02-25"
     },
     {
-      "id": 283428,
-      "title": "The Ramparts of Ice",
-      "rating": 8.6,
-      "votes": 61,
-      "overview": "Weighed down by memories she can't shake, high schooler Koyuki Hikawa keeps everyone at arm's length — until three schoolmates draw her out of her shell.",
-      "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
-      "release": "2026-04-02"
-    },
-    {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.366,
-      "votes": 484,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-      "release": "2026-08-16"
-    },
-    {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "rating": 8.123,
-      "votes": 794,
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-      "release": "2016-04-04"
-    },
-    {
-      "id": 298852,
-      "title": "War",
-      "rating": 10.0,
-      "votes": 2,
-      "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
-      "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2hdcWhcyuHllCEjIxz8VDBzC0Fs.jpg",
-      "release": "2026-10-01"
-    },
-    {
-      "id": 2190,
-      "title": "South Park",
-      "rating": 8.335,
-      "votes": 5175,
-      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "release": "1997-08-13"
-    },
-    {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.5,
-      "votes": 942,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
-    },
-    {
-      "id": 311842,
-      "title": "FX Fighter Kurumi-chan",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "Buy! Sell! Profit...or lose it all! University student Kurumi Fukuga jumps into the fast-moving world of foreign exchange trading to recover the 20 million yen her late mother lost. Together with fellow FX enthusiasts Mochiko, Mebuki, and Yasuko, she’ll battle volatile markets where every decision can lead to fortune—or disaster!",
-      "poster": "https://image.tmdb.org/t/p/w500/bNLqJ7RjWcsV1XgfqM2W51eAEmV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qFELvRyy0C0vxYcKBQEX7BDe4vO.jpg",
-      "release": "2026-10-01"
-    },
-    {
-      "id": 134667,
-      "title": "Reincarnated as a Sword",
-      "rating": 7.3,
-      "votes": 92,
-      "overview": "Reincarnated as a sentient weapon with memories of his past life, but not his name, a magical sword saves a young beastgirl from a life of slavery. Fran, the cat-eared girl, becomes his wielder, and wants only to grow stronger, while the sword wants to know why he is here. Together, the strange duo's journey has only just begun!",
-      "poster": "https://image.tmdb.org/t/p/w500/yZ3VZVc7iyF7KtIjERBGEedVXqA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
-      "release": "2022-10-05"
-    },
-    {
-      "id": 1413,
-      "title": "American Horror Story",
-      "rating": 8.076,
-      "votes": 6203,
-      "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-      "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-      "release": "2011-10-05"
-    },
-    {
-      "id": 284792,
-      "title": "Medusa",
-      "rating": 7.23,
-      "votes": 89,
-      "overview": "Somebody wants to kill CEO Bárbara Hidalgo. Can she find the culprit as her family schemes ruthlessly for control of their Colombian business empire?",
-      "poster": "https://image.tmdb.org/t/p/w500/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gm7OMY4t99UpiMpIShNOKvKLQwO.jpg",
-      "release": "2025-03-05"
+      "id": 105009,
+      "title": "Tokyo Revengers",
+      "rating": 8.4,
+      "votes": 1351,
+      "overview": "Takemichi Hanagaki is a freelancer that’s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he’s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he’s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he’s back living the best days of his life, Takemichi decides to get revenge on his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jnThpphOHQRiTedCtz1yyshfkHw.jpg",
+      "release": "2021-04-11"
     }
   ],
   "popular": [
@@ -150,7 +150,7 @@
       "votes": 3441,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iJcGPv0KL1tdlVgHtLzcJAssZgj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "release": "2022-02-03"
     },
     {
@@ -236,8 +236,8 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.411,
-      "votes": 4791,
+      "rating": 8.412,
+      "votes": 4793,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.374,
-      "votes": 947,
+      "rating": 9.371,
+      "votes": 948,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 9.0,
-      "votes": 18735,
+      "rating": 8.953,
+      "votes": 18739,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -308,8 +308,8 @@
     {
       "id": 322430,
       "title": "The Polygamist",
-      "rating": 8.86,
-      "votes": 211,
+      "rating": 8.866,
+      "votes": 212,
       "overview": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
       "poster": "https://image.tmdb.org/t/p/w500/vamznpYBCI9n7VhrI3mxuzff7XP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
@@ -348,8 +348,8 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.812,
-      "votes": 1003,
+      "rating": 8.817,
+      "votes": 1007,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
@@ -358,8 +358,8 @@
     {
       "id": 219246,
       "title": "When Life Gives You Tangerines",
-      "rating": 8.803,
-      "votes": 595,
+      "rating": 8.8,
+      "votes": 596,
       "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
       "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
@@ -368,44 +368,14 @@
   ],
   "airing_today": [
     {
-      "id": 22980,
-      "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 4.969,
-      "votes": 98,
-      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-      "release": "2009-07-16"
-    },
-    {
-      "id": 2224,
-      "title": "The Daily Show",
-      "rating": 6.406,
-      "votes": 664,
-      "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-      "poster": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-      "release": "1996-07-22"
-    },
-    {
-      "id": 11890,
-      "title": "Goede Tijden, Slechte Tijden",
-      "rating": 5.3,
-      "votes": 21,
-      "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-      "poster": "https://image.tmdb.org/t/p/w500/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-      "release": "1990-10-01"
-    },
-    {
-      "id": 1413,
-      "title": "American Horror Story",
-      "rating": 8.1,
-      "votes": 6202,
-      "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-      "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-      "release": "2011-10-05"
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.5,
+      "votes": 944,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "release": "2025-03-30"
     },
     {
       "id": 206559,
@@ -428,6 +398,16 @@
       "release": "2017-07-17"
     },
     {
+      "id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "rating": 8.544,
+      "votes": 1666,
+      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+      "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+      "release": "2012-10-06"
+    },
+    {
       "id": 2221,
       "title": "The View",
       "rating": 4.3,
@@ -436,6 +416,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
       "release": "1997-08-11"
+    },
+    {
+      "id": 65282,
+      "title": "Home Alone",
+      "rating": 7.5,
+      "votes": 18,
+      "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+      "release": "2013-03-22"
     },
     {
       "id": 291,
@@ -448,6 +438,26 @@
       "release": "1960-12-09"
     },
     {
+      "id": 1220,
+      "title": "The Graham Norton Show",
+      "rating": 7.234,
+      "votes": 291,
+      "overview": "Each week celebrity guests join Irish comedian Graham Norton to discuss what's being going on around the world that week. The guests poke fun and share their opinions on the main news stories. Graham is often joined by a band or artist to play the show out.",
+      "poster": "https://image.tmdb.org/t/p/w500/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5UNcEz7Lc3OGilpPn1Tb9cd1xsc.jpg",
+      "release": "2007-02-22"
+    },
+    {
+      "id": 65701,
+      "title": "Good Mythical Morning",
+      "rating": 6.938,
+      "votes": 96,
+      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+      "release": "2012-01-09"
+    },
+    {
       "id": 2912,
       "title": "Jeopardy!",
       "rating": 6.9,
@@ -456,16 +466,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
       "release": "1984-09-10"
-    },
-    {
-      "id": 65701,
-      "title": "Good Mythical Morning",
-      "rating": 6.937,
-      "votes": 95,
-      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
-      "release": "2012-01-09"
     },
     {
       "id": 1489,
@@ -478,14 +478,14 @@
       "release": "2003-01-26"
     },
     {
-      "id": 1871,
-      "title": "EastEnders",
-      "rating": 4.3,
-      "votes": 230,
-      "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
-      "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
-      "release": "1985-02-19"
+      "id": 204746,
+      "title": "The Jennifer Hudson Show",
+      "rating": 5.6,
+      "votes": 32,
+      "overview": "Talented entertainer and newly-minted EGOT Jennifer Hudson takes on the daytime talk show landscape.",
+      "poster": "https://image.tmdb.org/t/p/w500/6VBNeo8XG90sNKWYQ0yTEmVBXHJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/xpv70S3BIrW0FHEpoWET4T6JxNJ.jpg",
+      "release": "2022-09-12"
     }
   ]
 }
