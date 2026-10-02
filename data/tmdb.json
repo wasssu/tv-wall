@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-01T18:03:31.083251+00:00",
+  "updated": "2026-10-02T04:09:53.041880+00:00",
   "trending": [
     {
       "id": 258165,
       "title": "East of Eden",
       "rating": 8.3,
-      "votes": 8,
+      "votes": 9,
       "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
-      "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/VMyZWR0GBHGY9WIwcaj232ALAl.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8WGq5Q0tmTe30YZetLnU2dkOJZf.jpg",
       "release": "2026-10-01"
     },
     {
       "id": 295778,
       "title": "Scrubs",
-      "rating": 7.714,
+      "rating": 7.7,
       "votes": 112,
       "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
       "poster": "https://image.tmdb.org/t/p/w500/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
@@ -22,9 +22,29 @@
       "release": "2026-02-25"
     },
     {
+      "id": 283428,
+      "title": "The Ramparts of Ice",
+      "rating": 8.6,
+      "votes": 61,
+      "overview": "Weighed down by memories she can't shake, high schooler Koyuki Hikawa keeps everyone at arm's length — until three schoolmates draw her out of her shell.",
+      "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+      "release": "2026-04-02"
+    },
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.366,
+      "votes": 484,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "release": "2026-08-16"
+    },
+    {
       "id": 65942,
       "title": "Re:ZERO -Starting Life in Another World-",
-      "rating": 8.122,
+      "rating": 8.123,
       "votes": 794,
       "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
       "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
@@ -32,14 +52,34 @@
       "release": "2016-04-04"
     },
     {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.363,
-      "votes": 482,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-      "release": "2026-08-16"
+      "id": 298852,
+      "title": "War",
+      "rating": 10.0,
+      "votes": 2,
+      "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
+      "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2hdcWhcyuHllCEjIxz8VDBzC0Fs.jpg",
+      "release": "2026-10-01"
+    },
+    {
+      "id": 2190,
+      "title": "South Park",
+      "rating": 8.335,
+      "votes": 5175,
+      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+      "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "release": "1997-08-13"
+    },
+    {
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.5,
+      "votes": 942,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "release": "2025-03-30"
     },
     {
       "id": 311842,
@@ -52,74 +92,34 @@
       "release": "2026-10-01"
     },
     {
+      "id": 134667,
+      "title": "Reincarnated as a Sword",
+      "rating": 7.3,
+      "votes": 92,
+      "overview": "Reincarnated as a sentient weapon with memories of his past life, but not his name, a magical sword saves a young beastgirl from a life of slavery. Fran, the cat-eared girl, becomes his wielder, and wants only to grow stronger, while the sword wants to know why he is here. Together, the strange duo's journey has only just begun!",
+      "poster": "https://image.tmdb.org/t/p/w500/yZ3VZVc7iyF7KtIjERBGEedVXqA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+      "release": "2022-10-05"
+    },
+    {
+      "id": 1413,
+      "title": "American Horror Story",
+      "rating": 8.076,
+      "votes": 6203,
+      "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+      "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+      "release": "2011-10-05"
+    },
+    {
       "id": 284792,
       "title": "Medusa",
-      "rating": 7.3,
-      "votes": 88,
+      "rating": 7.23,
+      "votes": 89,
       "overview": "Somebody wants to kill CEO Bárbara Hidalgo. Can she find the culprit as her family schemes ruthlessly for control of their Colombian business empire?",
       "poster": "https://image.tmdb.org/t/p/w500/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gm7OMY4t99UpiMpIShNOKvKLQwO.jpg",
       "release": "2025-03-05"
-    },
-    {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.458,
-      "votes": 941,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
-    },
-    {
-      "id": 283428,
-      "title": "The Ramparts of Ice",
-      "rating": 8.631,
-      "votes": 61,
-      "overview": "Weighed down by memories she can't shake, high schooler Koyuki Hikawa keeps everyone at arm's length — until three schoolmates draw her out of her shell.",
-      "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
-      "release": "2026-04-02"
-    },
-    {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "rating": 8.4,
-      "votes": 2703,
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-      "release": "2020-08-14"
-    },
-    {
-      "id": 250203,
-      "title": "Brothers",
-      "rating": 8.4,
-      "votes": 11,
-      "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
-      "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-      "release": "2026-09-22"
-    },
-    {
-      "id": 95480,
-      "title": "Slow Horses",
-      "rating": 8.0,
-      "votes": 1010,
-      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-      "release": "2022-04-01"
-    },
-    {
-      "id": 2190,
-      "title": "South Park",
-      "rating": 8.3,
-      "votes": 5173,
-      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "release": "1997-08-13"
     }
   ],
   "popular": [
@@ -144,14 +144,14 @@
       "release": "2009-07-16"
     },
     {
-      "id": 2734,
-      "title": "Law & Order: Special Victims Unit",
-      "rating": 7.956,
-      "votes": 4362,
-      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-      "release": "1999-09-20"
+      "id": 108978,
+      "title": "Reacher",
+      "rating": 8.1,
+      "votes": 3441,
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/iJcGPv0KL1tdlVgHtLzcJAssZgj.jpg",
+      "release": "2022-02-03"
     },
     {
       "id": 59941,
@@ -164,24 +164,24 @@
       "release": "2014-02-17"
     },
     {
-      "id": 108978,
-      "title": "Reacher",
-      "rating": 8.135,
-      "votes": 3437,
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "release": "2022-02-03"
+      "id": 33238,
+      "title": "Running Man",
+      "rating": 8.2,
+      "votes": 220,
+      "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
+      "poster": "https://image.tmdb.org/t/p/w500/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+      "release": "2010-07-11"
     },
     {
-      "id": 2261,
-      "title": "The Tonight Show Starring Johnny Carson",
-      "rating": 7.562,
-      "votes": 97,
-      "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
-      "poster": "https://image.tmdb.org/t/p/w500/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
-      "release": "1962-10-01"
+      "id": 2734,
+      "title": "Law & Order: Special Victims Unit",
+      "rating": 7.956,
+      "votes": 4362,
+      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+      "release": "1999-09-20"
     },
     {
       "id": 63770,
@@ -194,6 +194,36 @@
       "release": "2015-09-08"
     },
     {
+      "id": 2261,
+      "title": "The Tonight Show Starring Johnny Carson",
+      "rating": 7.562,
+      "votes": 97,
+      "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+      "poster": "https://image.tmdb.org/t/p/w500/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+      "release": "1962-10-01"
+    },
+    {
+      "id": 275102,
+      "title": "The Scandal",
+      "rating": 6.682,
+      "votes": 22,
+      "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+      "poster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+      "release": "2026-09-18"
+    },
+    {
+      "id": 456,
+      "title": "The Simpsons",
+      "rating": 8.024,
+      "votes": 11044,
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
+      "release": "1989-12-17"
+    },
+    {
       "id": 549,
       "title": "Law & Order",
       "rating": 7.285,
@@ -204,40 +234,10 @@
       "release": "1990-09-13"
     },
     {
-      "id": 275102,
-      "title": "The Scandal",
-      "rating": 6.6,
-      "votes": 21,
-      "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-      "poster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-      "release": "2026-09-18"
-    },
-    {
-      "id": 456,
-      "title": "The Simpsons",
-      "rating": 8.023,
-      "votes": 11043,
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
-      "release": "1989-12-17"
-    },
-    {
-      "id": 33238,
-      "title": "Running Man",
-      "rating": 8.2,
-      "votes": 220,
-      "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
-      "poster": "https://image.tmdb.org/t/p/w500/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-      "release": "2010-07-11"
-    },
-    {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.4,
-      "votes": 4789,
+      "rating": 8.411,
+      "votes": 4791,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.953,
-      "votes": 18734,
+      "rating": 9.0,
+      "votes": 18735,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,7 +288,7 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.886,
+      "rating": 8.9,
       "votes": 871,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
@@ -400,8 +400,8 @@
     {
       "id": 1413,
       "title": "American Horror Story",
-      "rating": 8.075,
-      "votes": 6201,
+      "rating": 8.1,
+      "votes": 6202,
       "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
       "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
