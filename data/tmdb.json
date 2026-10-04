@@ -1,12 +1,32 @@
 {
-  "updated": "2026-10-03T15:44:42.919220+00:00",
+  "updated": "2026-10-04T04:24:17.135326+00:00",
   "trending": [
+    {
+      "id": 73223,
+      "title": "Black Clover",
+      "rating": 8.501,
+      "votes": 2208,
+      "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+      "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "release": "2017-10-03"
+    },
+    {
+      "id": 259140,
+      "title": "Ranma1/2",
+      "rating": 8.062,
+      "votes": 186,
+      "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
+      "poster": "https://image.tmdb.org/t/p/w500/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
+      "release": "2024-10-06"
+    },
     {
       "id": 298505,
       "title": "Coven Academy",
-      "rating": 7.375,
-      "votes": 8,
-      "overview": "In the haunted heart of New Orleans, follow three teenage witches and their dangerously charming warlock peers at an elite magic boarding school where power is currency, secrets are lethal and attraction is a liability. Caught between ancient supernatural wars and forbidden love interests, the coven must decide how far they’re willing to go to protect their city—and themselves.",
+      "rating": 7.7,
+      "votes": 10,
+      "overview": "A coven protects their magic school from a dark fate.",
       "poster": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
       "release": "2026-10-01"
@@ -14,7 +34,7 @@
     {
       "id": 220542,
       "title": "The Apothecary Diaries",
-      "rating": 8.641,
+      "rating": 8.6,
       "votes": 651,
       "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
       "poster": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
@@ -22,104 +42,84 @@
       "release": "2023-10-22"
     },
     {
-      "id": 284558,
-      "title": "Kill Jackie",
-      "rating": 8.3,
-      "votes": 7,
-      "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
-      "poster": "https://image.tmdb.org/t/p/w500/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/bbX3UIghhjJG6BW7WOGqxn4iySh.jpg",
-      "release": "2026-10-02"
-    },
-    {
-      "id": 258165,
-      "title": "East of Eden",
-      "rating": 8.3,
-      "votes": 18,
-      "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
-      "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
-      "release": "2026-10-01"
-    },
-    {
-      "id": 335227,
-      "title": "I Would Rather Die",
-      "rating": 9.6,
-      "votes": 5,
-      "overview": "The protagonist Archie, considered the school loser, is bitten by a zombie and finds himself at the center of a mission to save the city alongside his friends Cris and Brenda.",
-      "poster": "https://image.tmdb.org/t/p/w500/wCFvuoNaL4nk7HCFiH7uEm2CDEp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/x91V52Ew4WFoYOryVuFMNuFPZDC.jpg",
-      "release": "2026-10-02"
-    },
-    {
-      "id": 298852,
-      "title": "WAR",
-      "rating": 9.5,
-      "votes": 8,
-      "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
-      "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2hdcWhcyuHllCEjIxz8VDBzC0Fs.jpg",
-      "release": "2026-10-02"
-    },
-    {
-      "id": 203667,
-      "title": "Red Queen",
-      "rating": 7.0,
-      "votes": 130,
-      "overview": "A gifted woman's intellect brings chance to lead covert European police force. But it backfires, costing her everything. Following murder at her home and kidnapped heiress, her ex-supervisor enlists a policeman's aid to reinstate her.",
-      "poster": "https://image.tmdb.org/t/p/w500/lk7LVXYSOO5rReR2jzLo8Le3cO1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
-      "release": "2024-02-29"
-    },
-    {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.465,
-      "votes": 951,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
-    },
-    {
-      "id": 105009,
-      "title": "Tokyo Revengers",
-      "rating": 8.4,
-      "votes": 1353,
-      "overview": "Takemichi Hanagaki is a freelancer that’s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he’s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he’s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he’s back living the best days of his life, Takemichi decides to get revenge on his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jnThpphOHQRiTedCtz1yyshfkHw.jpg",
-      "release": "2021-04-11"
-    },
-    {
       "id": 95350,
       "title": "Lanterns",
-      "rating": 8.367,
-      "votes": 490,
+      "rating": 8.379,
+      "votes": 496,
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
       "release": "2026-08-16"
     },
     {
-      "id": 253811,
-      "title": "Tougen Anki",
-      "rating": 7.6,
-      "votes": 109,
-      "overview": "After a Momotaro assassin suddenly kills his adoptive father, Shiki vows to avenge him. But first, he must learn to control his newly awakened Oni blood.",
-      "poster": "https://image.tmdb.org/t/p/w500/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-      "release": "2025-07-11"
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.465,
+      "votes": 956,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "release": "2025-03-30"
     },
     {
-      "id": 1413,
-      "title": "American Horror Story",
-      "rating": 8.077,
-      "votes": 6208,
-      "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-      "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-      "release": "2011-10-05"
+      "id": 258165,
+      "title": "East of Eden",
+      "rating": 8.196,
+      "votes": 23,
+      "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+      "release": "2026-10-01"
+    },
+    {
+      "id": 284558,
+      "title": "Kill Jackie",
+      "rating": 7.182,
+      "votes": 11,
+      "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
+      "poster": "https://image.tmdb.org/t/p/w500/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4OJPcAAFAC9TvV75c9hjZVFgbjQ.jpg",
+      "release": "2026-10-02"
+    },
+    {
+      "id": 285899,
+      "title": "A Tale of the Secret Saint",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Fia always dreamed of being a great knight, despite her lack of talent as a swordswoman. Then, a brush with death in battle awakens memories of her past life as the legendary Saint who defeated the Demon King. Her powers return, but so do the enemies who killed her once before. Fia vows to conceal her true identity to survive. But how can a knight resist using her powers to help those in need?",
+      "poster": "https://image.tmdb.org/t/p/w500/1ETsQwBbwtaPN9SeczbQzg2mo0n.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wpNi39uaat5A1VhaVpdcQlKuMB5.jpg",
+      "release": "2026-10-03"
+    },
+    {
+      "id": 335194,
+      "title": "Magical Explorer",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Reborn in his favorite bishojo game, Kousuke gets the worst role possible: the forgettable sidekick. But armed with his knowledge of the game and this world’s largest mana pool, he might even surpass the hero! Now Kousuke must rewrite his fate and battle his way toward the heroines’ happy endings!",
+      "poster": "https://image.tmdb.org/t/p/w500/1mcErCeGi77UmV50E81fwvftdp2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/oxS6i62MRfIeXFKN2F3uEipKwt7.jpg",
+      "release": "2026-10-04"
+    },
+    {
+      "id": 317259,
+      "title": "VERTEX FORCE",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Akira Todo has always lived in the shadow of his sister, Haruka, who secretly wields their father’s mysterious “Engine.” But when a mysterious enemy comes for his family, Akira is forced into a battle that threatens the entire world. He may have inherited none of his father’s power, but now he must find a way to fight back. Or risk losing everything he cares about.",
+      "poster": "https://image.tmdb.org/t/p/w500/zWFF0Fu10qjcoBf9Akm0ytC0o8z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wNjJs2OronJm8jK4Y35R6kjH3sy.jpg",
+      "release": "2026-10-03"
+    },
+    {
+      "id": 105009,
+      "title": "Tokyo Revengers",
+      "rating": 8.395,
+      "votes": 1356,
+      "overview": "Takemichi Hanagaki is a freelancer that’s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he’s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he’s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he’s back living the best days of his life, Takemichi decides to get revenge on his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jnThpphOHQRiTedCtz1yyshfkHw.jpg",
+      "release": "2021-04-11"
     }
   ],
   "popular": [
@@ -146,8 +146,8 @@
     {
       "id": 59941,
       "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.781,
-      "votes": 392,
+      "rating": 5.791,
+      "votes": 393,
       "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
       "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
@@ -164,6 +164,16 @@
       "release": "2015-09-08"
     },
     {
+      "id": 108978,
+      "title": "Reacher",
+      "rating": 8.1,
+      "votes": 3445,
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "release": "2022-02-03"
+    },
+    {
       "id": 2261,
       "title": "The Tonight Show Starring Johnny Carson",
       "rating": 7.562,
@@ -172,16 +182,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
       "release": "1962-10-01"
-    },
-    {
-      "id": 108978,
-      "title": "Reacher",
-      "rating": 8.134,
-      "votes": 3444,
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "release": "2022-02-03"
     },
     {
       "id": 70998,
@@ -207,7 +207,7 @@
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
       "rating": 7.956,
-      "votes": 4362,
+      "votes": 4363,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
@@ -224,20 +224,20 @@
       "release": "2026-09-18"
     },
     {
-      "id": 456,
-      "title": "The Simpsons",
-      "rating": 8.024,
-      "votes": 11046,
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
-      "release": "1989-12-17"
+      "id": 4304,
+      "title": "Xplay",
+      "rating": 8.5,
+      "votes": 4,
+      "overview": "Xplay (previously GameSpot TV and Extended Play) is a TV program about video games. The program, known for its reviews and comedy skits, airs on G4 in the United States and had aired on G4 Canada in Canada (and briefly on YTV during its time as GameSpot TV), FUEL TV in Australia, Ego in Israel, GXT in Italy, MTV Russia & Rambler TV in Russia, Solar Sports in the Philippines and Adult Swim and MuchMusic in Latin America. The show ran between July 4, 1998, and January 23, 2013, and returned in November 2021 as a part of G4's relaunch.",
+      "poster": "https://image.tmdb.org/t/p/w500/7ynD7g4U9hOODu1Jzf6VN4zQc6a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pptMFFYI3Rs15I8HovmJTrnTM8L.jpg",
+      "release": "2003-04-28"
     },
     {
       "id": 5920,
       "title": "The Mentalist",
       "rating": 8.413,
-      "votes": 4796,
+      "votes": 4801,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.37,
-      "votes": 949,
+      "rating": 9.371,
+      "votes": 950,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.954,
-      "votes": 18744,
+      "votes": 18746,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.883,
-      "votes": 873,
+      "rating": 8.9,
+      "votes": 874,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -308,8 +308,8 @@
     {
       "id": 322430,
       "title": "The Polygamist",
-      "rating": 8.871,
-      "votes": 213,
+      "rating": 8.876,
+      "votes": 214,
       "overview": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
       "poster": "https://image.tmdb.org/t/p/w500/vamznpYBCI9n7VhrI3mxuzff7XP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
@@ -358,8 +358,8 @@
     {
       "id": 219246,
       "title": "When Life Gives You Tangerines",
-      "rating": 8.8,
-      "votes": 596,
+      "rating": 8.807,
+      "votes": 597,
       "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
       "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
@@ -428,6 +428,16 @@
       "release": "2026-09-11"
     },
     {
+      "id": 259140,
+      "title": "Ranma1/2",
+      "rating": 8.1,
+      "votes": 185,
+      "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
+      "poster": "https://image.tmdb.org/t/p/w500/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
+      "release": "2024-10-06"
+    },
+    {
       "id": 106449,
       "title": "A Record of a Mortal's Journey to Immortality",
       "rating": 8.4,
@@ -440,8 +450,8 @@
     {
       "id": 105009,
       "title": "Tokyo Revengers",
-      "rating": 8.394,
-      "votes": 1353,
+      "rating": 8.396,
+      "votes": 1355,
       "overview": "Takemichi Hanagaki is a freelancer that’s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he’s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he’s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he’s back living the best days of his life, Takemichi decides to get revenge on his life.",
       "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jnThpphOHQRiTedCtz1yyshfkHw.jpg",
@@ -476,16 +486,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/ksEsR8aSPahJ0kvLS0nUBqwpEFa.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/e2hpVdY2WVJDz3y0nEHszhtR24q.jpg",
       "release": "2025-10-11"
-    },
-    {
-      "id": 79481,
-      "title": "Fights Break Sphere",
-      "rating": 8.0,
-      "votes": 62,
-      "overview": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years ago, Xiao Yan, who had shown talents none had seen in decades, suddenly lost everything. His powers, his reputation, and his promise to his mother. What sorcery has caused him to lose all of his powers? And why has his fiancee suddenly shown up?",
-      "poster": "https://image.tmdb.org/t/p/w500/oyoahIcdamTXwjIaL3CqZ1v5CLl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cTCn2EO69SERNfhaezJMoqBom4G.jpg",
-      "release": "2017-01-07"
     }
   ]
 }
