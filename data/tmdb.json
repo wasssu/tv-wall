@@ -1,44 +1,54 @@
 {
-  "updated": "2026-10-09T17:58:57.025697+00:00",
+  "updated": "2026-10-10T04:25:43.315046+00:00",
   "trending": [
     {
       "id": 123542,
       "title": "LINK CLICK",
-      "rating": 8.3,
-      "votes": 130,
+      "rating": 8.2,
+      "votes": 132,
       "overview": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
       "poster": "https://image.tmdb.org/t/p/w500/wo9jwu5qMvXzhW2cyy5E6hOVs92.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
       "release": "2021-04-30"
     },
     {
-      "id": 285322,
-      "title": "Below",
-      "rating": 7.0,
-      "votes": 25,
-      "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "release": "2026-10-08"
-    },
-    {
       "id": 288673,
       "title": "Carrie",
-      "rating": 8.4,
-      "votes": 71,
+      "rating": 8.463,
+      "votes": 95,
       "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-      "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "release": "2026-10-07"
     },
     {
       "id": 284833,
       "title": "Avatar: Seven Havens",
-      "rating": 9.5,
-      "votes": 8,
+      "rating": 9.158,
+      "votes": 19,
       "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-      "poster": "https://image.tmdb.org/t/p/w500/lrWh0pKLjPKfNkuUhQV1bhbruEP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/vYNar1VtdNyQXXUt16uPbIT6wzr.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+      "release": "2026-10-09"
+    },
+    {
+      "id": 285322,
+      "title": "Below",
+      "rating": 7.438,
+      "votes": 40,
+      "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "release": "2026-10-08"
+    },
+    {
+      "id": 293610,
+      "title": "Doctor X: Mafia in White",
+      "rating": 9.0,
+      "votes": 2,
+      "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+      "poster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
       "release": "2026-10-09"
     },
     {
@@ -52,74 +62,64 @@
       "release": "2026-10-09"
     },
     {
-      "id": 293610,
-      "title": "Doctor X: Mafia in White",
-      "rating": 10.0,
-      "votes": 1,
-      "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-      "poster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-      "release": "2026-10-09"
-    },
-    {
       "id": 95350,
       "title": "Lanterns",
-      "rating": 8.313,
-      "votes": 676,
+      "rating": 8.31,
+      "votes": 682,
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "release": "2026-08-16"
     },
     {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.48,
-      "votes": 990,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
-    },
-    {
       "id": 255752,
       "title": "Haunted Hotel",
-      "rating": 8.1,
-      "votes": 123,
+      "rating": 8.157,
+      "votes": 124,
       "overview": "After inheriting a hotel from her late brother, a single mom moves in with his good-natured ghost — and high-maintenance guests who will never check out.",
       "poster": "https://image.tmdb.org/t/p/w500/4arTlVw8oceZDOhGv9GFrgGztUq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
       "release": "2025-09-19"
     },
     {
+      "id": 284580,
+      "title": "A Certain Dark Item",
+      "rating": 10.0,
+      "votes": 1,
+      "overview": "In Academy City, psychic powers promise a brighter future. But beneath the city's peaceful surface lurks a merciless dark side. ITEM, an elite team of four girls with deadly abilities, carries out dangerous missions that can never see the light of day. When a fifth girl enters their lives, ITEM is drawn deeper into a world of violence, brutality, and moral corruption.",
+      "poster": "https://image.tmdb.org/t/p/w500/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/37xSbB8Hj87wYiKBcnXZSG3vv9U.jpg",
+      "release": "2026-10-09"
+    },
+    {
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.486,
+      "votes": 996,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "release": "2025-03-30"
+    },
+    {
+      "id": 320909,
+      "title": "Firefly Wedding",
+      "rating": 10.0,
+      "votes": 2,
+      "overview": "Satoko Kirigaya has everything a noblewoman could want—except time. With her life running out, she’s determined to marry well and make her father proud. But when a ruthless assassin kidnaps her, she makes a desperate offer: “Marry me, and we’ll have it all.” Shinpei Goto accepts, only to become dangerously obsessed. Now Satoko must choose between duty and a love that could consume them both.",
+      "poster": "https://image.tmdb.org/t/p/w500/954dt0dTqoUhIW0EvMFZ0KvVQmk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
+      "release": "2026-10-09"
+    },
+    {
       "id": 303630,
       "title": "Cupertino",
-      "rating": 5.5,
-      "votes": 4,
+      "rating": 5.714,
+      "votes": 7,
       "overview": "A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights.",
       "poster": "https://image.tmdb.org/t/p/w500/70AhJpOqU2oKyQF2paJA764CSje.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
       "release": "2026-10-08"
-    },
-    {
-      "id": 294446,
-      "title": "The Vanishing Beauty",
-      "rating": 8.0,
-      "votes": 2,
-      "overview": "Yu Meng, an only child from Jiangsu Zhejiang Shanghai and a popular internet blogger, is admired as a woman with a perfect life. On her fifth wedding anniversary, the bubble of her seemingly flawless happiness shatters. Her model husband is no longer so perfect, and her marriage begins to crack, while she also faces the threat of being financially exploited. With the support of her friends, Yu Meng reexamines her life and fights to take back control.",
-      "poster": "https://image.tmdb.org/t/p/w500/m3r695bVVi5y4UjbqIdkSkz060f.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6Iha7gx0lTdrv6x7dECtjB8YnLA.jpg",
-      "release": "2026-10-09"
-    },
-    {
-      "id": 196322,
-      "title": "Dark Matter",
-      "rating": 7.8,
-      "votes": 823,
-      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-      "release": "2024-05-07"
     }
   ],
   "popular": [
@@ -167,7 +167,7 @@
       "id": 108978,
       "title": "Reacher",
       "rating": 8.136,
-      "votes": 3469,
+      "votes": 3470,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -186,8 +186,8 @@
     {
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
-      "rating": 7.955,
-      "votes": 4367,
+      "rating": 7.956,
+      "votes": 4369,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
@@ -206,8 +206,8 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.414,
-      "votes": 4829,
+      "rating": 8.415,
+      "votes": 4831,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
@@ -227,7 +227,7 @@
       "id": 2316,
       "title": "The Office",
       "rating": 8.584,
-      "votes": 5555,
+      "votes": 5557,
       "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
       "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.365,
-      "votes": 967,
+      "rating": 9.366,
+      "votes": 968,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 9.0,
-      "votes": 18784,
+      "rating": 8.954,
+      "votes": 18789,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.881,
-      "votes": 879,
+      "rating": 8.882,
+      "votes": 880,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -370,8 +370,8 @@
     {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.479,
-      "votes": 989,
+      "rating": 8.486,
+      "votes": 996,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
@@ -396,6 +396,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
       "release": "1960-12-09"
+    },
+    {
+      "id": 72879,
+      "title": "Tomorrow Is Ours",
+      "rating": 6.3,
+      "votes": 74,
+      "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+      "poster": "https://image.tmdb.org/t/p/w500/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
+      "release": "2017-07-17"
     },
     {
       "id": 65701,
@@ -428,14 +438,14 @@
       "release": "2007-02-22"
     },
     {
-      "id": 72879,
-      "title": "Tomorrow Is Ours",
-      "rating": 6.3,
-      "votes": 74,
-      "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-      "poster": "https://image.tmdb.org/t/p/w500/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
-      "release": "2017-07-17"
+      "id": 81329,
+      "title": "Chronicles of the Sun",
+      "rating": 6.6,
+      "votes": 129,
+      "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
+      "poster": "https://image.tmdb.org/t/p/w500/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
+      "release": "2018-08-27"
     },
     {
       "id": 4419,
@@ -458,14 +468,14 @@
       "release": "2013-03-22"
     },
     {
-      "id": 81329,
-      "title": "Chronicles of the Sun",
-      "rating": 6.6,
-      "votes": 129,
-      "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
-      "poster": "https://image.tmdb.org/t/p/w500/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
-      "release": "2018-08-27"
+      "id": 2912,
+      "title": "Jeopardy!",
+      "rating": 6.9,
+      "votes": 166,
+      "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+      "poster": "https://image.tmdb.org/t/p/w500/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+      "release": "1984-09-10"
     },
     {
       "id": 1900,
@@ -476,16 +486,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/8eXDNLIhOGSoKCaIw9JJFNbnZ5x.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/eNjzPQsNNPd8zluKTpv7Axhk8p4.jpg",
       "release": "1988-09-05"
-    },
-    {
-      "id": 154770,
-      "title": "Hello Saturday",
-      "rating": 6.5,
-      "votes": 11,
-      "overview": "\"Hello, Saturday\" is the rebranding of the popular Chinese show \"Happy Camp\", hosted by He Jiong and with a fixed group of regular celebrity members.\n\nThe program showcases the talent of various stars as well as social topics through creative and diverse content and games. It aims to spread positive energy while keeping up with the current trends and leading youth culture.",
-      "poster": "https://image.tmdb.org/t/p/w500/wsTjWy6NE2s3h0neChr0D92ddwI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg",
-      "release": "2022-01-01"
     }
   ]
 }
