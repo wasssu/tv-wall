@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T16:59:18.130749+00:00",
+  "updated": "2026-10-11T04:07:40.617381+00:00",
   "trending": [
     {
       "id": 123542,
@@ -14,22 +14,12 @@
     {
       "id": 288673,
       "title": "Carrie",
-      "rating": 8.4,
-      "votes": 111,
+      "rating": 8.319,
+      "votes": 130,
       "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
       "poster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "release": "2026-10-07"
-    },
-    {
-      "id": 285322,
-      "title": "Below",
-      "rating": 7.413,
-      "votes": 46,
-      "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "release": "2026-10-08"
     },
     {
       "id": 293610,
@@ -42,44 +32,44 @@
       "release": "2026-10-09"
     },
     {
-      "id": 284833,
-      "title": "Avatar: Seven Havens",
-      "rating": 8.964,
-      "votes": 28,
-      "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-      "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
-      "release": "2026-10-09"
+      "id": 285322,
+      "title": "Below",
+      "rating": 7.315,
+      "votes": 54,
+      "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "release": "2026-10-08"
     },
     {
       "id": 289423,
       "title": "Take Charge of My Heart",
-      "rating": 6.333,
-      "votes": 3,
+      "rating": 6.2,
+      "votes": 4,
       "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
       "poster": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
       "release": "2026-10-09"
     },
     {
+      "id": 284833,
+      "title": "Avatar: Seven Havens",
+      "rating": 8.944,
+      "votes": 36,
+      "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+      "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+      "release": "2026-10-09"
+    },
+    {
       "id": 95350,
       "title": "Lanterns",
-      "rating": 8.3,
-      "votes": 687,
+      "rating": 8.307,
+      "votes": 696,
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "release": "2026-08-16"
-    },
-    {
-      "id": 284580,
-      "title": "A Certain Dark Item",
-      "rating": 10.0,
-      "votes": 2,
-      "overview": "In Academy City, psychic powers promise a brighter future. But beneath the city's peaceful surface lurks a merciless dark side. ITEM, an elite team of four girls with deadly abilities, carries out dangerous missions that can never see the light of day. When a fifth girl enters their lives, ITEM is drawn deeper into a world of violence, brutality, and moral corruption.",
-      "poster": "https://image.tmdb.org/t/p/w500/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/37xSbB8Hj87wYiKBcnXZSG3vv9U.jpg",
-      "release": "2026-10-09"
     },
     {
       "id": 293607,
@@ -92,14 +82,24 @@
       "release": "2026-10-10"
     },
     {
-      "id": 247718,
-      "title": "MobLand",
+      "id": 73223,
+      "title": "Black Clover",
       "rating": 8.5,
-      "votes": 1002,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
+      "votes": 2232,
+      "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+      "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "release": "2017-10-03"
+    },
+    {
+      "id": 231620,
+      "title": "Natural High",
+      "rating": 7.5,
+      "votes": 6,
+      "overview": "Come and join Shen Teng and his friends as they step away from the bustling crowded cities and reconnect with the beautiful wild nature.",
+      "poster": "https://image.tmdb.org/t/p/w500/oC2MuEWxnLVTyYw70XoK2HFf7nW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/kQ58qbyCGkdmqKZtxMZbLNpgSxX.jpg",
+      "release": "2023-08-13"
     },
     {
       "id": 295420,
@@ -112,14 +112,14 @@
       "release": "2026-10-10"
     },
     {
-      "id": 255752,
-      "title": "Haunted Hotel",
-      "rating": 8.2,
-      "votes": 124,
-      "overview": "After inheriting a hotel from her late brother, a single mom moves in with his good-natured ghost — and high-maintenance guests who will never check out.",
-      "poster": "https://image.tmdb.org/t/p/w500/4arTlVw8oceZDOhGv9GFrgGztUq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
-      "release": "2025-09-19"
+      "id": 259140,
+      "title": "Ranma1/2",
+      "rating": 8.1,
+      "votes": 192,
+      "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
+      "poster": "https://image.tmdb.org/t/p/w500/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
+      "release": "2024-10-06"
     }
   ],
   "popular": [
@@ -176,7 +176,7 @@
     {
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
-      "rating": 7.956,
+      "rating": 8.0,
       "votes": 4370,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.365,
-      "votes": 970,
+      "rating": 9.366,
+      "votes": 972,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.126,
-      "votes": 619,
+      "rating": 9.127,
+      "votes": 622,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 278573,
       "title": "Perfect Crown",
-      "rating": 9.0,
-      "votes": 222,
+      "rating": 8.982,
+      "votes": 223,
       "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 9.0,
-      "votes": 18794,
+      "votes": 18802,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,7 +288,7 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.882,
+      "rating": 8.9,
       "votes": 880,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
@@ -316,6 +316,16 @@
       "release": "2026-06-12"
     },
     {
+      "id": 85077,
+      "title": "The Chosen",
+      "rating": 8.8,
+      "votes": 1021,
+      "overview": "The life of Christ through the eyes of those who encountered him.",
+      "poster": "https://image.tmdb.org/t/p/w500/9uuPBxgXqFNYIz0ZuJhLOX2QS2v.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+      "release": "2019-04-21"
+    },
+    {
       "id": 245026,
       "title": "Wizards Beyond Waverly Place",
       "rating": 8.8,
@@ -326,20 +336,10 @@
       "release": "2024-10-29"
     },
     {
-      "id": 85077,
-      "title": "The Chosen",
-      "rating": 8.829,
-      "votes": 1018,
-      "overview": "The life of Christ through the eyes of those who encountered him.",
-      "poster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-      "release": "2019-04-21"
-    },
-    {
       "id": 259837,
       "title": "The WONDERfools",
       "rating": 8.8,
-      "votes": 276,
+      "votes": 277,
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
@@ -358,8 +358,8 @@
     {
       "id": 219246,
       "title": "When Life Gives You Tangerines",
-      "rating": 8.8,
-      "votes": 601,
+      "rating": 8.806,
+      "votes": 602,
       "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
       "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
@@ -378,16 +378,6 @@
       "release": "2005-04-22"
     },
     {
-      "id": 1667,
-      "title": "Saturday Night Live",
-      "rating": 6.896,
-      "votes": 534,
-      "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
-      "poster": "https://image.tmdb.org/t/p/w500/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg",
-      "release": "1975-10-11"
-    },
-    {
       "id": 70672,
       "title": "Men on a Mission",
       "rating": 7.4,
@@ -396,6 +386,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
       "release": "2015-12-05"
+    },
+    {
+      "id": 1667,
+      "title": "Saturday Night Live",
+      "rating": 6.888,
+      "votes": 536,
+      "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
+      "poster": "https://image.tmdb.org/t/p/w500/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg",
+      "release": "1975-10-11"
     },
     {
       "id": 154770,
@@ -409,13 +409,23 @@
     },
     {
       "id": 30983,
-      "title": "Detective Conan",
+      "title": "Case Closed",
       "rating": 8.0,
       "votes": 793,
       "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
       "poster": "https://image.tmdb.org/t/p/w500/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
       "release": "1996-01-08"
+    },
+    {
+      "id": 35024,
+      "title": "Show! Music Core",
+      "rating": 7.0,
+      "votes": 1,
+      "overview": "Show! Music Core is a music show that has been aired since 2005. Not like any other music shows, this show doesn't include any charts or awards. There are a few segments such as This Week's Hot 3, Chart Up Core and Core of Rising Stars.",
+      "poster": "https://image.tmdb.org/t/p/w500/AkoQr6axSoFdpTuPt0dY3WekIeY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ivHoFv1aJCmtpi8Kejs3ubjLYAR.jpg",
+      "release": "2005-10-29"
     },
     {
       "id": 224,
@@ -448,14 +458,14 @@
       "release": "2021-04-11"
     },
     {
-      "id": 35024,
-      "title": "Show! Music Core",
-      "rating": 7.0,
-      "votes": 1,
-      "overview": "Show! Music Core is a music show that has been aired since 2005. Not like any other music shows, this show doesn't include any charts or awards. There are a few segments such as This Week's Hot 3, Chart Up Core and Core of Rising Stars.",
-      "poster": "https://image.tmdb.org/t/p/w500/AkoQr6axSoFdpTuPt0dY3WekIeY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ivHoFv1aJCmtpi8Kejs3ubjLYAR.jpg",
-      "release": "2005-10-29"
+      "id": 80736,
+      "title": "The Manager",
+      "rating": 5.5,
+      "votes": 6,
+      "overview": "We will get involved in every little detail of the stars’ lives. The managers who work closely with the stars reveal their mundane lives. Once the information is all revealed, the professional meddlers from various different fields are invited to make comments regarding even the smallest details. Lee Yeong Ja, Jun Hyun Moo, Song Eun I, Kim Saeng Min, Yang Se Hyeong and Yoo Byung Jae participate as the life meddlers along with the professionals.",
+      "poster": "https://image.tmdb.org/t/p/w500/jASfIetUKhrbqEEKBnjRjjgfuGK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o82rmThq339zBdO8Bd3gUyBic0o.jpg",
+      "release": "2018-03-10"
     },
     {
       "id": 106449,
@@ -470,22 +480,12 @@
     {
       "id": 73223,
       "title": "Black Clover",
-      "rating": 8.5,
-      "votes": 2230,
+      "rating": 8.512,
+      "votes": 2231,
       "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
       "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
       "release": "2017-10-03"
-    },
-    {
-      "id": 121651,
-      "title": "World Wonder Ring Stardom",
-      "rating": 8.8,
-      "votes": 4,
-      "overview": "Stardom World is the VOD network for World Wonder Ring Stardom. WWR Stardom is a Japanese women's promotion started in 2011 featuring matches of many varieties including high speed octane action, long brutal brawls, and even costume battle royals. In 2019, the promotion was acquired by Bushiroad and has since become one of the top wrestling promotions in Japan.",
-      "poster": "https://image.tmdb.org/t/p/w500/liGgY9uimx9jmv89x49jHtb8Ndl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/aFKa34eHIPoKxRxkEQLd6tKy9Ph.jpg",
-      "release": "2011-01-23"
     }
   ]
 }
