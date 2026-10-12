@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-12T04:26:25.160779+00:00",
+  "updated": "2026-10-12T20:55:17.477153+00:00",
   "trending": [
     {
       "id": 123542,
       "title": "LINK CLICK",
-      "rating": 8.2,
-      "votes": 134,
+      "rating": 8.147,
+      "votes": 136,
       "overview": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
       "poster": "https://image.tmdb.org/t/p/w500/wo9jwu5qMvXzhW2cyy5E6hOVs92.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
@@ -14,52 +14,72 @@
     {
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
-      "rating": 9.728,
-      "votes": 79,
+      "rating": 9.801,
+      "votes": 108,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
       "release": "2026-10-11"
     },
     {
-      "id": 333101,
-      "title": "Treasure Island",
-      "rating": 4.2,
-      "votes": 6,
-      "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
-      "poster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
-      "release": "2026-10-11"
-    },
-    {
       "id": 288673,
       "title": "Carrie",
-      "rating": 8.357,
-      "votes": 175,
+      "rating": 8.4,
+      "votes": 196,
       "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
       "poster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "release": "2026-10-07"
     },
     {
+      "id": 333101,
+      "title": "Treasure Island",
+      "rating": 5.9,
+      "votes": 14,
+      "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+      "poster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
+      "release": "2026-10-11"
+    },
+    {
+      "id": 285322,
+      "title": "Below",
+      "rating": 7.253,
+      "votes": 85,
+      "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "release": "2026-10-08"
+    },
+    {
       "id": 95350,
       "title": "Lanterns",
-      "rating": 8.296,
-      "votes": 714,
+      "rating": 8.294,
+      "votes": 720,
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "release": "2026-08-16"
     },
     {
-      "id": 285322,
-      "title": "Below",
-      "rating": 7.26,
-      "votes": 77,
-      "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "release": "2026-10-08"
+      "id": 213375,
+      "title": "VisionQuest",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/v50p9hearMiu6BlYfp4O7FACmXl.jpg",
+      "release": "2026-10-13"
+    },
+    {
+      "id": 304452,
+      "title": "The Lament of Autumn",
+      "rating": 9.0,
+      "votes": 1,
+      "overview": "In the turbulent era of the Republic of China, student Ye Pingjun takes a job at a Western Hunan meeting house to fund her mother’s medical care. However, she's unexpectedly caught in the crossfire of an assassination attempt against the powerful Yu family’s fifth son, Yu Changxuan, and ends up accused of a crime she didn’t commit. Pingjun strikes a bold bargain: if Changxuan cannot identify the true culprit within ten days, he must clear her name. What begins as a high-stakes investigation quickly evolves into a calculated courtship as Changxuan maneuvers to win her heart while hiding a complex web of secrets. Will their blossoming romance survive the encroaching shadows of war, or will the secrets of their past pull them apart?",
+      "poster": "https://image.tmdb.org/t/p/w500/nGSj4YtMOwP4cjGSD1fDlI6WLag.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vD84yLJVVd7cC2lKF8sEukQG2A3.jpg",
+      "release": "2026-10-12"
     },
     {
       "id": 293607,
@@ -87,7 +107,7 @@
       "rating": 8.5,
       "votes": 6,
       "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-      "poster": "https://image.tmdb.org/t/p/w500/a5kWnqgoTOWrv2xZoruQgTSbGgA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
       "release": "2026-10-09"
     },
@@ -100,33 +120,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/oC2MuEWxnLVTyYw70XoK2HFf7nW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/kQ58qbyCGkdmqKZtxMZbLNpgSxX.jpg",
       "release": "2023-08-13"
-    },
-    {
-      "id": 289423,
-      "title": "Take Charge of My Heart",
-      "rating": 8.0,
-      "votes": 9,
-      "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
-      "poster": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-      "release": "2026-10-09"
-    },
-    {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.752,
-      "votes": 5591,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
-      "release": "1999-10-20"
     }
   ],
   "popular": [
     {
       "id": 22980,
       "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 5.01,
+      "rating": 4.94,
       "votes": 100,
       "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
       "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
@@ -164,10 +164,20 @@
       "release": "1962-10-01"
     },
     {
+      "id": 108978,
+      "title": "Reacher",
+      "rating": 8.134,
+      "votes": 3483,
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "release": "2022-02-03"
+    },
+    {
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
-      "rating": 8.0,
-      "votes": 4373,
+      "rating": 7.958,
+      "votes": 4375,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
@@ -184,40 +194,30 @@
       "release": "2014-02-17"
     },
     {
-      "id": 108978,
-      "title": "Reacher",
-      "rating": 8.134,
-      "votes": 3480,
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "release": "2022-02-03"
-    },
-    {
       "id": 2316,
       "title": "The Office",
       "rating": 8.583,
-      "votes": 5567,
+      "votes": 5572,
       "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
       "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
       "release": "2005-03-24"
     },
     {
-      "id": 33238,
-      "title": "Running Man",
-      "rating": 8.2,
-      "votes": 221,
-      "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
-      "poster": "https://image.tmdb.org/t/p/w500/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-      "release": "2010-07-11"
+      "id": 108188,
+      "title": "Barbara Karlich – Talk um 4",
+      "rating": 4.5,
+      "votes": 4,
+      "overview": "A talk show produced by ORF since 1999 and broadcast on ORF 2.",
+      "poster": "https://image.tmdb.org/t/p/w500/1NAVqNAKXbFbBzl9P52boCOUACJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uFDlUMdp3NoXhnveAfgSpty8vBy.jpg",
+      "release": "1999-10-27"
     },
     {
       "id": 549,
       "title": "Law & Order",
-      "rating": 7.284,
-      "votes": 732,
+      "rating": 7.286,
+      "votes": 733,
       "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
       "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
@@ -226,8 +226,8 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.415,
-      "votes": 4844,
+      "rating": 8.416,
+      "votes": 4846,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.368,
-      "votes": 974,
+      "rating": 9.4,
+      "votes": 975,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.127,
-      "votes": 622,
+      "rating": 9.128,
+      "votes": 623,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -268,7 +268,7 @@
     {
       "id": 278573,
       "title": "Perfect Crown",
-      "rating": 8.987,
+      "rating": 9.0,
       "votes": 224,
       "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 9.0,
-      "votes": 18815,
+      "rating": 8.955,
+      "votes": 18819,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.884,
-      "votes": 882,
+      "rating": 8.879,
+      "votes": 883,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -316,6 +316,16 @@
       "release": "2026-06-12"
     },
     {
+      "id": 245026,
+      "title": "Wizards Beyond Waverly Place",
+      "rating": 8.833,
+      "votes": 207,
+      "overview": "Justin Russo has chosen to lead a normal, mortal life with his family, Giada, Roman and Milo. But when Justin's sister Alex brings Billie to his home seeking help, Justin realizes he must dust off his magical skills to mentor the wizard-in-training while also juggling his everyday responsibilities — and safeguarding the future of the Wizard World.",
+      "poster": "https://image.tmdb.org/t/p/w500/5hrBpjFzIqmN9k7QxEC610gwZGw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/TxicZcsiP9VHYXMYHm4IEHnwv9.jpg",
+      "release": "2024-10-29"
+    },
+    {
       "id": 85077,
       "title": "The Chosen",
       "rating": 8.831,
@@ -326,20 +336,10 @@
       "release": "2019-04-21"
     },
     {
-      "id": 245026,
-      "title": "Wizards Beyond Waverly Place",
-      "rating": 8.8,
-      "votes": 206,
-      "overview": "Justin Russo has chosen to lead a normal, mortal life with his family, Giada, Roman and Milo. But when Justin's sister Alex brings Billie to his home seeking help, Justin realizes he must dust off his magical skills to mentor the wizard-in-training while also juggling his everyday responsibilities — and safeguarding the future of the Wizard World.",
-      "poster": "https://image.tmdb.org/t/p/w500/5hrBpjFzIqmN9k7QxEC610gwZGw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/TxicZcsiP9VHYXMYHm4IEHnwv9.jpg",
-      "release": "2024-10-29"
-    },
-    {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.8,
-      "votes": 987,
+      "rating": 8.818,
+      "votes": 988,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
@@ -370,7 +370,7 @@
     {
       "id": 22980,
       "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 5.01,
+      "rating": 4.94,
       "votes": 100,
       "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
       "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
@@ -378,24 +378,34 @@
       "release": "2009-07-16"
     },
     {
-      "id": 33238,
-      "title": "Running Man",
-      "rating": 8.2,
-      "votes": 221,
-      "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
-      "poster": "https://image.tmdb.org/t/p/w500/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-      "release": "2010-07-11"
+      "id": 4656,
+      "title": "Raw",
+      "rating": 6.8,
+      "votes": 379,
+      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+      "poster": "https://image.tmdb.org/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+      "release": "1993-01-11"
     },
     {
-      "id": 2661,
-      "title": "Kamen Rider",
-      "rating": 6.4,
-      "votes": 108,
-      "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-      "poster": "https://image.tmdb.org/t/p/w500/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-      "release": "1971-04-03"
+      "id": 11890,
+      "title": "Goede Tijden, Slechte Tijden",
+      "rating": 5.3,
+      "votes": 21,
+      "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+      "poster": "https://image.tmdb.org/t/p/w500/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+      "release": "1990-10-01"
+    },
+    {
+      "id": 72879,
+      "title": "Tomorrow Is Ours",
+      "rating": 6.3,
+      "votes": 74,
+      "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+      "poster": "https://image.tmdb.org/t/p/w500/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
+      "release": "2017-07-17"
     },
     {
       "id": 291,
@@ -408,84 +418,74 @@
       "release": "1960-12-09"
     },
     {
-      "id": 3034,
-      "title": "Scene of the Crime",
-      "rating": 6.2,
-      "votes": 127,
-      "overview": "Tatort is a long-running German/Austrian/Swiss crime television series set in various parts of these countries. The show is broadcast on the channels of ARD in Germany, ORF in Austria and SF1 in Switzerland.",
-      "poster": "https://image.tmdb.org/t/p/w500/yh43TKi9himQWhzrlWBxV8WjsFn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/A4iwF1mpDq8HScQ3MZMhMJuT93k.jpg",
-      "release": "1970-11-29"
+      "id": 206559,
+      "title": "Binnelanders",
+      "rating": 5.5,
+      "votes": 112,
+      "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+      "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+      "release": "2005-10-13"
     },
     {
-      "id": 57775,
-      "title": "Chibi Maruko-chan",
-      "rating": 7.8,
-      "votes": 24,
-      "overview": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a cozy town alongside her loving parents, grandparents, and sister. Maruko has a band of loyal friends, including her closest pal, Tama-chan, but her playful and doting grandpa is at the heart of it all. Life is never dull in this charming series.",
-      "poster": "https://image.tmdb.org/t/p/w500/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
-      "release": "1990-01-07"
+      "id": 65701,
+      "title": "Good Mythical Morning",
+      "rating": 6.938,
+      "votes": 96,
+      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+      "release": "2012-01-09"
     },
     {
-      "id": 154770,
-      "title": "Hello Saturday",
-      "rating": 6.5,
-      "votes": 11,
-      "overview": "\"Hello, Saturday\" is the rebranding of the popular Chinese show \"Happy Camp\", hosted by He Jiong and with a fixed group of regular celebrity members.\n\nThe program showcases the talent of various stars as well as social topics through creative and diverse content and games. It aims to spread positive energy while keeping up with the current trends and leading youth culture.",
-      "poster": "https://image.tmdb.org/t/p/w500/wsTjWy6NE2s3h0neChr0D92ddwI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg",
-      "release": "2022-01-01"
+      "id": 80748,
+      "title": "FBI",
+      "rating": 7.9,
+      "votes": 955,
+      "overview": "The New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep their city and the country safe.",
+      "poster": "https://image.tmdb.org/t/p/w500/br3xWBUu7W0dXsMev0XXVvoMxuE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/j9nU0GHNakbQhoFCDE61OrvMjTC.jpg",
+      "release": "2018-09-25"
     },
     {
-      "id": 65334,
-      "title": "Miraculous: Tales of Ladybug & Cat Noir",
-      "rating": 8.1,
-      "votes": 4689,
-      "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
-      "poster": "https://image.tmdb.org/t/p/w500/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
-      "release": "2015-10-19"
+      "id": 2912,
+      "title": "Jeopardy!",
+      "rating": 6.925,
+      "votes": 167,
+      "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+      "poster": "https://image.tmdb.org/t/p/w500/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+      "release": "1984-09-10"
     },
     {
-      "id": 30801,
-      "title": "2 Days and 1 Night",
-      "rating": 6.7,
-      "votes": 30,
-      "overview": "2 Days & 1 Night is a South Korean reality-variety show with the motto \"real wild road variety.\" Its main concept is to recommend various places of interest that viewers can visit in South Korea.",
-      "poster": "https://image.tmdb.org/t/p/w500/qezeCEkIKHQM5iwyVeYBuXmYA2h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/32iRX9xqNH3ErJN6FowxdtgYmiY.jpg",
-      "release": "2007-08-05"
+      "id": 81329,
+      "title": "Chronicles of the Sun",
+      "rating": 6.6,
+      "votes": 129,
+      "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
+      "poster": "https://image.tmdb.org/t/p/w500/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
+      "release": "2018-08-27"
     },
     {
-      "id": 290856,
-      "title": "Marshals",
-      "rating": 7.922,
-      "votes": 387,
-      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
-      "poster": "https://image.tmdb.org/t/p/w500/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-      "release": "2026-03-01"
+      "id": 1871,
+      "title": "EastEnders",
+      "rating": 4.3,
+      "votes": 231,
+      "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+      "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
+      "release": "1985-02-19"
     },
     {
-      "id": 259140,
-      "title": "Ranma1/2",
-      "rating": 8.1,
-      "votes": 193,
-      "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
-      "poster": "https://image.tmdb.org/t/p/w500/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
-      "release": "2024-10-06"
-    },
-    {
-      "id": 110181,
-      "title": "The God of War Dominates",
-      "rating": 7.4,
-      "votes": 9,
-      "overview": "The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.\n\nThree hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen’s will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father’s birth, the mother and son were treated coldly in Dingwu’s palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.",
-      "poster": "https://image.tmdb.org/t/p/w500/ihVkKv0QBPK8kf8SUajc4cK1Km6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iWS5Z9wsQT8hC0HYAUN6WXLmFNP.jpg",
-      "release": "2020-03-07"
+      "id": 112470,
+      "title": "Ici tout commence",
+      "rating": 6.8,
+      "votes": 92,
+      "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+      "poster": "https://image.tmdb.org/t/p/w500/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+      "release": "2020-11-02"
     }
   ]
 }
