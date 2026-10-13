@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T20:55:17.477153+00:00",
+  "updated": "2026-10-13T05:34:11.092813+00:00",
   "trending": [
     {
       "id": 123542,
@@ -14,8 +14,8 @@
     {
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
-      "rating": 9.801,
-      "votes": 108,
+      "rating": 9.824,
+      "votes": 122,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
@@ -24,42 +24,22 @@
     {
       "id": 288673,
       "title": "Carrie",
-      "rating": 8.4,
-      "votes": 196,
+      "rating": 8.466,
+      "votes": 205,
       "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-      "poster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "release": "2026-10-07"
     },
     {
       "id": 333101,
       "title": "Treasure Island",
-      "rating": 5.9,
-      "votes": 14,
+      "rating": 6.4,
+      "votes": 17,
       "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
       "poster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
       "release": "2026-10-11"
-    },
-    {
-      "id": 285322,
-      "title": "Below",
-      "rating": 7.253,
-      "votes": 85,
-      "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "release": "2026-10-08"
-    },
-    {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.294,
-      "votes": 720,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "release": "2026-08-16"
     },
     {
       "id": 213375,
@@ -72,6 +52,26 @@
       "release": "2026-10-13"
     },
     {
+      "id": 285322,
+      "title": "Below",
+      "rating": 7.313,
+      "votes": 91,
+      "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "release": "2026-10-08"
+    },
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.3,
+      "votes": 724,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "release": "2026-08-16"
+    },
+    {
       "id": 304452,
       "title": "The Lament of Autumn",
       "rating": 9.0,
@@ -80,26 +80,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/nGSj4YtMOwP4cjGSD1fDlI6WLag.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vD84yLJVVd7cC2lKF8sEukQG2A3.jpg",
       "release": "2026-10-12"
-    },
-    {
-      "id": 293607,
-      "title": "100 Days of Deception",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
-      "poster": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-      "release": "2026-10-10"
-    },
-    {
-      "id": 73223,
-      "title": "Black Clover",
-      "rating": 8.513,
-      "votes": 2235,
-      "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-      "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-      "release": "2017-10-03"
     },
     {
       "id": 293610,
@@ -112,14 +92,34 @@
       "release": "2026-10-09"
     },
     {
-      "id": 231620,
-      "title": "Natural High",
-      "rating": 7.5,
-      "votes": 6,
-      "overview": "Come and join Shen Teng and his friends as they step away from the bustling crowded cities and reconnect with the beautiful wild nature.",
-      "poster": "https://image.tmdb.org/t/p/w500/oC2MuEWxnLVTyYw70XoK2HFf7nW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/kQ58qbyCGkdmqKZtxMZbLNpgSxX.jpg",
-      "release": "2023-08-13"
+      "id": 73223,
+      "title": "Black Clover",
+      "rating": 8.5,
+      "votes": 2236,
+      "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+      "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "release": "2017-10-03"
+    },
+    {
+      "id": 293607,
+      "title": "100 Days of Deception",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+      "poster": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+      "release": "2026-10-10"
+    },
+    {
+      "id": 126116,
+      "title": "Time",
+      "rating": 7.594,
+      "votes": 286,
+      "overview": "Guilt, violence and impossible choices – what does it take to survive? Tense, gritty and heartbreaking – Jimmy McGovern's award-winning prison drama, with an all-star cast.",
+      "poster": "https://image.tmdb.org/t/p/w500/mhi7oohUBIufTjF9u41uMXYHsw2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gJahHqSvFrBjjt3AX6oOL2B0yMP.jpg",
+      "release": "2021-06-06"
     }
   ],
   "popular": [
@@ -166,8 +166,8 @@
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.134,
-      "votes": 3483,
+      "rating": 8.135,
+      "votes": 3486,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -176,7 +176,7 @@
     {
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
-      "rating": 7.958,
+      "rating": 8.0,
       "votes": 4375,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
@@ -197,7 +197,7 @@
       "id": 2316,
       "title": "The Office",
       "rating": 8.583,
-      "votes": 5572,
+      "votes": 5576,
       "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
       "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
@@ -227,7 +227,7 @@
       "id": 5920,
       "title": "The Mentalist",
       "rating": 8.416,
-      "votes": 4846,
+      "votes": 4847,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
@@ -249,7 +249,7 @@
       "id": 276161,
       "title": "Teach You a Lesson",
       "rating": 9.4,
-      "votes": 975,
+      "votes": 976,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.128,
-      "votes": 623,
+      "rating": 9.13,
+      "votes": 624,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 278573,
       "title": "Perfect Crown",
-      "rating": 9.0,
-      "votes": 224,
+      "rating": 8.973,
+      "votes": 225,
       "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.955,
-      "votes": 18819,
+      "rating": 9.0,
+      "votes": 18823,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -318,7 +318,7 @@
     {
       "id": 245026,
       "title": "Wizards Beyond Waverly Place",
-      "rating": 8.833,
+      "rating": 8.8,
       "votes": 207,
       "overview": "Justin Russo has chosen to lead a normal, mortal life with his family, Giada, Roman and Milo. But when Justin's sister Alex brings Billie to his home seeking help, Justin realizes he must dust off his magical skills to mentor the wizard-in-training while also juggling his everyday responsibilities — and safeguarding the future of the Wizard World.",
       "poster": "https://image.tmdb.org/t/p/w500/5hrBpjFzIqmN9k7QxEC610gwZGw.jpg",
@@ -339,7 +339,7 @@
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
       "rating": 8.818,
-      "votes": 988,
+      "votes": 990,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
