@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-14T03:37:25.668395+00:00",
+  "updated": "2026-10-14T16:34:39.729075+00:00",
   "trending": [
     {
       "id": 213375,
       "title": "VisionQuest",
-      "rating": 9.3,
-      "votes": 7,
+      "rating": 9.153,
+      "votes": 36,
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/9Icyh6iwzlXrnhuun4GSVpvmkiz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vLOdytDyJ9OBwV0EwAQOdASW8Y5.jpg",
       "release": "2026-10-13"
     },
     {
       "id": 123542,
       "title": "LINK CLICK",
-      "rating": 8.1,
-      "votes": 136,
+      "rating": 8.095,
+      "votes": 137,
       "overview": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
       "poster": "https://image.tmdb.org/t/p/w500/wo9jwu5qMvXzhW2cyy5E6hOVs92.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
@@ -24,32 +24,22 @@
     {
       "id": 288673,
       "title": "Carrie",
-      "rating": 8.5,
-      "votes": 226,
+      "rating": 8.477,
+      "votes": 241,
       "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
       "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "release": "2026-10-07"
     },
     {
-      "id": 285322,
-      "title": "Below",
-      "rating": 7.29,
-      "votes": 100,
-      "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "release": "2026-10-08"
-    },
-    {
-      "id": 333101,
-      "title": "Treasure Island",
-      "rating": 6.158,
-      "votes": 19,
-      "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
-      "poster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
-      "release": "2026-10-11"
+      "id": 289892,
+      "title": "Helluva Boss",
+      "rating": 7.544,
+      "votes": 114,
+      "overview": "In Hell, imp Blitzø (the 'o' is silent) runs an assassin business targeting the world of the living, using a spell book borrowed from a prince of the underworld. With employees Moxxie, Millie, and Loona, they attempt to survive each other while keeping business afloat.",
+      "poster": "https://image.tmdb.org/t/p/w500/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
+      "release": "2020-10-31"
     },
     {
       "id": 335536,
@@ -62,64 +52,74 @@
       "release": "2026-10-13"
     },
     {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.28,
-      "votes": 731,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-      "release": "2026-08-16"
-    },
-    {
       "id": 283371,
       "title": "The Trap",
       "rating": 7.0,
-      "votes": 4,
+      "votes": 6,
       "overview": "Follow famous author Lisa Konrad, who has not left her house for a decade after witnessing the murder of her sister. One night she sees who she believes was the murdered on television, and decides to use herself as bait to catch them.",
       "poster": "https://image.tmdb.org/t/p/w500/dkLTaC44QqnCAgzCf180TxMmmG5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
       "release": "2026-10-13"
     },
     {
-      "id": 312359,
-      "title": "Dragon Ball Super: Beerus",
-      "rating": 9.841,
-      "votes": 148,
-      "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-      "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-      "release": "2026-10-11"
+      "id": 285322,
+      "title": "Below",
+      "rating": 7.264,
+      "votes": 106,
+      "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "release": "2026-10-08"
+    },
+    {
+      "id": 95480,
+      "title": "Slow Horses",
+      "rating": 8.0,
+      "votes": 1041,
+      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "release": "2022-04-01"
     },
     {
       "id": 97546,
       "title": "Ted Lasso",
-      "rating": 8.4,
-      "votes": 2754,
+      "rating": 8.362,
+      "votes": 2758,
       "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
       "release": "2020-08-14"
     },
     {
-      "id": 213562,
-      "title": "Crystal Lake",
-      "rating": 5.5,
-      "votes": 2,
-      "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
-      "release": "2026-10-15"
+      "id": 312359,
+      "title": "Dragon Ball Super: Beerus",
+      "rating": 9.806,
+      "votes": 157,
+      "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+      "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+      "release": "2026-10-11"
     },
     {
-      "id": 290856,
-      "title": "Marshals",
-      "rating": 7.949,
-      "votes": 395,
-      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
-      "poster": "https://image.tmdb.org/t/p/w500/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-      "release": "2026-03-01"
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.276,
+      "votes": 736,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "release": "2026-08-16"
+    },
+    {
+      "id": 333101,
+      "title": "Treasure Island",
+      "rating": 6.35,
+      "votes": 20,
+      "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+      "poster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
+      "release": "2026-10-11"
     }
   ],
   "popular": [
@@ -146,7 +146,7 @@
     {
       "id": 91759,
       "title": "Come Home Love: Lo and Behold",
-      "rating": 5.375,
+      "rating": 5.4,
       "votes": 48,
       "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
       "poster": "https://image.tmdb.org/t/p/w500/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
@@ -166,8 +166,8 @@
     {
       "id": 108978,
       "title": "Reacher",
-      "rating": 8.135,
-      "votes": 3489,
+      "rating": 8.133,
+      "votes": 3491,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -227,7 +227,7 @@
       "id": 5920,
       "title": "The Mentalist",
       "rating": 8.418,
-      "votes": 4852,
+      "votes": 4856,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
@@ -237,10 +237,10 @@
       "id": 2316,
       "title": "The Office",
       "rating": 8.6,
-      "votes": 5577,
+      "votes": 5579,
       "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
       "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
       "release": "2005-03-24"
     }
   ],
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.369,
-      "votes": 979,
+      "rating": 9.367,
+      "votes": 980,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.13,
-      "votes": 624,
+      "rating": 9.133,
+      "votes": 626,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.955,
-      "votes": 18830,
+      "votes": 18836,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.878,
-      "votes": 884,
+      "rating": 8.88,
+      "votes": 885,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -328,8 +328,8 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.831,
-      "votes": 1022,
+      "rating": 8.832,
+      "votes": 1023,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
@@ -338,8 +338,8 @@
     {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.818,
-      "votes": 991,
+      "rating": 8.8,
+      "votes": 992,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
@@ -348,7 +348,7 @@
     {
       "id": 259837,
       "title": "The WONDERfools",
-      "rating": 8.811,
+      "rating": 8.8,
       "votes": 278,
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
@@ -358,8 +358,8 @@
     {
       "id": 219246,
       "title": "When Life Gives You Tangerines",
-      "rating": 8.806,
-      "votes": 602,
+      "rating": 8.808,
+      "votes": 603,
       "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
       "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
@@ -376,16 +376,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
       "release": "2009-07-16"
-    },
-    {
-      "id": 4614,
-      "title": "NCIS",
-      "rating": 7.6,
-      "votes": 2591,
-      "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-      "poster": "https://image.tmdb.org/t/p/w500/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-      "release": "2003-09-23"
     },
     {
       "id": 206559,
@@ -408,6 +398,16 @@
       "release": "1960-12-09"
     },
     {
+      "id": 95480,
+      "title": "Slow Horses",
+      "rating": 8.0,
+      "votes": 1041,
+      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "release": "2022-04-01"
+    },
+    {
       "id": 11890,
       "title": "Goede Tijden, Slechte Tijden",
       "rating": 5.3,
@@ -418,6 +418,16 @@
       "release": "1990-10-01"
     },
     {
+      "id": 65270,
+      "title": "Radio Star",
+      "rating": 5.5,
+      "votes": 6,
+      "overview": "“Radio Star” is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives, their pasts and their work. It is part of Munhwa Broadcasting Corporation's \"Golden Fishery\" programming block.",
+      "poster": "https://image.tmdb.org/t/p/w500/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
+      "release": "2007-05-30"
+    },
+    {
       "id": 72879,
       "title": "Tomorrow Is Ours",
       "rating": 6.3,
@@ -426,6 +436,26 @@
       "poster": "https://image.tmdb.org/t/p/w500/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
       "release": "2017-07-17"
+    },
+    {
+      "id": 44006,
+      "title": "Chicago Fire",
+      "rating": 8.41,
+      "votes": 2448,
+      "overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
+      "poster": "https://image.tmdb.org/t/p/w500/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/otaBZzLIqrKdXcovbAvVONJCnb4.jpg",
+      "release": "2012-10-10"
+    },
+    {
+      "id": 58841,
+      "title": "Chicago P.D.",
+      "rating": 8.422,
+      "votes": 2644,
+      "overview": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
+      "poster": "https://image.tmdb.org/t/p/w500/w7R4ooo2IbOfBKOoMDwaiMGsNQf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/18KSsDgcGQds7yOMC6MVRTbVJwt.jpg",
+      "release": "2014-01-08"
     },
     {
       "id": 65701,
@@ -456,36 +486,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
       "release": "2018-08-27"
-    },
-    {
-      "id": 2912,
-      "title": "Jeopardy!",
-      "rating": 6.925,
-      "votes": 167,
-      "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
-      "poster": "https://image.tmdb.org/t/p/w500/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
-      "release": "1984-09-10"
-    },
-    {
-      "id": 1871,
-      "title": "EastEnders",
-      "rating": 4.3,
-      "votes": 231,
-      "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
-      "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
-      "release": "1985-02-19"
-    },
-    {
-      "id": 112470,
-      "title": "Ici tout commence",
-      "rating": 6.8,
-      "votes": 92,
-      "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
-      "poster": "https://image.tmdb.org/t/p/w500/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
-      "release": "2020-11-02"
     }
   ]
 }
