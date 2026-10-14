@@ -1,85 +1,15 @@
 {
-  "updated": "2026-10-13T18:53:45.069612+00:00",
+  "updated": "2026-10-14T03:37:25.668395+00:00",
   "trending": [
-    {
-      "id": 288673,
-      "title": "Carrie",
-      "rating": 8.475,
-      "votes": 219,
-      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-      "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "release": "2026-10-07"
-    },
     {
       "id": 213375,
       "title": "VisionQuest",
-      "rating": 10.0,
-      "votes": 3,
+      "rating": 9.3,
+      "votes": 7,
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/9Icyh6iwzlXrnhuun4GSVpvmkiz.jpg",
       "release": "2026-10-13"
-    },
-    {
-      "id": 285322,
-      "title": "Below",
-      "rating": 7.3,
-      "votes": 96,
-      "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "release": "2026-10-08"
-    },
-    {
-      "id": 333101,
-      "title": "Treasure Island",
-      "rating": 6.2,
-      "votes": 19,
-      "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
-      "poster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
-      "release": "2026-10-11"
-    },
-    {
-      "id": 312359,
-      "title": "Dragon Ball Super: Beerus",
-      "rating": 9.844,
-      "votes": 138,
-      "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-      "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-      "release": "2026-10-11"
-    },
-    {
-      "id": 304452,
-      "title": "The Lament of Autumn",
-      "rating": 9.0,
-      "votes": 1,
-      "overview": "In the turbulent era of the Republic of China, student Ye Pingjun takes a job at a Western Hunan meeting house to fund her mother’s medical care. However, she's unexpectedly caught in the crossfire of an assassination attempt against the powerful Yu family’s fifth son, Yu Changxuan, and ends up accused of a crime she didn’t commit. Pingjun strikes a bold bargain: if Changxuan cannot identify the true culprit within ten days, he must clear her name. What begins as a high-stakes investigation quickly evolves into a calculated courtship as Changxuan maneuvers to win her heart while hiding a complex web of secrets. Will their blossoming romance survive the encroaching shadows of war, or will the secrets of their past pull them apart?",
-      "poster": "https://image.tmdb.org/t/p/w500/3cevVFOasnHhuMqfI06ALkhVoU0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vD84yLJVVd7cC2lKF8sEukQG2A3.jpg",
-      "release": "2026-10-12"
-    },
-    {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.3,
-      "votes": 728,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-      "release": "2026-08-16"
-    },
-    {
-      "id": 126116,
-      "title": "Time",
-      "rating": 7.594,
-      "votes": 286,
-      "overview": "Guilt, violence and impossible choices – what does it take to survive? Tense, gritty and heartbreaking – Jimmy McGovern's award-winning prison drama, with an all-star cast.",
-      "poster": "https://image.tmdb.org/t/p/w500/mhi7oohUBIufTjF9u41uMXYHsw2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gJahHqSvFrBjjt3AX6oOL2B0yMP.jpg",
-      "release": "2021-06-06"
     },
     {
       "id": 123542,
@@ -92,6 +22,36 @@
       "release": "2021-04-30"
     },
     {
+      "id": 288673,
+      "title": "Carrie",
+      "rating": 8.5,
+      "votes": 226,
+      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+      "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "release": "2026-10-07"
+    },
+    {
+      "id": 285322,
+      "title": "Below",
+      "rating": 7.29,
+      "votes": 100,
+      "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "release": "2026-10-08"
+    },
+    {
+      "id": 333101,
+      "title": "Treasure Island",
+      "rating": 6.158,
+      "votes": 19,
+      "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+      "poster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
+      "release": "2026-10-11"
+    },
+    {
       "id": 335536,
       "title": "TYSON",
       "rating": 0.0,
@@ -102,27 +62,77 @@
       "release": "2026-10-13"
     },
     {
+      "id": 95350,
+      "title": "Lanterns",
+      "rating": 8.28,
+      "votes": 731,
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "release": "2026-08-16"
+    },
+    {
+      "id": 283371,
+      "title": "The Trap",
+      "rating": 7.0,
+      "votes": 4,
+      "overview": "Follow famous author Lisa Konrad, who has not left her house for a decade after witnessing the murder of her sister. One night she sees who she believes was the murdered on television, and decides to use herself as bait to catch them.",
+      "poster": "https://image.tmdb.org/t/p/w500/dkLTaC44QqnCAgzCf180TxMmmG5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+      "release": "2026-10-13"
+    },
+    {
+      "id": 312359,
+      "title": "Dragon Ball Super: Beerus",
+      "rating": 9.841,
+      "votes": 148,
+      "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+      "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+      "release": "2026-10-11"
+    },
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "rating": 8.4,
+      "votes": 2754,
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "release": "2020-08-14"
+    },
+    {
+      "id": 213562,
+      "title": "Crystal Lake",
+      "rating": 5.5,
+      "votes": 2,
+      "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
+      "release": "2026-10-15"
+    },
+    {
       "id": 290856,
       "title": "Marshals",
-      "rating": 7.944,
-      "votes": 394,
+      "rating": 7.949,
+      "votes": 395,
       "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
       "poster": "https://image.tmdb.org/t/p/w500/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
       "release": "2026-03-01"
-    },
-    {
-      "id": 108978,
-      "title": "Reacher",
-      "rating": 8.135,
-      "votes": 3489,
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "release": "2022-02-03"
     }
   ],
   "popular": [
+    {
+      "id": 108188,
+      "title": "Barbara Karlich – Talk um 4",
+      "rating": 4.5,
+      "votes": 4,
+      "overview": "A talk show produced by ORF since 1999 and broadcast on ORF 2.",
+      "poster": "https://image.tmdb.org/t/p/w500/1NAVqNAKXbFbBzl9P52boCOUACJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uFDlUMdp3NoXhnveAfgSpty8vBy.jpg",
+      "release": "1999-10-27"
+    },
     {
       "id": 22980,
       "title": "Watch What Happens Live with Andy Cohen",
@@ -144,16 +154,6 @@
       "release": "2017-02-20"
     },
     {
-      "id": 70998,
-      "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-      "rating": 5.5,
-      "votes": 15,
-      "overview": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had always wanted to know more about the kind-hearted boy in high school, but once she realizes that Kujou has become a monk, she believes that any chance of getting to know him romantically is slim. Deciding to drink away her sorrows, she ends up walking home drunk, and surprisingly, running into Kujou who helps her get home.\n\nHowever, once inside, Kujou's lust for Mio becomes apparent and the two share an erotic night of passion. As this steamy romance blossoms between these two unlikely lovers, Mio and Kujou will undoubtedly spend many nights together in utter ecstasy.",
-      "poster": "https://image.tmdb.org/t/p/w500/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4kQiFnWtwndtCyKMszVJNPEE1kY.jpg",
-      "release": "2017-04-03"
-    },
-    {
       "id": 2261,
       "title": "The Tonight Show Starring Johnny Carson",
       "rating": 7.562,
@@ -167,7 +167,7 @@
       "id": 108978,
       "title": "Reacher",
       "rating": 8.135,
-      "votes": 3486,
+      "votes": 3489,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -194,26 +194,6 @@
       "release": "2014-02-17"
     },
     {
-      "id": 2316,
-      "title": "The Office",
-      "rating": 8.583,
-      "votes": 5577,
-      "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
-      "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
-      "release": "2005-03-24"
-    },
-    {
-      "id": 108188,
-      "title": "Barbara Karlich – Talk um 4",
-      "rating": 4.5,
-      "votes": 4,
-      "overview": "A talk show produced by ORF since 1999 and broadcast on ORF 2.",
-      "poster": "https://image.tmdb.org/t/p/w500/1NAVqNAKXbFbBzl9P52boCOUACJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uFDlUMdp3NoXhnveAfgSpty8vBy.jpg",
-      "release": "1999-10-27"
-    },
-    {
       "id": 549,
       "title": "Law & Order",
       "rating": 7.286,
@@ -224,14 +204,14 @@
       "release": "1990-09-13"
     },
     {
-      "id": 5920,
-      "title": "The Mentalist",
-      "rating": 8.417,
-      "votes": 4850,
-      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-      "release": "2008-09-23"
+      "id": 70998,
+      "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+      "rating": 5.5,
+      "votes": 15,
+      "overview": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had always wanted to know more about the kind-hearted boy in high school, but once she realizes that Kujou has become a monk, she believes that any chance of getting to know him romantically is slim. Deciding to drink away her sorrows, she ends up walking home drunk, and surprisingly, running into Kujou who helps her get home.\n\nHowever, once inside, Kujou's lust for Mio becomes apparent and the two share an erotic night of passion. As this steamy romance blossoms between these two unlikely lovers, Mio and Kujou will undoubtedly spend many nights together in utter ecstasy.",
+      "poster": "https://image.tmdb.org/t/p/w500/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4kQiFnWtwndtCyKMszVJNPEE1kY.jpg",
+      "release": "2017-04-03"
     },
     {
       "id": 61818,
@@ -242,6 +222,26 @@
       "poster": "https://image.tmdb.org/t/p/w500/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
       "release": "2014-02-25"
+    },
+    {
+      "id": 5920,
+      "title": "The Mentalist",
+      "rating": 8.418,
+      "votes": 4852,
+      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+      "release": "2008-09-23"
+    },
+    {
+      "id": 2316,
+      "title": "The Office",
+      "rating": 8.6,
+      "votes": 5577,
+      "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+      "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+      "release": "2005-03-24"
     }
   ],
   "top_rated": [
@@ -268,7 +268,7 @@
     {
       "id": 278573,
       "title": "Perfect Crown",
-      "rating": 8.978,
+      "rating": 9.0,
       "votes": 226,
       "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 9.0,
-      "votes": 18828,
+      "rating": 8.955,
+      "votes": 18830,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.879,
-      "votes": 883,
+      "rating": 8.878,
+      "votes": 884,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
