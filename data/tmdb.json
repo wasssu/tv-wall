@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-16T16:07:11.077392+00:00",
+  "updated": "2026-10-17T03:04:36.721627+00:00",
   "trending": [
     {
       "id": 213562,
       "title": "Crystal Lake",
-      "rating": 7.773,
-      "votes": 22,
+      "rating": 8.2,
+      "votes": 37,
       "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
       "poster": "https://image.tmdb.org/t/p/w500/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
@@ -15,27 +15,17 @@
       "id": 153312,
       "title": "Tulsa King",
       "rating": 8.3,
-      "votes": 2826,
+      "votes": 2829,
       "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
       "poster": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
       "release": "2022-11-13"
     },
     {
-      "id": 203857,
-      "title": "The Diplomat",
-      "rating": 7.598,
-      "votes": 493,
-      "overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
-      "poster": "https://image.tmdb.org/t/p/w500/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "release": "2023-04-20"
-    },
-    {
       "id": 213375,
       "title": "VisionQuest",
-      "rating": 9.034,
-      "votes": 74,
+      "rating": 9.1,
+      "votes": 79,
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
@@ -52,107 +42,87 @@
       "release": "2026-10-16"
     },
     {
+      "id": 298550,
+      "title": "Friends Sex and Games",
+      "rating": 10.0,
+      "votes": 1,
+      "overview": "A group of friends starts a daring game. Everyone throws their keys into a bowl—whoever picks one spends the night with the owner of that key.",
+      "poster": "https://image.tmdb.org/t/p/w500/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/geSUajSeWBu14vLk0NyuR1OnrX7.jpg",
+      "release": "2026-10-16"
+    },
+    {
       "id": 288673,
       "title": "Carrie",
-      "rating": 8.415,
-      "votes": 288,
+      "rating": 8.3,
+      "votes": 302,
       "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
       "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "release": "2026-10-07"
     },
     {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.508,
-      "votes": 1036,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
+      "id": 203857,
+      "title": "The Diplomat",
+      "rating": 7.6,
+      "votes": 493,
+      "overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
+      "poster": "https://image.tmdb.org/t/p/w500/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "release": "2023-04-20"
     },
     {
       "id": 196322,
       "title": "Dark Matter",
-      "rating": 7.803,
-      "votes": 834,
+      "rating": 7.8,
+      "votes": 835,
       "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
       "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
       "release": "2024-05-07"
     },
     {
-      "id": 298550,
-      "title": "Friends Sex and Games",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "A group of friends starts a daring game. Everyone throws their keys into a bowl—whoever picks one spends the night with the owner of that key.",
-      "poster": "https://image.tmdb.org/t/p/w500/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ooFTNyBV1OKoFs2VovuzK0ngMjM.jpg",
-      "release": "2026-10-16"
-    },
-    {
-      "id": 286183,
-      "title": "Hollywood Arts",
-      "rating": 7.0,
-      "votes": 2,
-      "overview": "Struggling actress Trina Vega returns to her former high school, Hollywood Arts, as an unqualified substitute teacher, quickly finding herself both clashing with and unexpectedly inspiring a new generation of ambitious and talented students as they learn to find their true path at Hollywood's most elite performing arts school.",
-      "poster": "https://image.tmdb.org/t/p/w500/uVL8tV8z9br3XGsA9DDEY743sRE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
-      "release": "2026-10-15"
-    },
-    {
-      "id": 311648,
-      "title": "Make Me Tingle",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
-      "poster": "https://image.tmdb.org/t/p/w500/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
-      "release": "2026-10-15"
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.516,
+      "votes": 1043,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "release": "2025-03-30"
     },
     {
       "id": 2190,
       "title": "South Park",
       "rating": 8.329,
-      "votes": 5199,
+      "votes": 5201,
       "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
       "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
       "release": "1997-08-13"
+    },
+    {
+      "id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "rating": 8.5,
+      "votes": 1677,
+      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+      "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
+      "release": "2012-10-06"
+    },
+    {
+      "id": 285322,
+      "title": "Below",
+      "rating": 7.3,
+      "votes": 144,
+      "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "release": "2026-10-08"
     }
   ],
   "popular": [
-    {
-      "id": 59941,
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.789,
-      "votes": 395,
-      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-      "release": "2014-02-17"
-    },
-    {
-      "id": 22980,
-      "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 4.9,
-      "votes": 100,
-      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-      "release": "2009-07-16"
-    },
-    {
-      "id": 61818,
-      "title": "Late Night with Seth Meyers",
-      "rating": 5.1,
-      "votes": 136,
-      "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-      "poster": "https://image.tmdb.org/t/p/w500/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-      "release": "2014-02-25"
-    },
     {
       "id": 91759,
       "title": "Come Home Love: Lo and Behold",
@@ -164,14 +134,14 @@
       "release": "2017-02-20"
     },
     {
-      "id": 456,
-      "title": "The Simpsons",
-      "rating": 8.0,
-      "votes": 11075,
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
-      "release": "1989-12-17"
+      "id": 22980,
+      "title": "Watch What Happens Live with Andy Cohen",
+      "rating": 4.9,
+      "votes": 100,
+      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+      "release": "2009-07-16"
     },
     {
       "id": 2734,
@@ -194,24 +164,44 @@
       "release": "1962-10-01"
     },
     {
+      "id": 59941,
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "rating": 5.789,
+      "votes": 395,
+      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
+      "release": "2014-02-17"
+    },
+    {
+      "id": 456,
+      "title": "The Simpsons",
+      "rating": 8.024,
+      "votes": 11075,
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
+      "release": "1989-12-17"
+    },
+    {
       "id": 108978,
       "title": "Reacher",
       "rating": 8.132,
-      "votes": 3500,
+      "votes": 3502,
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "release": "2022-02-03"
     },
     {
-      "id": 2316,
-      "title": "The Office",
-      "rating": 8.584,
-      "votes": 5583,
-      "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
-      "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
-      "release": "2005-03-24"
+      "id": 61818,
+      "title": "Late Night with Seth Meyers",
+      "rating": 5.1,
+      "votes": 136,
+      "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "poster": "https://image.tmdb.org/t/p/w500/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
+      "release": "2014-02-25"
     },
     {
       "id": 549,
@@ -234,6 +224,16 @@
       "release": "2010-07-11"
     },
     {
+      "id": 2316,
+      "title": "The Office",
+      "rating": 8.583,
+      "votes": 5586,
+      "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+      "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
+      "release": "2005-03-24"
+    },
+    {
       "id": 4614,
       "title": "NCIS",
       "rating": 7.6,
@@ -248,8 +248,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.366,
-      "votes": 981,
+      "rating": 9.365,
+      "votes": 982,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -266,6 +266,16 @@
       "release": "2026-05-15"
     },
     {
+      "id": 229544,
+      "title": "Among Us",
+      "rating": 9.038,
+      "votes": 200,
+      "overview": "Eccentric, monochromatic crewmates of a ship transporting junk across the galaxy must root out an Impostor in their midst before they fall victim to its villainous designs.",
+      "poster": "https://image.tmdb.org/t/p/w500/ourBbG4B1dAjfFUCzuUYEZpR101.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/zoa11EvyuasC3j7PmH1QGftrSvf.jpg",
+      "release": "2026-06-05"
+    },
+    {
       "id": 278573,
       "title": "Perfect Crown",
       "rating": 9.0,
@@ -279,7 +289,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.955,
-      "votes": 18855,
+      "votes": 18858,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -328,8 +338,8 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.8,
-      "votes": 1024,
+      "rating": 8.834,
+      "votes": 1025,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
@@ -354,16 +364,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
       "release": "2026-05-15"
-    },
-    {
-      "id": 219246,
-      "title": "When Life Gives You Tangerines",
-      "rating": 8.802,
-      "votes": 605,
-      "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
-      "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-      "release": "2025-03-07"
     }
   ],
   "airing_today": [
@@ -381,7 +381,7 @@
       "id": 247718,
       "title": "MobLand",
       "rating": 8.508,
-      "votes": 1036,
+      "votes": 1037,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
@@ -460,8 +460,8 @@
     {
       "id": 284833,
       "title": "Avatar: Seven Havens",
-      "rating": 8.9,
-      "votes": 68,
+      "rating": 9.033,
+      "votes": 75,
       "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
       "poster": "https://image.tmdb.org/t/p/w500/9kraV68AzbRktgbmvOt63iAGgZX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
