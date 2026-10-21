@@ -1,21 +1,51 @@
 {
-  "updated": "2026-10-21T03:23:52.924784+00:00",
+  "updated": "2026-10-21T16:38:45.896858+00:00",
   "trending": [
     {
       "id": 105248,
       "title": "Cyberpunk: Edgerunners",
-      "rating": 8.492,
-      "votes": 2041,
+      "rating": 8.5,
+      "votes": 2051,
       "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
       "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
       "release": "2022-09-13"
     },
     {
+      "id": 120911,
+      "title": "The Terminal List",
+      "rating": 8.0,
+      "votes": 1249,
+      "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+      "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
+      "release": "2022-06-30"
+    },
+    {
+      "id": 220542,
+      "title": "The Apothecary Diaries",
+      "rating": 8.658,
+      "votes": 675,
+      "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+      "poster": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+      "release": "2023-10-22"
+    },
+    {
+      "id": 213375,
+      "title": "VisionQuest",
+      "rating": 8.8,
+      "votes": 134,
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "release": "2026-10-13"
+    },
+    {
       "id": 123542,
       "title": "LINK CLICK",
-      "rating": 8.0,
-      "votes": 144,
+      "rating": 8.03,
+      "votes": 148,
       "overview": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
       "poster": "https://image.tmdb.org/t/p/w500/hCt2bLRGTCjHGqtV5FP3Img6w1h.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
@@ -24,62 +54,42 @@
     {
       "id": 275139,
       "title": "Phony",
-      "rating": 7.0,
-      "votes": 6,
+      "rating": 6.6,
+      "votes": 8,
       "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
       "poster": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
       "release": "2026-10-20"
     },
     {
-      "id": 213375,
-      "title": "VisionQuest",
-      "rating": 8.81,
-      "votes": 121,
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "release": "2026-10-13"
+      "id": 95480,
+      "title": "Slow Horses",
+      "rating": 8.1,
+      "votes": 1061,
+      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "release": "2022-04-01"
     },
     {
       "id": 213562,
       "title": "Crystal Lake",
-      "rating": 8.561,
-      "votes": 155,
+      "rating": 8.574,
+      "votes": 170,
       "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
       "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
       "release": "2026-10-15"
     },
     {
-      "id": 303745,
-      "title": "Love in Disguise",
-      "rating": 4.5,
-      "votes": 4,
-      "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-      "poster": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-      "release": "2026-10-19"
-    },
-    {
-      "id": 288673,
-      "title": "Carrie",
-      "rating": 8.3,
-      "votes": 390,
-      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-      "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "release": "2026-10-07"
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.4,
-      "votes": 2303,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
+      "id": 234310,
+      "title": "Where's Wanda?",
+      "rating": 6.625,
+      "votes": 40,
+      "overview": "After the Klatts' daughter goes missing, they take matters into their own hands and hatch a wild plan: Spy on the neighborhood. As they make their way into small-time espionage, shocking secrets come to light one by one.",
+      "poster": "https://image.tmdb.org/t/p/w500/hHePJkom6HuTt3EHEvpXLPh0Jtt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ihFgxTeZ8nenm8Y41tuGH7tCeTU.jpg",
+      "release": "2024-10-02"
     },
     {
       "id": 300146,
@@ -92,33 +102,23 @@
       "release": "2026-10-16"
     },
     {
-      "id": 95350,
-      "title": "Lanterns",
-      "rating": 8.228,
-      "votes": 789,
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-      "release": "2026-08-16"
+      "id": 288673,
+      "title": "Carrie",
+      "rating": 8.335,
+      "votes": 395,
+      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+      "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "release": "2026-10-07"
     },
     {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.526,
-      "votes": 1060,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
-    },
-    {
-      "id": 332713,
-      "title": "Extraordinary Attorney Minami",
-      "rating": 6.0,
-      "votes": 1,
-      "overview": "With her extraordinary memory and unique perspective, Minami takes on challenges in and out of the courtroom as a rookie lawyer on the autism spectrum.",
-      "poster": "https://image.tmdb.org/t/p/w500/xnNu56T04JDZRBIDxclpr83s7K.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/w7p0SUuixmEyf5a5wVKAgHNkh8e.jpg",
+      "id": 303745,
+      "title": "Love in Disguise",
+      "rating": 5.6,
+      "votes": 5,
+      "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "poster": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
       "release": "2026-10-19"
     }
   ],
@@ -126,22 +126,12 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 9.0,
-      "votes": 18881,
+      "rating": 8.956,
+      "votes": 18892,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
       "release": "2008-01-20"
-    },
-    {
-      "id": 549,
-      "title": "Law & Order",
-      "rating": 7.289,
-      "votes": 736,
-      "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-      "poster": "https://image.tmdb.org/t/p/w500/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
-      "release": "1990-09-13"
     },
     {
       "id": 41956,
@@ -154,20 +144,40 @@
       "release": "2011-10-25"
     },
     {
+      "id": 83631,
+      "title": "What We Do in the Shadows",
+      "rating": 7.999,
+      "votes": 1076,
+      "overview": "A documentary-style look into the daily (or rather, nightly) lives of a group of vampires in Staten Island who have “lived” together for hundreds and hundreds of years.",
+      "poster": "https://image.tmdb.org/t/p/w500/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mKikck71CvVISUSTLk29fwRbH4y.jpg",
+      "release": "2019-03-27"
+    },
+    {
       "id": 2190,
       "title": "South Park",
-      "rating": 8.329,
-      "votes": 5208,
+      "rating": 8.33,
+      "votes": 5210,
       "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
       "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
       "release": "1997-08-13"
     },
     {
+      "id": 549,
+      "title": "Law & Order",
+      "rating": 7.289,
+      "votes": 736,
+      "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+      "poster": "https://image.tmdb.org/t/p/w500/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
+      "release": "1990-09-13"
+    },
+    {
       "id": 136315,
       "title": "The Bear",
-      "rating": 8.156,
-      "votes": 1983,
+      "rating": 8.157,
+      "votes": 1984,
       "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
       "poster": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
@@ -182,6 +192,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/5wGSp6VaXG406ZbgQoJizPKUE79.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/lBXXZJAUN1UbuoAXxjCMVPp6hSD.jpg",
       "release": "1958-12-02"
+    },
+    {
+      "id": 1480,
+      "title": "Ally McBeal",
+      "rating": 6.5,
+      "votes": 390,
+      "overview": "Ally McBeal is a young lawyer working at the Boston law firm Cage and Fish.  Ally's lives and loves are eccentric, humorous, dramatic with an incredibly overactive imagination that's working overtime!",
+      "poster": "https://image.tmdb.org/t/p/w500/weS8htxS2j0EQ6jorK3WOR1dZpH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/xCMs3IxaGqKSc5cwngRUlhmjbwl.jpg",
+      "release": "1997-09-08"
     },
     {
       "id": 22980,
@@ -204,52 +224,32 @@
       "release": "2017-02-20"
     },
     {
-      "id": 1480,
-      "title": "Ally McBeal",
-      "rating": 6.5,
-      "votes": 390,
-      "overview": "Ally McBeal is a young lawyer working at the Boston law firm Cage and Fish.  Ally's lives and loves are eccentric, humorous, dramatic with an incredibly overactive imagination that's working overtime!",
-      "poster": "https://image.tmdb.org/t/p/w500/weS8htxS2j0EQ6jorK3WOR1dZpH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/xCMs3IxaGqKSc5cwngRUlhmjbwl.jpg",
-      "release": "1997-09-08"
+      "id": 18053,
+      "title": "Nurse Jackie",
+      "rating": 7.094,
+      "votes": 266,
+      "overview": "Every day is a matter of life and death in a hectic New York City hospital, but for Nurse Jackie that's the easiest part. Between chronic back pain that won't quit, and a personal life on the constant edge of collapse, it's going to take a white lie here, a bent rule there, and a handful of secret strategies to relieve the pain, and stay one step ahead of total disaster.",
+      "poster": "https://image.tmdb.org/t/p/w500/efKrmVB9Jwmh6HxFjED6FyeOUpW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/lyybuNTSkI4vJZdccpinuj7vxCU.jpg",
+      "release": "2009-06-08"
     },
     {
       "id": 424,
       "title": "Torchwood",
-      "rating": 7.3,
-      "votes": 593,
+      "rating": 7.298,
+      "votes": 594,
       "overview": "The exploits of a team of people whose job is to investigate the unusual, the strange and the extraterrestrial.",
       "poster": "https://image.tmdb.org/t/p/w500/bv7C5r7QyXGsaMxvU40FVY7SvrD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gpRM2AB4tjfUXxjaCZWnHLjiGmC.jpg",
       "release": "2006-10-22"
-    },
-    {
-      "id": 2261,
-      "title": "The Tonight Show Starring Johnny Carson",
-      "rating": 7.562,
-      "votes": 97,
-      "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
-      "poster": "https://image.tmdb.org/t/p/w500/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
-      "release": "1962-10-01"
-    },
-    {
-      "id": 2734,
-      "title": "Law & Order: Special Victims Unit",
-      "rating": 7.961,
-      "votes": 4385,
-      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-      "poster": "https://image.tmdb.org/t/p/w500/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-      "release": "1999-09-20"
     }
   ],
   "top_rated": [
     {
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
-      "rating": 9.699,
-      "votes": 261,
+      "rating": 9.696,
+      "votes": 265,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.357,
-      "votes": 989,
+      "rating": 9.352,
+      "votes": 991,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.125,
-      "votes": 638,
+      "rating": 9.128,
+      "votes": 640,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 278573,
       "title": "Perfect Crown",
-      "rating": 8.965,
-      "votes": 231,
+      "rating": 8.97,
+      "votes": 232,
       "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
@@ -299,7 +299,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.956,
-      "votes": 18878,
+      "votes": 18890,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -309,7 +309,7 @@
       "id": 273240,
       "title": "Off Campus",
       "rating": 8.866,
-      "votes": 891,
+      "votes": 893,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -348,8 +348,8 @@
     {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.823,
-      "votes": 998,
+      "rating": 8.824,
+      "votes": 1000,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
@@ -378,16 +378,6 @@
       "release": "2009-07-16"
     },
     {
-      "id": 4614,
-      "title": "NCIS",
-      "rating": 7.613,
-      "votes": 2597,
-      "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-      "poster": "https://image.tmdb.org/t/p/w500/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-      "release": "2003-09-23"
-    },
-    {
       "id": 61818,
       "title": "Late Night with Seth Meyers",
       "rating": 5.1,
@@ -396,16 +386,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
       "release": "2014-02-25"
-    },
-    {
-      "id": 213375,
-      "title": "VisionQuest",
-      "rating": 8.805,
-      "votes": 118,
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "release": "2026-10-13"
     },
     {
       "id": 2224,
@@ -448,24 +428,24 @@
       "release": "1960-12-09"
     },
     {
-      "id": 11890,
-      "title": "Goede Tijden, Slechte Tijden",
-      "rating": 5.3,
-      "votes": 21,
-      "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-      "poster": "https://image.tmdb.org/t/p/w500/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-      "release": "1990-10-01"
+      "id": 95480,
+      "title": "Slow Horses",
+      "rating": 8.056,
+      "votes": 1061,
+      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "release": "2022-04-01"
     },
     {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.4,
-      "votes": 2303,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
+      "id": 44006,
+      "title": "Chicago Fire",
+      "rating": 8.411,
+      "votes": 2454,
+      "overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
+      "poster": "https://image.tmdb.org/t/p/w500/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/otaBZzLIqrKdXcovbAvVONJCnb4.jpg",
+      "release": "2012-10-10"
     },
     {
       "id": 112470,
@@ -478,6 +458,16 @@
       "release": "2020-11-02"
     },
     {
+      "id": 58841,
+      "title": "Chicago P.D.",
+      "rating": 8.42,
+      "votes": 2648,
+      "overview": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
+      "poster": "https://image.tmdb.org/t/p/w500/w7R4ooo2IbOfBKOoMDwaiMGsNQf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/18KSsDgcGQds7yOMC6MVRTbVJwt.jpg",
+      "release": "2014-01-08"
+    },
+    {
       "id": 1871,
       "title": "EastEnders",
       "rating": 4.3,
@@ -486,6 +476,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
       "release": "1985-02-19"
+    },
+    {
+      "id": 2221,
+      "title": "The View",
+      "rating": 4.3,
+      "votes": 115,
+      "overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
+      "poster": "https://image.tmdb.org/t/p/w500/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
+      "release": "1997-08-11"
     }
   ]
 }
