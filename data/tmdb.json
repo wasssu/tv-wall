@@ -1,21 +1,41 @@
 {
-  "updated": "2026-10-23T03:28:05.508703+00:00",
+  "updated": "2026-10-23T16:29:43.386800+00:00",
   "trending": [
+    {
+      "id": 96677,
+      "title": "Lupin",
+      "rating": 7.676,
+      "votes": 2700,
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+      "release": "2021-01-08"
+    },
     {
       "id": 220542,
       "title": "The Apothecary Diaries",
-      "rating": 8.655,
-      "votes": 681,
+      "rating": 8.651,
+      "votes": 682,
       "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
       "poster": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
       "release": "2023-10-22"
     },
     {
+      "id": 314360,
+      "title": "YAGA",
+      "rating": 8.333,
+      "votes": 3,
+      "overview": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
+      "poster": "https://image.tmdb.org/t/p/w500/2kxIViR7g3e08ZHLlvNFFJkgJtI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
+      "release": "2026-10-23"
+    },
+    {
       "id": 120911,
       "title": "The Terminal List",
-      "rating": 7.981,
-      "votes": 1259,
+      "rating": 8.0,
+      "votes": 1263,
       "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
       "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
@@ -24,114 +44,104 @@
     {
       "id": 105248,
       "title": "Cyberpunk: Edgerunners",
-      "rating": 8.497,
-      "votes": 2068,
+      "rating": 8.499,
+      "votes": 2072,
       "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
       "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
       "release": "2022-09-13"
     },
     {
+      "id": 335535,
+      "title": "Fading Grandeur",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Don Leandro, a marquis facing a dire financial situation, decides to part with the decaying family mansion he owns in Madrid. Sofía Carrington, a multimillionaire businesswoman, shows interest in acquiring the property. What initially appears to be a real estate transaction soon becomes complicated, as the relationship between the two goes beyond mere financial negotiation.",
+      "poster": "https://image.tmdb.org/t/p/w500/4AUgc7JhcLQHNzoa1l0jwxBdK0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
+      "release": "2026-10-23"
+    },
+    {
       "id": 250923,
       "title": "Nobody Wants This",
       "rating": 7.3,
-      "votes": 302,
+      "votes": 304,
       "overview": "An agnostic sex podcaster and a newly single rabbi fall in love, but can their relationship survive their wildly different lives and meddling families?",
       "poster": "https://image.tmdb.org/t/p/w500/cUpIceeJJoRqUHSCzh6jRSmlpkA.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/q8BwtVM3t0SOtB1nZsXpOKZp8IM.jpg",
       "release": "2024-09-26"
     },
     {
-      "id": 288673,
-      "title": "Carrie",
-      "rating": 8.355,
-      "votes": 425,
-      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-      "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5Zwl8JqCAgsljpqsZzczBCc4cuy.jpg",
-      "release": "2026-10-07"
-    },
-    {
       "id": 213375,
       "title": "VisionQuest",
-      "rating": 8.781,
-      "votes": 160,
+      "rating": 8.8,
+      "votes": 162,
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "poster": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
       "release": "2026-10-13"
     },
     {
-      "id": 213562,
-      "title": "Crystal Lake",
-      "rating": 8.639,
-      "votes": 212,
-      "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-      "release": "2026-10-15"
-    },
-    {
-      "id": 300527,
-      "title": "Did Someone Happen to Mention Me?",
-      "rating": 8.0,
-      "votes": 2,
-      "overview": "Gen Takasegawa, the first Japanese actor to play the lead role at London's Shakespeare’s Globe Theatre, has been unable to return to Japan for some time. After two years, he finally makes his way back home, only to find out that he is suddenly and completely forgotten by the entire world.",
-      "poster": "https://image.tmdb.org/t/p/w500/4zNytZ6R4awYY9vFBNdENkT4hPC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
-      "release": "2026-10-22"
-    },
-    {
-      "id": 95480,
-      "title": "Slow Horses",
-      "rating": 8.06,
-      "votes": 1070,
-      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-      "release": "2022-04-01"
-    },
-    {
-      "id": 153312,
-      "title": "Tulsa King",
-      "rating": 8.301,
-      "votes": 2853,
-      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-      "poster": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-      "release": "2022-11-13"
-    },
-    {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.537,
-      "votes": 1070,
+      "rating": 8.541,
+      "votes": 1071,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "release": "2025-03-30"
     },
     {
-      "id": 37854,
-      "title": "One Piece",
-      "rating": 8.754,
-      "votes": 5609,
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
-      "release": "1999-10-20"
+      "id": 153312,
+      "title": "Tulsa King",
+      "rating": 8.3,
+      "votes": 2854,
+      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+      "poster": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+      "release": "2022-11-13"
+    },
+    {
+      "id": 288673,
+      "title": "Carrie",
+      "rating": 8.348,
+      "votes": 428,
+      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+      "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "release": "2026-10-07"
+    },
+    {
+      "id": 286171,
+      "title": "Tigers Sniff the Rose",
+      "rating": 8.0,
+      "votes": 1,
+      "overview": "Princess Danyang, Mu Wanyao, a formidable and arrogant royal, is married to Yan Shang, a cunning scholar of humble origins. Amid court intrigues, they move from rivalry and mutual suspicion to reconciliation, becoming powerful allies who join forces to break political deadlocks and safeguard peace.",
+      "poster": "https://image.tmdb.org/t/p/w500/5OuUPWLwr5JKLZBhzF7antNWdvY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
+      "release": "2026-10-23"
     }
   ],
   "popular": [
     {
-      "id": 41956,
-      "title": "Death in Paradise",
-      "rating": 7.5,
-      "votes": 348,
-      "overview": "A brilliant but idiosyncratic British detective and his resourceful local team solve baffling murder mysteries on the fictional Caribbean island of Saint Marie.",
-      "poster": "https://image.tmdb.org/t/p/w500/u7t6vCyqAdD5hE4eEfTrZmVljDi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nCwAmyCcA6w1ZFjKrmwCRPiy4gt.jpg",
-      "release": "2011-10-25"
+      "id": 1416,
+      "title": "Grey's Anatomy",
+      "rating": 8.204,
+      "votes": 11092,
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+      "poster": "https://image.tmdb.org/t/p/w500/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+      "release": "2005-03-27"
+    },
+    {
+      "id": 1411,
+      "title": "Person of Interest",
+      "rating": 8.101,
+      "votes": 2199,
+      "overview": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. ",
+      "poster": "https://image.tmdb.org/t/p/w500/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/efeMgQn6iRALsOqDa2cqlf6Pw5O.jpg",
+      "release": "2011-09-22"
     },
     {
       "id": 83631,
@@ -144,20 +154,40 @@
       "release": "2019-03-27"
     },
     {
+      "id": 41956,
+      "title": "Death in Paradise",
+      "rating": 7.5,
+      "votes": 348,
+      "overview": "A brilliant but idiosyncratic British detective and his resourceful local team solve baffling murder mysteries on the fictional Caribbean island of Saint Marie.",
+      "poster": "https://image.tmdb.org/t/p/w500/u7t6vCyqAdD5hE4eEfTrZmVljDi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nCwAmyCcA6w1ZFjKrmwCRPiy4gt.jpg",
+      "release": "2011-10-25"
+    },
+    {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.957,
-      "votes": 18906,
+      "rating": 8.956,
+      "votes": 18914,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
       "release": "2008-01-20"
     },
     {
+      "id": 1426,
+      "title": "Luther",
+      "rating": 7.86,
+      "votes": 1269,
+      "overview": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
+      "poster": "https://image.tmdb.org/t/p/w500/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
+      "release": "2010-05-04"
+    },
+    {
       "id": 2190,
       "title": "South Park",
-      "rating": 8.329,
-      "votes": 5212,
+      "rating": 8.33,
+      "votes": 5215,
       "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
       "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
@@ -166,52 +196,12 @@
     {
       "id": 549,
       "title": "Law & Order",
-      "rating": 7.285,
-      "votes": 738,
+      "rating": 7.284,
+      "votes": 737,
       "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
       "poster": "https://image.tmdb.org/t/p/w500/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
       "release": "1990-09-13"
-    },
-    {
-      "id": 136315,
-      "title": "The Bear",
-      "rating": 8.155,
-      "votes": 1991,
-      "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
-      "poster": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
-      "release": "2022-06-23"
-    },
-    {
-      "id": 15325,
-      "title": "Dagsrevyen",
-      "rating": 8.0,
-      "votes": 2,
-      "overview": "Dagsrevyen is the daily evening news programme for the Norwegian television channel NRK1, the main channel of the Norwegian Broadcasting Corporation, broadcast at 19:00. In 2007, the programme started airing simultaneously on NRK's dedicated news channel NRK2, but this arrangement ended that same year. Dagsrevyen's first newscast was broadcast in 1958 and it has kept its name since. It is Norway's most viewed programme, with daily ratings of around one million. Around 200 people are involved in its production, with headquarters at Marienlyst in Oslo.\n\nDagsrevyen aims at fewer, but longer and more extensive stories than its competitors. NRK hosts a tight network of domestic journalists in addition to international correspondence offices, though NRK also uses footage acquired through the European Broadcasting Union. There are always two anchors, one male and one female. The Saturday and Sunday broadcasts are dubbed Lørdagsrevyen and Søndagsrevyen, respectively.\n\nThe editor of television news is Solveig Tvedt and the lead news editor is Stein Bjøntegård.\n\nOther news-related broadcasts on NRK include Dagsrevyen 21, Kveldsnytt, Standpunkt, RedaksjonEN, Urix and Dagsnytt, plus the radio shows Ukeslutt, Dagsnytt 18 and Her og Nå. NRK also broadcasts daily newscasts from most regional offices.",
-      "poster": "https://image.tmdb.org/t/p/w500/5wGSp6VaXG406ZbgQoJizPKUE79.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lBXXZJAUN1UbuoAXxjCMVPp6hSD.jpg",
-      "release": "1958-12-02"
-    },
-    {
-      "id": 91759,
-      "title": "Come Home Love: Lo and Behold",
-      "rating": 5.4,
-      "votes": 48,
-      "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
-      "poster": "https://image.tmdb.org/t/p/w500/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dyFTt1a9ZpFdKE96kPlE9fQvXOJ.jpg",
-      "release": "2017-02-20"
-    },
-    {
-      "id": 22980,
-      "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 4.9,
-      "votes": 100,
-      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-      "release": "2009-07-16"
     },
     {
       "id": 1480,
@@ -224,32 +214,42 @@
       "release": "1997-09-08"
     },
     {
-      "id": 2261,
-      "title": "The Tonight Show Starring Johnny Carson",
-      "rating": 7.562,
-      "votes": 97,
-      "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
-      "poster": "https://image.tmdb.org/t/p/w500/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
-      "release": "1962-10-01"
+      "id": 136315,
+      "title": "The Bear",
+      "rating": 8.2,
+      "votes": 1992,
+      "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
+      "poster": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
+      "release": "2022-06-23"
     },
     {
-      "id": 2734,
-      "title": "Law & Order: Special Victims Unit",
+      "id": 91759,
+      "title": "Come Home Love: Lo and Behold",
+      "rating": 5.4,
+      "votes": 48,
+      "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
+      "poster": "https://image.tmdb.org/t/p/w500/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dyFTt1a9ZpFdKE96kPlE9fQvXOJ.jpg",
+      "release": "2017-02-20"
+    },
+    {
+      "id": 15325,
+      "title": "Dagsrevyen",
       "rating": 8.0,
-      "votes": 4385,
-      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-      "poster": "https://image.tmdb.org/t/p/w500/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-      "release": "1999-09-20"
+      "votes": 2,
+      "overview": "Dagsrevyen is the daily evening news programme for the Norwegian television channel NRK1, the main channel of the Norwegian Broadcasting Corporation, broadcast at 19:00. In 2007, the programme started airing simultaneously on NRK's dedicated news channel NRK2, but this arrangement ended that same year. Dagsrevyen's first newscast was broadcast in 1958 and it has kept its name since. It is Norway's most viewed programme, with daily ratings of around one million. Around 200 people are involved in its production, with headquarters at Marienlyst in Oslo.\n\nDagsrevyen aims at fewer, but longer and more extensive stories than its competitors. NRK hosts a tight network of domestic journalists in addition to international correspondence offices, though NRK also uses footage acquired through the European Broadcasting Union. There are always two anchors, one male and one female. The Saturday and Sunday broadcasts are dubbed Lørdagsrevyen and Søndagsrevyen, respectively.\n\nThe editor of television news is Solveig Tvedt and the lead news editor is Stein Bjøntegård.\n\nOther news-related broadcasts on NRK include Dagsrevyen 21, Kveldsnytt, Standpunkt, RedaksjonEN, Urix and Dagsnytt, plus the radio shows Ukeslutt, Dagsnytt 18 and Her og Nå. NRK also broadcasts daily newscasts from most regional offices.",
+      "poster": "https://image.tmdb.org/t/p/w500/5wGSp6VaXG406ZbgQoJizPKUE79.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/lBXXZJAUN1UbuoAXxjCMVPp6hSD.jpg",
+      "release": "1958-12-02"
     }
   ],
   "top_rated": [
     {
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
-      "rating": 9.706,
-      "votes": 274,
+      "rating": 9.71,
+      "votes": 278,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 278573,
       "title": "Perfect Crown",
-      "rating": 8.974,
-      "votes": 233,
+      "rating": 8.979,
+      "votes": 234,
       "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
@@ -298,8 +298,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.957,
-      "votes": 18906,
+      "rating": 8.956,
+      "votes": 18914,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -308,8 +308,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.866,
-      "votes": 893,
+      "rating": 8.867,
+      "votes": 894,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -328,8 +328,8 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.837,
-      "votes": 1031,
+      "rating": 8.839,
+      "votes": 1033,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
@@ -368,46 +368,6 @@
   ],
   "airing_today": [
     {
-      "id": 549,
-      "title": "Law & Order",
-      "rating": 7.293,
-      "votes": 737,
-      "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-      "poster": "https://image.tmdb.org/t/p/w500/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
-      "release": "1990-09-13"
-    },
-    {
-      "id": 22980,
-      "title": "Watch What Happens Live with Andy Cohen",
-      "rating": 4.9,
-      "votes": 100,
-      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-      "release": "2009-07-16"
-    },
-    {
-      "id": 2734,
-      "title": "Law & Order: Special Victims Unit",
-      "rating": 8.0,
-      "votes": 4385,
-      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-      "poster": "https://image.tmdb.org/t/p/w500/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-      "release": "1999-09-20"
-    },
-    {
-      "id": 1416,
-      "title": "Grey's Anatomy",
-      "rating": 8.205,
-      "votes": 11092,
-      "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-      "poster": "https://image.tmdb.org/t/p/w500/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-      "release": "2005-03-27"
-    },
-    {
       "id": 61818,
       "title": "Late Night with Seth Meyers",
       "rating": 5.1,
@@ -416,16 +376,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
       "release": "2014-02-25"
-    },
-    {
-      "id": 2224,
-      "title": "The Daily Show",
-      "rating": 6.422,
-      "votes": 672,
-      "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-      "poster": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-      "release": "1996-07-22"
     },
     {
       "id": 206559,
@@ -448,6 +398,36 @@
       "release": "2017-07-17"
     },
     {
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.541,
+      "votes": 1071,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "release": "2025-03-30"
+    },
+    {
+      "id": 153312,
+      "title": "Tulsa King",
+      "rating": 8.3,
+      "votes": 2853,
+      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+      "poster": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+      "release": "2022-11-13"
+    },
+    {
+      "id": 291,
+      "title": "Coronation Street",
+      "rating": 5.3,
+      "votes": 120,
+      "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+      "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+      "release": "1960-12-09"
+    },
+    {
       "id": 112470,
       "title": "Ici tout commence",
       "rating": 6.8,
@@ -458,14 +438,24 @@
       "release": "2020-11-02"
     },
     {
-      "id": 1871,
-      "title": "EastEnders",
-      "rating": 4.3,
-      "votes": 231,
-      "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
-      "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
-      "release": "1985-02-19"
+      "id": 65282,
+      "title": "Home Alone",
+      "rating": 7.5,
+      "votes": 18,
+      "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+      "release": "2013-03-22"
+    },
+    {
+      "id": 4419,
+      "title": "Real Time with Bill Maher",
+      "rating": 6.0,
+      "votes": 248,
+      "overview": "Each week Bill Maher surrounds himself with a panel of guests which include politicians, actors, comedians, musicians and the like to discuss what's going on in the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/njEGYHyq58q94ZPJlSGs6bGrepv.jpg",
+      "release": "2003-02-21"
     },
     {
       "id": 81329,
@@ -486,6 +476,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
       "release": "2012-01-09"
+    },
+    {
+      "id": 2221,
+      "title": "The View",
+      "rating": 4.3,
+      "votes": 115,
+      "overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
+      "poster": "https://image.tmdb.org/t/p/w500/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
+      "release": "1997-08-11"
     }
   ]
 }
