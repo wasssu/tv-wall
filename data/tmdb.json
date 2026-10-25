@@ -1,15 +1,65 @@
 {
-  "updated": "2026-10-24T15:24:40.788923+00:00",
+  "updated": "2026-10-25T03:17:48.452346+00:00",
   "trending": [
     {
       "id": 96677,
       "title": "Lupin",
-      "rating": 7.7,
-      "votes": 2706,
+      "rating": 7.674,
+      "votes": 2710,
       "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
       "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
       "release": "2021-01-08"
+    },
+    {
+      "id": 95480,
+      "title": "Slow Horses",
+      "rating": 8.1,
+      "votes": 1073,
+      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "release": "2022-04-01"
+    },
+    {
+      "id": 316702,
+      "title": "Final Table",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+      "poster": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+      "release": "2026-10-24"
+    },
+    {
+      "id": 120911,
+      "title": "The Terminal List",
+      "rating": 7.985,
+      "votes": 1268,
+      "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+      "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
+      "release": "2022-06-30"
+    },
+    {
+      "id": 105248,
+      "title": "Cyberpunk: Edgerunners",
+      "rating": 8.5,
+      "votes": 2083,
+      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+      "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
+      "release": "2022-09-13"
+    },
+    {
+      "id": 73223,
+      "title": "Black Clover",
+      "rating": 8.519,
+      "votes": 2261,
+      "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+      "poster": "https://image.tmdb.org/t/p/w500/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "release": "2017-10-03"
     },
     {
       "id": 314360,
@@ -22,104 +72,54 @@
       "release": "2026-10-23"
     },
     {
-      "id": 120911,
-      "title": "The Terminal List",
-      "rating": 8.0,
-      "votes": 1265,
-      "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-      "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
-      "release": "2022-06-30"
-    },
-    {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.6,
-      "votes": 1080,
+      "rating": 8.556,
+      "votes": 1082,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "release": "2025-03-30"
     },
     {
-      "id": 105248,
-      "title": "Cyberpunk: Edgerunners",
-      "rating": 8.5,
-      "votes": 2079,
-      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
-      "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
-      "release": "2022-09-13"
+      "id": 213562,
+      "title": "Crystal Lake",
+      "rating": 8.649,
+      "votes": 239,
+      "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+      "release": "2026-10-15"
     },
     {
-      "id": 286171,
-      "title": "Tigers Sniff the Rose",
-      "rating": 8.0,
-      "votes": 1,
-      "overview": "Princess Danyang, Mu Wanyao, a formidable and arrogant royal, is married to Yan Shang, a cunning scholar of humble origins. Amid court intrigues, they move from rivalry and mutual suspicion to reconciliation, becoming powerful allies who join forces to break political deadlocks and safeguard peace.",
-      "poster": "https://image.tmdb.org/t/p/w500/5OuUPWLwr5JKLZBhzF7antNWdvY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
-      "release": "2026-10-23"
-    },
-    {
-      "id": 335535,
-      "title": "Fading Grandeur",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "Desperate to sell his crumbling mansion, a fallen marquis tries to make a quick deal with a charming yet mysterious millionaire who has her own agenda.",
-      "poster": "https://image.tmdb.org/t/p/w500/4AUgc7JhcLQHNzoa1l0jwxBdK0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
-      "release": "2026-10-23"
-    },
-    {
-      "id": 196322,
-      "title": "Dark Matter",
-      "rating": 7.817,
-      "votes": 845,
-      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-      "release": "2024-05-07"
-    },
-    {
-      "id": 153312,
-      "title": "Tulsa King",
-      "rating": 8.302,
-      "votes": 2857,
-      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-      "poster": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-      "release": "2022-11-13"
+      "id": 288673,
+      "title": "Carrie",
+      "rating": 8.332,
+      "votes": 452,
+      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+      "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "release": "2026-10-07"
     },
     {
       "id": 213375,
       "title": "VisionQuest",
-      "rating": 8.729,
-      "votes": 170,
+      "rating": 8.7,
+      "votes": 174,
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "poster": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
       "release": "2026-10-13"
     },
     {
-      "id": 220542,
-      "title": "The Apothecary Diaries",
-      "rating": 8.659,
-      "votes": 686,
-      "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-      "poster": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "release": "2023-10-22"
-    },
-    {
-      "id": 213562,
-      "title": "Crystal Lake",
-      "rating": 8.652,
-      "votes": 233,
-      "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-      "release": "2026-10-15"
+      "id": 334517,
+      "title": "Oh! My Guard",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "A wildly unpredictable romance begins when a flawed “master of melodrama” actor encounters a mysterious woman who believes she is the female lead of a TV drama.",
+      "poster": "https://image.tmdb.org/t/p/w500/dg4IIruyBEtSgjW5fdXi46xrSzC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jFpUscK4vAj2F6pZH1ZT20cO6sw.jpg",
+      "release": "2026-10-24"
     }
   ],
   "popular": [
@@ -127,7 +127,7 @@
       "id": 1416,
       "title": "Grey's Anatomy",
       "rating": 8.204,
-      "votes": 11094,
+      "votes": 11097,
       "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
       "poster": "https://image.tmdb.org/t/p/w500/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
@@ -136,8 +136,8 @@
     {
       "id": 1411,
       "title": "Person of Interest",
-      "rating": 8.1,
-      "votes": 2201,
+      "rating": 8.103,
+      "votes": 2204,
       "overview": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. ",
       "poster": "https://image.tmdb.org/t/p/w500/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/efeMgQn6iRALsOqDa2cqlf6Pw5O.jpg",
@@ -146,18 +146,28 @@
     {
       "id": 83631,
       "title": "What We Do in the Shadows",
-      "rating": 8.006,
-      "votes": 1080,
+      "rating": 8.0,
+      "votes": 1082,
       "overview": "A documentary-style look into the daily (or rather, nightly) lives of a group of vampires in Staten Island who have “lived” together for hundreds and hundreds of years.",
       "poster": "https://image.tmdb.org/t/p/w500/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mKikck71CvVISUSTLk29fwRbH4y.jpg",
       "release": "2019-03-27"
     },
     {
+      "id": 1426,
+      "title": "Luther",
+      "rating": 7.849,
+      "votes": 1271,
+      "overview": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
+      "poster": "https://image.tmdb.org/t/p/w500/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
+      "release": "2010-05-04"
+    },
+    {
       "id": 41956,
       "title": "Death in Paradise",
-      "rating": 7.5,
-      "votes": 348,
+      "rating": 7.444,
+      "votes": 349,
       "overview": "A brilliant but idiosyncratic British detective and his resourceful local team solve baffling murder mysteries on the fictional Caribbean island of Saint Marie.",
       "poster": "https://image.tmdb.org/t/p/w500/u7t6vCyqAdD5hE4eEfTrZmVljDi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nCwAmyCcA6w1ZFjKrmwCRPiy4gt.jpg",
@@ -166,28 +176,28 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.957,
-      "votes": 18927,
+      "rating": 9.0,
+      "votes": 18947,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
       "release": "2008-01-20"
     },
     {
-      "id": 1426,
-      "title": "Luther",
-      "rating": 7.854,
-      "votes": 1270,
-      "overview": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
-      "poster": "https://image.tmdb.org/t/p/w500/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
-      "release": "2010-05-04"
+      "id": 1480,
+      "title": "Ally McBeal",
+      "rating": 6.54,
+      "votes": 390,
+      "overview": "Ally McBeal is a young lawyer working at the Boston law firm Cage and Fish.  Ally's lives and loves are eccentric, humorous, dramatic with an incredibly overactive imagination that's working overtime!",
+      "poster": "https://image.tmdb.org/t/p/w500/weS8htxS2j0EQ6jorK3WOR1dZpH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/xCMs3IxaGqKSc5cwngRUlhmjbwl.jpg",
+      "release": "1997-09-08"
     },
     {
       "id": 2190,
       "title": "South Park",
       "rating": 8.331,
-      "votes": 5218,
+      "votes": 5219,
       "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
       "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
@@ -196,7 +206,7 @@
     {
       "id": 549,
       "title": "Law & Order",
-      "rating": 7.284,
+      "rating": 7.277,
       "votes": 737,
       "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
       "poster": "https://image.tmdb.org/t/p/w500/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
@@ -204,20 +214,20 @@
       "release": "1990-09-13"
     },
     {
-      "id": 1480,
-      "title": "Ally McBeal",
-      "rating": 6.5,
-      "votes": 390,
-      "overview": "Ally McBeal is a young lawyer working at the Boston law firm Cage and Fish.  Ally's lives and loves are eccentric, humorous, dramatic with an incredibly overactive imagination that's working overtime!",
-      "poster": "https://image.tmdb.org/t/p/w500/weS8htxS2j0EQ6jorK3WOR1dZpH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/xCMs3IxaGqKSc5cwngRUlhmjbwl.jpg",
-      "release": "1997-09-08"
+      "id": 70528,
+      "title": "Chicago Typewriter",
+      "rating": 7.878,
+      "votes": 49,
+      "overview": "Writers that lived under Japanese rule in the 1930's are reincarnated into a bestselling writer who is in a slump, a mysterious ghostwriter and an anti-fan of the bestselling writer.",
+      "poster": "https://image.tmdb.org/t/p/w500/1FLgKAjoa4dY3z31nTjZj3Dgr6q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/f44Ykw0MnAcFvBeYhmdKekcX35J.jpg",
+      "release": "2017-04-07"
     },
     {
       "id": 136315,
       "title": "The Bear",
-      "rating": 8.156,
-      "votes": 1998,
+      "rating": 8.159,
+      "votes": 2004,
       "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
       "poster": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
@@ -232,24 +242,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dyFTt1a9ZpFdKE96kPlE9fQvXOJ.jpg",
       "release": "2017-02-20"
-    },
-    {
-      "id": 15325,
-      "title": "Dagsrevyen",
-      "rating": 8.0,
-      "votes": 2,
-      "overview": "Dagsrevyen is the daily evening news programme for the Norwegian television channel NRK1, the main channel of the Norwegian Broadcasting Corporation, broadcast at 19:00. In 2007, the programme started airing simultaneously on NRK's dedicated news channel NRK2, but this arrangement ended that same year. Dagsrevyen's first newscast was broadcast in 1958 and it has kept its name since. It is Norway's most viewed programme, with daily ratings of around one million. Around 200 people are involved in its production, with headquarters at Marienlyst in Oslo.\n\nDagsrevyen aims at fewer, but longer and more extensive stories than its competitors. NRK hosts a tight network of domestic journalists in addition to international correspondence offices, though NRK also uses footage acquired through the European Broadcasting Union. There are always two anchors, one male and one female. The Saturday and Sunday broadcasts are dubbed Lørdagsrevyen and Søndagsrevyen, respectively.\n\nThe editor of television news is Solveig Tvedt and the lead news editor is Stein Bjøntegård.\n\nOther news-related broadcasts on NRK include Dagsrevyen 21, Kveldsnytt, Standpunkt, RedaksjonEN, Urix and Dagsnytt, plus the radio shows Ukeslutt, Dagsnytt 18 and Her og Nå. NRK also broadcasts daily newscasts from most regional offices.",
-      "poster": "https://image.tmdb.org/t/p/w500/5wGSp6VaXG406ZbgQoJizPKUE79.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lBXXZJAUN1UbuoAXxjCMVPp6hSD.jpg",
-      "release": "1958-12-02"
     }
   ],
   "top_rated": [
     {
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
-      "rating": 9.671,
-      "votes": 284,
+      "rating": 9.665,
+      "votes": 288,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.353,
-      "votes": 994,
+      "rating": 9.354,
+      "votes": 995,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.129,
-      "votes": 641,
+      "rating": 9.131,
+      "votes": 642,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -298,8 +298,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 9.0,
-      "votes": 18925,
+      "rating": 8.957,
+      "votes": 18946,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -328,8 +328,8 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.84,
-      "votes": 1034,
+      "rating": 8.841,
+      "votes": 1036,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
@@ -339,7 +339,7 @@
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
       "rating": 8.825,
-      "votes": 1003,
+      "votes": 1004,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
@@ -420,7 +420,7 @@
     {
       "id": 300146,
       "title": "Where the Mask Ends",
-      "rating": 8.2,
+      "rating": 8.167,
       "votes": 6,
       "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
       "poster": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
@@ -470,8 +470,8 @@
     {
       "id": 105009,
       "title": "Tokyo Revengers",
-      "rating": 8.4,
-      "votes": 1368,
+      "rating": 8.401,
+      "votes": 1369,
       "overview": "Takemichi Hanagaki is a freelancer that’s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he’s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he’s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he’s back living the best days of his life, Takemichi decides to get revenge on his life.",
       "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
