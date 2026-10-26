@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-25T15:35:05.803728+00:00",
+  "updated": "2026-10-26T03:19:19.097947+00:00",
   "trending": [
     {
       "id": 96677,
       "title": "Lupin",
-      "rating": 7.672,
-      "votes": 2714,
+      "rating": 7.671,
+      "votes": 2722,
       "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
       "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
@@ -14,8 +14,8 @@
     {
       "id": 316702,
       "title": "Final Table",
-      "rating": 7.0,
-      "votes": 1,
+      "rating": 8.667,
+      "votes": 3,
       "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
       "poster": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
@@ -24,8 +24,8 @@
     {
       "id": 105248,
       "title": "Cyberpunk: Edgerunners",
-      "rating": 8.504,
-      "votes": 2086,
+      "rating": 8.503,
+      "votes": 2088,
       "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
       "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
@@ -34,42 +34,52 @@
     {
       "id": 120911,
       "title": "The Terminal List",
-      "rating": 8.0,
-      "votes": 1269,
+      "rating": 7.985,
+      "votes": 1270,
       "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
       "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
       "release": "2022-06-30"
     },
     {
-      "id": 95480,
-      "title": "Slow Horses",
-      "rating": 8.064,
-      "votes": 1075,
-      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-      "release": "2022-04-01"
+      "id": 213375,
+      "title": "VisionQuest",
+      "rating": 8.8,
+      "votes": 178,
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "release": "2026-10-13"
     },
     {
       "id": 288673,
       "title": "Carrie",
-      "rating": 8.3,
-      "votes": 453,
+      "rating": 8.302,
+      "votes": 464,
       "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
       "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "release": "2026-10-07"
     },
     {
-      "id": 334517,
-      "title": "Oh! My Guard",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "A wildly unpredictable romance begins when a flawed “master of melodrama” actor encounters a mysterious woman who believes she is the female lead of a TV drama.",
-      "poster": "https://image.tmdb.org/t/p/w500/dg4IIruyBEtSgjW5fdXi46xrSzC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jFpUscK4vAj2F6pZH1ZT20cO6sw.jpg",
-      "release": "2026-10-24"
+      "id": 95480,
+      "title": "Slow Horses",
+      "rating": 8.068,
+      "votes": 1079,
+      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "release": "2022-04-01"
+    },
+    {
+      "id": 213562,
+      "title": "Crystal Lake",
+      "rating": 8.634,
+      "votes": 254,
+      "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+      "release": "2026-10-15"
     },
     {
       "id": 314360,
@@ -82,44 +92,34 @@
       "release": "2026-10-23"
     },
     {
-      "id": 73223,
-      "title": "Black Clover",
-      "rating": 8.52,
-      "votes": 2263,
-      "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-      "poster": "https://image.tmdb.org/t/p/w500/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-      "release": "2017-10-03"
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.351,
-      "votes": 2311,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
+      "id": 334517,
+      "title": "Oh! My Guard",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "A wildly unpredictable romance begins when a flawed “master of melodrama” actor encounters a mysterious woman who believes she is the female lead of a TV drama.",
+      "poster": "https://image.tmdb.org/t/p/w500/dg4IIruyBEtSgjW5fdXi46xrSzC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jFpUscK4vAj2F6pZH1ZT20cO6sw.jpg",
+      "release": "2026-10-24"
     },
     {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.563,
-      "votes": 1088,
+      "rating": 8.568,
+      "votes": 1096,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "release": "2025-03-30"
     },
     {
-      "id": 213375,
-      "title": "VisionQuest",
-      "rating": 8.75,
-      "votes": 176,
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "release": "2026-10-13"
+      "id": 73223,
+      "title": "Black Clover",
+      "rating": 8.522,
+      "votes": 2267,
+      "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+      "poster": "https://image.tmdb.org/t/p/w500/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "release": "2017-10-03"
     }
   ],
   "popular": [
@@ -147,7 +147,7 @@
       "id": 83631,
       "title": "What We Do in the Shadows",
       "rating": 8.0,
-      "votes": 1082,
+      "votes": 1083,
       "overview": "A documentary-style look into the daily (or rather, nightly) lives of a group of vampires in Staten Island who have “lived” together for hundreds and hundreds of years.",
       "poster": "https://image.tmdb.org/t/p/w500/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mKikck71CvVISUSTLk29fwRbH4y.jpg",
@@ -187,7 +187,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.957,
-      "votes": 18953,
+      "votes": 18958,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -216,8 +216,8 @@
     {
       "id": 2190,
       "title": "South Park",
-      "rating": 8.331,
-      "votes": 5221,
+      "rating": 8.332,
+      "votes": 5222,
       "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
       "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
-      "rating": 9.671,
-      "votes": 293,
+      "rating": 9.666,
+      "votes": 301,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
@@ -299,7 +299,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.957,
-      "votes": 18951,
+      "votes": 18957,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -308,8 +308,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.868,
-      "votes": 895,
+      "rating": 8.869,
+      "votes": 896,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -348,7 +348,7 @@
     {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.824,
+      "rating": 8.8,
       "votes": 1005,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
@@ -391,21 +391,11 @@
       "id": 456,
       "title": "The Simpsons",
       "rating": 8.026,
-      "votes": 11106,
+      "votes": 11108,
       "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "poster": "https://image.tmdb.org/t/p/w500/k5UALlcA0EnviaCUn2wMjOWYiOO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
       "release": "1989-12-17"
-    },
-    {
-      "id": 2661,
-      "title": "Kamen Rider",
-      "rating": 6.4,
-      "votes": 109,
-      "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-      "poster": "https://image.tmdb.org/t/p/w500/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-      "release": "1971-04-03"
     },
     {
       "id": 3034,
@@ -416,6 +406,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/yh43TKi9himQWhzrlWBxV8WjsFn.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/A4iwF1mpDq8HScQ3MZMhMJuT93k.jpg",
       "release": "1970-11-29"
+    },
+    {
+      "id": 2661,
+      "title": "Kamen Rider",
+      "rating": 6.4,
+      "votes": 109,
+      "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "poster": "https://image.tmdb.org/t/p/w500/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+      "release": "1971-04-03"
     },
     {
       "id": 291,
@@ -430,8 +430,8 @@
     {
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
-      "rating": 9.67,
-      "votes": 292,
+      "rating": 9.668,
+      "votes": 303,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
@@ -458,16 +458,6 @@
       "release": "2022-01-01"
     },
     {
-      "id": 72896,
-      "title": "My Little Old Boy",
-      "rating": 7.273,
-      "votes": 11,
-      "overview": "How much do you know about your grown up son? In Mom’s Diary, the daily lives of the grown up celebrity sons are closely observed by their mothers. Do you know why your son drinks so much these days? How much do you know about your son’s philosophy in his life style? Heart-warming moments of observational communication between a mother and a son can be seen on Mom’s Diary.",
-      "poster": "https://image.tmdb.org/t/p/w500/fgeWRIiigNHLxy3qEzM0HqNcFHT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vrLDuQ5L45f7vFWpMT17WopdWx0.jpg",
-      "release": "2016-08-26"
-    },
-    {
       "id": 224,
       "title": "Match of the Day",
       "rating": 7.6,
@@ -478,14 +468,24 @@
       "release": "1964-08-22"
     },
     {
-      "id": 211288,
-      "title": "Tracker",
-      "rating": 7.629,
-      "votes": 346,
-      "overview": "Lone-wolf survivalist Colter Shaw roams the country as a “reward seeker,” using his expert tracking skills to help private citizens and law enforcement solve all manner of mysteries while contending with his own fractured family.",
-      "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
-      "release": "2024-02-11"
+      "id": 60761,
+      "title": "Ace of the Diamond",
+      "rating": 7.9,
+      "votes": 77,
+      "overview": "Scouted for his potential, brash left-handed pitcher Eijun Sawamura joins baseball powerhouse Seido High to become the undisputed ace of the team.",
+      "poster": "https://image.tmdb.org/t/p/w500/wh9dA4w0iUMVpY7htFSiLDhLTYJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wq5ZykCAFrboIpz36O8pbrJG2dF.jpg",
+      "release": "2013-10-06"
+    },
+    {
+      "id": 72896,
+      "title": "My Little Old Boy",
+      "rating": 7.273,
+      "votes": 11,
+      "overview": "How much do you know about your grown up son? In Mom’s Diary, the daily lives of the grown up celebrity sons are closely observed by their mothers. Do you know why your son drinks so much these days? How much do you know about your son’s philosophy in his life style? Heart-warming moments of observational communication between a mother and a son can be seen on Mom’s Diary.",
+      "poster": "https://image.tmdb.org/t/p/w500/fgeWRIiigNHLxy3qEzM0HqNcFHT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vrLDuQ5L45f7vFWpMT17WopdWx0.jpg",
+      "release": "2016-08-26"
     }
   ]
 }
