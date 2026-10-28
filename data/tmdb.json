@@ -1,31 +1,41 @@
 {
-  "updated": "2026-10-28T04:05:33.793960+00:00",
+  "updated": "2026-10-28T17:54:47.380950+00:00",
   "trending": [
     {
       "id": 213375,
       "title": "VisionQuest",
-      "rating": 8.632,
-      "votes": 190,
+      "rating": 8.613,
+      "votes": 199,
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
       "release": "2026-10-13"
     },
     {
       "id": 96677,
       "title": "Lupin",
-      "rating": 7.673,
-      "votes": 2737,
+      "rating": 7.672,
+      "votes": 2741,
       "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
       "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
       "release": "2021-01-08"
     },
     {
+      "id": 334700,
+      "title": "The Gift of Deceit",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Desperate to find a cure for the unknown illness affecting her daughter, art collector Lúcia Rossetti turns to a spiritual healer. When Lúcia falls victim to a scam, a series of secrets is revealed, intertwining two families marked by love, control, resentment, and guilt.",
+      "poster": "https://image.tmdb.org/t/p/w500/wIQIbjSS7pXB0O93huVxWhG2W7z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
+      "release": "2026-10-28"
+    },
+    {
       "id": 30984,
       "title": "Bleach",
-      "rating": 8.355,
-      "votes": 2320,
+      "rating": 8.4,
+      "votes": 2321,
       "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
       "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
@@ -42,74 +52,64 @@
       "release": "2026-10-27"
     },
     {
-      "id": 120911,
-      "title": "The Terminal List",
-      "rating": 8.0,
-      "votes": 1287,
-      "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-      "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
-      "release": "2022-06-30"
-    },
-    {
       "id": 105248,
       "title": "Cyberpunk: Edgerunners",
-      "rating": 8.507,
-      "votes": 2099,
+      "rating": 8.505,
+      "votes": 2100,
       "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
       "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
       "release": "2022-09-13"
     },
     {
+      "id": 120911,
+      "title": "The Terminal List",
+      "rating": 8.0,
+      "votes": 1288,
+      "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+      "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
+      "release": "2022-06-30"
+    },
+    {
       "id": 213562,
       "title": "Crystal Lake",
-      "rating": 8.673,
-      "votes": 269,
+      "rating": 8.668,
+      "votes": 274,
       "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
       "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5z5yynwihKGkupR2bXIWxO1IZVZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
       "release": "2026-10-15"
-    },
-    {
-      "id": 300146,
-      "title": "Where the Mask Ends",
-      "rating": 8.2,
-      "votes": 6,
-      "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-      "poster": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-      "release": "2026-10-16"
-    },
-    {
-      "id": 335951,
-      "title": "Summer Vacation",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "An ordinary teen girl longs for something new – will meeting a handsome boy in a countryside village change her life?",
-      "poster": "https://image.tmdb.org/t/p/w500/ru4oyTVoPVQZPUE5rI3YPMgLHBY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tXSbEP4vGLOBpJtFg2Vsmm6aStx.jpg",
-      "release": "2026-10-26"
-    },
-    {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.589,
-      "votes": 1113,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
     },
     {
       "id": 288673,
       "title": "Carrie",
-      "rating": 8.292,
-      "votes": 487,
+      "rating": 8.288,
+      "votes": 490,
       "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
       "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jCo3lBGQVUVlUtC4tWc5CAoPtZT.jpg",
       "release": "2026-10-07"
+    },
+    {
+      "id": 37854,
+      "title": "One Piece",
+      "rating": 8.754,
+      "votes": 5617,
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
+      "release": "1999-10-20"
+    },
+    {
+      "id": 289892,
+      "title": "Helluva Boss",
+      "rating": 7.6,
+      "votes": 121,
+      "overview": "In Hell, imp Blitzø (the 'o' is silent) runs an assassin business targeting the world of the living, using a spell book borrowed from a prince of the underworld. With employees Moxxie, Millie, and Loona, they attempt to survive each other while keeping business afloat.",
+      "poster": "https://image.tmdb.org/t/p/w500/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
+      "release": "2020-10-31"
     },
     {
       "id": 275139,
@@ -127,91 +127,101 @@
       "id": 1416,
       "title": "Grey's Anatomy",
       "rating": 8.203,
-      "votes": 11103,
+      "votes": 11105,
       "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
       "poster": "https://image.tmdb.org/t/p/w500/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
       "release": "2005-03-27"
     },
     {
-      "id": 1411,
-      "title": "Person of Interest",
-      "rating": 8.098,
-      "votes": 2209,
-      "overview": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. ",
-      "poster": "https://image.tmdb.org/t/p/w500/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/efeMgQn6iRALsOqDa2cqlf6Pw5O.jpg",
-      "release": "2011-09-22"
-    },
-    {
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
-      "rating": 8.0,
-      "votes": 4390,
+      "rating": 7.963,
+      "votes": 4391,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
       "release": "1999-09-20"
     },
     {
-      "id": 1434,
-      "title": "Family Guy",
-      "rating": 7.411,
-      "votes": 5173,
-      "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
-      "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
-      "release": "1999-01-31"
-    },
-    {
-      "id": 83631,
-      "title": "What We Do in the Shadows",
-      "rating": 8.0,
-      "votes": 1086,
-      "overview": "A documentary-style look into the daily (or rather, nightly) lives of a group of vampires in Staten Island who have “lived” together for hundreds and hundreds of years.",
-      "poster": "https://image.tmdb.org/t/p/w500/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mKikck71CvVISUSTLk29fwRbH4y.jpg",
-      "release": "2019-03-27"
-    },
-    {
-      "id": 1622,
-      "title": "Supernatural",
-      "rating": 8.3,
-      "votes": 8783,
-      "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-      "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
-      "release": "2005-09-13"
-    },
-    {
       "id": 4057,
       "title": "Criminal Minds",
       "rating": 8.295,
-      "votes": 4208,
+      "votes": 4209,
       "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
       "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
       "release": "2005-09-22"
     },
     {
+      "id": 1622,
+      "title": "Supernatural",
+      "rating": 8.317,
+      "votes": 8787,
+      "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+      "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
+      "release": "2005-09-13"
+    },
+    {
+      "id": 456,
+      "title": "The Simpsons",
+      "rating": 8.026,
+      "votes": 11113,
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "release": "1989-12-17"
+    },
+    {
       "id": 65494,
       "title": "The Crown",
-      "rating": 8.182,
-      "votes": 2462,
+      "rating": 8.181,
+      "votes": 2463,
       "overview": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny. \n\nThe Crown tells the inside story of two of the most famous addresses in the world – Buckingham Palace and 10 Downing Street – and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.",
       "poster": "https://image.tmdb.org/t/p/w500/1M876KPjulVwppEpldhdc8V4o68.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
       "release": "2016-11-04"
     },
     {
-      "id": 456,
-      "title": "The Simpsons",
-      "rating": 8.026,
-      "votes": 11112,
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-      "release": "1989-12-17"
+      "id": 1411,
+      "title": "Person of Interest",
+      "rating": 8.099,
+      "votes": 2210,
+      "overview": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. ",
+      "poster": "https://image.tmdb.org/t/p/w500/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/efeMgQn6iRALsOqDa2cqlf6Pw5O.jpg",
+      "release": "2011-09-22"
+    },
+    {
+      "id": 1668,
+      "title": "Friends",
+      "rating": 8.408,
+      "votes": 9516,
+      "overview": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
+      "poster": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+      "release": "1994-09-22"
+    },
+    {
+      "id": 36,
+      "title": "Medium",
+      "rating": 7.5,
+      "votes": 593,
+      "overview": "Allison Dubois works in the District Attorney’s office using her natural intuition about people and her ability to communicate with the dead to help to solve crimes. Her dreams often give her clues to the whereabouts of missing people.",
+      "poster": "https://image.tmdb.org/t/p/w500/6tOxspW2MbbAQ0s3jtfs8QATcx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dVpAGo3TT2IjDyRuKwhNfe9E1A5.jpg",
+      "release": "2005-01-03"
+    },
+    {
+      "id": 194766,
+      "title": "The Summer I Turned Pretty",
+      "rating": 8.1,
+      "votes": 1149,
+      "overview": "Every summer, Belly and her family head to the Fishers’ beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It’s a summer of first love, first heartbreak and growing up — it's the summer she turns pretty.",
+      "poster": "https://image.tmdb.org/t/p/w500/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jCQV3rHNbgHKo3N4G6CARbVEjPV.jpg",
+      "release": "2022-06-16"
     },
     {
       "id": 79593,
@@ -232,24 +242,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/nA8Z1fq3OTE2IrM8BiWxlPmrCpU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/794lCiKgncQg4tE2FDY8GVcEubZ.jpg",
       "release": "2008-10-30"
-    },
-    {
-      "id": 194766,
-      "title": "The Summer I Turned Pretty",
-      "rating": 8.1,
-      "votes": 1149,
-      "overview": "Every summer, Belly and her family head to the Fishers’ beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It’s a summer of first love, first heartbreak and growing up — it's the summer she turns pretty.",
-      "poster": "https://image.tmdb.org/t/p/w500/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jCQV3rHNbgHKo3N4G6CARbVEjPV.jpg",
-      "release": "2022-06-16"
     }
   ],
   "top_rated": [
     {
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
-      "rating": 9.653,
-      "votes": 337,
+      "rating": 9.7,
+      "votes": 340,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.4,
-      "votes": 1000,
+      "rating": 9.356,
+      "votes": 1001,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -269,7 +269,7 @@
       "id": 299167,
       "title": "Dutton Ranch",
       "rating": 9.136,
-      "votes": 645,
+      "votes": 647,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -299,7 +299,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.958,
-      "votes": 18975,
+      "votes": 18978,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -388,16 +388,6 @@
       "release": "2014-02-17"
     },
     {
-      "id": 4614,
-      "title": "NCIS",
-      "rating": 7.615,
-      "votes": 2601,
-      "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-      "poster": "https://image.tmdb.org/t/p/w500/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-      "release": "2003-09-23"
-    },
-    {
       "id": 61818,
       "title": "Late Night with Seth Meyers",
       "rating": 5.1,
@@ -406,16 +396,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
       "release": "2014-02-25"
-    },
-    {
-      "id": 213375,
-      "title": "VisionQuest",
-      "rating": 8.7,
-      "votes": 187,
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "release": "2026-10-13"
     },
     {
       "id": 2224,
@@ -448,24 +428,44 @@
       "release": "2005-10-13"
     },
     {
-      "id": 291,
-      "title": "Coronation Street",
-      "rating": 5.3,
-      "votes": 120,
-      "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-      "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-      "release": "1960-12-09"
+      "id": 44006,
+      "title": "Chicago Fire",
+      "rating": 8.411,
+      "votes": 2458,
+      "overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
+      "poster": "https://image.tmdb.org/t/p/w500/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/otaBZzLIqrKdXcovbAvVONJCnb4.jpg",
+      "release": "2012-10-10"
     },
     {
-      "id": 30984,
-      "title": "Bleach",
-      "rating": 8.355,
-      "votes": 2320,
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "release": "2004-10-05"
+      "id": 2190,
+      "title": "South Park",
+      "rating": 8.33,
+      "votes": 5226,
+      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+      "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "release": "1997-08-13"
+    },
+    {
+      "id": 58841,
+      "title": "Chicago P.D.",
+      "rating": 8.4,
+      "votes": 2649,
+      "overview": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
+      "poster": "https://image.tmdb.org/t/p/w500/w7R4ooo2IbOfBKOoMDwaiMGsNQf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/18KSsDgcGQds7yOMC6MVRTbVJwt.jpg",
+      "release": "2014-01-08"
+    },
+    {
+      "id": 1871,
+      "title": "EastEnders",
+      "rating": 4.3,
+      "votes": 232,
+      "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+      "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
+      "release": "1985-02-19"
     },
     {
       "id": 112470,
@@ -478,14 +478,14 @@
       "release": "2020-11-02"
     },
     {
-      "id": 1871,
-      "title": "EastEnders",
-      "rating": 4.3,
-      "votes": 231,
-      "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
-      "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
-      "release": "1985-02-19"
+      "id": 65701,
+      "title": "Good Mythical Morning",
+      "rating": 6.9,
+      "votes": 96,
+      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+      "release": "2012-01-09"
     }
   ]
 }
