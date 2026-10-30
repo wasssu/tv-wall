@@ -1,35 +1,65 @@
 {
-  "updated": "2026-10-29T18:02:15.939746+00:00",
+  "updated": "2026-10-30T04:28:51.234859+00:00",
   "trending": [
     {
-      "id": 96677,
-      "title": "Lupin",
-      "rating": 7.673,
-      "votes": 2746,
-      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-      "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
-      "release": "2021-01-08"
+      "id": 313699,
+      "title": "Balaraw: Blood Island",
+      "rating": 7.5,
+      "votes": 4,
+      "overview": "Years after her mother vanished, Sabina follows a mysterious clue to an uncharted island, where she confronts hidden dark secrets within her own family.",
+      "poster": "https://image.tmdb.org/t/p/w500/qgXCl86fh4EgaQlMpGQYSes1n2u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
+      "release": "2026-10-29"
     },
     {
       "id": 213375,
       "title": "VisionQuest",
-      "rating": 8.646,
-      "votes": 219,
+      "rating": 8.6,
+      "votes": 222,
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
       "release": "2026-10-13"
     },
     {
-      "id": 313699,
-      "title": "Balaraw: Blood Island",
-      "rating": 5.0,
-      "votes": 1,
-      "overview": "Years after her mother vanished, Sabina follows a mysterious clue to an uncharted island, where she confronts hidden dark secrets within her own family.",
-      "poster": "https://image.tmdb.org/t/p/w500/qgXCl86fh4EgaQlMpGQYSes1n2u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
+      "id": 96677,
+      "title": "Lupin",
+      "rating": 7.675,
+      "votes": 2750,
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+      "release": "2021-01-08"
+    },
+    {
+      "id": 292741,
+      "title": "Nocturne",
+      "rating": 10.0,
+      "votes": 2,
+      "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+      "poster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/kn6ZSYuyeSymOp0gqJVBOMAJrTC.jpg",
       "release": "2026-10-29"
+    },
+    {
+      "id": 2190,
+      "title": "South Park",
+      "rating": 8.331,
+      "votes": 5229,
+      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+      "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "release": "1997-08-13"
+    },
+    {
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.599,
+      "votes": 1124,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "release": "2025-03-30"
     },
     {
       "id": 334700,
@@ -42,6 +72,26 @@
       "release": "2026-10-28"
     },
     {
+      "id": 338689,
+      "title": "The Fall of El Mayo",
+      "rating": 8.5,
+      "votes": 2,
+      "overview": "Co-founder of the Sinaloa Cartel, longtime partner of \"El Chapo\", and a ghost to authorities for over three decades. The documentary that tells the story of his downfall.",
+      "poster": "https://image.tmdb.org/t/p/w500/zp5lT15wR0cfCYcR12DXcVNsrnh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8yRS45wcnw7HAMGa5cvntumNOX6.jpg",
+      "release": "2026-10-29"
+    },
+    {
+      "id": 120911,
+      "title": "The Terminal List",
+      "rating": 8.0,
+      "votes": 1295,
+      "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+      "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
+      "release": "2022-06-30"
+    },
+    {
       "id": 30984,
       "title": "Bleach",
       "rating": 8.4,
@@ -52,54 +102,14 @@
       "release": "2004-10-05"
     },
     {
-      "id": 120911,
-      "title": "The Terminal List",
-      "rating": 7.993,
-      "votes": 1295,
-      "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-      "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
-      "release": "2022-06-30"
-    },
-    {
-      "id": 105248,
-      "title": "Cyberpunk: Edgerunners",
-      "rating": 8.505,
-      "votes": 2104,
-      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
-      "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
-      "release": "2022-09-13"
-    },
-    {
       "id": 288673,
       "title": "Carrie",
-      "rating": 8.268,
-      "votes": 496,
+      "rating": 8.267,
+      "votes": 499,
       "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
       "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "release": "2026-10-07"
-    },
-    {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.598,
-      "votes": 1123,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
-    },
-    {
-      "id": 2190,
-      "title": "South Park",
-      "rating": 8.3,
-      "votes": 5227,
-      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "release": "1997-08-13"
     },
     {
       "id": 1413,
@@ -110,16 +120,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
       "release": "2011-10-05"
-    },
-    {
-      "id": 213562,
-      "title": "Crystal Lake",
-      "rating": 8.682,
-      "votes": 277,
-      "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-      "release": "2026-10-15"
     }
   ],
   "popular": [
@@ -127,7 +127,7 @@
       "id": 1416,
       "title": "Grey's Anatomy",
       "rating": 8.2,
-      "votes": 11105,
+      "votes": 11107,
       "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
       "poster": "https://image.tmdb.org/t/p/w500/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
@@ -167,7 +167,7 @@
       "id": 456,
       "title": "The Simpsons",
       "rating": 8.026,
-      "votes": 11114,
+      "votes": 11115,
       "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
       "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
@@ -176,8 +176,8 @@
     {
       "id": 1622,
       "title": "Supernatural",
-      "rating": 8.317,
-      "votes": 8789,
+      "rating": 8.316,
+      "votes": 8790,
       "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
       "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
@@ -186,7 +186,7 @@
     {
       "id": 1411,
       "title": "Person of Interest",
-      "rating": 8.098,
+      "rating": 8.1,
       "votes": 2212,
       "overview": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. ",
       "poster": "https://image.tmdb.org/t/p/w500/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
@@ -197,7 +197,7 @@
       "id": 1668,
       "title": "Friends",
       "rating": 8.408,
-      "votes": 9519,
+      "votes": 9521,
       "overview": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
       "poster": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
@@ -206,8 +206,8 @@
     {
       "id": 65494,
       "title": "The Crown",
-      "rating": 8.183,
-      "votes": 2466,
+      "rating": 8.182,
+      "votes": 2467,
       "overview": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny. \n\nThe Crown tells the inside story of two of the most famous addresses in the world – Buckingham Palace and 10 Downing Street – and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.",
       "poster": "https://image.tmdb.org/t/p/w500/1M876KPjulVwppEpldhdc8V4o68.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
@@ -216,8 +216,8 @@
     {
       "id": 194766,
       "title": "The Summer I Turned Pretty",
-      "rating": 8.058,
-      "votes": 1150,
+      "rating": 8.1,
+      "votes": 1151,
       "overview": "Every summer, Belly and her family head to the Fishers’ beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It’s a summer of first love, first heartbreak and growing up — it's the summer she turns pretty.",
       "poster": "https://image.tmdb.org/t/p/w500/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jCQV3rHNbgHKo3N4G6CARbVEjPV.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
-      "rating": 9.655,
-      "votes": 345,
+      "rating": 9.657,
+      "votes": 347,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
@@ -258,7 +258,7 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.356,
+      "rating": 9.4,
       "votes": 1001,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 229544,
       "title": "Among Us",
-      "rating": 9.002,
-      "votes": 207,
+      "rating": 8.993,
+      "votes": 208,
       "overview": "Eccentric, monochromatic crewmates of a ship transporting junk across the galaxy must root out an Impostor in their midst before they fall victim to its villainous designs.",
       "poster": "https://image.tmdb.org/t/p/w500/ourBbG4B1dAjfFUCzuUYEZpR101.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/zoa11EvyuasC3j7PmH1QGftrSvf.jpg",
@@ -299,7 +299,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.958,
-      "votes": 18986,
+      "votes": 18988,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -348,7 +348,7 @@
     {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.826,
+      "rating": 8.8,
       "votes": 1007,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
@@ -370,8 +370,8 @@
     {
       "id": 1416,
       "title": "Grey's Anatomy",
-      "rating": 8.2,
-      "votes": 11105,
+      "rating": 8.203,
+      "votes": 11108,
       "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
       "poster": "https://image.tmdb.org/t/p/w500/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
