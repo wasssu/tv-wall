@@ -1,45 +1,95 @@
 {
-  "updated": "2026-11-01T04:30:16.992215+00:00",
+  "updated": "2026-11-01T17:39:17.498562+00:00",
   "trending": [
     {
       "id": 289517,
       "title": "Dead-End Job",
-      "rating": 7.7,
-      "votes": 17,
+      "rating": 7.8,
+      "votes": 20,
       "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-      "poster": "https://image.tmdb.org/t/p/w500/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3fm3WYMftVrcFPdGXds9DCFVCCs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
       "release": "2026-10-30"
-    },
-    {
-      "id": 259909,
-      "title": "Dexter: Resurrection",
-      "rating": 8.551,
-      "votes": 717,
-      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "poster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-      "release": "2025-07-13"
     },
     {
       "id": 200875,
       "title": "IT: Welcome to Derry",
       "rating": 8.25,
-      "votes": 1753,
+      "votes": 1761,
       "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
       "poster": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
       "release": "2025-10-26"
     },
     {
+      "id": 259909,
+      "title": "Dexter: Resurrection",
+      "rating": 8.537,
+      "votes": 720,
+      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "poster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "release": "2025-07-13"
+    },
+    {
+      "id": 96677,
+      "title": "Lupin",
+      "rating": 7.7,
+      "votes": 2764,
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+      "release": "2021-01-08"
+    },
+    {
       "id": 292741,
       "title": "Nocturne",
-      "rating": 7.15,
-      "votes": 20,
+      "rating": 7.4,
+      "votes": 25,
       "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
       "poster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
       "release": "2026-10-29"
+    },
+    {
+      "id": 196322,
+      "title": "Dark Matter",
+      "rating": 7.824,
+      "votes": 859,
+      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
+      "release": "2024-05-07"
+    },
+    {
+      "id": 213375,
+      "title": "VisionQuest",
+      "rating": 8.7,
+      "votes": 234,
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+      "release": "2026-10-13"
+    },
+    {
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.611,
+      "votes": 1142,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "release": "2025-03-30"
+    },
+    {
+      "id": 30984,
+      "title": "Bleach",
+      "rating": 8.352,
+      "votes": 2329,
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "release": "2004-10-05"
     },
     {
       "id": 307478,
@@ -52,74 +102,24 @@
       "release": "2026-10-30"
     },
     {
-      "id": 96677,
-      "title": "Lupin",
-      "rating": 7.674,
-      "votes": 2764,
-      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-      "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
-      "release": "2021-01-08"
-    },
-    {
-      "id": 126027,
-      "title": "Ghosts",
-      "rating": 8.127,
-      "votes": 510,
-      "overview": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
-      "poster": "https://image.tmdb.org/t/p/w500/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/p5FOkor90VRBJEEhUMFdFdkixfe.jpg",
-      "release": "2021-10-07"
-    },
-    {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.608,
-      "votes": 1138,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
-    },
-    {
-      "id": 196322,
-      "title": "Dark Matter",
-      "rating": 7.82,
-      "votes": 857,
-      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-      "release": "2024-05-07"
-    },
-    {
-      "id": 213375,
-      "title": "VisionQuest",
-      "rating": 8.647,
-      "votes": 232,
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
-      "release": "2026-10-13"
-    },
-    {
       "id": 73223,
       "title": "Black Clover",
-      "rating": 8.527,
-      "votes": 2279,
+      "rating": 8.53,
+      "votes": 2283,
       "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
       "poster": "https://image.tmdb.org/t/p/w500/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
       "release": "2017-10-03"
     },
     {
-      "id": 336240,
-      "title": "A Couple of Lies",
-      "rating": 4.3,
-      "votes": 3,
-      "overview": "A seemingly idyllic home swap between Sicily and Stockholm turns toxic as two wealthy couples go to extremes to protect themselves — and their secrets.",
-      "poster": "https://image.tmdb.org/t/p/w500/xJupFp4GS4sRwH5xTEJLvvnNqaq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/zeRZjwA0IwaIN6zQcSpFC0VKdr7.jpg",
-      "release": "2026-10-30"
+      "id": 120911,
+      "title": "The Terminal List",
+      "rating": 7.994,
+      "votes": 1315,
+      "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+      "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
+      "release": "2022-06-30"
     }
   ],
   "popular": [
@@ -147,7 +147,7 @@
       "id": 1434,
       "title": "Family Guy",
       "rating": 7.413,
-      "votes": 5178,
+      "votes": 5181,
       "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
       "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
@@ -157,7 +157,7 @@
       "id": 456,
       "title": "The Simpsons",
       "rating": 8.027,
-      "votes": 11127,
+      "votes": 11128,
       "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
       "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
@@ -167,7 +167,7 @@
       "id": 1622,
       "title": "Supernatural",
       "rating": 8.317,
-      "votes": 8799,
+      "votes": 8802,
       "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
       "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
@@ -176,8 +176,8 @@
     {
       "id": 2316,
       "title": "The Office",
-      "rating": 8.6,
-      "votes": 5653,
+      "rating": 8.585,
+      "votes": 5656,
       "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
       "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
@@ -187,7 +187,7 @@
       "id": 1100,
       "title": "How I Met Your Mother",
       "rating": 8.112,
-      "votes": 6039,
+      "votes": 6041,
       "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
       "poster": "https://image.tmdb.org/t/p/w500/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
@@ -197,27 +197,17 @@
       "id": 18165,
       "title": "The Vampire Diaries",
       "rating": 8.3,
-      "votes": 9821,
+      "votes": 9823,
       "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
       "poster": "https://image.tmdb.org/t/p/w500/gbp4zM0FE0n23X4UFY5EBlacrog.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
       "release": "2009-09-10"
     },
     {
-      "id": 1408,
-      "title": "House",
-      "rating": 8.6,
-      "votes": 7993,
-      "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
-      "poster": "https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
-      "release": "2004-11-16"
-    },
-    {
       "id": 60735,
       "title": "The Flash",
-      "rating": 7.741,
-      "votes": 11836,
+      "rating": 7.74,
+      "votes": 11838,
       "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
       "poster": "https://image.tmdb.org/t/p/w500/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
@@ -227,17 +217,27 @@
       "id": 5920,
       "title": "The Mentalist",
       "rating": 8.423,
-      "votes": 4924,
+      "votes": 4925,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
       "release": "2008-09-23"
     },
     {
+      "id": 1416,
+      "title": "Grey's Anatomy",
+      "rating": 8.203,
+      "votes": 11115,
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+      "poster": "https://image.tmdb.org/t/p/w500/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+      "release": "2005-03-27"
+    },
+    {
       "id": 1421,
       "title": "Modern Family",
       "rating": 7.911,
-      "votes": 3590,
+      "votes": 3593,
       "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
       "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
-      "rating": 9.651,
-      "votes": 364,
+      "rating": 9.656,
+      "votes": 369,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
@@ -259,7 +259,7 @@
       "id": 276161,
       "title": "Teach You a Lesson",
       "rating": 9.355,
-      "votes": 1005,
+      "votes": 1006,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -299,7 +299,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.959,
-      "votes": 19008,
+      "votes": 19013,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -308,7 +308,7 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.865,
+      "rating": 8.9,
       "votes": 901,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
@@ -318,8 +318,8 @@
     {
       "id": 214999,
       "title": "The Good Bad Mother",
-      "rating": 8.852,
-      "votes": 203,
+      "rating": 8.858,
+      "votes": 204,
       "overview": "A tragic accident leaves an ambitious prosecutor with the mind of a child – forcing him and his mother to embark on a journey to heal their relationship.",
       "poster": "https://image.tmdb.org/t/p/w500/vtDLhvpTk1xcaBCKubSH0if575G.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/zOZqdv7UTc2sP2Tu5Cxj8j1M2r8.jpg",
@@ -348,8 +348,8 @@
     {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.826,
-      "votes": 1009,
+      "rating": 8.825,
+      "votes": 1012,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
@@ -368,34 +368,104 @@
   ],
   "airing_today": [
     {
-      "id": 30983,
-      "title": "Detective Conan",
-      "rating": 8.009,
-      "votes": 800,
-      "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
-      "poster": "https://image.tmdb.org/t/p/w500/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-      "release": "1996-01-08"
+      "id": 456,
+      "title": "The Simpsons",
+      "rating": 8.027,
+      "votes": 11128,
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "release": "1989-12-17"
     },
     {
-      "id": 1667,
-      "title": "Saturday Night Live",
-      "rating": 6.88,
-      "votes": 543,
-      "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
-      "poster": "https://image.tmdb.org/t/p/w500/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg",
-      "release": "1975-10-11"
+      "id": 22980,
+      "title": "Watch What Happens Live with Andy Cohen",
+      "rating": 4.9,
+      "votes": 100,
+      "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+      "release": "2009-07-16"
     },
     {
-      "id": 70672,
-      "title": "Men on a Mission",
-      "rating": 7.4,
-      "votes": 42,
-      "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
-      "poster": "https://image.tmdb.org/t/p/w500/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
-      "release": "2015-12-05"
+      "id": 33238,
+      "title": "Running Man",
+      "rating": 8.2,
+      "votes": 224,
+      "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
+      "poster": "https://image.tmdb.org/t/p/w500/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+      "release": "2010-07-11"
+    },
+    {
+      "id": 2661,
+      "title": "Kamen Rider",
+      "rating": 6.495,
+      "votes": 110,
+      "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "poster": "https://image.tmdb.org/t/p/w500/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+      "release": "1971-04-03"
+    },
+    {
+      "id": 57775,
+      "title": "Chibi Maruko-chan",
+      "rating": 7.76,
+      "votes": 25,
+      "overview": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a cozy town alongside her loving parents, grandparents, and sister. Maruko has a band of loyal friends, including her closest pal, Tama-chan, but her playful and doting grandpa is at the heart of it all. Life is never dull in this charming series.",
+      "poster": "https://image.tmdb.org/t/p/w500/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
+      "release": "1990-01-07"
+    },
+    {
+      "id": 65278,
+      "title": "Inkigayo",
+      "rating": 7.5,
+      "votes": 4,
+      "overview": "The program is a weekly music show that features and introduces viewers to the most popular artists in Korea. Every week, they ask viewers to vote and select the most popular song of the week.",
+      "poster": "https://image.tmdb.org/t/p/w500/hvY5NH73JRvfJI714MF6Ja4TM3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/eXySrZkDWeOel45DlXTcSWiM6NH.jpg",
+      "release": "1998-02-01"
+    },
+    {
+      "id": 72896,
+      "title": "My Little Old Boy",
+      "rating": 7.3,
+      "votes": 11,
+      "overview": "How much do you know about your grown up son? In Mom’s Diary, the daily lives of the grown up celebrity sons are closely observed by their mothers. Do you know why your son drinks so much these days? How much do you know about your son’s philosophy in his life style? Heart-warming moments of observational communication between a mother and a son can be seen on Mom’s Diary.",
+      "poster": "https://image.tmdb.org/t/p/w500/fgeWRIiigNHLxy3qEzM0HqNcFHT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vrLDuQ5L45f7vFWpMT17WopdWx0.jpg",
+      "release": "2016-08-26"
+    },
+    {
+      "id": 65334,
+      "title": "Miraculous: Tales of Ladybug & Cat Noir",
+      "rating": 8.1,
+      "votes": 4699,
+      "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+      "poster": "https://image.tmdb.org/t/p/w500/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+      "release": "2015-10-19"
+    },
+    {
+      "id": 312359,
+      "title": "Dragon Ball Super: Beerus",
+      "rating": 9.654,
+      "votes": 367,
+      "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+      "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+      "release": "2026-10-11"
+    },
+    {
+      "id": 259909,
+      "title": "Dexter: Resurrection",
+      "rating": 8.538,
+      "votes": 720,
+      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "poster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "release": "2025-07-13"
     },
     {
       "id": 224,
@@ -408,84 +478,14 @@
       "release": "1964-08-22"
     },
     {
-      "id": 154770,
-      "title": "Hello Saturday",
-      "rating": 6.5,
-      "votes": 11,
-      "overview": "\"Hello, Saturday\" is the rebranding of the popular Chinese show \"Happy Camp\", hosted by He Jiong and with a fixed group of regular celebrity members.\n\nThe program showcases the talent of various stars as well as social topics through creative and diverse content and games. It aims to spread positive energy while keeping up with the current trends and leading youth culture.",
-      "poster": "https://image.tmdb.org/t/p/w500/wsTjWy6NE2s3h0neChr0D92ddwI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg",
-      "release": "2022-01-01"
-    },
-    {
-      "id": 300146,
-      "title": "Where the Mask Ends",
-      "rating": 8.2,
-      "votes": 6,
-      "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-      "poster": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-      "release": "2026-10-16"
-    },
-    {
-      "id": 91121,
-      "title": "How Do You Play?",
-      "rating": 7.2,
-      "votes": 23,
-      "overview": "Yoo Jae-suk reunites the producing team of Infinite Challenge and presents you How Do You Play? The Indefinitely expanding YOONIVERSE, based on Yoo's blood, sweat, and tears, will entertain viewers at home. Let's follow Yoo and his friends' new projects every week.",
-      "poster": "https://image.tmdb.org/t/p/w500/dJd8LFodX9831AeRD3CzWklYcS5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dgutaqpLcLMoJInkbglyG8cLuji.jpg",
-      "release": "2019-07-27"
-    },
-    {
-      "id": 8892,
-      "title": "Pinoy Big Brother",
-      "rating": 5.7,
-      "votes": 11,
-      "overview": "The Philippine adaptation of the reality game show \"Big Brother\" features Filipino housemates live together, share their stories and build meaningful relationships as they do tasks and challenges supervised by Big Brother. Every week a nomination is done, and the public decides who gets evicted and eventually become the Big Winner of the program.",
-      "poster": "https://image.tmdb.org/t/p/w500/zUva0cs2SOjoxFPpwINbpevzoax.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nCXV9ARvIE2Yc9tLg6pBwpPpPld.jpg",
-      "release": "2005-08-21"
-    },
-    {
-      "id": 293610,
-      "title": "Doctor X: Mafia in White",
-      "rating": 9.353,
-      "votes": 34,
-      "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-      "poster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-      "release": "2026-10-09"
-    },
-    {
-      "id": 106449,
-      "title": "A Record of a Mortal's Journey to Immortality",
-      "rating": 8.489,
-      "votes": 91,
-      "overview": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.",
-      "poster": "https://image.tmdb.org/t/p/w500/rXX12X3Lx7jmlvfUc3glIwJVLCH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
-      "release": "2020-07-25"
-    },
-    {
-      "id": 105009,
-      "title": "Tokyo Revengers",
-      "rating": 8.404,
-      "votes": 1376,
-      "overview": "Takemichi Hanagaki is a freelancer that’s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he’s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he’s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he’s back living the best days of his life, Takemichi decides to get revenge on his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
-      "release": "2021-04-11"
-    },
-    {
-      "id": 79481,
-      "title": "Fights Break Sphere",
-      "rating": 8.079,
-      "votes": 63,
-      "overview": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years ago, Xiao Yan, who had shown talents none had seen in decades, suddenly lost everything. His powers, his reputation, and his promise to his mother. What sorcery has caused him to lose all of his powers? And why has his fiancee suddenly shown up?",
-      "poster": "https://image.tmdb.org/t/p/w500/oyoahIcdamTXwjIaL3CqZ1v5CLl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cTCn2EO69SERNfhaezJMoqBom4G.jpg",
-      "release": "2017-01-07"
+      "id": 64369,
+      "title": "TV Animal Farm",
+      "rating": 7.6,
+      "votes": 4,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/7FZZHXxlujrtq3EUkP78tm5aVkX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/1eUNe8eP5GnEL6RLgPLSVOiVTvU.jpg",
+      "release": "2001-05-06"
     }
   ]
 }
