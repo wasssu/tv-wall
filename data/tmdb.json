@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T04:44:24.911294+00:00",
+  "updated": "2026-11-07T17:26:50.282584+00:00",
   "trending": [
     {
       "id": 303044,
@@ -7,19 +7,9 @@
       "rating": 7.8,
       "votes": 7,
       "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-      "poster": "https://image.tmdb.org/t/p/w500/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/br6TrAPctmobu6QM730sBEC18eH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
       "release": "2026-11-06"
-    },
-    {
-      "id": 225385,
-      "title": "Black Doves",
-      "rating": 7.048,
-      "votes": 471,
-      "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
-      "poster": "https://image.tmdb.org/t/p/w500/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
-      "release": "2024-12-05"
     },
     {
       "id": 247718,
@@ -30,6 +20,26 @@
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "release": "2025-03-30"
+    },
+    {
+      "id": 225385,
+      "title": "Black Doves",
+      "rating": 7.053,
+      "votes": 472,
+      "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
+      "poster": "https://image.tmdb.org/t/p/w500/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+      "release": "2024-12-05"
+    },
+    {
+      "id": 259909,
+      "title": "Dexter: Resurrection",
+      "rating": 8.6,
+      "votes": 733,
+      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "poster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "release": "2025-07-13"
     },
     {
       "id": 328010,
@@ -52,34 +62,34 @@
       "release": "2026-11-03"
     },
     {
-      "id": 259909,
-      "title": "Dexter: Resurrection",
-      "rating": 8.6,
-      "votes": 731,
-      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "poster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-      "release": "2025-07-13"
+      "id": 96677,
+      "title": "Lupin",
+      "rating": 7.7,
+      "votes": 2780,
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
+      "release": "2021-01-08"
+    },
+    {
+      "id": 73223,
+      "title": "Black Clover",
+      "rating": 8.535,
+      "votes": 2294,
+      "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+      "poster": "https://image.tmdb.org/t/p/w500/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "release": "2017-10-03"
     },
     {
       "id": 213375,
       "title": "VisionQuest",
-      "rating": 8.634,
+      "rating": 8.6,
       "votes": 268,
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
       "release": "2026-10-13"
-    },
-    {
-      "id": 307853,
-      "title": "Sunshine Through the Rain",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
-      "poster": "https://image.tmdb.org/t/p/w500/tckCJzClnmd85VIrtaycHkcgXhM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
-      "release": "2026-11-06"
     },
     {
       "id": 292741,
@@ -92,34 +102,24 @@
       "release": "2026-10-29"
     },
     {
-      "id": 153312,
-      "title": "Tulsa King",
-      "rating": 8.314,
-      "votes": 2917,
-      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-      "poster": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-      "release": "2022-11-13"
+      "id": 307853,
+      "title": "Sunshine Through the Rain",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
+      "poster": "https://image.tmdb.org/t/p/w500/tckCJzClnmd85VIrtaycHkcgXhM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
+      "release": "2026-11-06"
     },
     {
-      "id": 270431,
-      "title": "When I Meet the Moon",
-      "rating": 9.2,
-      "votes": 5,
-      "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
-      "poster": "https://image.tmdb.org/t/p/w500/fhbttPIgdiS6lXlPA1LSeiwSGvI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
-      "release": "2026-11-05"
-    },
-    {
-      "id": 262352,
-      "title": "The Assassin",
-      "rating": 6.8,
-      "votes": 80,
-      "overview": "Secluded on a remote Greek island, retired assassin Julie has a somewhat thorny reunion with her estranged son, Edward, visiting from England. Armed with questions around new information on his paternity, Edward battles to find the right time to speak to his frustratingly distant mother. But, when the moment finally presents itself, things take a deadly turn as Julie’s dangerous past catches up with her and they are forced to flee the island and go on the run together.",
-      "poster": "https://image.tmdb.org/t/p/w500/3O2UgEszp1CVbL8p9XnKkFDkbk3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7EB84rTBUmjY2tPhNpGjxnKJVeo.jpg",
-      "release": "2025-07-25"
+      "id": 297491,
+      "title": "Under Siege",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "November 1985: The armed group, M-19, storms the Palace of Justice in Bogotá, unleashing a wave of violence that would change Colombia forever. Amid crossfire, desperate hostages, an unrelenting army, and a guerrilla movement ready to risk everything, the nation watches as war tears through the heart of its capital for the first time. The 27 hours of horror would be followed by 40 years of unanswered questions.",
+      "poster": "https://image.tmdb.org/t/p/w500/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
+      "release": "2026-11-06"
     }
   ],
   "popular": [
@@ -137,7 +137,7 @@
       "id": 1100,
       "title": "How I Met Your Mother",
       "rating": 8.111,
-      "votes": 6056,
+      "votes": 6057,
       "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
       "poster": "https://image.tmdb.org/t/p/w500/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
@@ -166,8 +166,8 @@
     {
       "id": 1421,
       "title": "Modern Family",
-      "rating": 7.909,
-      "votes": 3608,
+      "rating": 7.91,
+      "votes": 3609,
       "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
       "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
@@ -177,7 +177,7 @@
       "id": 1400,
       "title": "Seinfeld",
       "rating": 8.247,
-      "votes": 2505,
+      "votes": 2506,
       "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
       "poster": "https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
@@ -186,7 +186,7 @@
     {
       "id": 873,
       "title": "Columbo",
-      "rating": 8.059,
+      "rating": 8.1,
       "votes": 885,
       "overview": "Columbo is a friendly, verbose, disheveled-looking police detective who is consistently underestimated by his suspects. Despite his unprepossessing appearance and apparent absentmindedness, he shrewdly solves all of his cases and secures all evidence needed for indictment. His formidable eye for detail and meticulously dedicated approach often become clear to the killer only late in the storyline.",
       "poster": "https://image.tmdb.org/t/p/w500/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
@@ -207,7 +207,7 @@
       "id": 60735,
       "title": "The Flash",
       "rating": 7.739,
-      "votes": 11849,
+      "votes": 11850,
       "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
       "poster": "https://image.tmdb.org/t/p/w500/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
@@ -216,8 +216,8 @@
     {
       "id": 19885,
       "title": "Sherlock",
-      "rating": 8.502,
-      "votes": 6838,
+      "rating": 8.503,
+      "votes": 6839,
       "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
       "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
@@ -227,7 +227,7 @@
       "id": 1424,
       "title": "Orange Is the New Black",
       "rating": 7.638,
-      "votes": 2947,
+      "votes": 2949,
       "overview": "A crime she committed in her youthful past sends Piper Chapman to a women's prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.",
       "poster": "https://image.tmdb.org/t/p/w500/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/zJiWhsEYCy5BkFCBONoMnUunyZQ.jpg",
@@ -236,8 +236,8 @@
     {
       "id": 2316,
       "title": "The Office",
-      "rating": 8.583,
-      "votes": 5678,
+      "rating": 8.584,
+      "votes": 5680,
       "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
       "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
-      "rating": 9.641,
-      "votes": 393,
+      "rating": 9.627,
+      "votes": 394,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
@@ -286,6 +286,16 @@
       "release": "2026-06-05"
     },
     {
+      "id": 1396,
+      "title": "Breaking Bad",
+      "rating": 8.959,
+      "votes": 19051,
+      "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+      "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "release": "2008-01-20"
+    },
+    {
       "id": 278573,
       "title": "Perfect Crown",
       "rating": 9.0,
@@ -294,16 +304,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
       "release": "2026-04-10"
-    },
-    {
-      "id": 1396,
-      "title": "Breaking Bad",
-      "rating": 8.959,
-      "votes": 19050,
-      "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-      "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-      "release": "2008-01-20"
     },
     {
       "id": 273240,
@@ -368,124 +368,124 @@
   ],
   "airing_today": [
     {
-      "id": 59941,
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.822,
-      "votes": 401,
-      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-      "release": "2014-02-17"
+      "id": 1667,
+      "title": "Saturday Night Live",
+      "rating": 6.894,
+      "votes": 549,
+      "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
+      "poster": "https://image.tmdb.org/t/p/w500/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg",
+      "release": "1975-10-11"
     },
     {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.6,
-      "votes": 1170,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
+      "id": 70672,
+      "title": "Men on a Mission",
+      "rating": 7.4,
+      "votes": 42,
+      "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
+      "poster": "https://image.tmdb.org/t/p/w500/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+      "release": "2015-12-05"
     },
     {
-      "id": 61818,
-      "title": "Late Night with Seth Meyers",
-      "rating": 5.129,
-      "votes": 139,
-      "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-      "poster": "https://image.tmdb.org/t/p/w500/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-      "release": "2014-02-25"
+      "id": 30983,
+      "title": "Detective Conan",
+      "rating": 8.0,
+      "votes": 801,
+      "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
+      "poster": "https://image.tmdb.org/t/p/w500/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+      "release": "1996-01-08"
     },
     {
-      "id": 206559,
-      "title": "Binnelanders",
-      "rating": 5.5,
-      "votes": 112,
-      "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-      "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-      "release": "2005-10-13"
+      "id": 224,
+      "title": "Match of the Day",
+      "rating": 7.6,
+      "votes": 53,
+      "overview": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised by Guinness World Records in 2015.",
+      "poster": "https://image.tmdb.org/t/p/w500/tVFCu0jE9m5QHmHM4rzEFGs1kUI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3EGjqKhVHGsvNHvBIbxmqS17Aal.jpg",
+      "release": "1964-08-22"
     },
     {
-      "id": 153312,
-      "title": "Tulsa King",
-      "rating": 8.314,
-      "votes": 2917,
-      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-      "poster": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-      "release": "2022-11-13"
+      "id": 154770,
+      "title": "Hello Saturday",
+      "rating": 6.5,
+      "votes": 11,
+      "overview": "\"Hello, Saturday\" is the rebranding of the popular Chinese show \"Happy Camp\", hosted by He Jiong and with a fixed group of regular celebrity members.\n\nThe program showcases the talent of various stars as well as social topics through creative and diverse content and games. It aims to spread positive energy while keeping up with the current trends and leading youth culture.",
+      "poster": "https://image.tmdb.org/t/p/w500/wsTjWy6NE2s3h0neChr0D92ddwI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg",
+      "release": "2022-01-01"
     },
     {
-      "id": 72879,
-      "title": "Tomorrow Is Ours",
-      "rating": 6.3,
-      "votes": 74,
-      "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-      "poster": "https://image.tmdb.org/t/p/w500/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
-      "release": "2017-07-17"
+      "id": 91121,
+      "title": "How Do You Play?",
+      "rating": 7.2,
+      "votes": 23,
+      "overview": "Yoo Jae-suk reunites the producing team of Infinite Challenge and presents you How Do You Play? The Indefinitely expanding YOONIVERSE, based on Yoo's blood, sweat, and tears, will entertain viewers at home. Let's follow Yoo and his friends' new projects every week.",
+      "poster": "https://image.tmdb.org/t/p/w500/dJd8LFodX9831AeRD3CzWklYcS5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dgutaqpLcLMoJInkbglyG8cLuji.jpg",
+      "release": "2019-07-27"
     },
     {
-      "id": 112470,
-      "title": "Ici tout commence",
-      "rating": 6.8,
-      "votes": 92,
-      "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
-      "poster": "https://image.tmdb.org/t/p/w500/umIMGX0BucQ0AFFd3NYrOaV1lMY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
-      "release": "2020-11-02"
+      "id": 13752,
+      "title": "Saturday Kitchen Live",
+      "rating": 3.5,
+      "votes": 2,
+      "overview": "Saturday Kitchen Live is a 90 minute cookery programme, which is broadcast live on BBC One on Saturday mornings. Matt Tebbutt is the predominant presenter. Andi Oliver and Michel Roux Jr. have also presented several episodes. Previous presenters have included Antony Worrall Thompson and Gregg Wallace. The programme is currently produced by Cactus TV. The programme has also aired on RTÉ One in Ireland on Saturday mornings, the episodes shown are several months old.",
+      "poster": "https://image.tmdb.org/t/p/w500/xPLZzHv04LYek3WyUVe1N6jzgkE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6kYR5LcENoyrWNt5ZWXTFpXEf4r.jpg",
+      "release": "2002-01-26"
     },
     {
-      "id": 81329,
-      "title": "Chronicles of the Sun",
-      "rating": 6.6,
-      "votes": 129,
-      "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
-      "poster": "https://image.tmdb.org/t/p/w500/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
-      "release": "2018-08-27"
+      "id": 16807,
+      "title": "Jornal Nacional",
+      "rating": 7.0,
+      "votes": 9,
+      "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "poster": "https://image.tmdb.org/t/p/w500/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg",
+      "release": "1969-09-01"
     },
     {
-      "id": 65701,
-      "title": "Good Mythical Morning",
-      "rating": 6.959,
-      "votes": 98,
-      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-      "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
-      "release": "2012-01-09"
+      "id": 8892,
+      "title": "Pinoy Big Brother",
+      "rating": 5.7,
+      "votes": 11,
+      "overview": "The Philippine adaptation of the reality game show \"Big Brother\" features Filipino housemates live together, share their stories and build meaningful relationships as they do tasks and challenges supervised by Big Brother. Every week a nomination is done, and the public decides who gets evicted and eventually become the Big Winner of the program.",
+      "poster": "https://image.tmdb.org/t/p/w500/zUva0cs2SOjoxFPpwINbpevzoax.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nCXV9ARvIE2Yc9tLg6pBwpPpPld.jpg",
+      "release": "2005-08-21"
     },
     {
-      "id": 4419,
-      "title": "Real Time with Bill Maher",
-      "rating": 5.986,
-      "votes": 250,
-      "overview": "Each week Bill Maher surrounds himself with a panel of guests which include politicians, actors, comedians, musicians and the like to discuss what's going on in the world.",
-      "poster": "https://image.tmdb.org/t/p/w500/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/njEGYHyq58q94ZPJlSGs6bGrepv.jpg",
-      "release": "2003-02-21"
+      "id": 293610,
+      "title": "Doctor X: Mafia in White",
+      "rating": 9.0,
+      "votes": 41,
+      "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+      "poster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "release": "2026-10-09"
     },
     {
-      "id": 2221,
-      "title": "The View",
-      "rating": 4.31,
-      "votes": 116,
-      "overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
-      "poster": "https://image.tmdb.org/t/p/w500/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
-      "release": "1997-08-11"
+      "id": 105009,
+      "title": "Tokyo Revengers",
+      "rating": 8.405,
+      "votes": 1378,
+      "overview": "Takemichi Hanagaki is a freelancer that’s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he’s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he’s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he’s back living the best days of his life, Takemichi decides to get revenge on his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
+      "release": "2021-04-11"
     },
     {
-      "id": 65282,
-      "title": "Home Alone",
-      "rating": 7.158,
-      "votes": 19,
-      "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
-      "poster": "https://image.tmdb.org/t/p/w500/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
-      "release": "2013-03-22"
+      "id": 73223,
+      "title": "Black Clover",
+      "rating": 8.535,
+      "votes": 2294,
+      "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+      "poster": "https://image.tmdb.org/t/p/w500/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "release": "2017-10-03"
     }
   ]
 }
