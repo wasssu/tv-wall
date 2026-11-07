@@ -1,25 +1,75 @@
 {
-  "updated": "2026-11-06T18:54:42.235108+00:00",
+  "updated": "2026-11-07T04:44:24.911294+00:00",
   "trending": [
+    {
+      "id": 303044,
+      "title": "Campus Drivers",
+      "rating": 7.8,
+      "votes": 7,
+      "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+      "poster": "https://image.tmdb.org/t/p/w500/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "release": "2026-11-06"
+    },
     {
       "id": 225385,
       "title": "Black Doves",
-      "rating": 7.0,
-      "votes": 469,
+      "rating": 7.048,
+      "votes": 471,
       "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
       "poster": "https://image.tmdb.org/t/p/w500/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
       "release": "2024-12-05"
     },
     {
-      "id": 303044,
-      "title": "Campus Drivers",
-      "rating": 8.5,
-      "votes": 2,
-      "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-      "poster": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.618,
+      "votes": 1171,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "release": "2025-03-30"
+    },
+    {
+      "id": 328010,
+      "title": "Devils' Crest",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Yuma Ashihara was set to enjoy a test session of Actual Magic (AM)—the world's first fulldive VRMMO-RPG—together with his classmates Sawa Ashihara, Kenji Kondo, and Minagi Sano. The plan was simple: defeat the boss as a party of four, log out, and finish the test play safely — or at least, that's how it was supposed to go.",
+      "poster": "https://image.tmdb.org/t/p/w500/dRflgHEhzpy12nsYR11hvdoHEoK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fA6eLsm6xEBK90IK3UNWoVPZBn7.jpg",
       "release": "2026-11-06"
+    },
+    {
+      "id": 279246,
+      "title": "The Remarried Empress",
+      "rating": 8.188,
+      "votes": 16,
+      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+      "release": "2026-11-03"
+    },
+    {
+      "id": 259909,
+      "title": "Dexter: Resurrection",
+      "rating": 8.6,
+      "votes": 731,
+      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "poster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "release": "2025-07-13"
+    },
+    {
+      "id": 213375,
+      "title": "VisionQuest",
+      "rating": 8.634,
+      "votes": 268,
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+      "release": "2026-10-13"
     },
     {
       "id": 307853,
@@ -32,34 +82,14 @@
       "release": "2026-11-06"
     },
     {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.62,
-      "votes": 1170,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
-    },
-    {
-      "id": 279155,
-      "title": "The Silent Storm",
-      "rating": 9.0,
-      "votes": 1,
-      "overview": "In 1994, tax auditor Ouyang Xu, criminal investigator Yan Ping'an, and Zhou Haiyang—who was searching for his missing wife—met through a counterfeit invoice case in Chunjiang City. Under the tide of the times, the three experienced vastly different circumstances, and their fates gradually diverged. Years later, Operation Grain Rain brings them together again—but the brothers of old now stand on opposite sides. Ouyang Xu faces off against the tax fraud ring led by Zhou Haiyang and the protective umbrella behind it, caught in a painful choice between emotion and the law. Starting from a single invoice, he tears away the veil of greed and ultimately eliminates evil, safeguarding justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/c8UHaCOfzyQYagHv7vAAOkrmgDb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wq90aEtC8xYym8dFovlU7X98Anq.jpg",
-      "release": "2026-11-05"
-    },
-    {
-      "id": 262352,
-      "title": "The Assassin",
-      "rating": 6.8,
-      "votes": 80,
-      "overview": "Secluded on a remote Greek island, retired assassin Julie has a somewhat thorny reunion with her estranged son, Edward, visiting from England. Armed with questions around new information on his paternity, Edward battles to find the right time to speak to his frustratingly distant mother. But, when the moment finally presents itself, things take a deadly turn as Julie’s dangerous past catches up with her and they are forced to flee the island and go on the run together.",
-      "poster": "https://image.tmdb.org/t/p/w500/3O2UgEszp1CVbL8p9XnKkFDkbk3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7EB84rTBUmjY2tPhNpGjxnKJVeo.jpg",
-      "release": "2025-07-25"
+      "id": 292741,
+      "title": "Nocturne",
+      "rating": 7.7,
+      "votes": 35,
+      "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+      "poster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+      "release": "2026-10-29"
     },
     {
       "id": 153312,
@@ -72,62 +102,32 @@
       "release": "2022-11-13"
     },
     {
-      "id": 279246,
-      "title": "The Remarried Empress",
-      "rating": 8.3,
-      "votes": 11,
-      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
-      "release": "2026-11-03"
+      "id": 270431,
+      "title": "When I Meet the Moon",
+      "rating": 9.2,
+      "votes": 5,
+      "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
+      "poster": "https://image.tmdb.org/t/p/w500/fhbttPIgdiS6lXlPA1LSeiwSGvI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
+      "release": "2026-11-05"
     },
     {
-      "id": 213375,
-      "title": "VisionQuest",
-      "rating": 8.6,
-      "votes": 268,
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-      "release": "2026-10-13"
-    },
-    {
-      "id": 259909,
-      "title": "Dexter: Resurrection",
-      "rating": 8.6,
-      "votes": 730,
-      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "poster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-      "release": "2025-07-13"
-    },
-    {
-      "id": 258989,
-      "title": "The Greatest",
-      "rating": 5.3,
-      "votes": 14,
-      "overview": "Fresh off gold at the 1960 Olympics, young boxer Muhammad Ali (then known as Cassius Clay) sets his sights on the Heavyweight Championship. Contending with newfound fame, self-doubt, family conflict and a politically charged America, the once-in-a-generation prodigy discovers his greatest opponent won't be in the ring, but in a society that isn't ready for him to become his own man.",
-      "poster": "https://image.tmdb.org/t/p/w500/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
-      "release": "2026-11-04"
-    },
-    {
-      "id": 292741,
-      "title": "Nocturne",
-      "rating": 7.7,
-      "votes": 35,
-      "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
-      "poster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-      "release": "2026-10-29"
+      "id": 262352,
+      "title": "The Assassin",
+      "rating": 6.8,
+      "votes": 80,
+      "overview": "Secluded on a remote Greek island, retired assassin Julie has a somewhat thorny reunion with her estranged son, Edward, visiting from England. Armed with questions around new information on his paternity, Edward battles to find the right time to speak to his frustratingly distant mother. But, when the moment finally presents itself, things take a deadly turn as Julie’s dangerous past catches up with her and they are forced to flee the island and go on the run together.",
+      "poster": "https://image.tmdb.org/t/p/w500/3O2UgEszp1CVbL8p9XnKkFDkbk3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7EB84rTBUmjY2tPhNpGjxnKJVeo.jpg",
+      "release": "2025-07-25"
     }
   ],
   "popular": [
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.421,
-      "votes": 4949,
+      "rating": 8.4,
+      "votes": 4950,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
@@ -157,7 +157,7 @@
       "id": 63333,
       "title": "The Last Kingdom",
       "rating": 8.255,
-      "votes": 2081,
+      "votes": 2082,
       "overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
       "poster": "https://image.tmdb.org/t/p/w500/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/QbtctI8EzlhsyFDMUMyG3fli8B.jpg",
@@ -167,7 +167,7 @@
       "id": 1421,
       "title": "Modern Family",
       "rating": 7.909,
-      "votes": 3607,
+      "votes": 3608,
       "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
       "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
@@ -186,8 +186,8 @@
     {
       "id": 873,
       "title": "Columbo",
-      "rating": 8.058,
-      "votes": 884,
+      "rating": 8.059,
+      "votes": 885,
       "overview": "Columbo is a friendly, verbose, disheveled-looking police detective who is consistently underestimated by his suspects. Despite his unprepossessing appearance and apparent absentmindedness, he shrewdly solves all of his cases and secures all evidence needed for indictment. His formidable eye for detail and meticulously dedicated approach often become clear to the killer only late in the storyline.",
       "poster": "https://image.tmdb.org/t/p/w500/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/d7cH4zt3xoqRQnLqYXMPOrUz5k3.jpg",
@@ -197,7 +197,7 @@
       "id": 48866,
       "title": "The 100",
       "rating": 7.878,
-      "votes": 8863,
+      "votes": 8864,
       "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
       "poster": "https://image.tmdb.org/t/p/w500/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
@@ -207,7 +207,7 @@
       "id": 60735,
       "title": "The Flash",
       "rating": 7.739,
-      "votes": 11848,
+      "votes": 11849,
       "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
       "poster": "https://image.tmdb.org/t/p/w500/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
@@ -216,8 +216,8 @@
     {
       "id": 19885,
       "title": "Sherlock",
-      "rating": 8.503,
-      "votes": 6835,
+      "rating": 8.502,
+      "votes": 6838,
       "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
       "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
@@ -226,8 +226,8 @@
     {
       "id": 1424,
       "title": "Orange Is the New Black",
-      "rating": 7.6,
-      "votes": 2946,
+      "rating": 7.638,
+      "votes": 2947,
       "overview": "A crime she committed in her youthful past sends Piper Chapman to a women's prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.",
       "poster": "https://image.tmdb.org/t/p/w500/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/zJiWhsEYCy5BkFCBONoMnUunyZQ.jpg",
@@ -236,8 +236,8 @@
     {
       "id": 2316,
       "title": "The Office",
-      "rating": 8.6,
-      "votes": 5676,
+      "rating": 8.583,
+      "votes": 5678,
       "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
       "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
@@ -258,7 +258,7 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.4,
+      "rating": 9.353,
       "votes": 1012,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
@@ -288,7 +288,7 @@
     {
       "id": 278573,
       "title": "Perfect Crown",
-      "rating": 8.958,
+      "rating": 9.0,
       "votes": 240,
       "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
@@ -298,8 +298,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.958,
-      "votes": 19046,
+      "rating": 8.959,
+      "votes": 19050,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -380,7 +380,7 @@
     {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.62,
+      "rating": 8.6,
       "votes": 1170,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
