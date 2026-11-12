@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12T05:50:27.651897+00:00",
+  "updated": "2026-11-12T19:33:14.369795+00:00",
   "trending": [
     {
       "id": 1489,
       "title": "Jimmy Kimmel Live!",
       "rating": 5.3,
       "votes": 226,
-      "overview": "James Christian Kimmel (born November 13, 1967) is an American talk-show host, comedian, and producer best known for creating and hosting Jimmy Kimmel Live! on ABC.",
+      "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
       "poster": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
       "release": "2003-01-26"
@@ -14,8 +14,8 @@
     {
       "id": 84773,
       "title": "The Lord of the Rings: The Rings of Power",
-      "rating": 7.218,
-      "votes": 4039,
+      "rating": 7.217,
+      "votes": 4046,
       "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
       "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
@@ -25,7 +25,7 @@
       "id": 213375,
       "title": "VisionQuest",
       "rating": 8.4,
-      "votes": 391,
+      "votes": 411,
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
@@ -34,42 +34,22 @@
     {
       "id": 291507,
       "title": "The Body",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "After a dance-team initiation gone wrong, a group of badly behaved Catholic school girls begin having prophetic visions that set off mass hysteria in their town.",
-      "poster": "https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg",
+      "rating": 7.9,
+      "votes": 12,
+      "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "poster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
       "release": "2026-11-11"
     },
     {
-      "id": 338562,
-      "title": "Alicia's Law",
-      "rating": 8.3,
-      "votes": 3,
-      "overview": "After her husband, a Supreme Court Justice Minister, is imprisoned for corruption, Alicia must restart her law career to support her children and pay bills as her world crumbles.",
-      "poster": "https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
-      "release": "2026-11-11"
-    },
-    {
-      "id": 279246,
-      "title": "The Remarried Empress",
-      "rating": 8.289,
-      "votes": 57,
-      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-      "release": "2026-11-03"
-    },
-    {
-      "id": 326975,
-      "title": "What a Boss Wants",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "A struggling CEO's only hope to turn his career around lies in an indie singer – but neither of them expected to fall for each other.",
-      "poster": "https://image.tmdb.org/t/p/w500/1lrHuB1zHomAa4CIbfIrgkmftBA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ypJyuwEqvF60u3H1yprnrYZPtw9.jpg",
-      "release": "2026-11-11"
+      "id": 131488,
+      "title": "The Empress",
+      "rating": 7.6,
+      "votes": 188,
+      "overview": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
+      "poster": "https://image.tmdb.org/t/p/w500/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
+      "release": "2022-09-29"
     },
     {
       "id": 336243,
@@ -82,57 +62,67 @@
       "release": "2026-11-11"
     },
     {
-      "id": 208921,
-      "title": "Rivals",
-      "rating": 7.452,
-      "votes": 94,
-      "overview": "It is 1986 and Britain is booming. \"Rivals\" dives headfirst into the cutthroat world of TV where hair-dos are big and ambitions are even bigger. Deals are brokered in boardrooms, as well as bedrooms. Nobody can be sure who will come out on top. With every man and woman out only for themselves, can true love really blossom?",
-      "poster": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vPw5Gpg0YEEk1VsE8QlmyTxIJuU.jpg",
-      "release": "2024-10-18"
+      "id": 249565,
+      "title": "The Good Daughter",
+      "rating": 10.0,
+      "votes": 4,
+      "overview": "Sisters Charlotte and Samantha Quinn have spent the last twenty-eight years trying to piece together the lives that were fractured by a single night of violence. When another attack splinters the small town of Pikeville, Charlotte is the first witness on the scene. Now a lawyer like her father, she’s forced to confront her own demons as the case twists through one shocking revelation after another. In the end, both she and Samantha find themselves wondering if the price of being the good daughter was worth it after all.",
+      "poster": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+      "release": "2026-11-12"
     },
     {
-      "id": 330613,
-      "title": "The Rules",
-      "rating": 8.5,
-      "votes": 2,
-      "overview": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-      "poster": "https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
-      "release": "2026-10-28"
+      "id": 326975,
+      "title": "What a Boss Wants",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "A struggling CEO's only hope to turn his career around lies in an indie singer – but neither of them expected to fall for each other.",
+      "poster": "https://image.tmdb.org/t/p/w500/1lrHuB1zHomAa4CIbfIrgkmftBA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ypJyuwEqvF60u3H1yprnrYZPtw9.jpg",
+      "release": "2026-11-11"
     },
     {
-      "id": 247718,
-      "title": "MobLand",
-      "rating": 8.643,
-      "votes": 1217,
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "release": "2025-03-30"
+      "id": 96677,
+      "title": "Lupin",
+      "rating": 7.677,
+      "votes": 2785,
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
+      "release": "2021-01-08"
+    },
+    {
+      "id": 279246,
+      "title": "The Remarried Empress",
+      "rating": 8.325,
+      "votes": 63,
+      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+      "release": "2026-11-03"
     },
     {
       "id": 303044,
       "title": "Campus Drivers",
-      "rating": 8.172,
-      "votes": 29,
+      "rating": 8.141,
+      "votes": 32,
       "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
       "poster": "https://image.tmdb.org/t/p/w500/aa1mDCaRtGNEIHVpZrh2xil03Tq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
       "release": "2026-11-06"
+    },
+    {
+      "id": 338562,
+      "title": "Alicia's Law",
+      "rating": 6.5,
+      "votes": 4,
+      "overview": "When her carefully built life comes undone, Alicia returns to practicing law and discovers that rebuilding her career also means redefining herself.",
+      "poster": "https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
+      "release": "2026-11-11"
     }
   ],
   "popular": [
-    {
-      "id": 1877,
-      "title": "Phineas and Ferb",
-      "rating": 7.897,
-      "votes": 1087,
-      "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
-      "poster": "https://image.tmdb.org/t/p/w500/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
-      "release": "2007-08-17"
-    },
     {
       "id": 57243,
       "title": "Doctor Who",
@@ -147,71 +137,31 @@
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
       "rating": 7.962,
-      "votes": 4409,
+      "votes": 4412,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
       "release": "1999-09-20"
     },
     {
-      "id": 5920,
-      "title": "The Mentalist",
-      "rating": 8.423,
-      "votes": 4981,
-      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-      "release": "2008-09-23"
+      "id": 1877,
+      "title": "Phineas and Ferb",
+      "rating": 7.897,
+      "votes": 1087,
+      "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
+      "poster": "https://image.tmdb.org/t/p/w500/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+      "release": "2007-08-17"
     },
     {
       "id": 456,
       "title": "The Simpsons",
-      "rating": 8.028,
+      "rating": 8.0,
       "votes": 11165,
       "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
       "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
       "release": "1989-12-17"
-    },
-    {
-      "id": 1421,
-      "title": "Modern Family",
-      "rating": 7.911,
-      "votes": 3619,
-      "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
-      "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
-      "release": "2009-09-23"
-    },
-    {
-      "id": 1100,
-      "title": "How I Met Your Mother",
-      "rating": 8.112,
-      "votes": 6074,
-      "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
-      "poster": "https://image.tmdb.org/t/p/w500/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
-      "release": "2005-09-19"
-    },
-    {
-      "id": 253376,
-      "title": "The Girlfriend",
-      "rating": 7.137,
-      "votes": 168,
-      "overview": "Laura has it all: a glittering career, a loving husband, and her precious son, Daniel. But her perfect life unravels when Daniel brings home Cherry, a girlfriend who changes everything. After a tense introduction, Laura becomes convinced Cherry is hiding something. Is she a manipulative social climber, or is Laura just paranoid? The truth is a matter of perspective.",
-      "poster": "https://image.tmdb.org/t/p/w500/ktrp3tdZ5IQpFux4nLy8z70bt3n.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lnVWmFvLv2pTZGsuAJytiqKu541.jpg",
-      "release": "2025-09-10"
-    },
-    {
-      "id": 1400,
-      "title": "Seinfeld",
-      "rating": 8.245,
-      "votes": 2512,
-      "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
-      "poster": "https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
-      "release": "1989-07-05"
     },
     {
       "id": 2316,
@@ -234,14 +184,64 @@
       "release": "2004-11-16"
     },
     {
-      "id": 63333,
-      "title": "The Last Kingdom",
-      "rating": 8.251,
-      "votes": 2091,
-      "overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
-      "poster": "https://image.tmdb.org/t/p/w500/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/QbtctI8EzlhsyFDMUMyG3fli8B.jpg",
-      "release": "2015-10-10"
+      "id": 1421,
+      "title": "Modern Family",
+      "rating": 7.91,
+      "votes": 3620,
+      "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+      "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+      "release": "2009-09-23"
+    },
+    {
+      "id": 5920,
+      "title": "The Mentalist",
+      "rating": 8.419,
+      "votes": 4992,
+      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+      "release": "2008-09-23"
+    },
+    {
+      "id": 1100,
+      "title": "How I Met Your Mother",
+      "rating": 8.111,
+      "votes": 6075,
+      "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+      "poster": "https://image.tmdb.org/t/p/w500/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+      "release": "2005-09-19"
+    },
+    {
+      "id": 18165,
+      "title": "The Vampire Diaries",
+      "rating": 8.297,
+      "votes": 9844,
+      "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+      "poster": "https://image.tmdb.org/t/p/w500/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "release": "2009-09-10"
+    },
+    {
+      "id": 1400,
+      "title": "Seinfeld",
+      "rating": 8.244,
+      "votes": 2513,
+      "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+      "poster": "https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+      "release": "1989-07-05"
+    },
+    {
+      "id": 60735,
+      "title": "The Flash",
+      "rating": 7.738,
+      "votes": 11865,
+      "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+      "poster": "https://image.tmdb.org/t/p/w500/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+      "release": "2014-10-07"
     }
   ],
   "top_rated": [
@@ -259,7 +259,7 @@
       "id": 276161,
       "title": "Teach You a Lesson",
       "rating": 9.353,
-      "votes": 1016,
+      "votes": 1017,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -286,16 +286,6 @@
       "release": "2026-06-05"
     },
     {
-      "id": 1396,
-      "title": "Breaking Bad",
-      "rating": 8.959,
-      "votes": 19094,
-      "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-      "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-      "release": "2008-01-20"
-    },
-    {
       "id": 278573,
       "title": "Perfect Crown",
       "rating": 8.963,
@@ -306,30 +296,40 @@
       "release": "2026-04-10"
     },
     {
-      "id": 85077,
-      "title": "The Chosen",
-      "rating": 8.855,
-      "votes": 1053,
-      "overview": "The life of Christ through the eyes of those who encountered him.",
-      "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-      "release": "2019-04-21"
+      "id": 1396,
+      "title": "Breaking Bad",
+      "rating": 8.959,
+      "votes": 19099,
+      "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+      "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "release": "2008-01-20"
     },
     {
       "id": 214999,
       "title": "The Good Bad Mother",
-      "rating": 8.852,
-      "votes": 203,
+      "rating": 8.858,
+      "votes": 204,
       "overview": "A tragic accident leaves an ambitious prosecutor with the mind of a child – forcing him and his mother to embark on a journey to heal their relationship.",
       "poster": "https://image.tmdb.org/t/p/w500/m3xAWhl5Au7EYm6d2EQ26lPjuQF.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/zOZqdv7UTc2sP2Tu5Cxj8j1M2r8.jpg",
       "release": "2023-04-26"
     },
     {
+      "id": 85077,
+      "title": "The Chosen",
+      "rating": 8.9,
+      "votes": 1053,
+      "overview": "The life of Christ through the eyes of those who encountered him.",
+      "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fYmZYHLOpO9x2ruePn3toG2cylX.jpg",
+      "release": "2019-04-21"
+    },
+    {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.849,
-      "votes": 909,
+      "rating": 8.848,
+      "votes": 910,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -358,7 +358,7 @@
     {
       "id": 219246,
       "title": "When Life Gives You Tangerines",
-      "rating": 8.803,
+      "rating": 8.8,
       "votes": 628,
       "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
       "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
@@ -367,6 +367,16 @@
     }
   ],
   "airing_today": [
+    {
+      "id": 2734,
+      "title": "Law & Order: Special Victims Unit",
+      "rating": 7.962,
+      "votes": 4410,
+      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+      "poster": "https://image.tmdb.org/t/p/w500/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
+      "release": "1999-09-20"
+    },
     {
       "id": 22980,
       "title": "Watch What Happens Live with Andy Cohen",
@@ -378,16 +388,6 @@
       "release": "2009-07-16"
     },
     {
-      "id": 59941,
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "rating": 5.8,
-      "votes": 401,
-      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-      "release": "2014-02-17"
-    },
-    {
       "id": 2224,
       "title": "The Daily Show",
       "rating": 6.426,
@@ -396,6 +396,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
       "release": "1996-07-22"
+    },
+    {
+      "id": 1416,
+      "title": "Grey's Anatomy",
+      "rating": 8.2,
+      "votes": 11132,
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+      "poster": "https://image.tmdb.org/t/p/w500/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+      "release": "2005-03-27"
     },
     {
       "id": 206559,
@@ -428,14 +438,14 @@
       "release": "1990-10-01"
     },
     {
-      "id": 279246,
-      "title": "The Remarried Empress",
-      "rating": 8.231,
-      "votes": 54,
-      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-      "release": "2026-11-03"
+      "id": 549,
+      "title": "Law & Order",
+      "rating": 7.3,
+      "votes": 741,
+      "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+      "poster": "https://image.tmdb.org/t/p/w500/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
+      "release": "1990-09-13"
     },
     {
       "id": 72879,
@@ -448,16 +458,6 @@
       "release": "2017-07-17"
     },
     {
-      "id": 291,
-      "title": "Coronation Street",
-      "rating": 5.3,
-      "votes": 120,
-      "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-      "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-      "release": "1960-12-09"
-    },
-    {
       "id": 112470,
       "title": "Ici tout commence",
       "rating": 6.8,
@@ -468,16 +468,6 @@
       "release": "2020-11-02"
     },
     {
-      "id": 84773,
-      "title": "The Lord of the Rings: The Rings of Power",
-      "rating": 7.2,
-      "votes": 4033,
-      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-      "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
-      "release": "2022-09-01"
-    },
-    {
       "id": 81329,
       "title": "Chronicles of the Sun",
       "rating": 6.6,
@@ -486,6 +476,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
       "release": "2018-08-27"
+    },
+    {
+      "id": 1871,
+      "title": "EastEnders",
+      "rating": 4.3,
+      "votes": 232,
+      "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+      "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
+      "release": "1985-02-19"
     }
   ]
 }
