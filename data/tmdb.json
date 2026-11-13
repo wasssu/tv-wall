@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-12T19:33:14.369795+00:00",
+  "updated": "2026-11-13T05:10:49.556090+00:00",
   "trending": [
+    {
+      "id": 84773,
+      "title": "The Lord of the Rings: The Rings of Power",
+      "rating": 7.218,
+      "votes": 4050,
+      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hVRWuAY03KfLjjAbwmy9QhrfAPs.jpg",
+      "release": "2022-09-01"
+    },
+    {
+      "id": 213375,
+      "title": "VisionQuest",
+      "rating": 8.4,
+      "votes": 434,
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+      "release": "2026-10-13"
+    },
     {
       "id": 1489,
       "title": "Jimmy Kimmel Live!",
@@ -12,63 +32,73 @@
       "release": "2003-01-26"
     },
     {
-      "id": 84773,
-      "title": "The Lord of the Rings: The Rings of Power",
-      "rating": 7.217,
-      "votes": 4046,
-      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-      "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
-      "release": "2022-09-01"
-    },
-    {
-      "id": 213375,
-      "title": "VisionQuest",
-      "rating": 8.4,
-      "votes": 411,
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-      "release": "2026-10-13"
-    },
-    {
       "id": 291507,
       "title": "The Body",
-      "rating": 7.9,
-      "votes": 12,
+      "rating": 7.6,
+      "votes": 16,
       "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
       "poster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
       "release": "2026-11-11"
     },
     {
+      "id": 254630,
+      "title": "12 12 12",
+      "rating": 10.0,
+      "votes": 1,
+      "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+      "poster": "https://image.tmdb.org/t/p/w500/bG4h6C6wRKmf3ryz8gdN6imXW4c.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6qCcXg7zXD3Xp5Whk8DwwFQNwAM.jpg",
+      "release": "2026-11-12"
+    },
+    {
       "id": 131488,
       "title": "The Empress",
-      "rating": 7.6,
-      "votes": 188,
+      "rating": 7.7,
+      "votes": 190,
       "overview": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
       "poster": "https://image.tmdb.org/t/p/w500/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
       "release": "2022-09-29"
     },
     {
-      "id": 336243,
-      "title": "ChiaroScuro",
-      "rating": 8.0,
-      "votes": 2,
-      "overview": "After a body is found in a Roman museum, an art expert must apply his instincts and skills to help police solve a mystery connected to his own past.",
-      "poster": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg",
-      "release": "2026-11-11"
-    },
-    {
       "id": 249565,
       "title": "The Good Daughter",
-      "rating": 10.0,
-      "votes": 4,
+      "rating": 9.6,
+      "votes": 5,
       "overview": "Sisters Charlotte and Samantha Quinn have spent the last twenty-eight years trying to piece together the lives that were fractured by a single night of violence. When another attack splinters the small town of Pikeville, Charlotte is the first witness on the scene. Now a lawyer like her father, she’s forced to confront her own demons as the case twists through one shocking revelation after another. In the end, both she and Samantha find themselves wondering if the price of being the good daughter was worth it after all.",
       "poster": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+      "release": "2026-11-12"
+    },
+    {
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.647,
+      "votes": 1231,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "release": "2025-03-30"
+    },
+    {
+      "id": 279246,
+      "title": "The Remarried Empress",
+      "rating": 8.226,
+      "votes": 73,
+      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+      "release": "2026-11-03"
+    },
+    {
+      "id": 312661,
+      "title": "Miracles of the ER",
+      "rating": 8.5,
+      "votes": 2,
+      "overview": "A bold decision brings an average med student to an elite ER team, where he encounters medical crises, ethical dilemmas, and personal growth.",
+      "poster": "https://image.tmdb.org/t/p/w500/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ginRZDiTKS1VmkLPaSFZlmLcVnm.jpg",
       "release": "2026-11-12"
     },
     {
@@ -82,52 +112,22 @@
       "release": "2026-11-11"
     },
     {
-      "id": 96677,
-      "title": "Lupin",
-      "rating": 7.677,
-      "votes": 2785,
-      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-      "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
-      "release": "2021-01-08"
-    },
-    {
-      "id": 279246,
-      "title": "The Remarried Empress",
-      "rating": 8.325,
-      "votes": 63,
-      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-      "release": "2026-11-03"
-    },
-    {
-      "id": 303044,
-      "title": "Campus Drivers",
-      "rating": 8.141,
-      "votes": 32,
-      "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-      "poster": "https://image.tmdb.org/t/p/w500/aa1mDCaRtGNEIHVpZrh2xil03Tq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-      "release": "2026-11-06"
-    },
-    {
-      "id": 338562,
-      "title": "Alicia's Law",
-      "rating": 6.5,
-      "votes": 4,
-      "overview": "When her carefully built life comes undone, Alicia returns to practicing law and discovers that rebuilding her career also means redefining herself.",
-      "poster": "https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
-      "release": "2026-11-11"
+      "id": 2190,
+      "title": "South Park",
+      "rating": 8.335,
+      "votes": 5267,
+      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+      "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "release": "1997-08-13"
     }
   ],
   "popular": [
     {
       "id": 57243,
       "title": "Doctor Who",
-      "rating": 7.631,
-      "votes": 3507,
+      "rating": 7.632,
+      "votes": 3508,
       "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
       "poster": "https://image.tmdb.org/t/p/w500/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
@@ -137,7 +137,7 @@
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
       "rating": 7.962,
-      "votes": 4412,
+      "votes": 4413,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
@@ -146,8 +146,8 @@
     {
       "id": 1877,
       "title": "Phineas and Ferb",
-      "rating": 7.897,
-      "votes": 1087,
+      "rating": 7.892,
+      "votes": 1088,
       "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
       "poster": "https://image.tmdb.org/t/p/w500/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
@@ -156,8 +156,8 @@
     {
       "id": 456,
       "title": "The Simpsons",
-      "rating": 8.0,
-      "votes": 11165,
+      "rating": 8.028,
+      "votes": 11167,
       "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
       "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
@@ -177,7 +177,7 @@
       "id": 1408,
       "title": "House",
       "rating": 8.559,
-      "votes": 8029,
+      "votes": 8030,
       "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
       "poster": "https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
@@ -196,7 +196,7 @@
     {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.419,
+      "rating": 8.4,
       "votes": 4992,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
@@ -217,7 +217,7 @@
       "id": 18165,
       "title": "The Vampire Diaries",
       "rating": 8.297,
-      "votes": 9844,
+      "votes": 9845,
       "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
       "poster": "https://image.tmdb.org/t/p/w500/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
@@ -248,8 +248,8 @@
     {
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
-      "rating": 9.646,
-      "votes": 407,
+      "rating": 9.6,
+      "votes": 411,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.353,
-      "votes": 1017,
+      "rating": 9.4,
+      "votes": 1018,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.125,
-      "votes": 654,
+      "rating": 9.128,
+      "votes": 656,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -299,7 +299,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.959,
-      "votes": 19099,
+      "votes": 19103,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -328,8 +328,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.848,
-      "votes": 910,
+      "rating": 8.845,
+      "votes": 912,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -338,8 +338,8 @@
     {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.826,
-      "votes": 1024,
+      "rating": 8.827,
+      "votes": 1025,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
@@ -371,7 +371,7 @@
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
       "rating": 7.962,
-      "votes": 4410,
+      "votes": 4416,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
@@ -400,8 +400,8 @@
     {
       "id": 1416,
       "title": "Grey's Anatomy",
-      "rating": 8.2,
-      "votes": 11132,
+      "rating": 8.201,
+      "votes": 11133,
       "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
       "poster": "https://image.tmdb.org/t/p/w500/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
