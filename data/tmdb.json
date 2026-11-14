@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-13T19:13:47.035139+00:00",
+  "updated": "2026-11-14T04:59:53.970920+00:00",
   "trending": [
     {
       "id": 254630,
       "title": "12 12 12",
-      "rating": 5.9,
-      "votes": 9,
+      "rating": 5.167,
+      "votes": 12,
       "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
-      "poster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bG4h6C6wRKmf3ryz8gdN6imXW4c.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
       "release": "2026-11-12"
     },
     {
       "id": 84773,
       "title": "The Lord of the Rings: The Rings of Power",
-      "rating": 7.2,
-      "votes": 4059,
+      "rating": 7.213,
+      "votes": 4062,
       "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
       "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hVRWuAY03KfLjjAbwmy9QhrfAPs.jpg",
@@ -24,48 +24,38 @@
     {
       "id": 213375,
       "title": "VisionQuest",
-      "rating": 8.4,
-      "votes": 444,
+      "rating": 8.372,
+      "votes": 457,
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
       "release": "2026-10-13"
     },
     {
-      "id": 249565,
-      "title": "The Good Daughter",
-      "rating": 9.333,
-      "votes": 9,
-      "overview": "Sisters Charlotte and Samantha Quinn have spent the last twenty-eight years trying to piece together the lives that were fractured by a single night of violence. When another attack splinters the small town of Pikeville, Charlotte is the first witness on the scene. Now a lawyer like her father, she’s forced to confront her own demons as the case twists through one shocking revelation after another. In the end, both she and Samantha find themselves wondering if the price of being the good daughter was worth it after all.",
-      "poster": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
-      "release": "2026-11-12"
-    },
-    {
-      "id": 131488,
-      "title": "The Empress",
-      "rating": 7.7,
-      "votes": 190,
-      "overview": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
-      "poster": "https://image.tmdb.org/t/p/w500/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
-      "release": "2022-09-29"
-    },
-    {
       "id": 291507,
       "title": "The Body",
-      "rating": 6.8,
-      "votes": 22,
+      "rating": 7.1,
+      "votes": 28,
       "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
       "poster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
       "release": "2026-11-11"
     },
     {
+      "id": 249565,
+      "title": "The Good Daughter",
+      "rating": 8.7,
+      "votes": 10,
+      "overview": "Sisters Charlotte and Samantha Quinn have spent the last twenty-eight years trying to piece together the lives that were fractured by a single night of violence. When another attack splinters the small town of Pikeville, Charlotte is the first witness on the scene. Now a lawyer like her father, she’s forced to confront her own demons as the case twists through one shocking revelation after another. In the end, both she and Samantha find themselves wondering if the price of being the good daughter was worth it after all.",
+      "poster": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+      "release": "2026-11-12"
+    },
+    {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.649,
-      "votes": 1232,
+      "rating": 8.651,
+      "votes": 1235,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
@@ -74,75 +64,65 @@
     {
       "id": 259909,
       "title": "Dexter: Resurrection",
-      "rating": 8.552,
-      "votes": 753,
+      "rating": 8.549,
+      "votes": 754,
       "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
       "poster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
       "release": "2025-07-13"
     },
     {
-      "id": 14929,
-      "title": "Heartland",
-      "rating": 8.262,
-      "votes": 593,
-      "overview": "Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, hard-working family. Debts abound and the bank is about to foreclose. Can they keep the ranch running?",
-      "poster": "https://image.tmdb.org/t/p/w500/osAYIqIGtnVpqz4FDdGjCezE11z.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
-      "release": "2007-10-14"
-    },
-    {
-      "id": 45790,
-      "title": "JoJo's Bizarre Adventure",
-      "rating": 8.6,
-      "votes": 1709,
-      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-      "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
-      "release": "2012-10-06"
-    },
-    {
-      "id": 279246,
-      "title": "The Remarried Empress",
-      "rating": 8.247,
-      "votes": 75,
-      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-      "release": "2026-11-03"
+      "id": 131488,
+      "title": "The Empress",
+      "rating": 7.665,
+      "votes": 191,
+      "overview": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
+      "poster": "https://image.tmdb.org/t/p/w500/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
+      "release": "2022-09-29"
     },
     {
       "id": 303182,
       "title": "Murder in Galicia",
-      "rating": 6.0,
-      "votes": 1,
+      "rating": 6.5,
+      "votes": 2,
       "overview": "In Pazos, Irene is brutally attacked, and Civil Guard sergeant Elías suspects her husband Aniceto, racing against time to uncover the truth before it’s too late.",
       "poster": "https://image.tmdb.org/t/p/w500/serXtEQvlmOZPijFsrY3PhQt4jO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
       "release": "2026-11-13"
+    },
+    {
+      "id": 292741,
+      "title": "Nocturne",
+      "rating": 7.66,
+      "votes": 47,
+      "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+      "poster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+      "release": "2026-10-29"
+    },
+    {
+      "id": 2190,
+      "title": "South Park",
+      "rating": 8.335,
+      "votes": 5268,
+      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+      "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "release": "1997-08-13"
+    },
+    {
+      "id": 279246,
+      "title": "The Remarried Empress",
+      "rating": 8.377,
+      "votes": 81,
+      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+      "release": "2026-11-03"
     }
   ],
   "popular": [
-    {
-      "id": 456,
-      "title": "The Simpsons",
-      "rating": 8.028,
-      "votes": 11168,
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-      "release": "1989-12-17"
-    },
-    {
-      "id": 57243,
-      "title": "Doctor Who",
-      "rating": 7.632,
-      "votes": 3509,
-      "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
-      "poster": "https://image.tmdb.org/t/p/w500/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-      "release": "2005-03-26"
-    },
     {
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
@@ -154,102 +134,122 @@
       "release": "1999-09-20"
     },
     {
-      "id": 1877,
-      "title": "Phineas and Ferb",
-      "rating": 7.894,
-      "votes": 1089,
-      "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
-      "poster": "https://image.tmdb.org/t/p/w500/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
-      "release": "2007-08-17"
-    },
-    {
       "id": 2316,
       "title": "The Office",
-      "rating": 8.584,
-      "votes": 5701,
+      "rating": 8.585,
+      "votes": 5705,
       "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
       "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
       "release": "2005-03-24"
     },
     {
+      "id": 456,
+      "title": "The Simpsons",
+      "rating": 8.028,
+      "votes": 11168,
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "release": "1989-12-17"
+    },
+    {
+      "id": 4057,
+      "title": "Criminal Minds",
+      "rating": 8.3,
+      "votes": 4225,
+      "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+      "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+      "release": "2005-09-22"
+    },
+    {
+      "id": 57243,
+      "title": "Doctor Who",
+      "rating": 7.633,
+      "votes": 3510,
+      "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+      "poster": "https://image.tmdb.org/t/p/w500/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+      "release": "2005-03-26"
+    },
+    {
       "id": 1408,
       "title": "House",
       "rating": 8.559,
-      "votes": 8031,
+      "votes": 8033,
       "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
       "poster": "https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
       "release": "2004-11-16"
     },
     {
-      "id": 1421,
-      "title": "Modern Family",
-      "rating": 7.911,
-      "votes": 3621,
-      "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
-      "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
-      "release": "2009-09-23"
-    },
-    {
       "id": 5920,
       "title": "The Mentalist",
-      "rating": 8.42,
-      "votes": 4993,
+      "rating": 8.4,
+      "votes": 4997,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
       "release": "2008-09-23"
     },
     {
-      "id": 1100,
-      "title": "How I Met Your Mother",
-      "rating": 8.111,
-      "votes": 6075,
-      "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
-      "poster": "https://image.tmdb.org/t/p/w500/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
-      "release": "2005-09-19"
+      "id": 1421,
+      "title": "Modern Family",
+      "rating": 7.911,
+      "votes": 3622,
+      "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+      "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+      "release": "2009-09-23"
     },
     {
       "id": 18165,
       "title": "The Vampire Diaries",
-      "rating": 8.297,
-      "votes": 9846,
+      "rating": 8.3,
+      "votes": 9848,
       "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
       "poster": "https://image.tmdb.org/t/p/w500/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
       "release": "2009-09-10"
     },
     {
-      "id": 1400,
-      "title": "Seinfeld",
-      "rating": 8.244,
-      "votes": 2513,
-      "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
-      "poster": "https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
-      "release": "1989-07-05"
+      "id": 1100,
+      "title": "How I Met Your Mother",
+      "rating": 8.1,
+      "votes": 6076,
+      "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+      "poster": "https://image.tmdb.org/t/p/w500/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+      "release": "2005-09-19"
     },
     {
       "id": 60735,
       "title": "The Flash",
       "rating": 7.738,
-      "votes": 11865,
+      "votes": 11868,
       "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
       "poster": "https://image.tmdb.org/t/p/w500/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
       "release": "2014-10-07"
+    },
+    {
+      "id": 1400,
+      "title": "Seinfeld",
+      "rating": 8.2,
+      "votes": 2514,
+      "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+      "poster": "https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+      "release": "1989-07-05"
     }
   ],
   "top_rated": [
     {
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
-      "rating": 9.6,
-      "votes": 413,
+      "rating": 9.628,
+      "votes": 414,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.128,
-      "votes": 656,
+      "rating": 9.125,
+      "votes": 658,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -299,7 +299,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.959,
-      "votes": 19106,
+      "votes": 19107,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -318,18 +318,18 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.9,
-      "votes": 1053,
+      "rating": 8.8,
+      "votes": 1054,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fYmZYHLOpO9x2ruePn3toG2cylX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
       "release": "2019-04-21"
     },
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.8,
-      "votes": 912,
+      "rating": 8.844,
+      "votes": 913,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
@@ -370,8 +370,8 @@
     {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.649,
-      "votes": 1232,
+      "rating": 8.651,
+      "votes": 1235,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
@@ -390,8 +390,8 @@
     {
       "id": 153312,
       "title": "Tulsa King",
-      "rating": 8.319,
-      "votes": 2948,
+      "rating": 8.32,
+      "votes": 2949,
       "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
       "poster": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
@@ -468,16 +468,6 @@
       "release": "2003-02-21"
     },
     {
-      "id": 387,
-      "title": "SpongeBob SquarePants",
-      "rating": 7.723,
-      "votes": 3308,
-      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
-      "poster": "https://image.tmdb.org/t/p/w500/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
-      "release": "1999-05-01"
-    },
-    {
       "id": 1220,
       "title": "The Graham Norton Show",
       "rating": 7.231,
@@ -486,6 +476,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/5UNcEz7Lc3OGilpPn1Tb9cd1xsc.jpg",
       "release": "2007-02-22"
+    },
+    {
+      "id": 387,
+      "title": "SpongeBob SquarePants",
+      "rating": 7.723,
+      "votes": 3308,
+      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+      "poster": "https://image.tmdb.org/t/p/w500/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
+      "release": "1999-05-01"
     }
   ]
 }
