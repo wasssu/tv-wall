@@ -1,75 +1,75 @@
 {
-  "updated": "2026-11-19T19:57:56.499110+00:00",
+  "updated": "2026-11-20T05:47:52.412400+00:00",
   "trending": [
-    {
-      "id": 84773,
-      "title": "The Lord of the Rings: The Rings of Power",
-      "rating": 7.221,
-      "votes": 4110,
-      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-      "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-      "release": "2022-09-01"
-    },
     {
       "id": 308007,
       "title": "The Altruists",
-      "rating": 6.0,
-      "votes": 4,
+      "rating": 7.125,
+      "votes": 8,
       "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
       "poster": "https://image.tmdb.org/t/p/w500/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
       "release": "2026-11-19"
     },
     {
-      "id": 332839,
-      "title": "The Law of Beasts",
-      "rating": 7.0,
-      "votes": 10,
-      "overview": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/KnhUSXgKqiG96mf4GofisAhhS2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
-      "release": "2026-11-18"
-    },
-    {
-      "id": 318420,
-      "title": "Valentina and the 12 Signs",
-      "rating": 5.5,
-      "votes": 2,
-      "overview": "After a devastating breakup, Valentina decides to date one man from every zodiac sign. But the universe has other plans.",
-      "poster": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
-      "release": "2026-11-18"
-    },
-    {
-      "id": 340280,
-      "title": "Gordon",
-      "rating": 7.3,
-      "votes": 3,
-      "overview": "Aníbal Gordon rises from a small-time thief to a convicted murderer in Argentina during the '70s.",
-      "poster": "https://image.tmdb.org/t/p/w500/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
-      "release": "2026-11-18"
+      "id": 84773,
+      "title": "The Lord of the Rings: The Rings of Power",
+      "rating": 7.221,
+      "votes": 4113,
+      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+      "release": "2022-09-01"
     },
     {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.669,
-      "votes": 1270,
+      "rating": 8.673,
+      "votes": 1274,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "release": "2025-03-30"
     },
     {
+      "id": 332839,
+      "title": "The Law of Beasts",
+      "rating": 6.8,
+      "votes": 11,
+      "overview": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/9anIbazZJUteF9FLvdSsISJcNNq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+      "release": "2026-11-18"
+    },
+    {
       "id": 291507,
       "title": "The Body",
-      "rating": 7.912,
-      "votes": 91,
+      "rating": 7.9,
+      "votes": 95,
       "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-      "poster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
       "release": "2026-11-11"
+    },
+    {
+      "id": 213375,
+      "title": "VisionQuest",
+      "rating": 8.3,
+      "votes": 549,
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "release": "2026-10-13"
+    },
+    {
+      "id": 340280,
+      "title": "Gordon",
+      "rating": 6.5,
+      "votes": 4,
+      "overview": "Aníbal Gordon rises from a small-time thief to a convicted murderer in Argentina during the '70s.",
+      "poster": "https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
+      "release": "2026-11-18"
     },
     {
       "id": 288120,
@@ -84,42 +84,42 @@
     {
       "id": 279246,
       "title": "The Remarried Empress",
-      "rating": 8.797,
-      "votes": 116,
+      "rating": 8.811,
+      "votes": 119,
       "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
       "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
       "release": "2026-11-03"
     },
     {
-      "id": 213375,
-      "title": "VisionQuest",
-      "rating": 8.2,
-      "votes": 547,
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "release": "2026-10-13"
-    },
-    {
-      "id": 279155,
-      "title": "The Silent Storm",
-      "rating": 6.333,
-      "votes": 3,
-      "overview": "In 1994, tax auditor Ouyang Xu, criminal investigator Yan Ping'an, and Zhou Haiyang—who was searching for his missing wife—met through a counterfeit invoice case in Chunjiang City. Under the tide of the times, the three experienced vastly different circumstances, and their fates gradually diverged. Years later, Operation Grain Rain brings them together again—but the brothers of old now stand on opposite sides. Ouyang Xu faces off against the tax fraud ring led by Zhou Haiyang and the protective umbrella behind it, caught in a painful choice between emotion and the law. Starting from a single invoice, he tears away the veil of greed and ultimately eliminates evil, safeguarding justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/c8UHaCOfzyQYagHv7vAAOkrmgDb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o86BFQMuXs0v0eZpAhlzj81Gp6U.jpg",
-      "release": "2026-11-05"
-    },
-    {
-      "id": 318349,
-      "title": "Taming the Husband",
-      "rating": 8.0,
-      "votes": 1,
-      "overview": "Amid the turmoil of canal transport and court politics, butcher’s daughter Jin Baozhu is forced into marriage with Xie Yan, the disgraced and disabled heir of a powerful shipping family. What begins as a relationship built on conflict gradually turns into an alliance, as the two navigate mounting dangers and personal struggles.",
-      "poster": "https://image.tmdb.org/t/p/w500/tKiA7awp9iF9gGCedaMq6uHKehT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4YguelPz6c9zzGfh29HYHVOsyyN.jpg",
+      "id": 318420,
+      "title": "Valentina and the 12 Signs",
+      "rating": 5.5,
+      "votes": 2,
+      "overview": "After a devastating breakup, Valentina decides to date one man from every zodiac sign. But the universe has other plans.",
+      "poster": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
       "release": "2026-11-18"
+    },
+    {
+      "id": 307853,
+      "title": "Sunshine through the Rain",
+      "rating": 8.4,
+      "votes": 18,
+      "overview": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
+      "poster": "https://image.tmdb.org/t/p/w500/x5WyzzlhYiq4HeR3bhJuHGxDUYX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hJmiiC30iBl6yrgb3kfT9BiOzjy.jpg",
+      "release": "2026-11-06"
+    },
+    {
+      "id": 254630,
+      "title": "12 12 12",
+      "rating": 6.077,
+      "votes": 39,
+      "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+      "poster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+      "release": "2026-11-12"
     }
   ],
   "popular": [
@@ -137,27 +137,17 @@
       "id": 1413,
       "title": "American Horror Story",
       "rating": 8.1,
-      "votes": 6311,
+      "votes": 6313,
       "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
       "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
       "release": "2011-10-05"
     },
     {
-      "id": 84773,
-      "title": "The Lord of the Rings: The Rings of Power",
-      "rating": 7.2,
-      "votes": 4108,
-      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-      "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-      "release": "2022-09-01"
-    },
-    {
       "id": 1434,
       "title": "Family Guy",
-      "rating": 7.4,
-      "votes": 5222,
+      "rating": 7.417,
+      "votes": 5223,
       "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
       "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
@@ -166,8 +156,8 @@
     {
       "id": 1622,
       "title": "Supernatural",
-      "rating": 8.3,
-      "votes": 8846,
+      "rating": 8.317,
+      "votes": 8849,
       "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
       "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
@@ -176,8 +166,8 @@
     {
       "id": 76331,
       "title": "Succession",
-      "rating": 8.3,
-      "votes": 1858,
+      "rating": 8.305,
+      "votes": 1860,
       "overview": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
       "poster": "https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg",
@@ -186,18 +176,28 @@
     {
       "id": 60735,
       "title": "The Flash",
-      "rating": 7.7,
-      "votes": 11879,
+      "rating": 7.738,
+      "votes": 11880,
       "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
       "poster": "https://image.tmdb.org/t/p/w500/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
       "release": "2014-10-07"
     },
     {
+      "id": 84773,
+      "title": "The Lord of the Rings: The Rings of Power",
+      "rating": 7.221,
+      "votes": 4112,
+      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+      "release": "2022-09-01"
+    },
+    {
       "id": 2734,
       "title": "Law & Order: Special Victims Unit",
-      "rating": 8.0,
-      "votes": 4423,
+      "rating": 7.963,
+      "votes": 4426,
       "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
       "poster": "https://image.tmdb.org/t/p/w500/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
@@ -206,28 +206,18 @@
     {
       "id": 1100,
       "title": "How I Met Your Mother",
-      "rating": 8.1,
-      "votes": 6092,
+      "rating": 8.108,
+      "votes": 6095,
       "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
       "poster": "https://image.tmdb.org/t/p/w500/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
       "release": "2005-09-19"
     },
     {
-      "id": 1400,
-      "title": "Seinfeld",
-      "rating": 8.2,
-      "votes": 2529,
-      "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
-      "poster": "https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
-      "release": "1989-07-05"
-    },
-    {
       "id": 1421,
       "title": "Modern Family",
-      "rating": 7.9,
-      "votes": 3638,
+      "rating": 7.911,
+      "votes": 3639,
       "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
       "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
@@ -242,6 +232,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/1xRfgONYmK3T6FSmbtcuo8eyxVt.jpg",
       "release": "2009-09-17"
+    },
+    {
+      "id": 57243,
+      "title": "Doctor Who",
+      "rating": 7.635,
+      "votes": 3518,
+      "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+      "poster": "https://image.tmdb.org/t/p/w500/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+      "release": "2005-03-26"
     }
   ],
   "top_rated": [
@@ -289,7 +289,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.959,
-      "votes": 19148,
+      "votes": 19153,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -308,8 +308,8 @@
     {
       "id": 284833,
       "title": "Avatar: Seven Havens",
-      "rating": 8.9,
-      "votes": 202,
+      "rating": 8.889,
+      "votes": 203,
       "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
       "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
@@ -328,8 +328,8 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.9,
-      "votes": 1076,
+      "rating": 8.857,
+      "votes": 1077,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
@@ -338,11 +338,11 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.8,
-      "votes": 920,
+      "rating": 8.839,
+      "votes": 922,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cdD0InWMH4e6AxceQs93fQRYsfO.jpg",
       "release": "2026-05-13"
     },
     {
