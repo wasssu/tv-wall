@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-23T05:52:03.683203+00:00",
+  "updated": "2026-11-23T23:24:05.910146+00:00",
   "trending": [
     {
-      "id": 300523,
-      "title": "The Blue Road",
-      "rating": 7.7,
-      "votes": 16,
-      "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
-      "poster": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
-      "release": "2026-11-20"
+      "id": 290826,
+      "title": "Dig",
+      "rating": 6.833,
+      "votes": 6,
+      "overview": "Follow four women who work at an archeological dig in Greece. When the team uncovers a long-buried secret with the potential to rewrite history, they find themselves at the center of a high-stakes international conspiracy.",
+      "poster": "https://image.tmdb.org/t/p/w500/l44uAt5yfDOxJeiB0t3B6xNlbxu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8onvZbxTmP3XpuzKfLsBSm3WXMg.jpg",
+      "release": "2026-11-23"
     },
     {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.68,
-      "votes": 1298,
+      "rating": 8.7,
+      "votes": 1302,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
@@ -24,8 +24,8 @@
     {
       "id": 291507,
       "title": "The Body",
-      "rating": 7.98,
-      "votes": 122,
+      "rating": 8.0,
+      "votes": 124,
       "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
       "poster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
@@ -35,76 +35,56 @@
       "id": 84773,
       "title": "The Lord of the Rings: The Rings of Power",
       "rating": 7.224,
-      "votes": 4134,
+      "votes": 4137,
       "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
       "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
       "release": "2022-09-01"
     },
     {
+      "id": 300523,
+      "title": "The Blue Road",
+      "rating": 7.778,
+      "votes": 18,
+      "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
+      "poster": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+      "release": "2026-11-20"
+    },
+    {
       "id": 103540,
       "title": "Percy Jackson and the Olympians",
-      "rating": 7.3,
-      "votes": 884,
+      "rating": 7.264,
+      "votes": 885,
       "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
       "poster": "https://image.tmdb.org/t/p/w500/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
       "release": "2023-12-19"
     },
     {
-      "id": 79481,
-      "title": "Fights Break Sphere",
-      "rating": 8.167,
-      "votes": 66,
-      "overview": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years ago, Xiao Yan, who had shown talents none had seen in decades, suddenly lost everything. His powers, his reputation, and his promise to his mother. What sorcery has caused him to lose all of his powers? And why has his fiancee suddenly shown up?",
-      "poster": "https://image.tmdb.org/t/p/w500/fnYdEz9BFqtu0kHX4LvYXqeq59O.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cTCn2EO69SERNfhaezJMoqBom4G.jpg",
-      "release": "2017-01-07"
-    },
-    {
       "id": 259909,
       "title": "Dexter: Resurrection",
       "rating": 8.5,
-      "votes": 777,
+      "votes": 778,
       "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
       "poster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
       "release": "2025-07-13"
     },
     {
-      "id": 203483,
-      "title": "River of No Return",
-      "rating": 8.143,
-      "votes": 7,
-      "overview": "In the Ming Dynasty, Crown Prince Zhu Zhanji races 2,200 miles from Nanjing to Beijing in 15 days to save himself and the empire.",
-      "poster": "https://image.tmdb.org/t/p/w500/7fo6B7Wm75WwIlCZP17ohjUjdLd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pFTGCQ3oVhFkuOCjnvCPeVsQBaL.jpg",
-      "release": "2026-11-20"
-    },
-    {
-      "id": 213375,
-      "title": "VisionQuest",
-      "rating": 8.225,
-      "votes": 568,
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "release": "2026-10-13"
-    },
-    {
-      "id": 312359,
-      "title": "Dragon Ball Super: Beerus",
-      "rating": 9.597,
-      "votes": 430,
-      "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-      "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-      "release": "2026-10-11"
+      "id": 340615,
+      "title": "The Trials of Karen Read",
+      "rating": 7.0,
+      "votes": 1,
+      "overview": "An accident, a deadly fight or an elaborate cover-up? This true-crime series digs into the murder trials of Karen Read that sparked viral conspiracies.",
+      "poster": "https://image.tmdb.org/t/p/w500/876SDnMg7mRIgG1HEH1EtZ7ec9D.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg",
+      "release": "2026-11-23"
     },
     {
       "id": 117488,
       "title": "Yellowjackets",
-      "rating": 7.43,
+      "rating": 7.4,
       "votes": 1086,
       "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
       "poster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
@@ -112,21 +92,71 @@
       "release": "2021-11-14"
     },
     {
-      "id": 73223,
-      "title": "Black Clover",
-      "rating": 8.532,
-      "votes": 2329,
-      "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-      "poster": "https://image.tmdb.org/t/p/w500/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/AsaEmDMgrt9MCCTXxUzY9PtFZko.jpg",
-      "release": "2017-10-03"
+      "id": 171802,
+      "title": "Blade Runner 2099",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
+      "poster": "https://image.tmdb.org/t/p/w500/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7UAUa3qQBtm7Z07d2BwiBPGBGbe.jpg",
+      "release": "2026-11-24"
+    },
+    {
+      "id": 85077,
+      "title": "The Chosen",
+      "rating": 8.863,
+      "votes": 1087,
+      "overview": "The life of Christ through the eyes of those who encountered him.",
+      "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
+      "release": "2019-04-21"
+    },
+    {
+      "id": 213375,
+      "title": "VisionQuest",
+      "rating": 8.222,
+      "votes": 575,
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "release": "2026-10-13"
     }
   ],
   "popular": [
     {
+      "id": 42009,
+      "title": "Black Mirror",
+      "rating": 8.295,
+      "votes": 6727,
+      "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+      "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+      "release": "2011-12-04"
+    },
+    {
+      "id": 46923,
+      "title": "Shetland",
+      "rating": 7.539,
+      "votes": 219,
+      "overview": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
+      "poster": "https://image.tmdb.org/t/p/w500/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
+      "release": "2013-03-10"
+    },
+    {
+      "id": 41727,
+      "title": "Banshee",
+      "rating": 7.983,
+      "votes": 1508,
+      "overview": "Banshee is an American drama television series set in a small town in Pennsylvania Amish country and features an enigmatic ex-con posing as a murdered sheriff who imposes his own brand of justice while also cooking up plans that serve his own interests.",
+      "poster": "https://image.tmdb.org/t/p/w500/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mo9bfYdewzmHxnaeURB2jRPvGuX.jpg",
+      "release": "2013-01-11"
+    },
+    {
       "id": 1434,
       "title": "Family Guy",
-      "rating": 7.4,
+      "rating": 7.419,
       "votes": 5229,
       "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
       "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
@@ -134,54 +164,44 @@
       "release": "1999-01-31"
     },
     {
-      "id": 1622,
-      "title": "Supernatural",
-      "rating": 8.3,
-      "votes": 8855,
-      "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-      "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
-      "release": "2005-09-13"
-    },
-    {
       "id": 32573,
       "title": "Strike Back",
-      "rating": 7.409,
-      "votes": 421,
+      "rating": 7.415,
+      "votes": 422,
       "overview": "The series follows John Porter, a former British Special Forces soldier, who is drafted back into service by Section 20, a fictional branch of the Secret Intelligence Service.",
       "poster": "https://image.tmdb.org/t/p/w500/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2tL3pNaPQb2ioEYswMkDGVTo1pt.jpg",
       "release": "2010-05-05"
     },
     {
-      "id": 1413,
-      "title": "American Horror Story",
-      "rating": 8.1,
-      "votes": 6316,
-      "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-      "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-      "release": "2011-10-05"
+      "id": 1622,
+      "title": "Supernatural",
+      "rating": 8.316,
+      "votes": 8857,
+      "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+      "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
+      "release": "2005-09-13"
     },
     {
-      "id": 42009,
-      "title": "Black Mirror",
-      "rating": 8.296,
-      "votes": 6724,
-      "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
-      "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
-      "release": "2011-12-04"
+      "id": 95480,
+      "title": "Slow Horses",
+      "rating": 8.077,
+      "votes": 1152,
+      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "release": "2022-04-01"
     },
     {
-      "id": 5920,
-      "title": "The Mentalist",
-      "rating": 8.42,
-      "votes": 5040,
-      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-      "poster": "https://image.tmdb.org/t/p/w500/k0kMdO52LpC5JWgd0uWEH7gqcCe.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-      "release": "2008-09-23"
+      "id": 1420,
+      "title": "New Girl",
+      "rating": 7.4,
+      "votes": 1781,
+      "overview": "Jessica Day is an offbeat and adorable girl in her late 20s who, after a bad breakup, moves in with three single guys. Goofy, positive, vulnerable and honest to a fault, Jess has faith in people, even when she shouldn't. Although she's dorky and awkward, she's comfortable in her own skin. More prone to friendships with women, she's not used to hanging with the boys—especially at home.",
+      "poster": "https://image.tmdb.org/t/p/w500/8oCqMlKKomCArVtyOjRzMN6g40Z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/959IFVeGqz2M6qGvQ1RxN2r6Mq6.jpg",
+      "release": "2011-09-20"
     },
     {
       "id": 4620,
@@ -194,54 +214,34 @@
       "release": "2006-07-18"
     },
     {
-      "id": 76331,
-      "title": "Succession",
-      "rating": 8.308,
-      "votes": 1865,
-      "overview": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
-      "poster": "https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg",
-      "release": "2018-06-03"
+      "id": 1438,
+      "title": "The Wire",
+      "rating": 8.6,
+      "votes": 2926,
+      "overview": "Told from the points of view of both the Baltimore homicide and narcotics detectives and their targets, the series captures a universe in which the national war on drugs has become a permanent, self-sustaining bureaucracy, and distinctions between good and evil are routinely obliterated.",
+      "poster": "https://image.tmdb.org/t/p/w500/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aQTtua5pG490fMfeKgtYg5B853e.jpg",
+      "release": "2002-06-02"
     },
     {
-      "id": 18347,
-      "title": "Community",
-      "rating": 7.989,
-      "votes": 2248,
-      "overview": "Follow the lives of a group of students at what is possibly the world’s worst community college in the fictional locale of Greendale, Colorado.",
-      "poster": "https://image.tmdb.org/t/p/w500/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/1xRfgONYmK3T6FSmbtcuo8eyxVt.jpg",
-      "release": "2009-09-17"
+      "id": 1413,
+      "title": "American Horror Story",
+      "rating": 8.1,
+      "votes": 6316,
+      "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+      "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+      "release": "2011-10-05"
     },
     {
-      "id": 46923,
-      "title": "Shetland",
-      "rating": 7.5,
-      "votes": 218,
-      "overview": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
-      "poster": "https://image.tmdb.org/t/p/w500/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
-      "release": "2013-03-10"
-    },
-    {
-      "id": 41727,
-      "title": "Banshee",
-      "rating": 7.984,
-      "votes": 1505,
-      "overview": "Banshee is an American drama television series set in a small town in Pennsylvania Amish country and features an enigmatic ex-con posing as a murdered sheriff who imposes his own brand of justice while also cooking up plans that serve his own interests.",
-      "poster": "https://image.tmdb.org/t/p/w500/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/mo9bfYdewzmHxnaeURB2jRPvGuX.jpg",
-      "release": "2013-01-11"
-    },
-    {
-      "id": 84773,
-      "title": "The Lord of the Rings: The Rings of Power",
-      "rating": 7.224,
-      "votes": 4134,
-      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-      "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-      "release": "2022-09-01"
+      "id": 5920,
+      "title": "The Mentalist",
+      "rating": 8.421,
+      "votes": 5042,
+      "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+      "poster": "https://image.tmdb.org/t/p/w500/k0kMdO52LpC5JWgd0uWEH7gqcCe.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+      "release": "2008-09-23"
     }
   ],
   "top_rated": [
@@ -249,7 +249,7 @@
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
       "rating": 9.597,
-      "votes": 430,
+      "votes": 431,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.34,
-      "votes": 1028,
+      "rating": 9.338,
+      "votes": 1029,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/sGitHICLzIQQBiwE67lZLy6W67u.jpg",
@@ -268,8 +268,8 @@
     {
       "id": 299167,
       "title": "Dutton Ranch",
-      "rating": 9.117,
-      "votes": 669,
+      "rating": 9.116,
+      "votes": 670,
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
       "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 1396,
       "title": "Breaking Bad",
-      "rating": 8.96,
-      "votes": 19172,
+      "rating": 9.0,
+      "votes": 19175,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -306,20 +306,10 @@
       "release": "2026-04-10"
     },
     {
-      "id": 284833,
-      "title": "Avatar: Seven Havens",
-      "rating": 8.9,
-      "votes": 205,
-      "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-      "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
-      "release": "2026-10-09"
-    },
-    {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.863,
-      "votes": 1084,
+      "rating": 8.9,
+      "votes": 1086,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
@@ -334,6 +324,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/m3xAWhl5Au7EYm6d2EQ26lPjuQF.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/zOZqdv7UTc2sP2Tu5Cxj8j1M2r8.jpg",
       "release": "2023-04-26"
+    },
+    {
+      "id": 284833,
+      "title": "Avatar: Seven Havens",
+      "rating": 8.9,
+      "votes": 206,
+      "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+      "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+      "release": "2026-10-09"
     },
     {
       "id": 273240,
@@ -368,124 +368,124 @@
   ],
   "airing_today": [
     {
-      "id": 456,
-      "title": "The Simpsons",
-      "rating": 8.029,
-      "votes": 11197,
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-      "release": "1989-12-17"
+      "id": 37678,
+      "title": "The Voice",
+      "rating": 5.9,
+      "votes": 235,
+      "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
+      "poster": "https://image.tmdb.org/t/p/w500/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg",
+      "release": "2011-04-26"
     },
     {
-      "id": 33238,
-      "title": "Running Man",
-      "rating": 8.2,
-      "votes": 227,
-      "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
-      "poster": "https://image.tmdb.org/t/p/w500/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-      "release": "2010-07-11"
+      "id": 11890,
+      "title": "Goede Tijden, Slechte Tijden",
+      "rating": 5.25,
+      "votes": 22,
+      "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+      "poster": "https://image.tmdb.org/t/p/w500/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+      "release": "1990-10-01"
     },
     {
-      "id": 57775,
-      "title": "Chibi Maruko-chan",
-      "rating": 7.704,
-      "votes": 27,
-      "overview": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a cozy town alongside her loving parents, grandparents, and sister. Maruko has a band of loyal friends, including her closest pal, Tama-chan, but her playful and doting grandpa is at the heart of it all. Life is never dull in this charming series.",
-      "poster": "https://image.tmdb.org/t/p/w500/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
-      "release": "1990-01-07"
+      "id": 61818,
+      "title": "Late Night with Seth Meyers",
+      "rating": 5.1,
+      "votes": 140,
+      "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "poster": "https://image.tmdb.org/t/p/w500/9T7nQYH98nwha0oj3rVIDe1gTiZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
+      "release": "2014-02-25"
     },
     {
-      "id": 65334,
-      "title": "Miraculous: Tales of Ladybug & Cat Noir",
-      "rating": 8.071,
-      "votes": 4720,
-      "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
-      "poster": "https://image.tmdb.org/t/p/w500/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
-      "release": "2015-10-19"
+      "id": 206559,
+      "title": "Binnelanders",
+      "rating": 5.474,
+      "votes": 114,
+      "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+      "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+      "release": "2005-10-13"
     },
     {
-      "id": 224,
-      "title": "Match of the Day",
-      "rating": 7.6,
-      "votes": 53,
-      "overview": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised by Guinness World Records in 2015.",
-      "poster": "https://image.tmdb.org/t/p/w500/tVFCu0jE9m5QHmHM4rzEFGs1kUI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3EGjqKhVHGsvNHvBIbxmqS17Aal.jpg",
-      "release": "1964-08-22"
-    },
-    {
-      "id": 3034,
-      "title": "Scene of the Crime",
-      "rating": 6.2,
-      "votes": 127,
-      "overview": "Tatort is a long-running German/Austrian/Swiss crime television series set in various parts of these countries. The show is broadcast on the channels of ARD in Germany, ORF in Austria and SF1 in Switzerland.",
-      "poster": "https://image.tmdb.org/t/p/w500/yh43TKi9himQWhzrlWBxV8WjsFn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/A4iwF1mpDq8HScQ3MZMhMJuT93k.jpg",
-      "release": "1970-11-29"
-    },
-    {
-      "id": 85077,
-      "title": "The Chosen",
-      "rating": 8.863,
-      "votes": 1084,
-      "overview": "The life of Christ through the eyes of those who encountered him.",
-      "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
-      "release": "2019-04-21"
-    },
-    {
-      "id": 72896,
-      "title": "My Little Old Boy",
-      "rating": 7.3,
-      "votes": 11,
-      "overview": "How much do you know about your grown up son? In Mom’s Diary, the daily lives of the grown up celebrity sons are closely observed by their mothers. Do you know why your son drinks so much these days? How much do you know about your son’s philosophy in his life style? Heart-warming moments of observational communication between a mother and a son can be seen on Mom’s Diary.",
-      "poster": "https://image.tmdb.org/t/p/w500/fgeWRIiigNHLxy3qEzM0HqNcFHT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vrLDuQ5L45f7vFWpMT17WopdWx0.jpg",
-      "release": "2016-08-26"
-    },
-    {
-      "id": 154770,
-      "title": "Hello Saturday",
-      "rating": 6.25,
-      "votes": 12,
-      "overview": "\"Hello, Saturday\" is the rebranding of the popular Chinese show \"Happy Camp\", hosted by He Jiong and with a fixed group of regular celebrity members.\n\nThe program showcases the talent of various stars as well as social topics through creative and diverse content and games. It aims to spread positive energy while keeping up with the current trends and leading youth culture.",
-      "poster": "https://image.tmdb.org/t/p/w500/wsTjWy6NE2s3h0neChr0D92ddwI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg",
-      "release": "2022-01-01"
-    },
-    {
-      "id": 30801,
-      "title": "2 Days and 1 Night",
+      "id": 4656,
+      "title": "Raw",
       "rating": 6.7,
-      "votes": 30,
-      "overview": "2 Days & 1 Night is a South Korean reality-variety show with the motto \"real wild road variety.\" Its main concept is to recommend various places of interest that viewers can visit in South Korea.",
-      "poster": "https://image.tmdb.org/t/p/w500/qezeCEkIKHQM5iwyVeYBuXmYA2h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/32iRX9xqNH3ErJN6FowxdtgYmiY.jpg",
-      "release": "2007-08-05"
+      "votes": 387,
+      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+      "poster": "https://image.tmdb.org/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+      "release": "1993-01-11"
     },
     {
-      "id": 259909,
-      "title": "Dexter: Resurrection",
-      "rating": 8.5,
-      "votes": 777,
-      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "poster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-      "release": "2025-07-13"
+      "id": 291,
+      "title": "Coronation Street",
+      "rating": 5.289,
+      "votes": 121,
+      "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+      "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+      "release": "1960-12-09"
     },
     {
-      "id": 2527,
-      "title": "Emmerdale",
+      "id": 231962,
+      "title": "Diepe Waters",
+      "rating": 8.2,
+      "votes": 4,
+      "overview": "The series is set in and around Die Swartmarlyne, a competitive family-run swimming club in the community of Boskruin. The story centers on the Swarts family and the intense pressures, rivalries, hidden secrets, and personal ambitions that come with chasing sports glory.",
+      "poster": "https://image.tmdb.org/t/p/w500/uF5SpFjMmYTMF0sc5MbjnDsoBcG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nPexsB86g0YUXxBpa7OYd8sqCPP.jpg",
+      "release": "2022-10-03"
+    },
+    {
+      "id": 1871,
+      "title": "EastEnders",
       "rating": 4.3,
-      "votes": 100,
-      "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
-      "poster": "https://image.tmdb.org/t/p/w500/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
-      "release": "1972-10-16"
+      "votes": 233,
+      "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+      "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
+      "release": "1985-02-19"
+    },
+    {
+      "id": 81329,
+      "title": "Chronicles of the Sun",
+      "rating": 6.546,
+      "votes": 130,
+      "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
+      "poster": "https://image.tmdb.org/t/p/w500/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
+      "release": "2018-08-27"
+    },
+    {
+      "id": 14686,
+      "title": "Alles was zählt",
+      "rating": 4.8,
+      "votes": 9,
+      "overview": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "poster": "https://image.tmdb.org/t/p/w500/zExwkyO7exxrMVrpOkDvK0BTelW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2o0cVL6fOa06aXd5xogZhD1h4ce.jpg",
+      "release": "2006-09-04"
+    },
+    {
+      "id": 2221,
+      "title": "The View",
+      "rating": 4.227,
+      "votes": 119,
+      "overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
+      "poster": "https://image.tmdb.org/t/p/w500/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
+      "release": "1997-08-11"
+    },
+    {
+      "id": 72879,
+      "title": "Tomorrow Is Ours",
+      "rating": 6.263,
+      "votes": 76,
+      "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+      "poster": "https://image.tmdb.org/t/p/w500/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
+      "release": "2017-07-17"
     }
   ]
 }
