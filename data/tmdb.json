@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-24T21:55:39.213210+00:00",
+  "updated": "2026-11-25T07:04:11.642923+00:00",
   "trending": [
+    {
+      "id": 171802,
+      "title": "Blade Runner 2099",
+      "rating": 4.4,
+      "votes": 7,
+      "overview": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
+      "poster": "https://image.tmdb.org/t/p/w500/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2V99576WPQ8uCOmNa5m7hug7Ub4.jpg",
+      "release": "2026-11-24"
+    },
     {
       "id": 290826,
       "title": "DIG",
@@ -15,31 +25,51 @@
       "id": 84773,
       "title": "The Lord of the Rings: The Rings of Power",
       "rating": 7.222,
-      "votes": 4140,
+      "votes": 4141,
       "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
       "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
       "release": "2022-09-01"
     },
     {
+      "id": 291507,
+      "title": "The Body",
+      "rating": 8.036,
+      "votes": 138,
+      "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "poster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "release": "2026-11-11"
+    },
+    {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.683,
-      "votes": 1311,
+      "rating": 8.684,
+      "votes": 1312,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "release": "2025-03-30"
     },
     {
-      "id": 291507,
-      "title": "The Body",
-      "rating": 8.015,
-      "votes": 135,
-      "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-      "poster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-      "release": "2026-11-11"
+      "id": 303745,
+      "title": "Love in Disguise",
+      "rating": 8.894,
+      "votes": 104,
+      "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "poster": "https://image.tmdb.org/t/p/w500/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+      "release": "2026-10-19"
+    },
+    {
+      "id": 213375,
+      "title": "VisionQuest",
+      "rating": 8.2,
+      "votes": 583,
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "release": "2026-10-13"
     },
     {
       "id": 303552,
@@ -52,54 +82,14 @@
       "release": "2026-11-23"
     },
     {
-      "id": 171802,
-      "title": "Blade Runner 2099",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
-      "poster": "https://image.tmdb.org/t/p/w500/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2V99576WPQ8uCOmNa5m7hug7Ub4.jpg",
-      "release": "2026-11-24"
-    },
-    {
-      "id": 303745,
-      "title": "Love in Disguise",
-      "rating": 8.883,
-      "votes": 103,
-      "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-      "poster": "https://image.tmdb.org/t/p/w500/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
-      "release": "2026-10-19"
-    },
-    {
-      "id": 213375,
-      "title": "VisionQuest",
-      "rating": 8.223,
-      "votes": 579,
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "release": "2026-10-13"
-    },
-    {
-      "id": 300523,
-      "title": "The Blue Road",
-      "rating": 7.6,
-      "votes": 19,
-      "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
-      "poster": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
-      "release": "2026-11-20"
-    },
-    {
-      "id": 103540,
-      "title": "Percy Jackson and the Olympians",
-      "rating": 7.3,
-      "votes": 887,
-      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
-      "poster": "https://image.tmdb.org/t/p/w500/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
-      "release": "2023-12-19"
+      "id": 279246,
+      "title": "The Remarried Empress",
+      "rating": 8.727,
+      "votes": 150,
+      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+      "release": "2026-11-03"
     },
     {
       "id": 37854,
@@ -112,22 +102,32 @@
       "release": "1999-10-20"
     },
     {
-      "id": 211288,
-      "title": "Tracker",
-      "rating": 7.604,
-      "votes": 357,
-      "overview": "Lone-wolf survivalist Colter Shaw roams the country as a “reward seeker,” using his expert tracking skills to help private citizens and law enforcement solve all manner of mysteries while contending with his own fractured family.",
-      "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
-      "release": "2024-02-11"
+      "id": 85077,
+      "title": "The Chosen",
+      "rating": 8.867,
+      "votes": 1091,
+      "overview": "The life of Christ through the eyes of those who encountered him.",
+      "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
+      "release": "2019-04-21"
+    },
+    {
+      "id": 300523,
+      "title": "The Blue Road",
+      "rating": 7.75,
+      "votes": 20,
+      "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
+      "poster": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+      "release": "2026-11-20"
     }
   ],
   "popular": [
     {
       "id": 42009,
       "title": "Black Mirror",
-      "rating": 8.294,
-      "votes": 6731,
+      "rating": 8.295,
+      "votes": 6732,
       "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
       "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
@@ -157,7 +157,7 @@
       "id": 1420,
       "title": "New Girl",
       "rating": 7.361,
-      "votes": 1783,
+      "votes": 1784,
       "overview": "Jessica Day is an offbeat and adorable girl in her late 20s who, after a bad breakup, moves in with three single guys. Goofy, positive, vulnerable and honest to a fault, Jess has faith in people, even when she shouldn't. Although she's dorky and awkward, she's comfortable in her own skin. More prone to friendships with women, she's not used to hanging with the boys—especially at home.",
       "poster": "https://image.tmdb.org/t/p/w500/8oCqMlKKomCArVtyOjRzMN6g40Z.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/959IFVeGqz2M6qGvQ1RxN2r6Mq6.jpg",
@@ -197,7 +197,7 @@
       "id": 1622,
       "title": "Supernatural",
       "rating": 8.3,
-      "votes": 8858,
+      "votes": 8859,
       "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
       "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
@@ -237,7 +237,7 @@
       "id": 5920,
       "title": "The Mentalist",
       "rating": 8.421,
-      "votes": 5043,
+      "votes": 5044,
       "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "poster": "https://image.tmdb.org/t/p/w500/k0kMdO52LpC5JWgd0uWEH7gqcCe.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.96,
-      "votes": 19179,
+      "votes": 19182,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -298,8 +298,8 @@
     {
       "id": 278573,
       "title": "Perfect Crown",
-      "rating": 8.9,
-      "votes": 244,
+      "rating": 8.927,
+      "votes": 245,
       "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
@@ -308,7 +308,7 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.866,
+      "rating": 8.9,
       "votes": 1090,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
@@ -318,8 +318,8 @@
     {
       "id": 284833,
       "title": "Avatar: Seven Havens",
-      "rating": 8.859,
-      "votes": 209,
+      "rating": 8.86,
+      "votes": 210,
       "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
       "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
@@ -338,8 +338,8 @@
     {
       "id": 273240,
       "title": "Off Campus",
-      "rating": 8.8,
-      "votes": 925,
+      "rating": 8.837,
+      "votes": 926,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/cdD0InWMH4e6AxceQs93fQRYsfO.jpg",
@@ -367,6 +367,16 @@
     }
   ],
   "airing_today": [
+    {
+      "id": 84773,
+      "title": "The Lord of the Rings: The Rings of Power",
+      "rating": 7.222,
+      "votes": 4141,
+      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+      "release": "2022-09-01"
+    },
     {
       "id": 11890,
       "title": "Goede Tijden, Slechte Tijden",
@@ -396,6 +406,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
       "release": "1960-12-09"
+    },
+    {
+      "id": 279246,
+      "title": "The Remarried Empress",
+      "rating": 8.727,
+      "votes": 150,
+      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+      "release": "2026-11-03"
     },
     {
       "id": 1871,
@@ -438,6 +458,16 @@
       "release": "1997-08-11"
     },
     {
+      "id": 330613,
+      "title": "The Rules",
+      "rating": 9.0,
+      "votes": 4,
+      "overview": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
+      "poster": "https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
+      "release": "2026-10-28"
+    },
+    {
       "id": 2912,
       "title": "Jeopardy!",
       "rating": 6.903,
@@ -456,36 +486,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
       "release": "2017-07-17"
-    },
-    {
-      "id": 1489,
-      "title": "Jimmy Kimmel Live!",
-      "rating": 5.3,
-      "votes": 230,
-      "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
-      "poster": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
-      "release": "2003-01-26"
-    },
-    {
-      "id": 112470,
-      "title": "Ici tout commence",
-      "rating": 6.8,
-      "votes": 93,
-      "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
-      "poster": "https://image.tmdb.org/t/p/w500/umIMGX0BucQ0AFFd3NYrOaV1lMY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
-      "release": "2020-11-02"
-    },
-    {
-      "id": 6809,
-      "title": "El hormiguero",
-      "rating": 4.616,
-      "votes": 43,
-      "overview": "El Hormiguero is a Spanish television program with a live audience focusing on comedy, science, and politics running since September 2006. It is hosted and produced by screenwriter Pablo Motos. The show aired on Spain's Cuatro channel from launch until June 2011 and is now broadcast on Antena 3. Recurring guests on the show include Luis Piedrahita, Raquel Martos, Marron & \"The Man in Black\", and puppet ants Trancas and Barrancas. It has proved a ratings success, and has expanded from a weekly 120-minute show to a daily 40-minute show in its third season, which began on September 17, 2007. The show won the Entertainment prize at the 2009 Rose d'Or ceremony.",
-      "poster": "https://image.tmdb.org/t/p/w500/b24KGOkBrKgM6Blr4rw0jdn3zw5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/z8yQ9EZxMHaCwysqIO4LUyOuKJz.jpg",
-      "release": "2006-09-24"
     }
   ]
 }
