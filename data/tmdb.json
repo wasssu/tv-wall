@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-27T06:49:46.863068+00:00",
+  "updated": "2026-11-27T20:42:01.767978+00:00",
   "trending": [
     {
       "id": 171802,
       "title": "Blade Runner 2099",
-      "rating": 5.191,
-      "votes": 55,
+      "rating": 5.347,
+      "votes": 62,
       "overview": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
       "poster": "https://image.tmdb.org/t/p/w500/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
@@ -14,8 +14,8 @@
     {
       "id": 326247,
       "title": "Fool Night",
-      "rating": 9.0,
-      "votes": 2,
+      "rating": 8.75,
+      "votes": 4,
       "overview": "In a sunless future where humans become plants to make oxygen, a desperate young man begins the transformation — and unearths a deep-rooted conspiracy.",
       "poster": "https://image.tmdb.org/t/p/w500/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rumSTVTcuZj0khFXxXgwXouIMgg.jpg",
@@ -24,8 +24,8 @@
     {
       "id": 244447,
       "title": "The Hunting Wives",
-      "rating": 7.0,
-      "votes": 119,
+      "rating": 6.967,
+      "votes": 121,
       "overview": "Sophie trades New England for East Texas and falls into a wealthy socialite's magnetic orbit — where a clique of housewives hide deadly secrets.",
       "poster": "https://image.tmdb.org/t/p/w500/iKL02GmejLCGBJr7XHU82vvqA1C.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
@@ -34,17 +34,37 @@
     {
       "id": 84773,
       "title": "The Lord of the Rings: The Rings of Power",
-      "rating": 7.223,
-      "votes": 4153,
+      "rating": 7.224,
+      "votes": 4155,
       "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
       "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
       "release": "2022-09-01"
     },
     {
+      "id": 259909,
+      "title": "Dexter: Resurrection",
+      "rating": 8.527,
+      "votes": 782,
+      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "poster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "release": "2025-07-13"
+    },
+    {
+      "id": 218347,
+      "title": "Sweetpea",
+      "rating": 7.5,
+      "votes": 323,
+      "overview": "Rhiannon Lewis doesn't make much of an impression - people walk past her in the street without a second glance. That is until she is pushed over the edge and loses control. Rhiannon's life transforms, but can she keep her killer secret?",
+      "poster": "https://image.tmdb.org/t/p/w500/A4A0juWk4ofqP6Q0TFY6CRhcCAa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
+      "release": "2024-10-10"
+    },
+    {
       "id": 338930,
       "title": "Always on Call",
-      "rating": 8.125,
+      "rating": 8.1,
       "votes": 4,
       "overview": "A devoted team of medical professionals navigate personal struggles, political pressure and a risky new hire at an overwhelmed emergency room in Oslo.",
       "poster": "https://image.tmdb.org/t/p/w500/oQUJId55qF6YZ3bhPZ12WP1c5m4.jpg",
@@ -52,70 +72,50 @@
       "release": "2026-11-26"
     },
     {
+      "id": 302837,
+      "title": "Toos: The Van der Valk Kidnapping",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "1982. When the matriarch of a Dutch hotel empire is kidnapped for ransom, her family launches a desperate effort to free her.",
+      "poster": "https://image.tmdb.org/t/p/w500/wVMnb4zWFeLGUJF7y6SqNbXSgV6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6k5dug3eriqHf1kgJeLHXrfBROc.jpg",
+      "release": "2026-11-26"
+    },
+    {
+      "id": 247718,
+      "title": "MobLand",
+      "rating": 8.688,
+      "votes": 1320,
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "release": "2025-03-30"
+    },
+    {
       "id": 310209,
       "title": "Nine to Six",
-      "rating": 5.0,
-      "votes": 1,
+      "rating": 6.5,
+      "votes": 2,
       "overview": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
       "poster": "https://image.tmdb.org/t/p/w500/1iVlL2Prt9Q5BWMfeZQ6d1ZAZBy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/eQQ5z8oHYBGTAVsvRm9TYibCWVD.jpg",
       "release": "2026-11-25"
     },
     {
-      "id": 218347,
-      "title": "Sweetpea",
-      "rating": 7.4,
-      "votes": 320,
-      "overview": "Rhiannon Lewis doesn't make much of an impression - people walk past her in the street without a second glance. That is until she is pushed over the edge and loses control. Rhiannon's life transforms, but can she keep her killer secret?",
-      "poster": "https://image.tmdb.org/t/p/w500/A4A0juWk4ofqP6Q0TFY6CRhcCAa.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
-      "release": "2024-10-10"
-    },
-    {
-      "id": 302837,
-      "title": "Toos: The Van der Valk Kidnapping",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "1982. When the matriarch of a Dutch hotel empire is kidnapped for ransom, her family launches a desperate effort to free her.",
-      "poster": "https://image.tmdb.org/t/p/w500/yTn41duVqEmiBimV3itSyOpUPnU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6k5dug3eriqHf1kgJeLHXrfBROc.jpg",
-      "release": "2026-11-26"
-    },
-    {
-      "id": 2190,
-      "title": "South Park",
+      "id": 153312,
+      "title": "Tulsa King",
       "rating": 8.3,
-      "votes": 5299,
-      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "release": "1997-08-13"
-    },
-    {
-      "id": 279246,
-      "title": "The Remarried Empress",
-      "rating": 8.715,
-      "votes": 170,
-      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-      "release": "2026-11-03"
-    },
-    {
-      "id": 313701,
-      "title": "A Filipino Christmas",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "Discover the true meaning of the season in this touching anthology featuring estranged friends, a snowy Christmas, office rivals, and clashing sisters.",
-      "poster": "https://image.tmdb.org/t/p/w500/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/f4ocST2EI5HDUPVB2FyQ7pkk7Ns.jpg",
-      "release": "2026-11-26"
+      "votes": 2981,
+      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+      "poster": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/v1d3baYqMfyQKxBHXu5Pmu6vTZ3.jpg",
+      "release": "2022-11-13"
     },
     {
       "id": 213375,
       "title": "VisionQuest",
-      "rating": 8.216,
-      "votes": 592,
+      "rating": 8.22,
+      "votes": 595,
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
@@ -126,48 +126,18 @@
     {
       "id": 42009,
       "title": "Black Mirror",
-      "rating": 8.294,
-      "votes": 6741,
+      "rating": 8.293,
+      "votes": 6743,
       "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
       "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
       "release": "2011-12-04"
     },
     {
-      "id": 32573,
-      "title": "Strike Back",
-      "rating": 7.415,
-      "votes": 424,
-      "overview": "The series follows John Porter, a former British Special Forces soldier, who is drafted back into service by Section 20, a fictional branch of the Secret Intelligence Service.",
-      "poster": "https://image.tmdb.org/t/p/w500/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2tL3pNaPQb2ioEYswMkDGVTo1pt.jpg",
-      "release": "2010-05-05"
-    },
-    {
-      "id": 4620,
-      "title": "Eureka",
-      "rating": 7.727,
-      "votes": 761,
-      "overview": "The sleepy Pacific Northwest town of Eureka is hiding a mysterious secret. The government has been relocating the world's geniuses and their families to this rustic town for years where innovation and chaos have lived hand in hand. U.S. Marshal Jack Carter stumbles upon this odd town after wrecking his car and becoming stranded there. When the denizens of the town unleash an unknown scientific creation, Carter jumps in to try to restore order and consequently learns of one of the country's best kept secrets.",
-      "poster": "https://image.tmdb.org/t/p/w500/f2l5hUk63hPqYTucnFy2HmElFV0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8MQeyFsWrp2ILjbumtxrinmk7t4.jpg",
-      "release": "2006-07-18"
-    },
-    {
-      "id": 46923,
-      "title": "Shetland",
-      "rating": 7.5,
-      "votes": 219,
-      "overview": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
-      "poster": "https://image.tmdb.org/t/p/w500/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
-      "release": "2013-03-10"
-    },
-    {
       "id": 1420,
       "title": "New Girl",
-      "rating": 7.359,
-      "votes": 1788,
+      "rating": 7.358,
+      "votes": 1789,
       "overview": "Jessica Day is an offbeat and adorable girl in her late 20s who, after a bad breakup, moves in with three single guys. Goofy, positive, vulnerable and honest to a fault, Jess has faith in people, even when she shouldn't. Although she's dorky and awkward, she's comfortable in her own skin. More prone to friendships with women, she's not used to hanging with the boys—especially at home.",
       "poster": "https://image.tmdb.org/t/p/w500/8oCqMlKKomCArVtyOjRzMN6g40Z.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/959IFVeGqz2M6qGvQ1RxN2r6Mq6.jpg",
@@ -187,61 +157,91 @@
       "id": 95480,
       "title": "Slow Horses",
       "rating": 8.09,
-      "votes": 1160,
+      "votes": 1161,
       "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
       "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
       "release": "2022-04-01"
     },
     {
-      "id": 76331,
-      "title": "Succession",
-      "rating": 8.309,
-      "votes": 1873,
-      "overview": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
-      "poster": "https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg",
-      "release": "2018-06-03"
+      "id": 32573,
+      "title": "Strike Back",
+      "rating": 7.415,
+      "votes": 424,
+      "overview": "The series follows John Porter, a former British Special Forces soldier, who is drafted back into service by Section 20, a fictional branch of the Secret Intelligence Service.",
+      "poster": "https://image.tmdb.org/t/p/w500/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/2tL3pNaPQb2ioEYswMkDGVTo1pt.jpg",
+      "release": "2010-05-05"
     },
     {
-      "id": 2691,
-      "title": "Two and a Half Men",
-      "rating": 7.437,
-      "votes": 3867,
-      "overview": "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.",
-      "poster": "https://image.tmdb.org/t/p/w500/xgfjxyV3g1S68opzuvG6G87muDp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/coHpOy9OJyFiHWeH36cSHMpLUHC.jpg",
-      "release": "2003-09-22"
+      "id": 81723,
+      "title": "The Gilded Age",
+      "rating": 7.7,
+      "votes": 303,
+      "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
+      "poster": "https://image.tmdb.org/t/p/w500/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/afUVsProh46h31w2EvL7qyHXrqj.jpg",
+      "release": "2022-01-24"
+    },
+    {
+      "id": 80240,
+      "title": "The Queen of Flow",
+      "rating": 8.018,
+      "votes": 1585,
+      "overview": "Seventeen years after being wrongly imprisoned, a talented songwriter seeks justice against the men who caused her downfall and killed her family.",
+      "poster": "https://image.tmdb.org/t/p/w500/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uxKS3Wmi5xH3zRxZCo7retMpvPR.jpg",
+      "release": "2018-06-12"
+    },
+    {
+      "id": 4620,
+      "title": "Eureka",
+      "rating": 7.727,
+      "votes": 761,
+      "overview": "The sleepy Pacific Northwest town of Eureka is hiding a mysterious secret. The government has been relocating the world's geniuses and their families to this rustic town for years where innovation and chaos have lived hand in hand. U.S. Marshal Jack Carter stumbles upon this odd town after wrecking his car and becoming stranded there. When the denizens of the town unleash an unknown scientific creation, Carter jumps in to try to restore order and consequently learns of one of the country's best kept secrets.",
+      "poster": "https://image.tmdb.org/t/p/w500/f2l5hUk63hPqYTucnFy2HmElFV0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8MQeyFsWrp2ILjbumtxrinmk7t4.jpg",
+      "release": "2006-07-18"
     },
     {
       "id": 247718,
       "title": "MobLand",
-      "rating": 8.687,
-      "votes": 1318,
+      "rating": 8.7,
+      "votes": 1319,
       "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
       "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "release": "2025-03-30"
     },
     {
-      "id": 1622,
-      "title": "Supernatural",
-      "rating": 8.316,
-      "votes": 8861,
-      "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-      "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
-      "release": "2005-09-13"
+      "id": 69740,
+      "title": "Ozark",
+      "rating": 8.193,
+      "votes": 3021,
+      "overview": "A financial adviser drags his family from Chicago to the Missouri Ozarks, where he must launder $500 million in five years to appease a drug boss.",
+      "poster": "https://image.tmdb.org/t/p/w500/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aatG9iVAUL7U7OyFEmupESpOrD2.jpg",
+      "release": "2017-07-21"
     },
     {
-      "id": 1434,
-      "title": "Family Guy",
+      "id": 2691,
+      "title": "Two and a Half Men",
       "rating": 7.4,
-      "votes": 5232,
-      "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
-      "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
-      "release": "1999-01-31"
+      "votes": 3870,
+      "overview": "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.",
+      "poster": "https://image.tmdb.org/t/p/w500/xgfjxyV3g1S68opzuvG6G87muDp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/coHpOy9OJyFiHWeH36cSHMpLUHC.jpg",
+      "release": "2003-09-22"
+    },
+    {
+      "id": 76331,
+      "title": "Succession",
+      "rating": 8.308,
+      "votes": 1874,
+      "overview": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
+      "poster": "https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg",
+      "release": "2018-06-03"
     }
   ],
   "top_rated": [
@@ -249,7 +249,7 @@
       "id": 312359,
       "title": "Dragon Ball Super: Beerus",
       "rating": 9.6,
-      "votes": 434,
+      "votes": 436,
       "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
@@ -258,7 +258,7 @@
     {
       "id": 276161,
       "title": "Teach You a Lesson",
-      "rating": 9.339,
+      "rating": 9.348,
       "votes": 1030,
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
@@ -279,7 +279,7 @@
       "id": 1396,
       "title": "Breaking Bad",
       "rating": 8.96,
-      "votes": 19190,
+      "votes": 19192,
       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -298,7 +298,7 @@
     {
       "id": 278573,
       "title": "Perfect Crown",
-      "rating": 8.9,
+      "rating": 8.927,
       "votes": 245,
       "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
       "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
@@ -308,7 +308,7 @@
     {
       "id": 85077,
       "title": "The Chosen",
-      "rating": 8.868,
+      "rating": 8.9,
       "votes": 1093,
       "overview": "The life of Christ through the eyes of those who encountered him.",
       "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
@@ -318,7 +318,7 @@
     {
       "id": 284833,
       "title": "Avatar: Seven Havens",
-      "rating": 8.865,
+      "rating": 8.9,
       "votes": 211,
       "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
       "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
@@ -339,7 +339,7 @@
       "id": 273240,
       "title": "Off Campus",
       "rating": 8.835,
-      "votes": 927,
+      "votes": 928,
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/cdD0InWMH4e6AxceQs93fQRYsfO.jpg",
@@ -348,8 +348,8 @@
     {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
-      "rating": 8.834,
-      "votes": 1040,
+      "rating": 8.831,
+      "votes": 1041,
       "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
@@ -367,26 +367,6 @@
     }
   ],
   "airing_today": [
-    {
-      "id": 46923,
-      "title": "Shetland",
-      "rating": 7.5,
-      "votes": 219,
-      "overview": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
-      "poster": "https://image.tmdb.org/t/p/w500/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
-      "release": "2013-03-10"
-    },
-    {
-      "id": 11890,
-      "title": "Goede Tijden, Slechte Tijden",
-      "rating": 5.152,
-      "votes": 23,
-      "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-      "poster": "https://image.tmdb.org/t/p/w500/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-      "release": "1990-10-01"
-    },
     {
       "id": 291,
       "title": "Coronation Street",
@@ -408,24 +388,24 @@
       "release": "2005-10-13"
     },
     {
-      "id": 1871,
-      "title": "EastEnders",
-      "rating": 4.4,
-      "votes": 235,
-      "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
-      "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
-      "release": "1985-02-19"
+      "id": 153312,
+      "title": "Tulsa King",
+      "rating": 8.3,
+      "votes": 2981,
+      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+      "poster": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+      "release": "2022-11-13"
     },
     {
-      "id": 81329,
-      "title": "Chronicles of the Sun",
-      "rating": 6.546,
-      "votes": 130,
-      "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
-      "poster": "https://image.tmdb.org/t/p/w500/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
-      "release": "2018-08-27"
+      "id": 387,
+      "title": "SpongeBob SquarePants",
+      "rating": 7.7,
+      "votes": 3319,
+      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+      "poster": "https://image.tmdb.org/t/p/w500/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
+      "release": "1999-05-01"
     },
     {
       "id": 72879,
@@ -438,14 +418,14 @@
       "release": "2017-07-17"
     },
     {
-      "id": 2912,
-      "title": "Jeopardy!",
-      "rating": 6.9,
-      "votes": 171,
-      "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
-      "poster": "https://image.tmdb.org/t/p/w500/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
-      "release": "1984-09-10"
+      "id": 81329,
+      "title": "Chronicles of the Sun",
+      "rating": 6.5,
+      "votes": 130,
+      "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
+      "poster": "https://image.tmdb.org/t/p/w500/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
+      "release": "2018-08-27"
     },
     {
       "id": 112470,
@@ -458,14 +438,14 @@
       "release": "2020-11-02"
     },
     {
-      "id": 14686,
-      "title": "Alles was zählt",
-      "rating": 4.8,
-      "votes": 9,
-      "overview": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
-      "poster": "https://image.tmdb.org/t/p/w500/zExwkyO7exxrMVrpOkDvK0BTelW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/2o0cVL6fOa06aXd5xogZhD1h4ce.jpg",
-      "release": "2006-09-04"
+      "id": 2912,
+      "title": "Jeopardy!",
+      "rating": 6.9,
+      "votes": 171,
+      "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+      "poster": "https://image.tmdb.org/t/p/w500/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+      "release": "1984-09-10"
     },
     {
       "id": 1900,
@@ -478,14 +458,34 @@
       "release": "1988-09-05"
     },
     {
-      "id": 6809,
-      "title": "El hormiguero",
-      "rating": 4.616,
-      "votes": 43,
-      "overview": "El Hormiguero is a Spanish television program with a live audience focusing on comedy, science, and politics running since September 2006. It is hosted and produced by screenwriter Pablo Motos. The show aired on Spain's Cuatro channel from launch until June 2011 and is now broadcast on Antena 3. Recurring guests on the show include Luis Piedrahita, Raquel Martos, Marron & \"The Man in Black\", and puppet ants Trancas and Barrancas. It has proved a ratings success, and has expanded from a weekly 120-minute show to a daily 40-minute show in its third season, which began on September 17, 2007. The show won the Entertainment prize at the 2009 Rose d'Or ceremony.",
-      "poster": "https://image.tmdb.org/t/p/w500/b24KGOkBrKgM6Blr4rw0jdn3zw5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/z8yQ9EZxMHaCwysqIO4LUyOuKJz.jpg",
-      "release": "2006-09-24"
+      "id": 65282,
+      "title": "Home Alone",
+      "rating": 7.158,
+      "votes": 19,
+      "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+      "release": "2013-03-22"
+    },
+    {
+      "id": 1220,
+      "title": "The Graham Norton Show",
+      "rating": 7.2,
+      "votes": 298,
+      "overview": "Each week celebrity guests join Irish comedian Graham Norton to discuss what's being going on around the world that week. The guests poke fun and share their opinions on the main news stories. Graham is often joined by a band or artist to play the show out.",
+      "poster": "https://image.tmdb.org/t/p/w500/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5UNcEz7Lc3OGilpPn1Tb9cd1xsc.jpg",
+      "release": "2007-02-22"
+    },
+    {
+      "id": 154770,
+      "title": "Hello Saturday",
+      "rating": 6.25,
+      "votes": 12,
+      "overview": "\"Hello, Saturday\" is the rebranding of the popular Chinese show \"Happy Camp\", hosted by He Jiong and with a fixed group of regular celebrity members.\n\nThe program showcases the talent of various stars as well as social topics through creative and diverse content and games. It aims to spread positive energy while keeping up with the current trends and leading youth culture.",
+      "poster": "https://image.tmdb.org/t/p/w500/wsTjWy6NE2s3h0neChr0D92ddwI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg",
+      "release": "2022-01-01"
     }
   ]
 }
